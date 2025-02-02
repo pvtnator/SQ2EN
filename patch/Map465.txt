@@ -1,0 +1,12 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+
+\\i[62]\\c[3]デイドリーマー\\c[0] をみつけた！
+> CONTEXT: Map465/events/8/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map465/events/8/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map432/events/9/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map432/events/9/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/4/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/4/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING

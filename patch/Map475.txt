@@ -1,0 +1,24 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQT_Dungeon_PrimeDream
+> CONTEXT: Map475/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………………ト……
+> CONTEXT: Map475/events/14/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ク………ト……
+> CONTEXT: Map475/events/14/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ゼ…ク……ト……
+> CONTEXT: Map475/events/14/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING

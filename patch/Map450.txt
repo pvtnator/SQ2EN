@@ -1,0 +1,95 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「うむ……？
+> CONTEXT: Map450/events/6/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…この森は………
+　たしか…………
+> CONTEXT: Map450/events/6/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"？？？/Thafi/09"
+> CONTEXT: Map450/events/6/pages/0/8/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map005/events/2/pages/0/14/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map005/events/2/pages/0/24/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいの？
+　こんなところまで来ちゃって。
+> CONTEXT: Map450/events/6/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「！？
+> CONTEXT: Map450/events/6/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいのさ、僕の仕事なんて
+　そんな大したものじゃないし。
+> CONTEXT: Map450/events/6/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「古い本の置き場所をちょっと変えたり、
+　たまに虫干ししたりしてるだけだよ。
+　ただ、僕も最近ずっとそんな部屋にいたから
+> CONTEXT: Map450/events/6/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「虫に喰われてなければいいんだけど。
+　今日はサフィを連れ出せてよかった。
+> CONTEXT: Map450/events/6/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うれしいわ。
+　誘ってくれて。
+> CONTEXT: Map450/events/6/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほんとに？
+> CONTEXT: Map450/events/6/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほんとよ。
+> CONTEXT: Map450/events/6/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+\\i[\\v[25]]\\c[3]\\v[22]\\c[0] をみつけた！
+> CONTEXT: Map450/events/8/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map450/events/8/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map445/events/4/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map445/events/4/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/13/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/13/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/3/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/3/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/6/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/6/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/6/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/7/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/38/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/38/63/Dialogue < UNTRANSLATED
+
+> END STRING

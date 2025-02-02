@@ -1,0 +1,110 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"？？？/Merja/09"
+> CONTEXT: Map005/events/2/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map005/events/2/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map005/events/2/pages/0/22/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アイゼクト様ぁ～～
+> CONTEXT: Map005/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、また寝てる。
+> CONTEXT: Map005/events/2/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"アイゼクト/AyxectO/09"
+> CONTEXT: Map005/events/2/pages/0/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map005/events/2/pages/0/12/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map005/events/2/pages/0/19/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map005/events/2/pages/0/27/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「起きておる。
+> CONTEXT: Map005/events/2/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わ！
+　びっくりしたぁ
+> CONTEXT: Map005/events/2/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「起きてるなら、
+　目開けてて下さいよぉ。
+> CONTEXT: Map005/events/2/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう、アイゼクトったら。
+　先に行っちゃうわよ？
+> CONTEXT: Map005/events/2/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほら。
+　………まだ目を開けないの？
+> CONTEXT: Map005/events/2/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……誰じゃ？
+　わしの目の前にいるのは。
+> CONTEXT: Map005/events/2/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう、何言ってるんですかぁ？
+> CONTEXT: Map005/events/2/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やだわ。
+　寝ぼけてるの？
+> CONTEXT: Map005/events/2/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……誰じゃ。
+> CONTEXT: Map005/events/2/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わかるはずないじゃない。
+　あなたが目を開けなきゃ。
+> CONTEXT: Map005/events/2/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもあなたは持っているはずね、
+　その意志を。
+> CONTEXT: Map005/events/2/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ。
+　決めるのは、あなたよ。
+> CONTEXT: Map005/events/2/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING

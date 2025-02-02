@@ -1,0 +1,188 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"ルゲイエ/Rugeiyu"
+> CONTEXT: Map025/events/1/pages/0/37/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map019/events/1/pages/0/11/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map019/events/1/pages/0/32/InlineScript/2:4 < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/0/37/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/7/pages/0/43/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/14/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/7/pages/0/50/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/7/pages/0/59/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map012/events/4/pages/0/57/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/7/pages/0/81/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/7/pages/0/113/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/7/pages/0/159/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/7/pages/0/169/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/7/pages/0/198/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/113/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/0/151/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/0/195/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/0/300/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/183/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/14/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/86/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/101/151/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/663/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/749/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お待ちになって！
+　お帰りの前！
+> CONTEXT: Map025/events/1/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「六冊の史書！
+　今こそ歴史を！！
+> CONTEXT: Map025/events/1/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/0/303/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"宰相バンブルック/Barnbrook"
+> CONTEXT: Map025/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map025/events/7/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/611/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/167/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/200/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/31/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/75/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/98/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/109/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/125/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/131/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/142/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/152/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/156/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/167/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/23/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/38/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/49/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/54/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/64/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/71/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/33/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/513/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/533/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/568/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/590/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/599/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/605/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/616/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/622/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/634/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/644/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/654/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/669/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/678/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/729/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/741/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「断片的じゃが残った歴史は、
+　きちりと踏まえて書かんとのぉ……
+　ここの\\dつじつま\\dはどうつけるか……
+> CONTEXT: Map025/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔…これは欠かせぬのじゃろうか……
+　しかしドルヌスの品格が…ぶつぶつ……
+> CONTEXT: Map025/events/3/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"お伽の王、セルベル/Zelbell"
+> CONTEXT: Map025/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map025/events/7/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/23/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/37/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/45/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/56/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/67/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/75/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/79/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/92/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/566/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/102/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/3/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/667/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/13/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/32/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/69/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/81/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/95/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/107/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/111/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/122/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/128/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/134/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/145/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/154/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/163/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/2/171/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/492/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/529/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/541/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/571/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/583/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/595/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/602/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/609/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/613/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/619/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/629/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/639/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/649/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/656/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/672/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/681/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/732/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/747/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うんうん、さすがは我が兵士。
+　元の歴史でもなかなか
+　活躍してるじゃないか。
+> CONTEXT: Map025/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おや、勇猛で美しいドルヌスの女傑？
+　これはいらないな、雑魚にして
+　我が姫の引き立て役に……
+> CONTEXT: Map025/events/7/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こりゃ、セルベル！！
+> CONTEXT: Map025/events/7/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっといけない、ばれてしまった。
+> CONTEXT: Map025/events/7/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING

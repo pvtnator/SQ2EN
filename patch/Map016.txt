@@ -1,0 +1,103 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+かわいらしいぬいぐるみだ
+> CONTEXT: Map016/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/14/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/16/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/19/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/20/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/9/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/24/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/25/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/26/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/27/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/31/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/32/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/37/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……なぜこんなところにあるのだろう
+> CONTEXT: Map016/events/3/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/14/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/15/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/16/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/19/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/20/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/9/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/24/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/25/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/26/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/27/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/31/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/32/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/37/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しくしく…しくしく…
+> CONTEXT: Map016/events/3/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ボク捨てられちゃったんだ。
+　ステラに捨てられちゃったんだ。
+> CONTEXT: Map016/events/3/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラならこの先にいるよ。
+> CONTEXT: Map016/events/3/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でももう、ボクもキミも、
+　この先に行ったりすることはできないよ。
+> CONTEXT: Map016/events/3/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だってここじゃ、誰も先に進めないから。
+　ステラのところには、もう誰も行けないよ。
+> CONTEXT: Map016/events/3/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「道を…つないでくれ……
+> CONTEXT: Map016/events/3/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「歴史を…現実を……
+　ここ…に………
+> CONTEXT: Map016/events/3/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「道は…歪みながらも……
+> CONTEXT: Map016/events/3/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つながった……
+　夢の中に奪われた…現実…へ……
+> CONTEXT: Map016/events/3/pages/3/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこまでも、無限に光が続いているように見える……
+> CONTEXT: Map016/events/25/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING

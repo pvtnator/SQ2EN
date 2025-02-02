@@ -1,0 +1,335 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「アイゼクト！
+> CONTEXT: Map476/events/5/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ、今日はどこへ行こうかしら？
+> CONTEXT: Map476/events/5/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「南の海岸に行ってみない？
+　今日はいい天気だから、
+　リスヴェグが見えるかも。
+> CONTEXT: Map476/events/5/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔法の国よ。
+　それに、もしかしたらキアズマの
+　船が通るかも知れないわ。
+> CONTEXT: Map476/events/5/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とっても大きな船に、
+　珍しい服や香料をたくさん積んでるの。
+　ねえ、見れたら素敵よね。
+> CONTEXT: Map476/events/5/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…それとも……
+　ずっとここにいる？
+　二人きりで……
+> CONTEXT: Map476/events/5/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わたし、それでもいいわよ……
+　アイゼクト………
+> CONTEXT: Map476/events/5/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…くくっ
+> CONTEXT: Map476/events/5/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アイゼクト？
+> CONTEXT: Map476/events/5/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くく、ははははっ
+> CONTEXT: Map476/events/5/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「似合わんのぉ？
+　くくっ、お前のような淫婦が、
+　花畑で少女の真似事とは？
+> CONTEXT: Map476/events/5/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、まあ。
+> CONTEXT: Map476/events/5/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"エスト/Est"
+> CONTEXT: Map476/events/5/pages/0/105/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map476/events/5/pages/0/113/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map476/events/5/pages/0/117/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map476/events/5/pages/0/128/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map476/events/5/pages/0/143/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map476/events/5/pages/0/154/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/7/pages/0/44/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/7/pages/0/61/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/7/pages/0/108/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/7/pages/0/113/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/7/pages/0/157/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/7/pages/0/187/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/7/pages/0/209/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/44/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/61/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/108/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/113/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/157/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map424/events/1/pages/0/35/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map424/events/1/pages/0/39/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/187/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map424/events/1/pages/0/73/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/209/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map424/events/1/pages/0/159/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map424/events/1/pages/0/188/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map423/events/1/pages/0/144/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map423/events/1/pages/0/153/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map423/events/1/pages/0/174/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map423/events/1/pages/0/202/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map423/events/1/pages/0/212/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map423/events/1/pages/0/301/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map423/events/1/pages/0/318/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map423/events/1/pages/0/329/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map001/events/5/pages/0/296/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/379/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/399/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/407/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/413/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/468/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/527/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/562/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「悪くない出迎えかと思ったんだけど、
+　お気に召さなかったかしら？
+> CONTEXT: Map476/events/5/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くだらんのう。
+　くだらん夢じゃ。
+> CONTEXT: Map476/events/5/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ、今度こそ、
+　この夢覚めてもらおうか。
+> CONTEXT: Map476/events/5/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何をそんなに苛ついてるの？
+> CONTEXT: Map476/events/5/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「苛ついてなどおらん。
+> CONTEXT: Map476/events/5/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうかしら？
+　想い出のひとが本物じゃなくて、
+　がっかりしてるんじゃないの？
+> CONTEXT: Map476/events/5/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ばかな。
+　夢の中で、本物も何もあるものか。
+> CONTEXT: Map476/events/5/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この夢をつくりだしたのはお前じゃ。
+　お前が消え去れば、夢は覚める。
+> CONTEXT: Map476/events/5/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢は消え、現実が戻る。
+　それだけじゃ。
+> CONTEXT: Map476/events/5/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うそよ。
+> CONTEXT: Map476/events/5/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたはもう、戻れないわ。
+　知ってしまったから。
+　思い出してしまったから。
+> CONTEXT: Map476/events/5/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「自分の夢の、
+　一番奥に来てしまったから。
+　もう後戻りなんてできないわ。
+> CONTEXT: Map476/events/5/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「自分でも分かってるんでしょう？
+　…ねえ、アタシがあの子に
+　姿を変えたのはさっきだけよ。
+> CONTEXT: Map476/events/5/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……黙れッ！
+> CONTEXT: Map476/events/5/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふふっ\\e[0]
+> CONTEXT: Map476/events/5/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうね、お楽しみの前なのに、
+　アタシとしたことが
+　ちょっと野暮だったかしら？
+> CONTEXT: Map476/events/5/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ、今だけは何もかも。
+　忘れさせてあげる。
+> CONTEXT: Map476/events/5/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…何故じゃ………
+　夢が…まだ…………
+> CONTEXT: Map476/events/5/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「覚めん………
+　何故…………
+> CONTEXT: Map476/events/5/pages/0/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…サ……
+> CONTEXT: Map476/events/5/pages/0/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「サフィ！
+> CONTEXT: Map476/events/5/pages/0/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうして？
+　行かないでよ、サフィ！
+> CONTEXT: Map476/events/5/pages/0/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ごめんなさい、
+　アイゼクト。
+> CONTEXT: Map476/events/5/pages/0/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも私たち、幸せだったわよ。
+　想い出もたくさんできたわ。
+> CONTEXT: Map476/events/5/pages/0/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんな…僕たち……
+> CONTEXT: Map476/events/5/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだ…何も………
+> CONTEXT: Map476/events/5/pages/0/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう、こうしてはいられないわ。
+　あなたも分かるでしょ？
+> CONTEXT: Map476/events/5/pages/0/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……サフィ…………
+> CONTEXT: Map476/events/5/pages/0/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………………
+> CONTEXT: Map476/events/5/pages/0/292/Dialogue < UNTRANSLATED
+> CONTEXT: Map476/events/5/pages/0/304/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/2/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……アイゼクト？
+> CONTEXT: Map476/events/5/pages/0/294/Dialogue < UNTRANSLATED
+
+> END STRING

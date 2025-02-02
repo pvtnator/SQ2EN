@@ -1,0 +1,125 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"指輪の魔術士"
+> CONTEXT: Map485/events/8/pages/0/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map485/events/13/pages/0/1/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\i[299]\\c[4]虚構の指輪\\c[0]をここに………
+> CONTEXT: Map485/events/8/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さればあなたに、
+　勇者の記憶を分け与えましょう。
+> CONTEXT: Map485/events/8/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/13/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Ayxect"
+> CONTEXT: Map485/events/8/pages/0/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map485/events/13/pages/0/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map485/events/15/pages/0/13/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map470/events/8/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map470/events/15/pages/0/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map460/events/12/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map460/events/12/pages/1/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map451/events/12/pages/0/15/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map451/events/12/pages/1/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map447/events/41/pages/0/193/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map451/events/17/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map460/events/31/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map425/events/5/pages/0/16/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/3/pages/0/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/3/pages/0/55/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/3/pages/0/4/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/10/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map425/events/7/pages/0/17/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/13/pages/0/55/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map010/events/27/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/19/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/17/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/170/172/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/171/5/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/184/24/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/193/12/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/193/41/InlineScript/1:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\i[299]\\c[4]虚構の指輪\\c[0]を見せますか？
+> CONTEXT: Map485/events/8/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\i[299]\\c[4]幻想の指輪\\c[0]をここに………
+> CONTEXT: Map485/events/13/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\i[299]\\c[4]幻想の指輪\\c[0]を見せますか？
+> CONTEXT: Map485/events/13/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やあ！
+　僕の言葉が聞こえるんだね？
+> CONTEXT: Map485/events/15/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃあ君は知ってる人だ！
+　君の勇者を知ってる人だ！
+> CONTEXT: Map485/events/15/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうだい、ここで
+　勇者の助けが借りられたら、
+　それは素敵じゃないかな？
+> CONTEXT: Map485/events/15/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それは素敵じゃないかな？」
+> CONTEXT: Map485/events/15/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ならば、ここは理想郷！
+> CONTEXT: Map485/events/15/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「願ってごらん！
+　叶わない願いなんてないんだよ！
+> CONTEXT: Map485/events/15/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+ラルスを呼べるようになった！
+> CONTEXT: Map485/events/15/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ひねくれなくたっていいのに！
+> CONTEXT: Map485/events/15/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING

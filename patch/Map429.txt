@@ -1,0 +1,39 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+
+\\i[35]\\c[3]シンセミア\\c[0] をみつけた！
+> CONTEXT: Map429/events/2/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map429/events/2/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/9/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/9/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+\\i[48]\\c[3]思考研ぎの石\\c[0] をみつけた！
+> CONTEXT: Map429/events/5/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map429/events/5/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「な、何じゃここは…？
+> CONTEXT: Map429/events/7/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いかん………
+　意識が………
+　薄れる………？
+> CONTEXT: Map429/events/7/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+018-Darkness01
+> CONTEXT: Map429/bgs/name/ < UNTRANSLATED
+> CONTEXT: Map422/bgs/name/ < UNTRANSLATED
+
+> END STRING

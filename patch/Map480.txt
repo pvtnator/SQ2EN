@@ -1,0 +1,89 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQT_Dungeon_Kvalatte
+> CONTEXT: Map480/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"酒場の看板"
+> CONTEXT: Map480/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前、酒場の看板の言葉を信じるか？
+> CONTEXT: Map480/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんなところにぶら下がってる……
+　酒場の看板なんかの言葉を……
+> CONTEXT: Map480/events/4/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もし信じるのなら、いいか、
+　必要なのは百の夢の力だ。
+> CONTEXT: Map480/events/4/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「信じる信じないは……
+　お前の自由だぜ……
+> CONTEXT: Map480/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"花屋の看板"
+> CONTEXT: Map480/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map480/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここで花屋の看板が忠告しよう。
+　君は別にこの先に行く必要は無い。
+> CONTEXT: Map480/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでも行くというなら、
+　よかろう、私は止めないよ。
+> CONTEXT: Map480/events/5/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扉は硬く閉ざされ、開きそうにない……
+> CONTEXT: Map480/events/6/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map480/events/7/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map480/events/8/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「最後にもう一つ、
+　花屋の看板に忠告させてくれ給え。
+> CONTEXT: Map480/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「バトルを避けることも、時には重要なのだ。
+　ここでは特に、な。
+> CONTEXT: Map480/events/9/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「行き給え。
+　幸運を祈る。
+> CONTEXT: Map480/events/9/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING

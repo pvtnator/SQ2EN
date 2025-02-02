@@ -1,0 +1,208 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQT_WeirdWorld
+> CONTEXT: Map448/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"？？？/Est/02"
+> CONTEXT: Map448/events/7/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うれしいわ。
+　あなたから来てくれるなんて……
+> CONTEXT: Map448/events/7/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どう？
+　少しはなじめたかしら？
+　あなたの夢に。
+> CONTEXT: Map448/events/7/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なじめんな。
+> CONTEXT: Map448/events/7/pages/0/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ひとときの夢。
+　なかなか良いものじゃった。
+　じゃがもう十分。
+> CONTEXT: Map448/events/7/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この夢、
+　そろそろ覚めてもらおうか。
+> CONTEXT: Map448/events/7/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…残念ね………
+> CONTEXT: Map448/events/7/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだ何も分かってないなんて。
+　残念だわ、おじいちゃん。
+> CONTEXT: Map448/events/7/pages/0/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わしを馬鹿にするか？
+　小娘がッ！
+> CONTEXT: Map448/events/7/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ………
+> CONTEXT: Map448/events/7/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アタシに触りたい？
+> CONTEXT: Map448/events/7/pages/0/110/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ、困っちゃうわね。
+　そんなカワイイ顔されると……
+> CONTEXT: Map448/events/7/pages/0/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほら、アタシ、
+　いいもの探してきてあげたのよ。
+> CONTEXT: Map448/events/7/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これで機嫌直して、ね？
+> CONTEXT: Map448/events/7/pages/0/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…何じゃ？
+　ずいぶん古い……
+> CONTEXT: Map448/events/7/pages/0/149/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたの夢の\\dもと\\d。
+> CONTEXT: Map448/events/7/pages/0/158/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………これは……
+　どうして………
+> CONTEXT: Map448/events/7/pages/0/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だって、とても大事なものでしょう？
+　それがここに無いはずがないじゃない。
+> CONTEXT: Map448/events/7/pages/0/188/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう、あなたの一番大事な本。
+　夢の原形につながる本。
+> CONTEXT: Map448/events/7/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アタシ、そこで待ってるわ。
+　そこでもう一度、
+> CONTEXT: Map448/events/7/pages/0/192/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その強い目で、見つめられるのを
+　楽しみに待ってるわ。
+　その時には触らせてあげる。
+> CONTEXT: Map448/events/7/pages/0/194/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「途中でつまづいてもいいのよ。
+　夢の途中で、永遠に迷って、
+　そこから出られなくなっても。
+> CONTEXT: Map448/events/7/pages/0/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そしたらアタシは、
+　色んな想像しながら、
+　ずっとあなたを待ち続けるの。
+> CONTEXT: Map448/events/7/pages/0/200/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ね、そういうのもステキじゃない？
+> CONTEXT: Map448/events/7/pages/0/203/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また会いましょう\\e[0]
+> CONTEXT: Map448/events/7/pages/0/210/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/15/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう、あなたの一番大事な本。
+　夢の一番奥につながる本。
+> CONTEXT: Map448/events/15/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING

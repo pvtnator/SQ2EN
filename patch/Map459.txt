@@ -1,0 +1,8 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+
+\\i[60]\\c[3]人魚の涙\\c[0] をみつけた！
+> CONTEXT: Map459/events/21/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map459/events/21/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING

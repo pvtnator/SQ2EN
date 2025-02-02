@@ -1,0 +1,1251 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQT_Stella
+> CONTEXT: Map013/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお…姫はどこだ！？
+　姫を探せ！！
+> CONTEXT: Map013/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「目に入れても痛くない我が愛娘、
+　その評判千里に轟くラミエルの象徴、
+　そんな姫が、
+> CONTEXT: Map013/events/1/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お伽の国には必要なのだ！
+　姫を探せ！！
+> CONTEXT: Map013/events/1/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このぬいぐるみ、もしや『姫』かと思ったが。
+> CONTEXT: Map013/events/1/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さすがにただのぬいぐるみでは、
+　何の反応も示さぬか。
+> CONTEXT: Map013/events/1/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「不足が充足！
+　まだちょっと！
+> CONTEXT: Map013/events/1/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふむ、もう少し歴史を埋めてやれば、
+　正気になるかものう。
+> CONTEXT: Map013/events/1/pages/1/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「姫はどこだ！
+　姫を……
+> CONTEXT: Map013/events/1/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……はっ！
+　それは………
+> CONTEXT: Map013/events/1/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セルベルが\\i[225]\\c[3]姫のぬいぐるみ\\c[0]を
+じっと見ている
+> CONTEXT: Map013/events/1/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\i[225]\\c[3]姫のぬいぐるみ\\c[0]を渡してみますか？
+> CONTEXT: Map013/events/1/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\i[225]\\c[3]姫のぬいぐるみ\\c[0]を手渡した！
+> CONTEXT: Map013/events/1/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ひ…め………
+> CONTEXT: Map013/events/1/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…いや…………
+> CONTEXT: Map013/events/1/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「違う、これはただのぬいぐるみじゃないか、
+　しかし……
+> CONTEXT: Map013/events/1/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……今まで私は何をしていたんだ？
+> CONTEXT: Map013/events/1/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「正気に戻ったようじゃの。
+> CONTEXT: Map013/events/1/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「君がこれを持ってきてくれたのか？
+　……ありがとう。
+> CONTEXT: Map013/events/1/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おかげで頭が……
+　少しはっきりしてきたように思う……
+> CONTEXT: Map013/events/1/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「礼には及ばん。
+　それより、尋ねたいことがあるのじゃが。
+> CONTEXT: Map013/events/1/pages/1/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わしはエストいう夢魔を探しておる。
+　この島に巣食っておるのは、
+　もしやその夢魔ではなかろうか。
+> CONTEXT: Map013/events/1/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「残念だけど違うみたいだ。
+　この島の歴史を奪った夢魔の名前は、
+　ステラだ。
+> CONTEXT: Map013/events/1/pages/1/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん……待てよ、
+　そういえば私の兵が……
+> CONTEXT: Map013/events/1/pages/1/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、そのへんに転がってるぬいぐるみ、
+　半分くらいは元私の国の兵士なんだ。
+　一応ね。
+> CONTEXT: Map013/events/1/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうだった、エストだね。
+> CONTEXT: Map013/events/1/pages/1/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うん、その私の兵が言ってたんだが、
+　ステラには姉がいて、
+　その名前が確かエストだったと思う。
+> CONTEXT: Map013/events/1/pages/1/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほう、するとそやつは
+　エストの妹、か……。
+> CONTEXT: Map013/events/1/pages/1/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラに会えば何か分かるんじゃないかな。
+> CONTEXT: Map013/events/1/pages/1/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そやつはどこにおるのじゃ。
+> CONTEXT: Map013/events/1/pages/1/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「分からない。
+　ただ……
+> CONTEXT: Map013/events/1/pages/1/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「彼女がいるのは、
+　\\d本来の歴史がある場所\\dだ。
+　ここからは行けない。
+> CONTEXT: Map013/events/1/pages/1/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはステラに飽きられ、
+　歴史から放り出された場所なんだ。
+　きっとね。
+> CONTEXT: Map013/events/1/pages/1/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ならば、奪われた歴史を再び集めれば
+　この城もまた本来の歴史に連なるのでは
+　ないか？
+> CONTEXT: Map013/events/1/pages/1/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうかも知れない。
+　しかし、私はまだ歴史のことなど
+　考えられそうにない。
+> CONTEXT: Map013/events/1/pages/1/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これを君に託そう。
+> CONTEXT: Map013/events/1/pages/1/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の記した記録だ。
+　それもまた…
+> CONTEXT: Map013/events/1/pages/1/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この島の歴史の一部…だろう……
+> CONTEXT: Map013/events/1/pages/1/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ああ……しかし…
+　それにしても………
+> CONTEXT: Map013/events/1/pages/1/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の娘……
+　本物の………
+> CONTEXT: Map013/events/1/pages/1/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「姫は……どこだ………
+> CONTEXT: Map013/events/1/pages/1/110/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「姫を探せ！！
+　姫はどこだ！？
+> CONTEXT: Map013/events/1/pages/1/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら残念！
+　王様再び、ご乱心！？
+> CONTEXT: Map013/events/1/pages/1/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだ足りぬようじゃな。
+　この島に、歴史が。
+> CONTEXT: Map013/events/1/pages/1/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私には確かに娘がいた。
+　このラミエルには、確かに姫がいた。
+> CONTEXT: Map013/events/1/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「思い出したいんだ。
+　私の大切なものを。
+> CONTEXT: Map013/events/1/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「憎き魔軍ドルヌスの討伐、
+　それも今では後回し。
+> CONTEXT: Map013/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/2/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「先ずは姫を捜さねば！
+　姫はどこだ！
+> CONTEXT: Map013/events/2/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/2/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+返事が無い……
+やつれ果てて倒れている
+> CONTEXT: Map013/events/2/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/3/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/14/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/15/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/16/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/19/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/20/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/9/pages/3/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/14/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/15/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/16/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/17/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/18/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/19/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/22/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/24/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/25/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/26/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/27/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/31/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/32/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/37/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ケイト姫だ！
+　我らが姫君の名は、ケイト姫だ！
+> CONTEXT: Map013/events/2/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/3/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうした、隣のぬいぐるみが
+　そんなに気になるか。
+> CONTEXT: Map013/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/3/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何だこれは。
+　何故こんなところにあるのだ。
+> CONTEXT: Map013/events/3/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/3/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「姫はどこだ！
+　姫を捜せ！
+> CONTEXT: Map013/events/4/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/5/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/6/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/7/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/14/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/15/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/16/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/22/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「姫を探せ！！
+> CONTEXT: Map013/events/8/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「姫はどこだ！？
+　姫を探せ！
+> CONTEXT: Map013/events/8/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王の命だ！
+　姫を探せ！！
+> CONTEXT: Map013/events/8/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前が姫か！？
+> CONTEXT: Map013/events/8/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう見えるのかの？
+> CONTEXT: Map013/events/8/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前がそうだと言うならばそうなる。
+> CONTEXT: Map013/events/8/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうだと言っても構わんが、
+　それでは本物の姫が気の毒じゃな。
+> CONTEXT: Map013/events/8/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何を言っている？
+　本物の姫などいない！
+> CONTEXT: Map013/events/8/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ではお主らは誰を探しているのじゃ。
+> CONTEXT: Map013/events/8/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「分からん奴だな、
+　姫はいないのだ！
+> CONTEXT: Map013/events/8/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だから探しているというのに！
+　姫はどこだ！！
+> CONTEXT: Map013/events/8/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「殿はどこじゃ！！
+> CONTEXT: Map013/events/8/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「みなの者、殿を探せ！
+　探しだせ！！
+> CONTEXT: Map013/events/8/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「宰相サンの言いつけだ！
+　殿を探せ！！
+> CONTEXT: Map013/events/8/pages/0/211/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アンタが殿か？
+> CONTEXT: Map013/events/8/pages/0/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わしと見間違えるとは、
+　余程面相の良い
+　魔物なのであろうな。
+> CONTEXT: Map013/events/8/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「見間違える？
+　誰とだ？
+> CONTEXT: Map013/events/8/pages/0/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お主らの殿とではないのか。
+> CONTEXT: Map013/events/8/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっと、
+　そいつは見間違えるはずがない！
+> CONTEXT: Map013/events/8/pages/0/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何せ俺たちゃ、
+　殿なんて全然知らないんだからな！
+> CONTEXT: Map013/events/8/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何も知らずによく探せるものじゃな。
+> CONTEXT: Map013/events/8/pages/0/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わかってないな！
+　知るために探すんだ！
+> CONTEXT: Map013/events/8/pages/0/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アンタも探せ！
+　殿はどこだ！！
+> CONTEXT: Map013/events/8/pages/0/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今まさに戻らん！
+　我がドルヌスの！
+　仇敵ラミエルの！
+> CONTEXT: Map013/events/8/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この壮大なるネルトゥプの歴史が！
+　じゃが何としたことか！？
+> CONTEXT: Map013/events/8/pages/2/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この凄惨たる有様！
+　我々の奪われた歴史、
+　これがそうだとでも！？
+> CONTEXT: Map013/events/8/pages/2/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「思い出せぬ。
+　我が史書は今、虚ろなり。
+　何が我々をこうした？
+> CONTEXT: Map013/events/8/pages/2/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお口惜しや！
+　いずこに封印されたというのか、
+　このバンブルックの記憶よ！
+> CONTEXT: Map013/events/8/pages/2/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「未だあの小悪魔が、気紛れに
+　わしを歴史から遠ざけているのか！
+> CONTEXT: Map013/events/8/pages/2/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それはね、単にお年で
+　頭が惚けてるって言うんだよ、
+　ドルヌスの竜爺さん。
+> CONTEXT: Map013/events/8/pages/2/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふん！
+　誰かと思えばラミエルの若造か。
+> CONTEXT: Map013/events/8/pages/2/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その言葉、そっくり返してくれよう。
+　人は命短しといえ、いや、
+　痴呆までそうも早く訪れるとはのう。
+> CONTEXT: Map013/events/8/pages/2/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや…私の頭は姫のことでいっぱいでね。
+　他のことを思い出す気も起きないんだ。
+> CONTEXT: Map013/events/8/pages/2/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私には確かに娘がいた。
+　このラミエルには、確かに姫がいた。
+　全てに愛される姫だ。
+> CONTEXT: Map013/events/8/pages/2/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その子が気づかせてくれたよ。
+　確かな記憶としてね。
+> CONTEXT: Map013/events/8/pages/2/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし姫の名前すら思い出せない。
+　だから私は、他の何も思い出せない。
+> CONTEXT: Map013/events/8/pages/2/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…そうじゃ、わしも未だ、
+　殿のことを思い出せん。
+> CONTEXT: Map013/events/8/pages/2/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「我が一命をかけて仕えた、
+　ドルヌスの偉大なる王子。
+> CONTEXT: Map013/events/8/pages/2/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「生まれた時から、わしは常にお側にいた。
+　わしは殿のことなら、何でも知っておる。
+> CONTEXT: Map013/events/8/pages/2/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そのはずなのに……
+　…どうしてしまったのじゃ。
+> CONTEXT: Map013/events/8/pages/2/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……まだ欠けているんだ、歴史が。
+> CONTEXT: Map013/events/8/pages/2/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…我が殿と、
+> CONTEXT: Map013/events/8/pages/2/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「我が姫の。
+> CONTEXT: Map013/events/8/pages/2/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうすれば取り戻せる？
+> CONTEXT: Map013/events/8/pages/2/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラだね。
+　全てを奪った張本人。
+> CONTEXT: Map013/events/8/pages/2/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ奴さえ倒せば、
+　歴史は完全に取り戻せる。
+> CONTEXT: Map013/events/8/pages/2/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもどこにいるか？
+　分からない。
+> CONTEXT: Map013/events/8/pages/2/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「例え分かっても、こうして歴史の外に居る
+　わしらでは辿り着けんかも知れぬ。
+> CONTEXT: Map013/events/8/pages/2/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも彼女のところに、
+　全ての歴史はあるんだ。
+> CONTEXT: Map013/events/8/pages/2/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……それが全て戻ったら、
+　お主らも倒れてしまうのではないか？
+> CONTEXT: Map013/events/8/pages/2/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここの兵士達のように……
+　これが本来の歴史の姿だとしたら。
+> CONTEXT: Map013/events/8/pages/2/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「構わぬ。
+　それより殿を思い出したいのじゃ。
+> CONTEXT: Map013/events/8/pages/2/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「構わないよ。
+　それより姫を思い出したいんだ。
+> CONTEXT: Map013/events/8/pages/2/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ふん。
+> CONTEXT: Map013/events/8/pages/2/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「結果は既に起こっておる。
+　それが何であろうと、
+　ありのままを受け入れるのみじゃ。
+> CONTEXT: Map013/events/8/pages/2/157/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/33/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それよりも、
+　わしらは今真実から疎外されておる。
+　それが何より辛い。
+> CONTEXT: Map013/events/8/pages/2/160/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/33/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「同感、というわけさ。
+> CONTEXT: Map013/events/8/pages/2/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「気安く同感するでない。
+> CONTEXT: Map013/events/8/pages/2/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「先に言うあなたが悪いんだよ。
+> CONTEXT: Map013/events/8/pages/2/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ステラ………
+　国を、歴史ごと玩具に弄ぶ夢魔、か。
+> CONTEXT: Map013/events/8/pages/2/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クライマックス！？
+　いよいよね！
+> CONTEXT: Map013/events/8/pages/2/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「イクス様だ！
+　オレ等の殿の名は、イクス様だ！
+> CONTEXT: Map013/events/9/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「殿はどこだ！
+　殿を捜せ！
+> CONTEXT: Map013/events/17/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/18/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/19/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/21/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ…殿はどこじゃ！
+　どこにおるのじゃ！
+> CONTEXT: Map013/events/23/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「我が使えるべき主君！
+　偉大なる魔王の血を引く、
+　我らの王子！
+> CONTEXT: Map013/events/23/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんな殿がドルヌスには必要なのに…
+　ええい、何故おらんのじゃ！
+> CONTEXT: Map013/events/23/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「殿はどこじゃ！
+　殿を捜せ！！
+> CONTEXT: Map013/events/23/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このぬいぐるみ、もしや『殿』かと思ったが。
+> CONTEXT: Map013/events/23/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「殿はどこじゃ！
+　どこに……
+> CONTEXT: Map013/events/23/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……おお！？
+　それは………
+> CONTEXT: Map013/events/23/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バンブルックが\\i[225]\\c[3]王子のぬいぐるみ\\c[0]を
+じっと見ている
+> CONTEXT: Map013/events/23/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\i[225]\\c[3]王子のぬいぐるみ\\c[0]を渡してみますか？
+> CONTEXT: Map013/events/23/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\i[225]\\c[3]王子のぬいぐるみ\\c[0]を手渡した！
+> CONTEXT: Map013/events/23/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ふ。
+> CONTEXT: Map013/events/23/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何じゃ、気を持たせおって。
+　ただのぬいぐるみではないか。
+> CONTEXT: Map013/events/23/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし……どうしたことか。
+　心が落ち着いてきた……
+> CONTEXT: Map013/events/23/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……わしは今まで、
+　何をしていたのじゃ？
+> CONTEXT: Map013/events/23/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「正気に戻ったのかの？
+> CONTEXT: Map013/events/23/pages/1/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ、思い出したぞ。
+　あの小さな夢魔めのせいじゃな。
+> CONTEXT: Map013/events/23/pages/1/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その小さな夢魔とは、何者なのじゃ？
+> CONTEXT: Map013/events/23/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なに、見た目はほんの小さな小娘よ。
+　じゃが恐ろしい小娘じゃ。
+> CONTEXT: Map013/events/23/pages/1/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たちまちに我がドルヌスの魔物を、
+　そしてついでにラミエルの兵士も、
+　全てとりこにしてしまい……
+> CONTEXT: Map013/events/23/pages/1/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そればかりか、このネルトゥプ島の
+　歴史をも、とりこにし、奪ってしまったのじゃ。
+> CONTEXT: Map013/events/23/pages/1/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃが歴史を奪うとは、一体……
+> CONTEXT: Map013/events/23/pages/1/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…今のうちじゃ。
+　お主にこれを渡しておこう。
+> CONTEXT: Map013/events/23/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わしが記録したドルヌスの歴史じゃ。
+　これはまだ…
+> CONTEXT: Map013/events/23/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「奪われておらん…この島の…
+　歴史……
+> CONTEXT: Map013/events/23/pages/1/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…おお……しかし…
+　それにしても………
+> CONTEXT: Map013/events/23/pages/1/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「我がドルヌスの王子……
+　本物の………
+> CONTEXT: Map013/events/23/pages/1/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「殿は……どこじゃ………
+> CONTEXT: Map013/events/23/pages/1/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「殿はどこじゃ！！
+　殿を探せ！！
+> CONTEXT: Map013/events/23/pages/1/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……再び夢幻の世界に
+　入り込んでしまいおったか。
+> CONTEXT: Map013/events/23/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おいたわしや！宰相殿！
+> CONTEXT: Map013/events/23/pages/1/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あれれ？
+　私のお知り合い！？
+> CONTEXT: Map013/events/23/pages/1/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「殿は……どこじゃ……？
+> CONTEXT: Map013/events/23/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあうあ、あうあう、おうおう
+> CONTEXT: Map013/events/24/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ボク達、ステラに遊ばれたんだ。
+> CONTEXT: Map013/events/24/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「遊ばれて捨てられて、
+　オモチャにされたんだ。
+> CONTEXT: Map013/events/24/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぴこぴこ、ぴこぴこ
+> CONTEXT: Map013/events/25/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お耳をね、ぴこぴこってするんだ。
+　かわいいでしょ。
+> CONTEXT: Map013/events/25/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こうするとステラ、
+　すごくよろこんでくれたんだ。
+> CONTEXT: Map013/events/25/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やあやあ、はろー、はろー
+> CONTEXT: Map013/events/26/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「知ってくれたんだね。
+　この島のヒミツ。
+> CONTEXT: Map013/events/26/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうとも、ステラだ。
+　あの子がぜんぶ、
+　ぐちゃぐちゃにしちゃったんだ。
+> CONTEXT: Map013/events/26/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えへへ、えへえへ
+> CONTEXT: Map013/events/27/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「すごいんだぜ、ステラ。
+　かわいい顔してさ。
+> CONTEXT: Map013/events/27/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えへへへへ
+> CONTEXT: Map013/events/27/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむむむ、うむむ
+> CONTEXT: Map013/events/31/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ、ここはラミエル城。
+　ネルトゥプにありて、魔軍ドルヌスに抗う
+　我らラミエル騎士団の城。
+> CONTEXT: Map013/events/31/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして私は騎士の…うむむ……
+> CONTEXT: Map013/events/31/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「思い出せなくなっている…
+　オモチャにされてから…ああ……
+> CONTEXT: Map013/events/31/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おうおう、ようよう
+> CONTEXT: Map013/events/32/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「史書を探してるのかい？
+　だったら、そこの王様と、
+　竜のおじさんにも聞いてみなよ。
+> CONTEXT: Map013/events/32/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの人たちも、それぞれ
+　自分の国の史書を書いてるはずだからね。
+> CONTEXT: Map013/events/32/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも今はムダかな？
+　あの人たち、
+　他のことでアタマがいっぱいみたいだ。
+> CONTEXT: Map013/events/32/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「倒れていた仲間は、
+　いつの間にかいなくなっていました。
+> CONTEXT: Map013/events/35/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きっと、王様たちが作る歴史に
+　今から組み込まれていくのでしょう。
+> CONTEXT: Map013/events/35/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オレたちの歴史に入り込んだ、
+　夢の魔物……
+> CONTEXT: Map013/events/36/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこから来て、
+　何をしていったのだろう。
+> CONTEXT: Map013/events/36/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それが分かる奴はみんな倒れて、
+　そしていなくなっちまった。
+> CONTEXT: Map013/events/36/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ　うふふふ
+> CONTEXT: Map013/events/37/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラって、実はすっごく\\dめんくい\\dなんだよ。
+　かっこいいお兄さんが大好きなのさ。
+> CONTEXT: Map013/events/37/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「キミは………ちょっと小さすぎるかな？
+> CONTEXT: Map013/events/37/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING

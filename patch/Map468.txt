@@ -1,0 +1,114 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「おい……
+　大丈夫かの？
+> CONTEXT: Map468/events/2/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うぅっ……
+> CONTEXT: Map468/events/2/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぐやじぃ～っ
+> CONTEXT: Map468/events/2/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また負けたぁ～～
+> CONTEXT: Map468/events/2/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうしよう？
+　姉さん……
+> CONTEXT: Map468/events/2/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こうなったら…作戦を変えましょう。
+> CONTEXT: Map468/events/2/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも今までも、
+　いっぱい作戦考えたよぉ～～？
+> CONTEXT: Map468/events/2/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいえ、今までのは
+　力で勇者を倒す作戦……
+> CONTEXT: Map468/events/2/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「力でかなわないなら、
+　別な方法で……
+> CONTEXT: Map468/events/2/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「！
+　姉さん、まさか……
+> CONTEXT: Map468/events/2/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……夢魔に身を任せましょう。
+> CONTEXT: Map468/events/2/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔と交われば、
+　アタシたちも夢魔になれる……
+> CONTEXT: Map468/events/2/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔になったら、
+　アタシたちのこの
+　セクシーな魅力で……
+> CONTEXT: Map468/events/2/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「姉さん！勝てる！
+　それなら勝てるわ！！
+> CONTEXT: Map468/events/2/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あう…？？
+> CONTEXT: Map468/events/2/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ロッコ、あなたには後で
+　教えてあげるわ。
+> CONTEXT: Map468/events/2/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ、そうと決まれば！
+　行くわよ！
+> CONTEXT: Map468/events/2/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING

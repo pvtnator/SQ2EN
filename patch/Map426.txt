@@ -1,0 +1,622 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQT_ReadingRoom
+> CONTEXT: Map426/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"(\#{$bookshelf.place_name})"
+> CONTEXT: Map426/events/1/pages/0/0/InlineScript/6:23 < UNTRANSLATED
+> CONTEXT: Map020/events/1/pages/0/0/InlineScript/6:23 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/0/0/InlineScript/6:23 < UNTRANSLATED
+> CONTEXT: Map012/events/1/pages/0/0/InlineScript/6:23 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/0/1/InlineScript/6:23 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/2/1/InlineScript/6:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブックシェルフ \\v[4]
+> CONTEXT: Map426/events/1/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/1/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/1/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブックシェルフの整理
+> CONTEXT: Map426/events/1/pages/0/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Map426/events/1/pages/0/26/Choice/0 < UNTRANSLATED
+> CONTEXT: Map020/events/1/pages/0/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/0/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map012/events/1/pages/0/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/0/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/2/9/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブックシェルフに入る
+> CONTEXT: Map426/events/1/pages/0/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Map426/events/1/pages/0/26/Choice/1 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/0/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/2/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Map426/events/1/pages/0/14/Label < UNTRANSLATED
+> CONTEXT: Map426/events/1/pages/0/31/Label < UNTRANSLATED
+> CONTEXT: Map426/events/1/pages/0/39/Label < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/0/298/Label < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/0/315/Label < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/2/65/Label < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/2/75/Label < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何もしない
+> CONTEXT: Map426/events/1/pages/0/9/Choice/2 < UNTRANSLATED
+> CONTEXT: Map426/events/1/pages/0/26/Choice/2 < UNTRANSLATED
+> CONTEXT: Map020/events/1/pages/0/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/0/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map012/events/1/pages/0/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map008/events/1/pages/0/0/Choice/2 < UNTRANSLATED
+> CONTEXT: Map426/events/13/pages/0/57/Choice/2 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/0/9/Choice/2 < UNTRANSLATED
+> CONTEXT: Map015/events/9/pages/2/9/Choice/2 < UNTRANSLATED
+> CONTEXT: Map015/events/17/pages/0/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Skills/320/name/ < UNTRANSLATED
+> CONTEXT: Skills/638/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+空の本棚がある。
+> CONTEXT: Map426/events/1/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんだか……
+中に入ってしまえそうだ……
+> CONTEXT: Map426/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしますか？
+> CONTEXT: Map426/events/1/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/31/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/177/31/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/179/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/56/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/133/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/206/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/233/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/184/83/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/198/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"白猫"
+> CONTEXT: Map426/events/3/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/3/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/3/pages/0/18/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/3/pages/0/30/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/3/pages/0/42/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/3/pages/0/63/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/3/pages/0/72/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ～
+　何か知りたいことはあるかニャ？
+> CONTEXT: Map426/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\i[101]\\c[3]地図帳\\c[0]について
+> CONTEXT: Map426/events/3/pages/0/7/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\i[131]\\c[3]史書\\c[0]について
+> CONTEXT: Map426/events/3/pages/0/7/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[2]『ストーリー』\\c[0]について
+> CONTEXT: Map426/events/3/pages/0/7/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\i[181]その他の本について
+> CONTEXT: Map426/events/3/pages/0/7/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\i[101]\\c[3]地図帳\\c[0]をブックシェルフに入れると、
+　\\dブックシェルフの中\\dに
+　町かダンジョンが現れるニャ。
+> CONTEXT: Map426/events/3/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だから、まずは
+　どの\\i[101]\\c[3]地図帳\\c[0]を入れるか決めないと
+　お話にならないニャ。
+> CONTEXT: Map426/events/3/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\i[131]\\c[3]史書\\c[0]をブックシェルフに入れると、
+　それに載っている夢魔が
+　ダンジョンに出てくるようになるニャ。
+> CONTEXT: Map426/events/3/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\i[131]\\c[3]史書\\c[0]は最低一冊必要だけど、
+　何冊入れるか、どれを入れるかは
+　キミの自由だニャ。
+> CONTEXT: Map426/events/3/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもどうせなら、自分に見合ったレベルの
+　夢魔を選んだり、\\c[2]『ストーリー』\\c[0]を狙ったり
+　するといいかもニャ～。
+> CONTEXT: Map426/events/3/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「入れた\\i[101]\\c[3]地図帳\\c[0]や\\i[131]\\c[3]史書\\c[0]の
+　組み合わせで、\\c[2]『ストーリー』\\c[0]が
+　発生することがあるニャ。
+> CONTEXT: Map426/events/3/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何が起こるかは
+　その\\c[2]『ストーリー』\\c[0]次第だけど、
+　きっとイイことだと思うニャ～。
+> CONTEXT: Map426/events/3/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アイテム欄でXボタン（キーボードの[A]）を
+　押すと本の中が少し覗けるから、
+　関係のありそうな本を探すといいニャ。
+> CONTEXT: Map426/events/3/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ブックシェルフには、他にも
+　\\i[181]\\c[3]指南書\\c[0]や\\i[181]\\c[3]学術書\\c[0]とかの
+　本を入れることができるニャ。
+> CONTEXT: Map426/events/3/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どれもきっとキミの役に立つニャ。
+　会いたい夢魔の\\i[131]\\c[3]史書\\c[0]と相談して、
+　空いたスペースに入れるといいニャ。
+> CONTEXT: Map426/events/3/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「他に知りたいことはあるかニャ？」
+> CONTEXT: Map426/events/3/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「黒猫は、セーブするたびに
+　ちょっとずつキミの夢に
+　入ってきてるニャぁ。
+> CONTEXT: Map426/events/3/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃあもし一度もセーブしなかったら……
+　どうなるんだろうニャぁ？
+> CONTEXT: Map426/events/3/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ最後に…
+　黒猫には気をつけるニャ。
+> CONTEXT: Map426/events/3/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「経験値のお礼に、
+　イイコト教えてあげるわっ
+> CONTEXT: Map426/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……たまぁ～にだけど、
+　珍しいモノ持ってる夢魔を
+　見ることがあるわ。
+> CONTEXT: Map426/events/9/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アタシたちが
+　取ってきてあげてもよくってよ？
+> CONTEXT: Map426/events/9/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\c[3]トーク\\c[0]は
+　ムードが高まってから使った方が
+　成功しやすいわよ。
+> CONTEXT: Map426/events/9/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「出だしは\\c[3]テンダーキッス\\c[0]でも
+　してた方がいいってことね。
+> CONTEXT: Map426/events/9/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなた、\\c[3]学術書\\c[0]って見たことある？
+> CONTEXT: Map426/events/9/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ワカる人が読めば、
+　今まで非現実的に思えてたことも
+　現実味を帯びてくるそうよ。
+> CONTEXT: Map426/events/9/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「効果の強さも、
+　モノによってけっこう違うみたいね。
+> CONTEXT: Map426/events/9/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[3]本の一頁\\c[0]は、たまに出てきても
+　すぐ消えちゃうのをよく見るわ。
+> CONTEXT: Map426/events/9/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「カバンは常に空けておいて、
+　出たらすぐに取れるようにすると
+　いいかもね。
+> CONTEXT: Map426/events/9/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一曲、弾かせてもらえるかな？
+> CONTEXT: Map426/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一曲、弾かせてもらえるかな？」
+> CONTEXT: Map426/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+曲を選んで下さい
+> CONTEXT: Map426/events/10/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アイゼクト様、お預かりしていた本の中に
+　いつの間にかこんな本が……
+> CONTEXT: Map426/events/13/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「島の地図に…何じゃ？
+　この史書は白紙ではないか。
+> CONTEXT: Map426/events/13/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもネルトゥプって、
+　どこかで聞いたことありますよぉ。
+> CONTEXT: Map426/events/13/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「セルベル王率いるラミエル国の騎士団が、
+　ネルトゥプ島の覇権を巡って
+　魔物の国ドルヌスと戦う……
+> CONTEXT: Map426/events/13/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなお伽話が確かあったはずじゃ。
+　これはそれか？
+> CONTEXT: Map426/events/13/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わ、さすがアイゼクト様ぁ。
+> CONTEXT: Map426/events/13/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「で、その戦いはどうなったんですかぁ？
+> CONTEXT: Map426/events/13/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ、その後の顛末は……
+> CONTEXT: Map426/events/13/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…む…どうしたことか。
+　思い出せんな。
+> CONTEXT: Map426/events/13/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あらぁ。
+　アイゼクト様が本の内容を
+　思い出せないなんて……
+> CONTEXT: Map426/events/13/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「気になりますねぇ。
+　白紙の史書……
+> CONTEXT: Map426/events/13/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アイゼクト様、
+　何かご用ですかぁ？
+> CONTEXT: Map426/events/13/pages/0/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/17/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何かご用ですかぁ？」
+> CONTEXT: Map426/events/13/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/17/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+預けてある本を見る
+> CONTEXT: Map426/events/13/pages/0/57/Choice/0 < UNTRANSLATED
+> CONTEXT: Map015/events/17/pages/0/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテムを預ける/引き出す
+> CONTEXT: Map426/events/13/pages/0/57/Choice/1 < UNTRANSLATED
+> CONTEXT: Map015/events/17/pages/0/5/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『一角獣の角』って、
+　アイゼクト様がたまに行ってた
+　お店ですよね。
+> CONTEXT: Map426/events/13/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこに行けばいいか分からないなら、
+　とりあえず何か飲んで
+　落ち着いてきたらいかがでしょぉ？
+> CONTEXT: Map426/events/13/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「入り口に、たまにお客さんが
+　いらっしゃってるみたいですよ。
+> CONTEXT: Map426/events/13/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この、\\c[3]エストの部屋\\c[0]……
+　なんだかとても不安な気持ちになります。
+> CONTEXT: Map426/events/13/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アイゼクト様、行くなら準備を整えて……
+　……とても気をつけてくださいね。
+> CONTEXT: Map426/events/13/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アイゼクト様の、夢の原形……
+> CONTEXT: Map426/events/13/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何処に、誰に繋がっているんでしょぉ…？
+> CONTEXT: Map426/events/13/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「テメェが今までイった回数を
+　教えてやろうか？
+　…へへっ、ちゃんと数えてるんだぜ。
+> CONTEXT: Map426/events/17/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃん！
+　なんと \\b\\v[26]\\f 回だ！
+> CONTEXT: Map426/events/17/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……チッ、つまんねえな。
+> CONTEXT: Map426/events/17/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハハッ！
+　だらしねぇなぁ？
+> CONTEXT: Map426/events/17/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おじいちゃんが今まで
+　いかせた人の数、
+　教えてあげよっか～？
+> CONTEXT: Map426/events/18/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃん！
+　なんと \\b\\v[27]\\f 人～～っ\\e[0]
+> CONTEXT: Map426/events/18/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え、もっと多いはず？
+> CONTEXT: Map426/events/18/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やん、この夢に来てからの数よぉ？
+　おじいちゃんのえっちぃ\\e[0]
+> CONTEXT: Map426/events/18/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ロッコ・バロッコ/RoccoBarocco"
+> CONTEXT: Map426/events/19/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/19/pages/0/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/19/pages/0/12/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/86/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/101/62/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/19/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここって、キミの部屋ぁ？
+> CONTEXT: Map426/events/19/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここって、キミの部屋ぁ？」
+> CONTEXT: Map426/events/19/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なんだか、本がいっぱいある気がするぅ。
+　本棚ひとつしかないのにね？
+> CONTEXT: Map426/events/19/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ロッコも絵本すきだよぉ♪
+> CONTEXT: Map426/events/19/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ウソついても、
+　ロッコわかっちゃうよぉ♪
+> CONTEXT: Map426/events/19/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じー……………
+> CONTEXT: Map426/events/20/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アンタ、最初に見たときは
+　ただのガキだったのに……
+> CONTEXT: Map426/events/20/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なんだか今、
+　アタシより年上っぽく見えるわ。
+　どうしてかしら……
+> CONTEXT: Map426/events/20/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ラルス/Lars"
+> CONTEXT: Map426/events/28/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,213 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQ_Castel01
+> CONTEXT: Map421/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……む……………
+> CONTEXT: Map421/events/6/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アイゼクト様、
+　新しい資料が届きましたよぉ。
+> CONTEXT: Map421/events/6/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん……うむ。
+> CONTEXT: Map421/events/6/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「珍しいですねぇ。
+　アイゼクト様が居眠りなんて。
+> CONTEXT: Map421/events/6/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢まで見た。
+> CONTEXT: Map421/events/6/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっと珍しい。
+> CONTEXT: Map421/events/6/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どんな夢か知りたいか？
+> CONTEXT: Map421/events/6/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「知りたいですぅ！
+> CONTEXT: Map421/events/6/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「というか、アイゼクト様が夢なんて、
+　なんかびっくりですぅ。
+> CONTEXT: Map421/events/6/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「女と交わっておった。
+> CONTEXT: Map421/events/6/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「色のある夢じゃ。
+> CONTEXT: Map421/events/6/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふわ……ゎ………
+> CONTEXT: Map421/events/6/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…えっと……さ……
+　さすがアイゼクト様……
+　お若い………
+> CONTEXT: Map421/events/6/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふん！
+　\\dこんなもの\\dの研究なんぞ
+　させられとるからじゃ！
+> CONTEXT: Map421/events/6/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、あ、ダメですよぉ。
+　\\c[2]夢魔\\c[0]の資料は貴重なんですからぁ。
+> CONTEXT: Map421/events/6/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「実在しない魔物の資料なぞ、
+　何が貴重なものか。
+> CONTEXT: Map421/events/6/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え～、でも賢王様が
+　調べて対策しろって言ってるんだから、
+　ホントにいるんじゃないですかぁ？
+> CONTEXT: Map421/events/6/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああホントにいるじゃろう。
+　青い男どもの夢の中にの。
+> CONTEXT: Map421/events/6/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの若造めが、
+　何を考えてるか分からんわ。
+> CONTEXT: Map421/events/6/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アイゼクト様も今
+　えっちな夢見てたんじゃ…
+> CONTEXT: Map421/events/6/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔なぞ出てきとらん。
+> CONTEXT: Map421/events/6/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃあ、お相手はどなたですぅ？
+> CONTEXT: Map421/events/6/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……さぁのお。
+> CONTEXT: Map421/events/6/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え、あ、まさかぁ…
+> CONTEXT: Map421/events/6/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わあ、やだぁ～\\e[0]
+> CONTEXT: Map421/events/6/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……何か勘違いしとらんか？
+> CONTEXT: Map421/events/6/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まあよい。
+　もう行っていいぞ。
+> CONTEXT: Map421/events/6/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ～い。
+> CONTEXT: Map421/events/6/pages/0/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アイゼクト様、
+　あんまりえっちなのは
+　ダメですよぉ\\e[0]
+> CONTEXT: Map421/events/6/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……アホめ。
+> CONTEXT: Map421/events/6/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや……
+　もう少し調べ物をしていくか。
+> CONTEXT: Map421/events/31/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map421/events/32/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map421/events/33/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

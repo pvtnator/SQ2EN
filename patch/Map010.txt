@@ -1,0 +1,161 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「おう、何か要るかい？
+> CONTEXT: Map010/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"シトリー/Sitri"
+> CONTEXT: Map010/events/4/pages/0/51/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/80/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/92/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/113/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/125/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/146/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/158/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/179/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/191/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/212/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/224/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/245/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/252/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/280/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/298/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/306/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/323/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/341/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/362/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/383/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/392/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/253/22/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/253/32/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/256/3/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢の頁は、幾重にも
+　めくれどめくれど、終わり無し…
+> CONTEXT: Map010/events/4/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「幸福なるか？おお、
+　我が主人公！盲目の
+　読み手と共に
+> CONTEXT: Map010/events/4/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢をめくる、だがしかし
+　頁の裏なら、話はまた別……
+　ふふふふふふふ！
+> CONTEXT: Map010/events/4/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ようこそ！
+　ここは我が部屋、ここのみは、
+　物語の外の場所。
+> CONTEXT: Map010/events/4/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ、\\c[4]夜の絵本\\c[0]を開くといい。
+　そこに\\dしるし\\dがありさえすれば、
+　彼女は君の思いのまま……
+> CONTEXT: Map010/events/4/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふふふ！
+　楽しんでいくがいい！
+> CONTEXT: Map010/events/4/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ところが私としたことが、
+　すっかりお礼を忘れていました。
+> CONTEXT: Map010/events/18/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「遅れましたが名喰い鳥、
+　お礼にあなたのお名前を、
+　お好きに変えて進ぜましょう。
+> CONTEXT: Map010/events/18/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とてもお似合いですよ、
+　\\n[1]さん。
+> CONTEXT: Map010/events/18/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/18/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの時のお礼に名喰い鳥、
+　あなたのお名前お好きな風に、
+　変えてごらんにいれましょう。
+> CONTEXT: Map010/events/18/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"お帰りグリフォン"
+> CONTEXT: Map010/events/27/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map010/events/27/pages/0/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map010/events/27/pages/0/16/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お帰りはこちらから。
+> CONTEXT: Map010/events/27/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シトリーの部屋から出ますか？
+> CONTEXT: Map010/events/27/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んじゃな。またな。
+> CONTEXT: Map010/events/27/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうだよな。
+　まだ終わらんよな。
+> CONTEXT: Map010/events/27/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備品の付加効果は最大五つです。
+五つ目以降の付加効果は無視されます。
+> CONTEXT: Map010/events/35/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レベルは、「ベース」になった装備品のレベルに
+「追加」した装備品のレベルの半分が足されます。
+> CONTEXT: Map010/events/35/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/19/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,48 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+本を取り出せない。
+本の形をした幻のようだ。
+> CONTEXT: Map430/events/5/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/9/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/10/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/11/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/12/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/14/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/16/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/17/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/18/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/19/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/20/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/21/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/22/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/23/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map427/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/24/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/25/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map427/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map430/events/26/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map427/events/7/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map427/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map427/events/17/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map427/events/18/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map427/events/19/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map427/events/20/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/28/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/29/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/30/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/31/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/32/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/33/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/34/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/35/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/36/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/37/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/38/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/39/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/40/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/41/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/42/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/43/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

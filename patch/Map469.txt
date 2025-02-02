@@ -1,0 +1,429 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「…またか……
+> CONTEXT: Map469/events/2/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おぬしらのう、
+　時にはあきらめるという事も……
+> CONTEXT: Map469/events/2/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"エスプラーナ/Esplana"
+> CONTEXT: Map469/events/2/pages/0/84/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/98/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/93/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/122/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/113/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/118/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/136/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/88/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/126/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/162/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/100/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/141/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/109/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/170/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/114/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/183/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/122/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/194/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/316/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/325/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/0/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/335/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/342/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/350/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/363/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/369/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/86/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/87/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/101/56/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/101/64/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/13/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/22/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うっ…ううっ………
+> CONTEXT: Map469/events/2/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"リズ・ラズ/RizRaz"
+> CONTEXT: Map469/events/2/pages/0/86/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/99/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/119/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/107/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/125/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/130/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/123/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/139/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/91/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/128/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/152/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/97/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/138/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/164/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/105/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/172/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/116/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/185/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/201/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/318/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/0/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/329/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/346/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/355/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/399/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map426/events/20/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/87/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/101/59/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/16/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/25/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くやしい…でも……
+> CONTEXT: Map469/events/2/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ロッコ･バロッコ/RoccoBarocco"
+> CONTEXT: Map469/events/2/pages/0/92/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/107/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/105/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/128/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/115/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/132/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/144/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/93/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map468/events/2/pages/0/136/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/167/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/111/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/120/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/187/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/207/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/323/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/348/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map469/events/2/pages/0/384/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「キモチよかったぁ～\\e[0]
+> CONTEXT: Map469/events/2/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まさか…このミリョクで戦っても
+　勝てないなんて……
+> CONTEXT: Map469/events/2/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あうあう、予定外～！？
+> CONTEXT: Map469/events/2/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「違うわ…勝てないのには
+　理由があったのよ……
+> CONTEXT: Map469/events/2/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何か分かったの？
+　リズ・ラズ
+> CONTEXT: Map469/events/2/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アタシ達には、
+　足りないものがあるのよ。
+> CONTEXT: Map469/events/2/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それはあ～～…？
+> CONTEXT: Map469/events/2/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「レベルよ。
+> CONTEXT: Map469/events/2/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「レベルっ！
+> CONTEXT: Map469/events/2/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かに勇者達は、アタシ達と戦う前に
+　大分経験を積んでたみたいね。
+> CONTEXT: Map469/events/2/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうよ！
+　これって不公平だわ！
+> CONTEXT: Map469/events/2/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ロッコなんて
+　はじめてだったあ！
+> CONTEXT: Map469/events/2/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リズ姉はあ？
+> CONTEXT: Map469/events/2/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え？
+　あ、アタシは経験豊富だけどさっ
+> CONTEXT: Map469/events/2/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「と、とにかく、
+　今アタシ達に必要なのは……
+> CONTEXT: Map469/events/2/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「レベル上げね。
+> CONTEXT: Map469/events/2/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そ、そう！
+　それよ！
+> CONTEXT: Map469/events/2/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、それって
+　どうやればいいのお？
+> CONTEXT: Map469/events/2/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうね、まずはザコ狩りかしら。
+> CONTEXT: Map469/events/2/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それなら、
+　そこにちょうどよさそうなのが……
+> CONTEXT: Map469/events/2/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………ゎぁ\\e[0]
+> CONTEXT: Map469/events/2/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「行くわよ！リズ・ラズ！
+　ロッコ・バロッコ！
+> CONTEXT: Map469/events/2/pages/0/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まかせて！
+> CONTEXT: Map469/events/2/pages/0/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わぁ～い\\e[0]
+> CONTEXT: Map469/events/2/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ…あん………
+> CONTEXT: Map469/events/2/pages/0/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うう…姉さん……
+　もしかして……
+> CONTEXT: Map469/events/2/pages/0/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アタシ達が……
+　ザコ…だったの……？
+> CONTEXT: Map469/events/2/pages/0/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ザコがザコに負けたあ～！？
+> CONTEXT: Map469/events/2/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そ、そんな……
+　認めないわ……
+> CONTEXT: Map469/events/2/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こうなったら………
+> CONTEXT: Map469/events/2/pages/0/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「姉さん…？
+> CONTEXT: Map469/events/2/pages/0/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じー……
+> CONTEXT: Map469/events/2/pages/0/336/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…何じゃ？
+> CONTEXT: Map469/events/2/pages/0/338/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この子についていきましょう。
+> CONTEXT: Map469/events/2/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「は？
+> CONTEXT: Map469/events/2/pages/0/345/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えっ
+> CONTEXT: Map469/events/2/pages/0/347/Dialogue < UNTRANSLATED
+> CONTEXT: Map452/events/9/pages/0/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map452/events/9/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あう？
+> CONTEXT: Map469/events/2/pages/0/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いい？
+　自分たちでレベルを
+　上げられないなら……
+> CONTEXT: Map469/events/2/pages/0/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「他の人に上げさせればいいのよ！
+> CONTEXT: Map469/events/2/pages/0/354/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうか！
+　さすが姉さん！
+> CONTEXT: Map469/events/2/pages/0/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そ、そうかでない！
+　何を勝手に…
+> CONTEXT: Map469/events/2/pages/0/359/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なあに？あなただって
+　私達のカラダでイイ思いしたんだし、
+　責任取ってよね！
+> CONTEXT: Map469/events/2/pages/0/364/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「せ、責任……！？
+> CONTEXT: Map469/events/2/pages/0/368/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、行きましょう！
+> CONTEXT: Map469/events/2/pages/0/370/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よろしくう～！
+> CONTEXT: Map469/events/2/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「呼べば助けてあげるわ！
+　感謝しなさい！
+> CONTEXT: Map469/events/2/pages/0/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+ハーピー姉妹を呼べるようになった！
+> CONTEXT: Map469/events/2/pages/0/418/Dialogue < UNTRANSLATED
+
+> END STRING

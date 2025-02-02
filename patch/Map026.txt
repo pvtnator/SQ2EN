@@ -1,0 +1,62 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「我々はドルヌスに攻め入るため、
+　この森に陣を張っている。
+> CONTEXT: Map026/events/20/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だが男手が足りなくて忙しいのだ。
+　子供は邪魔せんでくれ。
+> CONTEXT: Map026/events/20/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あーあ、ヒマねぇ～っ
+> CONTEXT: Map026/events/21/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「隊長さんたら、あたしたちに仕事くれないのよ。
+　女のやることじゃないとか言って。
+> CONTEXT: Map026/events/21/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「男の人はみんな戦でいなくなっちゃって、
+　もうほとんど女しかいないってのにね。
+> CONTEXT: Map026/events/21/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたみたいなコドモが、
+　どうしてこんなところにいるの？
+> CONTEXT: Map026/events/22/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まさかドルヌスのスパイ…
+　じゃないわよねぇ。
+> CONTEXT: Map026/events/22/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いつドルヌスの奴らと戦えるのかしら、
+　楽しみねえ。
+> CONTEXT: Map026/events/23/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたし達のワザにかかれば、
+　きっと瞬殺よ。　フフッ
+> CONTEXT: Map026/events/23/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

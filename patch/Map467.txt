@@ -1,0 +1,111 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"？？？/Esplana"
+> CONTEXT: Map467/events/3/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほ～ほっほっほっほっほ！
+> CONTEXT: Map467/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「待ってたわよ！
+　勇者ラルス！
+> CONTEXT: Map467/events/3/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今日こそここで！
+> CONTEXT: Map467/events/3/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっつけてやるのだぁ～！
+> CONTEXT: Map467/events/3/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………？
+> CONTEXT: Map467/events/3/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ん？
+　ま、待って、姉さん……
+> CONTEXT: Map467/events/3/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「怖気づいちゃだめよ！
+　リズ・ラズ！
+　今回こそはきっと……
+> CONTEXT: Map467/events/3/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや…そうじゃなくて……
+> CONTEXT: Map467/events/3/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この子、違くない？
+> CONTEXT: Map467/events/3/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「へ？
+> CONTEXT: Map467/events/3/pages/0/110/Dialogue < UNTRANSLATED
+> CONTEXT: Map421/events/6/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ！ほんとだ！
+　勇者くんじゃない～っ
+> CONTEXT: Map467/events/3/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うそっ、間違えた？
+> CONTEXT: Map467/events/3/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうみたい……
+　何でこんなところにいるのよ、
+　この子……
+> CONTEXT: Map467/events/3/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「せっかく待ち伏せしてたのに～……
+> CONTEXT: Map467/events/3/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また準備しなおしね…
+　行きましょ……
+> CONTEXT: Map467/events/3/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……なんじゃいな。
+> CONTEXT: Map467/events/3/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,753 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"？？？/Stella"
+> CONTEXT: Map023/events/1/pages/0/6/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おじぃちゃん、待ってたよぉ～っ☆
+> CONTEXT: Map023/events/1/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほお、わしを待っていたと？
+> CONTEXT: Map023/events/1/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ステラ/Stella"
+> CONTEXT: Map023/events/1/pages/0/160/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/101/166/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/34/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/48/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/62/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/73/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/84/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/100/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/106/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/165/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/171/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/203/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/210/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/461/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/465/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/739/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/745/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うん！
+　すっごく面白そうなおじぃちゃんがいるって、
+　おねぇちゃんが教えてくれたの。
+> CONTEXT: Map023/events/1/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やはりお前はエストの妹か。
+> CONTEXT: Map023/events/1/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラだよ。
+　よろしくねっ☆
+> CONTEXT: Map023/events/1/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前に用はないのじゃがな。
+　姉の方に会いたいのじゃ。
+> CONTEXT: Map023/events/1/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わあ、さすがおねぇちゃん、
+　もてもて～～っ☆
+> CONTEXT: Map023/events/1/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ついでに、お前の奪ったこの島の
+　姫やら王子やら歴史やら
+　あれやこれも返してやれい。
+> CONTEXT: Map023/events/1/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「う～ん、どぅしよっかなぁ～～っ
+> CONTEXT: Map023/events/1/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おじぃちゃんがいっぱい遊んでくれるなら、
+　考えてあげてもいいかなっ☆
+> CONTEXT: Map023/events/1/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほぅ、何をして遊ぶ？
+　隠れ鬼か？
+　まま事でもいたそうか？
+> CONTEXT: Map023/events/1/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラ、\\dもっとおとなの\\d
+　お遊びがいいなぁ～っ
+> CONTEXT: Map023/events/1/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わかっとるよ。
+> CONTEXT: Map023/events/1/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ\\e[0]
+> CONTEXT: Map023/events/1/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぽわー………
+> CONTEXT: Map023/events/1/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ステラ、おなかいっぱぁい\\e[0]
+> CONTEXT: Map023/events/1/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やれやれ。
+> CONTEXT: Map023/events/1/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おじぃちゃん、
+　エストおねぇちゃんにご用事だっけ？
+> CONTEXT: Map023/events/1/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ。
+　どこにいるのか……
+> CONTEXT: Map023/events/1/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、ステラ一緒に
+　ついていってあげるっ☆
+> CONTEXT: Map023/events/1/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「な、なに？
+　そんなこと頼んで……
+> CONTEXT: Map023/events/1/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+ステラを呼べるようになった！
+> CONTEXT: Map023/events/1/pages/0/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よろしくねっ☆
+> CONTEXT: Map023/events/1/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……まったく…
+> CONTEXT: Map023/events/1/pages/0/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラ、まんぞくぅ……\\e[0]
+> CONTEXT: Map023/events/1/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふ。
+> CONTEXT: Map023/events/1/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ、エストに会わせてもらおうかの。
+　それとお前の奪ったものも……
+> CONTEXT: Map023/events/1/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「う…、ここは……
+> CONTEXT: Map023/events/1/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これは……何が起こっておる？
+> CONTEXT: Map023/events/1/pages/0/456/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前の奪ったものが、
+　元に戻ろうとしているのか？
+> CONTEXT: Map023/events/1/pages/0/459/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えっ、そうなのぉ？
+> CONTEXT: Map023/events/1/pages/0/462/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前のやったことじゃろう。
+> CONTEXT: Map023/events/1/pages/0/464/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええ～～、
+　ステラ遊んでただけだし～
+> CONTEXT: Map023/events/1/pages/0/466/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラわかんないっ\\e[0]
+> CONTEXT: Map023/events/1/pages/0/468/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや……もう何も………
+> CONTEXT: Map023/events/1/pages/0/493/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「元通りになど、戻りはしないようじゃ。
+> CONTEXT: Map023/events/1/pages/0/514/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私たちも、この場所も、
+　もう後戻りができないほど、
+　夢に溶け込んでしまった。
+> CONTEXT: Map023/events/1/pages/0/530/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わしらが今、ここにいられるほどにの。
+> CONTEXT: Map023/events/1/pages/0/534/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\i[121]\\c[3]大ネルトゥプ記\\c[0]を。
+　君が持ってるよね？
+> CONTEXT: Map023/events/1/pages/0/542/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ。
+　じゃが………
+> CONTEXT: Map023/events/1/pages/0/545/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……やはり、まだ全て白紙じゃ。
+> CONTEXT: Map023/events/1/pages/0/557/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あまりに多くを、
+　あまりに長い間失いすぎたのじゃ。
+> CONTEXT: Map023/events/1/pages/0/569/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この史書はもう、
+　二度と元通りにはならないだろう。
+> CONTEXT: Map023/events/1/pages/0/572/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、それでいいんだ。
+　思い出せたから。
+> CONTEXT: Map023/events/1/pages/0/584/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「姫の名はケイト。
+> CONTEXT: Map023/events/1/pages/0/587/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「我らが殿の名はイクス！
+　イクスじゃ！
+> CONTEXT: Map023/events/1/pages/0/591/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「変な名前。
+> CONTEXT: Map023/events/1/pages/0/596/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なんじゃと！？
+　無礼者！
+> CONTEXT: Map023/events/1/pages/0/600/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも知ってるぞ。
+　私もその名を。
+> CONTEXT: Map023/events/1/pages/0/603/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わしも知っている、
+　お前の娘の名を。
+> CONTEXT: Map023/events/1/pages/0/606/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「別に知りたくもなかったがの！
+> CONTEXT: Map023/events/1/pages/0/608/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このまま思い出していけば………
+> CONTEXT: Map023/events/1/pages/0/610/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…きっと出会えるじゃろう。
+> CONTEXT: Map023/events/1/pages/0/612/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きっと出会える。
+　私たちのつくる歴史の中で。
+> CONTEXT: Map023/events/1/pages/0/614/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わしらが再び、
+　歴史に組み込まれるその日に。
+> CONTEXT: Map023/events/1/pages/0/617/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや、たぶん、そうじゃない、
+> CONTEXT: Map023/events/1/pages/0/620/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私たちが、歴史になるんだ。
+> CONTEXT: Map023/events/1/pages/0/621/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうか、そうじゃの！
+> CONTEXT: Map023/events/1/pages/0/623/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この\\i[121]\\c[3]大ネルトゥプ記\\c[0]は、
+　未来の史書になる。
+> CONTEXT: Map023/events/1/pages/0/630/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私たちが埋めていく。
+　白紙で良かったんだ。
+> CONTEXT: Map023/events/1/pages/0/632/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ。
+　我らが綴る歴史じゃ。
+> CONTEXT: Map023/events/1/pages/0/635/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもあなたらと
+　馴れ合う歴史はごめんだけどね。
+> CONTEXT: Map023/events/1/pages/0/640/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「当たり前じゃ！
+　誰がそんなこと！
+> CONTEXT: Map023/events/1/pages/0/645/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「我らドルヌスが、
+　島を征服する歴史じゃな。
+> CONTEXT: Map023/events/1/pages/0/647/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ラミエルの栄華と、
+　その偉大な王の歴史だね。
+> CONTEXT: Map023/events/1/pages/0/650/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まあせいぜい、
+　仲良くいがみあうとしましょうか。
+> CONTEXT: Map023/events/1/pages/0/652/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「仲良くは余計じゃ！
+> CONTEXT: Map023/events/1/pages/0/655/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふっふ。
+> CONTEXT: Map013/events/8/pages/2/155/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/657/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「大団円！
+　ちょびっと違う？
+　そんなことは！
+> CONTEXT: Map023/events/1/pages/0/664/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、全部君のおかげだ。
+> CONTEXT: Map023/events/1/pages/0/668/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お主がここに来なかったら、
+　我らはどこにも進めなかったじゃろう。
+> CONTEXT: Map023/events/1/pages/0/670/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「心からお礼を言うよ。
+　そして……
+> CONTEXT: Map023/events/1/pages/0/673/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「最後にもう一つ、頼まれてくれるかい？
+> CONTEXT: Map023/events/1/pages/0/675/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何じゃ？
+> CONTEXT: Map023/events/1/pages/0/677/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「生まれ変わるこの\\i[121]\\c[3]大ネルトゥプ記\\c[0]に、
+　新たな名前を与えてほしいのじゃ。
+> CONTEXT: Map023/events/1/pages/0/679/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私たちじゃ、いつまでも
+　決まりそうにないからね。
+　どうかお願いするよ。
+> CONTEXT: Map023/events/1/pages/0/682/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふむ…新たな本の名前、か………
+> CONTEXT: Map023/events/1/pages/0/686/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+新しい本につける名前を選んでください
+> CONTEXT: Map023/events/1/pages/0/691/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『ネルトゥプ島物語』
+> CONTEXT: Map023/events/1/pages/0/693/Choice/0 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/693/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『夢と魔物とお伽の騎士団』
+> CONTEXT: Map023/events/1/pages/0/693/Choice/1 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/693/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『騎士と魔物と夢物語』
+> CONTEXT: Map023/events/1/pages/0/693/Choice/2 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/693/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+次へ
+> CONTEXT: Map023/events/1/pages/0/693/Choice/3 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/693/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ネルトゥプ島物語"
+> CONTEXT: Map023/events/1/pages/0/696/InlineScript/1:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"夢と魔物とお伽の騎士団"
+> CONTEXT: Map023/events/1/pages/0/700/InlineScript/1:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"騎士と魔物と夢物語"
+> CONTEXT: Map023/events/1/pages/0/704/InlineScript/1:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『魔物はお伽の国で眠る』
+> CONTEXT: Map023/events/1/pages/0/707/Choice/0 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/707/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『夢の魔物とお伽の戦』
+> CONTEXT: Map023/events/1/pages/0/707/Choice/1 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/707/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『夢戦記』
+> CONTEXT: Map023/events/1/pages/0/707/Choice/2 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/707/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"魔物はお伽の国で眠る"
+> CONTEXT: Map023/events/1/pages/0/710/InlineScript/1:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"夢の魔物とお伽の戦"
+> CONTEXT: Map023/events/1/pages/0/714/InlineScript/1:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"夢戦記"
+> CONTEXT: Map023/events/1/pages/0/718/InlineScript/1:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『\\v[1]』…か。
+　いい名前じゃ。
+> CONTEXT: Map023/events/1/pages/0/730/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「完成したら、遊びにでも来てよ。
+> CONTEXT: Map023/events/1/pages/0/733/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「歴史に遊びに行くとは妙な話じゃが、
+　まあ、そうなるのじゃろうな。
+> CONTEXT: Map023/events/1/pages/0/735/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラも遊ぶ～っ☆
+> CONTEXT: Map023/events/1/pages/0/740/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前はもう来るでないわ！
+> CONTEXT: Map023/events/1/pages/0/742/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぶぅ～っ！
+> CONTEXT: Map023/events/1/pages/0/746/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はっはっは。
+> CONTEXT: Map023/events/1/pages/0/748/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「めでたしめでたし！
+　こんどこそ！
+> CONTEXT: Map023/events/1/pages/0/750/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「拍手喝采？
+　これにて閉幕！！
+> CONTEXT: Map023/events/1/pages/0/752/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[200]　　　　　　　　白の史書と色づく魔物
+　　　　　　　　　　　　FIN
+> CONTEXT: Map023/events/1/pages/0/760/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お待ちになって！
+　席から立ち去るその前に！
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+「まだまだ続くよ！あなたの冒険！
+　だけどもひとつその前に！
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+「あなたの記録、
+　あなたの記憶、
+　あなたの想い、
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+「この私たちにも！
+　おすそわけ？プリーズ！
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+よろしければアンケートにお答え下さい。
+ブラウザでSQDTのサイトを開いてもよろしいですか？
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+"enq/enq.cgi?ans1="
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+ありがとうございます。
+正常にサイトが開かれなかった場合、お手数ですが
+\\bwww.succubusquest.com /products /sqt /enq /enq.cgi\\f
+まで直接アクセスして下さい。
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+よろしければ、後ほど
+\\bwww.succubusquest.com /products /sqt /enq /enq.cgi\\f
+まで直接アクセスして下さい。
+> CONTEXT: None < UNUSED
+
+> END STRING

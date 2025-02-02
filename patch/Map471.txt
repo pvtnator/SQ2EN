@@ -1,0 +1,215 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQT_EntranceOfDream
+> CONTEXT: Map471/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map425/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"扉"
+> CONTEXT: Map471/events/1/pages/0/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/18/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/27/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/66/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/77/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/114/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/124/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/164/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/173/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ダメ………
+> CONTEXT: Map471/events/1/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なに？
+> CONTEXT: Map471/events/1/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/5/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ダメ、あたしを開かないで。
+> CONTEXT: Map471/events/1/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「恐ろしいことが待ってるわ。
+　この先、あなたは、
+　恐ろしいものを手に入れるわ。
+> CONTEXT: Map471/events/1/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お願い、ここで引き返して。
+　戻れば、もっと幸せな夢が待ってるわ。
+> CONTEXT: Map471/events/1/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これは恐れ入った。
+　扉に忠告を受けるとは。
+> CONTEXT: Map471/events/1/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしお前の役目は
+　わしを中に通すこと。
+　さあ、とっとと開けい。
+> CONTEXT: Map471/events/1/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この中にいるのは、
+　とてもきれいで、魅力的で、
+　すてきな身体を持ったひと。
+> CONTEXT: Map471/events/1/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたはあなたの
+　色欲に勝てないわ。
+> CONTEXT: Map471/events/1/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やってみなければわからん。
+> CONTEXT: Map471/events/1/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほんとう？
+　ほんとうに？
+> CONTEXT: Map471/events/1/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「彼女の美しさには、
+　なにものもかなわない。
+> CONTEXT: Map471/events/1/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「男のあなたでも、
+　彼女に嫉妬せずにはいられないわ。
+> CONTEXT: Map471/events/1/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それは絶対の服従と同じこと。
+　あなたは二度と、
+　そこから抜け出せないわ。
+> CONTEXT: Map471/events/1/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このわしが、今さら他人と
+　おのれを比べたりするものか。
+> CONTEXT: Map471/events/1/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなに彼女が欲しいの？
+　彼女がくれるものが欲しいの？
+> CONTEXT: Map471/events/1/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも一度手に入れたら、
+　もっと欲しくなるわ。
+> CONTEXT: Map471/events/1/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「誰もかもが欲しくなるわ。
+　もっと先が欲しくなるわ。
+> CONTEXT: Map471/events/1/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わしはそろそろこの夢から覚めたい。
+　それだけじゃ。
+> CONTEXT: Map471/events/1/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「後ろの扉よ、
+　そろそろ大人しくそこを開けい。
+> CONTEXT: Map471/events/1/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「最初に言ったことを思い出して。
+　この先にあるのは、恐ろしいものよ。
+> CONTEXT: Map471/events/1/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうして恐れないの？
+　どうして引き返さないの？
+> CONTEXT: Map471/events/1/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはわしの夢。
+　どうして自分の夢を
+　恐れることがあろうか。
+> CONTEXT: Map471/events/1/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ、なんてひと。
+　夢を恐れないなんて。
+　夢を信じないなんて。
+> CONTEXT: Map471/events/1/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうあなたは救えない。
+　あなたには罰しかない。
+> CONTEXT: Map471/events/1/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扉など最初から無かったようだ……
+> CONTEXT: Map471/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中に入りますか？
+> CONTEXT: Map471/events/1/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING

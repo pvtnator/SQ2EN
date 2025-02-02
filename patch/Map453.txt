@@ -1,0 +1,107 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「どうしたの？
+> CONTEXT: Map453/events/3/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ずいぶん奥まで来たわ。
+> CONTEXT: Map453/events/3/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この先に、花畑があるんだ。
+> CONTEXT: Map453/events/3/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とてもきれいだよ。
+　サフィもきっと…
+> CONTEXT: Map453/events/3/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、もう遅いわよ。
+　帰る頃には暗くなっちゃう。
+> CONTEXT: Map453/events/3/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん……でも………
+> CONTEXT: Map453/events/3/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、
+　また追いかけっこしようか？
+> CONTEXT: Map453/events/3/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え、あっ…
+> CONTEXT: Map453/events/3/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つかまえて。
+　一緒に帰りましょ。
+> CONTEXT: Map453/events/3/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「暗く…なっても………
+> CONTEXT: Map453/events/3/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ。
+> CONTEXT: Map453/events/3/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ、うふふふ、あふ、
+　あふぁふぁはっひゃっひゃははは
+> CONTEXT: Map453/events/3/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はひゃははははははははは、
+　はは、あふ、ふへふぁはっひゃひゃは、
+　は、ひゃはははははっはっは
+> CONTEXT: Map453/events/3/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"夢魔"
+> CONTEXT: Map453/events/3/pages/0/136/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map424/events/1/pages/0/97/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「カワイソウ。
+　カワイソウナ、オジイチャン。
+> CONTEXT: Map453/events/3/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ネエモット、
+　タノシイユメ、
+　ミナイ？
+> CONTEXT: Map453/events/3/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING

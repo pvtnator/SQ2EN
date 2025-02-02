@@ -1,0 +1,151 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"？？？/Merona/09"
+> CONTEXT: Map447/events/41/pages/0/40/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちゅっ\\e[0]
+> CONTEXT: Map447/events/41/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「むわっ！
+　な、何じゃ！？
+> CONTEXT: Map447/events/41/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んふっ、ちゅぅしちゃったぁ～\\e[0]
+> CONTEXT: Map447/events/41/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「な…熱い……
+　頭が………
+> CONTEXT: Map447/events/41/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そのまま、トロトロに
+　溶かしてあげるぅ～～っ\\e[0]
+> CONTEXT: Map447/events/41/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふにゃぁ～～
+> CONTEXT: Map447/events/41/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何じゃ、まだやるのか？
+> CONTEXT: Map447/events/41/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁん、おじいちゃん元気～～\\e[0]
+> CONTEXT: Map447/events/41/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえねえ、おじいちゃん
+　こんなところで何してるの？
+> CONTEXT: Map447/events/41/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんなところも何も、
+　ここはわしの夢ではないのか。
+> CONTEXT: Map447/events/41/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「へぇ、そうなの？
+> CONTEXT: Map447/events/41/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…違うのか？
+> CONTEXT: Map447/events/41/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん～、ここはあたしと友達の
+　\\dエサ\\d場だったんだけどぉ～～
+> CONTEXT: Map447/events/41/pages/0/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもそうなのかもね？
+　あたしよくわかんない\\e[0]
+> CONTEXT: Map447/events/41/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そういえば、お前は消えんのじゃな。
+> CONTEXT: Map447/events/41/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「う～ん、もしかしたら
+　あたしの夢なのかもね？
+> CONTEXT: Map447/events/41/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえおじいちゃん、それじゃ
+　目が覚めるまで一緒にいようよ。
+> CONTEXT: Map447/events/41/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいでしょう？
+　そう願ってくれれば、
+　それだけでいいの。
+> CONTEXT: Map447/events/41/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいでしょう？」
+> CONTEXT: Map447/events/41/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたしメローナ、よろしくぅ\\e[0]
+> CONTEXT: Map447/events/41/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+メローナを呼べるようになった！
+> CONTEXT: Map447/events/41/pages/0/215/Dialogue < UNTRANSLATED
+> CONTEXT: Map452/events/9/pages/0/427/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふにゃ～、残念……
+> CONTEXT: Map447/events/41/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING

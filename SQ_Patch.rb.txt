@@ -1,0 +1,666 @@
+> BEGIN STRING
+sqt2.1.0
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Q_Map%03d.rxdata
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+P_Map%03d.rxdata
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Data/Map%03d.rxdata
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+@
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+!
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+隠密+1
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+隠密+2
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Q_MapInfos.rxdata
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Data/MapInfos.rxdata
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+ランダム
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+C
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+D
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+A
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+遠見+1
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+遠見+2
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+rb
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Save_Temp.rxdata
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Opening
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Light Sleep
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+ReadingRoom
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Private Room
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+RoyalLib
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Kingdom Palace
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+RoyalLibD
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Strayed World
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Reudf
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Cave's Echoes
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Eltumb
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Forest Sanctuary
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+AnjosA
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Dubious Ritual
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+AnjosB
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Neighborhood of River
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+AnjosC
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Something fearful
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Gosbern
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+One day in the Desert
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+EstRoom
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Lilith -Twisted-
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Wonderland
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Fairy tale waltz
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Kvalatte
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Solitary Road
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+PrimeDream
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Elektrisches Meer
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Battle
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+One night in a harem
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Battle-Boss
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Obstructer
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Battle-Est
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Dragger into the sea
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Battle-Thafi
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+One-Time Warmth
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Battle-Last
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+At a bottom of the Abyss
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Ending
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Lamiel
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+sou-[fountain]-rce
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Neltup
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Misty Forest
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Neltup_Boss
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Wall of Insecurity
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Stella
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Mischief!
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Opening
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_ReadingRoom
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_RoyalLib
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_Theorell
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_Eltumb
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+UnicornHorn
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_Anjos_A
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_Anjos_B
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_Anjos_C
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_Gosbern
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_WeirdWorld2
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_Wonderland
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_Kvalatte
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_PrimeDream
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Battle
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Battle(Boss)
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Battle(Est)
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Battle(Thafi)
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Battle(Last)
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Ending
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Stella
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Dungeon_Neltup
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Battle(Boss2)
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Battle(Stella)
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Audio/BGM/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Actor-Ayxect_F
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Actor-AyxectCat_F
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Actor-AyxectAngel_F
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Actor-AyxectAlice_F
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Ayxect_F
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Actor-Ayxect
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Actor-AyxectCat
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Actor-AyxectAngel
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Actor-AyxectAlice
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQT_Ayxect_M
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Black
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+System/BattleComm_BG
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Guide_01
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Guide_02
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Graphics/Transitions/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Map
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/,/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/04/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/BGM/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/Transitions/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+

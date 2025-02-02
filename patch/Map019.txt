@@ -1,0 +1,94 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「おめでたさまでございます！
+　まずは最初の！読破？踏破？
+> CONTEXT: Map019/events/1/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これまた見事な夢の跡！
+　十進法であらわさば……
+> CONTEXT: Map019/events/1/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Rugeiyu"
+> CONTEXT: Map019/events/1/pages/0/19/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+\\v[1]
+> CONTEXT: Map019/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「といったところでしょう！
+　ぱちぱちぱち！
+> CONTEXT: Map019/events/1/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+\\i[200]\\c[3]小ネルトゥプ記\\c[0]に記録が書き込まれた！
+> CONTEXT: Map019/events/1/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+王子に見立てたぬいぐるみが玉座に置かれている
+> CONTEXT: Map019/events/2/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぬいぐるみを取りますか？
+> CONTEXT: Map019/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/3/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かわいいぬいぐるみが玉座に置かれている
+> CONTEXT: Map019/events/2/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/3/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\i[15]\\c[3]ぬいぐるみ\\c[0]のレベルが上がった！
+> CONTEXT: Map019/events/2/pages/2/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/3/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姫に見立てたぬいぐるみが玉座に置かれている
+> CONTEXT: Map019/events/3/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「初めて見る夢魔じゃな……
+> CONTEXT: Map019/events/4/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「無視して戻ることもできそうじゃが……
+> CONTEXT: Map019/events/4/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さて、どうしたものか。
+> CONTEXT: Map019/events/4/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING

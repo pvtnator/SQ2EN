@@ -1,0 +1,2429 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+〔インセンス〕　EP回復(小)
+> CONTEXT: Items/1/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+105-Heal01
+> CONTEXT: Items/1/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/2/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/3/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/4/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/31/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/32/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイプレスウッド
+> CONTEXT: Items/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復(中)
+> CONTEXT: Items/2/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復 / ムードアップ
+> CONTEXT: Items/3/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復(大)
+> CONTEXT: Items/4/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　テンションアップ(小)
+> CONTEXT: Items/5/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+108-Heal04
+> CONTEXT: Items/5/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/6/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/33/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/34/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メリッサ
+> CONTEXT: Items/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　テンションアップ(中)
+> CONTEXT: Items/6/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　テンションアップ / ムードアップ
+> CONTEXT: Items/7/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　テンションアップ(大)
+> CONTEXT: Items/8/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　ムードアップ(小)
+> CONTEXT: Items/9/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　ムードアップ(中)
+> CONTEXT: Items/10/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　ムードアップ(大)
+> CONTEXT: Items/11/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復 / テンション低下
+> CONTEXT: Items/12/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復 / 恍惚無効 / テンション低下
+> CONTEXT: Items/13/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復 / テンションアップ / ムードアップ
+> CONTEXT: Items/14/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼラニウム
+> CONTEXT: Items/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔エッセンス〕　パニック回復
+> CONTEXT: Items/15/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+113-Remedy01
+> CONTEXT: Items/15/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/16/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/17/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/18/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/98/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カモミール
+> CONTEXT: Items/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔エッセンス〕　センシブ回復 / ナーバス回復
+> CONTEXT: Items/16/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディルエッセンス
+> CONTEXT: Items/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クラムジ回復 / ミニマム回復 / ヴィジョン回復
+> CONTEXT: Items/17/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キュアエッセンス
+> CONTEXT: Items/18/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パニック回復 / センシブ回復 / ナーバス回復
+> CONTEXT: Items/18/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■ティー■■
+> CONTEXT: Items/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミントティー
+> CONTEXT: Items/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ティー〕　EP回復 / テンションアップ
+> CONTEXT: Items/21/description/ < UNTRANSLATED
+> CONTEXT: Items/23/description/ < UNTRANSLATED
+> CONTEXT: Items/28/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アールグレイ
+> CONTEXT: Items/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ティー〕　EP回復
+> CONTEXT: Items/22/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャーイ
+> CONTEXT: Items/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ローズティー
+> CONTEXT: Items/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ティー〕　テンションアップ
+> CONTEXT: Items/26/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+107-Heal03
+> CONTEXT: Items/26/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エーランドブレンド
+> CONTEXT: Items/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ティー〕　EP全回復
+> CONTEXT: Items/27/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロイヤルグルッペン
+> CONTEXT: Items/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■ドラッグ■■
+> CONTEXT: Items/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鎮静剤
+> CONTEXT: Items/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドラッグ〕 EP回復 / 副作用もあるかも…？
+> CONTEXT: Items/31/description/ < UNTRANSLATED
+> CONTEXT: Items/32/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強化鎮静剤
+> CONTEXT: Items/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+興奮剤
+> CONTEXT: Items/33/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドラッグ〕 テンションアップ / 副作用もあるかも…？
+> CONTEXT: Items/33/description/ < UNTRANSLATED
+> CONTEXT: Items/34/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強化興奮剤
+> CONTEXT: Items/34/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シンセミア
+> CONTEXT: Items/35/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドラッグ〕 EP回復 / テンションアップ / 副作用
+> CONTEXT: Items/35/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+112-Heal08
+> CONTEXT: Items/35/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■ツール■■
+> CONTEXT: Items/39/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャミングブーケ
+> CONTEXT: Items/40/name/ < UNTRANSLATED
+> CONTEXT: Skills/534/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 相手一人を放心状態にする花束
+> CONTEXT: Items/40/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミスリルアイアン
+> CONTEXT: Items/41/name/ < UNTRANSLATED
+> CONTEXT: Skills/532/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 相手一人をバインド状態にする拘束具
+> CONTEXT: Items/41/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔の触手
+> CONTEXT: Items/42/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 相手一人に一定ターンの間快感を与え続ける触手
+> CONTEXT: Items/42/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エーテルローション
+> CONTEXT: Items/43/name/ < UNTRANSLATED
+> CONTEXT: Skills/533/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 相手一人をセンシブ状態にする媚薬
+> CONTEXT: Items/43/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■その他■■
+> CONTEXT: Items/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本の一頁
+> CONTEXT: Items/46/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今ブックシェルフに入っている本の一頁　リアリティを高める
+> CONTEXT: Items/46/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+046-Book01
+> CONTEXT: Items/46/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/47/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+万象の辞書
+> CONTEXT: Items/47/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげなアイテムを鑑定する辞書
+> CONTEXT: Items/47/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+思考研ぎの石
+> CONTEXT: Items/48/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備のレベルを1上げることができる石
+> CONTEXT: Items/48/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+思考焼きの炎
+> CONTEXT: Items/49/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備の付加効果を1つだけ消す炎
+> CONTEXT: Items/49/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神の浄火
+> CONTEXT: Items/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備のネガティブ効果を全て消す炎
+> CONTEXT: Items/50/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+孤独の香水
+> CONTEXT: Items/51/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不思議な匂いで異性に気づかれなくなる香水
+> CONTEXT: Items/51/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誘引の香水
+> CONTEXT: Items/52/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不思議な匂いで異性を引きつける香水
+> CONTEXT: Items/52/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まどろみの一滴
+> CONTEXT: Items/53/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いつのまにかバトルから離脱している魔法の薬
+> CONTEXT: Items/53/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カースドアイアン
+> CONTEXT: Items/55/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 呪われた拘束具
+> CONTEXT: Items/55/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルゥインローション
+> CONTEXT: Items/56/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 呪われた媚薬
+> CONTEXT: Items/56/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪意の触手
+> CONTEXT: Items/57/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 呪われた触手
+> CONTEXT: Items/57/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レベルリミッター
+> CONTEXT: Items/58/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に合わせて自分のレベルを制限する
+> CONTEXT: Items/58/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人魚の涙
+> CONTEXT: Items/60/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+詩人の心を狂わせる、人魚が流した涙
+> CONTEXT: Items/60/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使うといつのまにか読書室に戻っている魔法の薬
+> CONTEXT: Items/62/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■未鑑定装備■■
+> CONTEXT: Items/70/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげな腕輪
+> CONTEXT: Items/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげに存在する腕輪　このままでは装備できない
+> CONTEXT: Items/71/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげな袖飾り
+> CONTEXT: Items/72/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげに存在する袖飾り　このままでは装備できない
+> CONTEXT: Items/72/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげな手袋
+> CONTEXT: Items/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげに存在する手袋　このままでは装備できない
+> CONTEXT: Items/73/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげな飾り帯
+> CONTEXT: Items/74/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげに存在する飾り帯　このままでは装備できない
+> CONTEXT: Items/74/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげな首飾り
+> CONTEXT: Items/75/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげに存在する首飾り　このままでは装備できない
+> CONTEXT: Items/75/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげな指輪
+> CONTEXT: Items/76/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげに存在する指輪　このままでは装備できない
+> CONTEXT: Items/76/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ドリンク
+> CONTEXT: Items/85/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファドゥルサワー
+> CONTEXT: Items/86/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファドゥル麦を発酵させて作った麦酒
+> CONTEXT: Items/86/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SQ_Drink
+> CONTEXT: Items/86/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/87/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/88/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/90/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スウィートミョッズ
+> CONTEXT: Items/87/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蜂蜜酒と果汁で作った甘いお酒　女性にも人気
+> CONTEXT: Items/87/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クヴァラットミルク
+> CONTEXT: Items/88/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+飲みやすい羊のミルク
+> CONTEXT: Items/88/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マトンジャーキー
+> CONTEXT: Items/89/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+塩漬けにした羊の肉を天日で干した料理
+> CONTEXT: Items/89/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SQ_Food
+> CONTEXT: Items/89/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/91/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スモークサーモン
+> CONTEXT: Items/90/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サケの切り身を樹木のチップで燻製にした料理
+> CONTEXT: Items/90/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベイクドアップル
+> CONTEXT: Items/91/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シナモンとミレットシュガーを詰めたリンゴを焼いた料理
+> CONTEXT: Items/91/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シリアスシリアル
+> CONTEXT: Items/98/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酔い覚ましの効果がある麦の実
+> CONTEXT: Items/98/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■本-場所
+> CONTEXT: Items/99/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+交換日記
+> CONTEXT: Items/100/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイゼクトとサフィの交換日記
+> CONTEXT: Items/100/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+図書館見取り図
+> CONTEXT: Items/101/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔地図帳〕 グルッペン王立図書館の見取り図
+> CONTEXT: Items/101/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『一角獣の角』見取り図
+> CONTEXT: Items/102/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔地図帳〕 王都の酒場『一角獣の角』の見取り図
+> CONTEXT: Items/102/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リュードゥフ洞地図
+> CONTEXT: Items/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔地図帳〕 リュードゥフ洞の地図
+> CONTEXT: Items/103/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルトゥム森林地図
+> CONTEXT: Items/104/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔地図帳〕 エルトゥム森林の地図
+> CONTEXT: Items/104/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エストの部屋見取り図
+> CONTEXT: Items/105/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔地図帳〕 夢魔エストの部屋の見取り図
+> CONTEXT: Items/105/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴズバーン砂漠地図
+> CONTEXT: Items/107/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔地図帳〕 ゴズバーン砂漠の地図
+> CONTEXT: Items/107/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アンショス海図
+> CONTEXT: Items/108/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔地図帳〕 アンショス海の海図
+> CONTEXT: Items/108/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不思議の地図
+> CONTEXT: Items/109/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔地図帳〕 見たことも無い地形が広がる奇妙な地図
+> CONTEXT: Items/109/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+理想郷への地図
+> CONTEXT: Items/110/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔地図帳〕 理想郷クヴァラットへ続く道を示したという地図
+> CONTEXT: Items/110/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クヴァラットのしおり
+> CONTEXT: Items/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔しおり〕 理想郷クヴァラットのしおり
+> CONTEXT: Items/111/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネルトゥプ島地図
+> CONTEXT: Items/113/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔地図帳〕 ネルトゥプ島の地図
+> CONTEXT: Items/113/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白の史書（妖精）
+> CONTEXT: Items/116/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 表紙にドルヌスの紋章と妖精が描かれた白紙の本
+> CONTEXT: Items/116/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白の史書（獣）
+> CONTEXT: Items/117/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 表紙にドルヌスの紋章と獣が描かれた白紙の本
+> CONTEXT: Items/117/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白の史書（少女）
+> CONTEXT: Items/118/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 表紙にラミエルの紋章と少女が描かれた白紙の本
+> CONTEXT: Items/118/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白の史書（トカゲ）
+> CONTEXT: Items/119/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 表紙にラミエルの紋章とトカゲが描かれた白紙の本
+> CONTEXT: Items/119/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■本-夢魔
+> CONTEXT: Items/120/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔史Ⅰ
+> CONTEXT: Items/121/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 夢魔についての伝承が綴られた本
+> CONTEXT: Items/121/description/ < UNTRANSLATED
+> CONTEXT: Items/122/description/ < UNTRANSLATED
+> CONTEXT: Items/123/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔史Ⅱ
+> CONTEXT: Items/122/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔史Ⅲ
+> CONTEXT: Items/123/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イタズラ日記
+> CONTEXT: Items/124/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 小悪魔たちのイタズラ日記
+> CONTEXT: Items/124/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+森の記憶
+> CONTEXT: Items/125/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 妖精が綴ったある森の歴史
+> CONTEXT: Items/125/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+妖精詩学史
+> CONTEXT: Items/126/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 詩人と妖精の歴史を綴った本
+> CONTEXT: Items/126/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏の夜の夢
+> CONTEXT: Items/127/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 ある夏の夜のロマンスを妖精が綴った本
+> CONTEXT: Items/127/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+執行人の日誌
+> CONTEXT: Items/128/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 ある死刑執行人の綴った日誌
+> CONTEXT: Items/128/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フォレ・ヒストリエ
+> CONTEXT: Items/129/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 騎士と森の精のロマンスを綴った本
+> CONTEXT: Items/129/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+猫又伝説
+> CONTEXT: Items/130/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 東洋に伝わる猫の魔物の伝承が綴られた本
+> CONTEXT: Items/130/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔猫王国史
+> CONTEXT: Items/131/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 猫たちの王国の歴史を綴った本
+> CONTEXT: Items/131/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獅子王戦記
+> CONTEXT: Items/132/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 砂漠の王と獅子の怪物の戦いを綴った本
+> CONTEXT: Items/132/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獣人史
+> CONTEXT: Items/133/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 獣に変身する人間の伝承を綴った本
+> CONTEXT: Items/133/description/ < UNTRANSLATED
+> CONTEXT: Items/134/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獣人史Ⅱ
+> CONTEXT: Items/134/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トカゲ窟探検記
+> CONTEXT: Items/135/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 調査隊によるトカゲ窟の探検記
+> CONTEXT: Items/135/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サーパントロマンス
+> CONTEXT: Items/136/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 半蛇の妖精と人間のロマンスを綴った本
+> CONTEXT: Items/136/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼蛇伝
+> CONTEXT: Items/137/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 多くの神や魔物と交わった半蛇の魔物の伝説を綴った本
+> CONTEXT: Items/137/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+炎竜史伝
+> CONTEXT: Items/138/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 炎をまとった竜の伝説を綴った本
+> CONTEXT: Items/138/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宝竜史伝
+> CONTEXT: Items/139/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 額に宝石を持つ竜の伝説を綴った本
+> CONTEXT: Items/139/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイド叙事詩
+> CONTEXT: Items/140/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 ある吟遊詩人が綴った人魚の物語
+> CONTEXT: Items/140/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+海峡奇伝Ⅰ
+> CONTEXT: Items/141/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 海に現れる奇妙な魔物の伝説が綴られた本
+> CONTEXT: Items/141/description/ < UNTRANSLATED
+> CONTEXT: Items/169/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ある少女の日記
+> CONTEXT: Items/142/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 夢魔に襲われたある少女の日記
+> CONTEXT: Items/142/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弔辞録Ⅰ
+> CONTEXT: Items/143/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 死の妖精が綴った弔辞の数々
+> CONTEXT: Items/143/description/ < UNTRANSLATED
+> CONTEXT: Items/144/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弔辞録Ⅱ
+> CONTEXT: Items/144/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オヴェルーク戦記
+> CONTEXT: Items/145/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 勇者の戦いの記録
+> CONTEXT: Items/145/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+英雄の最期
+> CONTEXT: Items/146/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 妖精の英雄と死の女神の悲恋を綴った本
+> CONTEXT: Items/146/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エーランド聖典Ⅰ
+> CONTEXT: Items/148/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 エーランド教の教えが記された本
+> CONTEXT: Items/148/description/ < UNTRANSLATED
+> CONTEXT: Items/149/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エーランド聖典Ⅱ
+> CONTEXT: Items/149/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+九尾伝説Ⅰ
+> CONTEXT: Items/150/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 東洋に伝わる狐の魔物の伝承が綴られた本
+> CONTEXT: Items/150/description/ < UNTRANSLATED
+> CONTEXT: Items/151/description/ < UNTRANSLATED
+> CONTEXT: Items/152/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+九尾伝説Ⅱ
+> CONTEXT: Items/151/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+九尾伝説Ⅲ
+> CONTEXT: Items/152/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奇東忍法帖Ⅰ
+> CONTEXT: Items/153/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 キアズマの国に伝わるニンジャの伝承が綴られた本
+> CONTEXT: Items/153/description/ < UNTRANSLATED
+> CONTEXT: Items/154/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奇東忍法帖Ⅱ
+> CONTEXT: Items/154/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スレイヴダイアリーⅠ
+> CONTEXT: Items/155/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 女王に仕えるある奴隷の日記
+> CONTEXT: Items/155/description/ < UNTRANSLATED
+> CONTEXT: Items/156/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スレイヴダイアリーⅡ
+> CONTEXT: Items/156/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇の血族Ⅰ
+> CONTEXT: Items/157/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 吸血鬼による闇の歴史が記された本
+> CONTEXT: Items/157/description/ < UNTRANSLATED
+> CONTEXT: Items/158/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇の血族Ⅱ
+> CONTEXT: Items/158/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+罪業史-色欲
+> CONTEXT: Items/159/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 色欲の大罪を司る悪魔の所業が綴られた本
+> CONTEXT: Items/159/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+罪業史-嫉妬
+> CONTEXT: Items/160/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 嫉妬の大罪を司る悪魔の所業が綴られた本
+> CONTEXT: Items/160/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+罪業史-強欲
+> CONTEXT: Items/161/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 強欲の大罪を司る悪魔の所業が綴られた本
+> CONTEXT: Items/161/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+罪業史-傲慢
+> CONTEXT: Items/162/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 傲慢の大罪を司る悪魔の所業が綴られた本
+> CONTEXT: Items/162/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+読書日記
+> CONTEXT: Items/163/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 ある史書の読書日記
+> CONTEXT: Items/163/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白兎冒険記Ⅰ
+> CONTEXT: Items/164/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 不思議の国に迷い込んだ少女の物語
+> CONTEXT: Items/164/description/ < UNTRANSLATED
+> CONTEXT: Items/165/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白兎冒険記Ⅱ
+> CONTEXT: Items/165/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジャバウォッキーⅠ
+> CONTEXT: Items/166/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 鏡文字で書かれた奇妙な詩
+> CONTEXT: Items/166/description/ < UNTRANSLATED
+> CONTEXT: Items/167/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジャバウォッキーⅡ
+> CONTEXT: Items/167/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+門番日誌
+> CONTEXT: Items/168/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 地獄の門番のつけた日誌
+> CONTEXT: Items/168/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+海峡奇伝Ⅱ
+> CONTEXT: Items/169/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大ネルトゥプ記
+> CONTEXT: Items/171/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 ネルトゥプ島の歴史を記した本
+> CONTEXT: Items/171/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドルヌス史Ⅰ
+> CONTEXT: Items/173/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 魔物の国ドルヌスの歴史を記した本
+> CONTEXT: Items/173/description/ < UNTRANSLATED
+> CONTEXT: Items/174/description/ < UNTRANSLATED
+> CONTEXT: Items/175/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドルヌス史Ⅱ
+> CONTEXT: Items/174/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドルヌス史Ⅲ
+> CONTEXT: Items/175/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラミエル史Ⅰ
+> CONTEXT: Items/176/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔史書〕 ラミエル王国の歴史を記した本
+> CONTEXT: Items/176/description/ < UNTRANSLATED
+> CONTEXT: Items/177/description/ < UNTRANSLATED
+> CONTEXT: Items/178/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラミエル史Ⅱ
+> CONTEXT: Items/177/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラミエル史Ⅲ
+> CONTEXT: Items/178/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■本-その他
+> CONTEXT: Items/179/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドラゴンロア
+> CONTEXT: Items/180/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔指南書〕 竜の知識が書かれた指南書
+> CONTEXT: Items/180/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+初級トレジャーハント
+> CONTEXT: Items/181/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔指南書〕 より多く宝箱を手に入れるための指南書
+> CONTEXT: Items/181/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダンジョンシーカー
+> CONTEXT: Items/182/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔指南書〕 ダンジョンをスムーズに探索するための指南書
+> CONTEXT: Items/182/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+隠密の指南書
+> CONTEXT: Items/183/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔指南書〕 相手に気づかれにくくなるための指南書
+> CONTEXT: Items/183/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遠見の指南書
+> CONTEXT: Items/184/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔指南書〕 相手を遠くから見つけるための指南書
+> CONTEXT: Items/184/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+警戒の指南書
+> CONTEXT: Items/185/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔指南書〕 相手に先制されにくくなる指南書
+> CONTEXT: Items/185/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先制の指南書
+> CONTEXT: Items/186/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔指南書〕 先制して攻撃しやすくなる指南書
+> CONTEXT: Items/186/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上級トレジャーハント
+> CONTEXT: Items/187/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔指南書〕 より良いお宝を手に入れるための指南書
+> CONTEXT: Items/187/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+虫捕りガイド
+> CONTEXT: Items/188/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔指南書〕 紋白蝶をちょっとだけ見つけやすくなる指南書
+> CONTEXT: Items/188/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+経験の指南書
+> CONTEXT: Items/189/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔指南書〕 経験をより多く積むための指南書
+> CONTEXT: Items/189/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔導構造解析
+> CONTEXT: Items/190/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔学術書〕 魔法をリアルにする学術書
+> CONTEXT: Items/190/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢分析入門
+> CONTEXT: Items/191/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔学術書〕 「君を知りたい」をリアルにする学術書
+> CONTEXT: Items/191/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誘惑者の術
+> CONTEXT: Items/192/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔学術書〕 「君をとりこに」をリアルにする学術書
+> CONTEXT: Items/192/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無意識の旅
+> CONTEXT: Items/193/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔学術書〕 「どこか遠くへ」をリアルにする学術書
+> CONTEXT: Items/193/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢の深淵
+> CONTEXT: Items/194/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔学術書〕 「夢と一つに」をリアルにする学術書
+> CONTEXT: Items/194/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+快楽の彼岸
+> CONTEXT: Items/195/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔学術書〕 「あまねき愛を」をリアルにする学術書
+> CONTEXT: Items/195/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+記憶と物質
+> CONTEXT: Items/196/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔学術書〕 「忘れたくない」をリアルにする学術書
+> CONTEXT: Items/196/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時間と空間
+> CONTEXT: Items/197/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔学術書〕 「時よ止まれ」をリアルにする学術書
+> CONTEXT: Items/197/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■キーアイテム■■
+> CONTEXT: Items/198/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の絵本
+> CONTEXT: Items/199/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔キーアイテム〕 出会った夢魔の姿かたちがひとりでに描かれる絵本
+> CONTEXT: Items/199/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小ネルトゥプ記
+> CONTEXT: Items/200/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔キーアイテム〕 アイゼクトのネルトゥプ島での冒険の記録
+> CONTEXT: Items/200/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+覇王樹の蜜水
+> CONTEXT: Items/201/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔キーアイテム〕 砂漠のサボテンから採れる珍しいお酒
+> CONTEXT: Items/201/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バックパック
+> CONTEXT: Items/202/name/ < UNTRANSLATED
+> CONTEXT: Items/203/name/ < UNTRANSLATED
+> CONTEXT: Items/204/name/ < UNTRANSLATED
+> CONTEXT: Items/205/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔キーアイテム〕 持てるアイテムの上限+5
+> CONTEXT: Items/202/description/ < UNTRANSLATED
+> CONTEXT: Items/203/description/ < UNTRANSLATED
+> CONTEXT: Items/204/description/ < UNTRANSLATED
+> CONTEXT: Items/205/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サフィのリボン
+> CONTEXT: Items/206/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔キーアイテム〕 アイゼクトがサフィに贈ったリボン
+> CONTEXT: Items/206/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サフィの似顔絵
+> CONTEXT: Items/207/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔キーアイテム〕 サフィにそっくりの似顔絵
+> CONTEXT: Items/207/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の森の画布
+> CONTEXT: Items/209/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の森の絵が描かれた画布
+> CONTEXT: Items/209/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+迷宮の画布
+> CONTEXT: Items/210/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+迷宮の絵が描かれた画布
+> CONTEXT: Items/210/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+森の画布
+> CONTEXT: Items/211/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+森の絵が描かれた画布
+> CONTEXT: Items/211/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+洞窟の画布
+> CONTEXT: Items/212/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+洞窟の絵が描かれた画布
+> CONTEXT: Items/212/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+海底の画布
+> CONTEXT: Items/213/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+海底の絵が描かれた画布
+> CONTEXT: Items/213/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砂漠の画布
+> CONTEXT: Items/214/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砂漠の絵が描かれた画布
+> CONTEXT: Items/214/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平原の画布
+> CONTEXT: Items/215/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平原の絵が描かれた画布
+> CONTEXT: Items/215/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+室内の画布
+> CONTEXT: Items/216/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+室内の絵が描かれた画布
+> CONTEXT: Items/216/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+月夜の画布
+> CONTEXT: Items/217/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+月夜の絵が描かれた画布
+> CONTEXT: Items/217/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+花畑の画布
+> CONTEXT: Items/218/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+花畑の絵が描かれた画布
+> CONTEXT: Items/218/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽曲『ハーレムの一夜』
+> CONTEXT: Items/219/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+曲の書かれた楽譜
+> CONTEXT: Items/219/description/ < UNTRANSLATED
+> CONTEXT: Items/220/description/ < UNTRANSLATED
+> CONTEXT: Items/221/description/ < UNTRANSLATED
+> CONTEXT: Items/222/description/ < UNTRANSLATED
+> CONTEXT: Items/223/description/ < UNTRANSLATED
+> CONTEXT: Items/230/description/ < UNTRANSLATED
+> CONTEXT: Items/231/description/ < UNTRANSLATED
+> CONTEXT: Items/232/description/ < UNTRANSLATED
+> CONTEXT: Items/233/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽曲『妨害者』
+> CONTEXT: Items/220/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽曲『水底の誘惑者』
+> CONTEXT: Items/221/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽曲『ぬくもりの欠片』
+> CONTEXT: Items/222/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽曲『深淵にて』
+> CONTEXT: Items/223/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姫のぬいぐるみ
+> CONTEXT: Items/225/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔キーアイテム〕 ラミエルの姫に見立てられたぬいぐるみ
+> CONTEXT: Items/225/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+王子のぬいぐるみ
+> CONTEXT: Items/226/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔キーアイテム〕 ドルヌスの王子に見立てられたぬいぐるみ
+> CONTEXT: Items/226/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一角獣の角
+> CONTEXT: Items/228/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔キーアイテム〕 ユニコーンの角を粉末にした、癒しの薬
+> CONTEXT: Items/228/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽曲『水=源』
+> CONTEXT: Items/230/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽曲『霧の森』
+> CONTEXT: Items/231/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽曲『不安のカベ』
+> CONTEXT: Items/232/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽曲『い・た・ず・ら！』
+> CONTEXT: Items/233/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幻想の指輪
+> CONTEXT: Items/298/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目に見えなく手でも触れられないが、存在だけはそこにある奇妙な指輪
+> CONTEXT: Items/298/description/ < UNTRANSLATED
+> CONTEXT: Items/299/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+虚構の指輪
+> CONTEXT: Items/299/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デバッガー
+> CONTEXT: Items/300/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+> CONTEXT: Items/400/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア
+> CONTEXT: Items/401/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アスモデ
+> CONTEXT: Items/402/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリス
+> CONTEXT: Items/403/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インプ
+> CONTEXT: Items/405/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルプ
+> CONTEXT: Items/406/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/153/474/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリム
+> CONTEXT: Items/407/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピクシー
+> CONTEXT: Items/410/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リャナンシー
+> CONTEXT: Items/411/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニア
+> CONTEXT: Items/412/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドライアド
+> CONTEXT: Items/415/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+> CONTEXT: Items/416/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/153/218/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴェルデレット
+> CONTEXT: Items/417/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタ
+> CONTEXT: Items/420/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ケットシー
+> CONTEXT: Items/421/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スフィンクス
+> CONTEXT: Items/422/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/175/22/Label < UNTRANSLATED
+> CONTEXT: Commonevents/175/83/Label < UNTRANSLATED
+> CONTEXT: Commonevents/175/164/Label < UNTRANSLATED
+> CONTEXT: Commonevents/175/180/Label < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラックキャット
+> CONTEXT: Items/423/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワーウルフ
+> CONTEXT: Items/425/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ケルベロス
+> CONTEXT: Items/427/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラミア
+> CONTEXT: Items/430/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メリュジーヌ
+> CONTEXT: Items/431/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エキドナ
+> CONTEXT: Items/432/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リザードマン
+> CONTEXT: Items/435/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダー
+> CONTEXT: Items/436/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィーヴル
+> CONTEXT: Items/437/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイド
+> CONTEXT: Items/440/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レヴィアタン
+> CONTEXT: Items/442/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキュラ
+> CONTEXT: Items/443/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カリュブディス
+> CONTEXT: Items/444/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィレッジャ
+> CONTEXT: Items/445/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/153/474/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バンシー
+> CONTEXT: Items/447/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/153/474/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルバスタ
+> CONTEXT: Items/448/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピー
+> CONTEXT: Items/450/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイレーン
+> CONTEXT: Items/451/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンジェル
+> CONTEXT: Items/455/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガブリエル
+> CONTEXT: Items/456/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルシフェル
+> CONTEXT: Items/457/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クズノハ
+> CONTEXT: Items/460/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダッキ
+> CONTEXT: Items/461/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+タマモ
+> CONTEXT: Items/462/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クノイチ
+> CONTEXT: Items/465/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハツメ
+> CONTEXT: Items/466/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホワイトラビット
+> CONTEXT: Items/470/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーチヘア
+> CONTEXT: Items/471/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジャバウォック
+> CONTEXT: Items/475/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジャブジャブ
+> CONTEXT: Items/480/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サロメ
+> CONTEXT: Items/490/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァンパイア
+> CONTEXT: Items/495/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カーミラ
+> CONTEXT: Items/497/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミミック
+> CONTEXT: Items/500/name/ < UNTRANSLATED
+> CONTEXT: Skills/717/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミミック☆
+> CONTEXT: Items/501/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マモン
+> CONTEXT: Items/502/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クィーンメイブ
+> CONTEXT: Items/505/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイェストレ
+> CONTEXT: Items/506/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドラグーン
+> CONTEXT: Items/510/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プロフェテス
+> CONTEXT: Items/511/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソルジャー
+> CONTEXT: Items/512/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スライム
+> CONTEXT: Items/513/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユニコーン
+> CONTEXT: Items/515/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴブリン
+> CONTEXT: Items/516/name/ < UNTRANSLATED
+
+> END STRING

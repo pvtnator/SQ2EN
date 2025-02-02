@@ -1,0 +1,125 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQT_Dungeon_Wonderland
+> CONTEXT: Map472/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼろげにドアが見える…
+> CONTEXT: Map472/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map461/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map450/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map445/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map427/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/24/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今はこれ以上進めないようだ
+> CONTEXT: Map472/events/1/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map461/events/3/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map450/events/1/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map445/events/2/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map427/events/2/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/24/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこへ行きたい？
+　どこへ行きたい？
+> CONTEXT: Map472/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこへ行くの？
+　どこへ行きたい？
+> CONTEXT: Map472/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map472/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこまで行くの？
+　どこへ行きたい？
+> CONTEXT: Map472/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map472/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこから行こう？
+　どこへ行きたい？
+> CONTEXT: Map472/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこから来たの？
+　どこへ行きたい？
+> CONTEXT: Map472/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"カッチュウ"
+> CONTEXT: Map472/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map472/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map472/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map472/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map472/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map472/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map472/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map472/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガシャン！ガシャン！
+> CONTEXT: Map472/events/9/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map472/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ドカ！バキ！
+　ガスッ！
+> CONTEXT: Map472/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「シーン………
+> CONTEXT: Map472/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガシャ！
+　ガシャシャシャシャ！
+> CONTEXT: Map472/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガシャン！
+　ウィー……………
+　ガシャン！
+> CONTEXT: Map472/events/14/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガシャガシャ！
+> CONTEXT: Map472/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「チャキィィィン！
+> CONTEXT: Map472/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,207 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「やれやれ……
+> CONTEXT: Map423/events/1/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこの誰が考えた？
+　このような。
+　馬鹿馬鹿しい。
+> CONTEXT: Map423/events/1/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いるはずがない。
+　このような……
+> CONTEXT: Map423/events/1/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"？？？/Est/09"
+> CONTEXT: Map423/events/1/pages/0/86/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map005/events/2/pages/0/29/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも残念。
+　現にいるのよ、おじいちゃん。
+> CONTEXT: Map423/events/1/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\d現にいるだと\\d？
+　馬鹿を言う。
+> CONTEXT: Map423/events/1/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「貴様らは夢の魔物。
+　夢であることが貴様らそのもの。
+> CONTEXT: Map423/events/1/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何の力も持たぬ。
+　一時の幻想。
+　稚拙な虚構。
+> CONTEXT: Map423/events/1/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「笑わせてくれる。
+　\\d夢が現にあるなどと\\d。
+> CONTEXT: Map423/events/1/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「素敵……
+> CONTEXT: Map423/events/1/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ、どうするの？
+　感じちゃうわ。
+　そんなふうに言われたら……
+> CONTEXT: Map423/events/1/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたを、つかまえて、
+　とっても愛して、
+　もっと愛されて、
+> CONTEXT: Map423/events/1/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ、もうぐちゃぐちゃになるまで。
+　感じちゃうわ。
+　犯したくなっちゃうじゃない。
+> CONTEXT: Map423/events/1/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「貴様は誰じゃ。
+> CONTEXT: Map423/events/1/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ、どうするの？
+> CONTEXT: Map423/events/1/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…夢魔……
+　ならばこれも夢か。
+> CONTEXT: Map423/events/1/pages/0/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうね……
+> CONTEXT: Map423/events/1/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、いつから？
+> CONTEXT: Map423/events/1/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今考えてることは、
+　どれもはずれよ。
+> CONTEXT: Map423/events/1/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「教えてあげる。
+　これから、ゆっくり、
+> CONTEXT: Map423/events/1/pages/0/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いつまでも。
+　ね、醒めない夢で……
+> CONTEXT: Map423/events/1/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「誰と話している？
+> CONTEXT: Map423/events/1/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや、待て、
+　そこにいるのは……
+> CONTEXT: Map423/events/1/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「若い頃の……
+> CONTEXT: Map423/events/1/pages/0/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたよ。
+　アイゼクト。
+> CONTEXT: Map423/events/1/pages/0/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「若い頃の。
+　女の子のハダカのことばっかり
+　考えてる年頃の\\e[0]
+> CONTEXT: Map423/events/1/pages/0/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ、どう？
+　さっきまでは何でもなかったけど…
+> CONTEXT: Map423/events/1/pages/0/322/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんなエッチなカラダが
+　目の前にあるのよ。
+　興奮してこないかしら？
+> CONTEXT: Map423/events/1/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………～ッ
+> CONTEXT: Map423/events/1/pages/0/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもまだおあずけ\\e[0]
+> CONTEXT: Map423/events/1/pages/0/330/Dialogue < UNTRANSLATED
+
+> END STRING

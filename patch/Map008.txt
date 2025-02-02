@@ -1,0 +1,150 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+装備強化アイテム一斉入手
+> CONTEXT: Map008/events/1/pages/0/0/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユニーク装備一斉入手
+> CONTEXT: Map008/events/1/pages/0/0/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ムードマックスアイテム一斉入手
+> CONTEXT: Map008/events/2/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィッシュ全て習得
+> CONTEXT: Map008/events/3/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黒サフィフラグをONにしますか？
+> CONTEXT: Map008/events/4/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+OFFにするには黒猫でセーブして下さい
+> CONTEXT: Map008/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黒サフィフラグ：ON
+> CONTEXT: Map008/events/4/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デバッグ用オブジェクト
+白の史書のチャージ率を調整します
+> CONTEXT: Map008/events/8/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白の史書（妖精）
+現在のチャージ率 \\v[132]
+> CONTEXT: Map008/events/8/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白の史書（獣）
+現在のチャージ率 \\v[133]
+> CONTEXT: Map008/events/8/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白の史書（少女）
+現在のチャージ率 \\v[134]
+> CONTEXT: Map008/events/8/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白の史書（トカゲ）
+現在のチャージ率 \\v[135]
+> CONTEXT: Map008/events/8/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"紋白蝶"
+> CONTEXT: Map008/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map010/events/35/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/24/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わたしの羽根を、一枚あなたに。
+　わたしの羽根を、一枚夢に。
+> CONTEXT: Map008/events/9/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/35/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふたつをひとつに、
+　いたしましょう。
+> CONTEXT: Map008/events/9/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/35/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二つの装備品を一つに合わせることができます。
+まず「ベース」になる装備品を選び、
+そこに「追加」する装備品を選んで下さい。
+> CONTEXT: Map008/events/9/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/35/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ベース」になった装備品に、
+「追加」した装備品の付加効果が加わります。
+ただし、ユニーク効果（オレンジ色の効果）は
+追加できません。
+> CONTEXT: Map008/events/9/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/35/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備品の付加効果は最大五つです。
+五つ目以降の付加効果は無視されます。
+装備品のレベルは二つの平均になります。
+> CONTEXT: Map008/events/9/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全夢魔登録
+> CONTEXT: Map008/events/10/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"http://www.succubusquest.com/products/sqt/"
+> CONTEXT: Map008/events/11/pages/0/0/InlineScript/1:7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"enq/enq.cgi?ans1=3"
+> CONTEXT: Map008/events/11/pages/0/0/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
