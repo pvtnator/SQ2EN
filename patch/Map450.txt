@@ -29,7 +29,7 @@
 
 > BEGIN STRING
 「！？
-> CONTEXT: Map450/events/6/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map450/events/6/pages/0/12/Dialogue
 「!?
 > END STRING
 

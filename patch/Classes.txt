@@ -13,13 +13,13 @@
 
 > BEGIN STRING
 ストゥーナ
-> CONTEXT: Classes/6/name/ < UNTRANSLATED
+> CONTEXT: Classes/6/name/
 Stona
 > END STRING
 
 > BEGIN STRING
 メローナ
-> CONTEXT: Classes/7/name/ < UNTRANSLATED
+> CONTEXT: Classes/7/name/
 Merona
 > END STRING
 
@@ -32,20 +32,20 @@ Merona
 
 > BEGIN STRING
 エルヴィン
-> CONTEXT: Classes/9/name/ < UNTRANSLATED
+> CONTEXT: Classes/9/name/
 Elvin
 > END STRING
 
 > BEGIN STRING
 エスプラーナ
-> CONTEXT: Classes/10/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/150/250/Choice/2 < UNTRANSLATED
+> CONTEXT: Classes/10/name/
+> CONTEXT: Commonevents/150/250/Choice/2
 Esplana
 > END STRING
 
 > BEGIN STRING
 ラルス
-> CONTEXT: Classes/11/name/ < UNTRANSLATED
+> CONTEXT: Classes/11/name/
 Lars
 > END STRING
 
@@ -57,6 +57,6 @@ Lars
 
 > BEGIN STRING
 ステラ
-> CONTEXT: Classes/13/name/ < UNTRANSLATED
+> CONTEXT: Classes/13/name/
 Stella
 > END STRING

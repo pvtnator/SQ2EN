@@ -322,9 +322,9 @@
 
 > BEGIN STRING
 「……………………
-> CONTEXT: Map476/events/5/pages/0/292/Dialogue < UNTRANSLATED
-> CONTEXT: Map476/events/5/pages/0/304/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/2/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map476/events/5/pages/0/292/Dialogue
+> CONTEXT: Map476/events/5/pages/0/304/Dialogue
+> CONTEXT: Map005/events/2/pages/0/13/Dialogue
 「..........
 > END STRING
 

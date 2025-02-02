@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "男"
-> CONTEXT: Map425/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/3/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map425/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map425/events/3/pages/0/7/InlineScript/1:4
 "Man"
 > END STRING
 
@@ -347,15 +347,15 @@
 
 > BEGIN STRING
 "旅の酒徒"
-> CONTEXT: Map425/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/7/pages/0/12/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/7/pages/0/22/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/7/pages/0/28/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/7/pages/0/37/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/7/pages/0/69/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/7/pages/0/78/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/7/pages/1/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/7/pages/1/10/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map425/events/7/pages/0/0/InlineScript/1:4
+> CONTEXT: Map425/events/7/pages/0/12/InlineScript/1:4
+> CONTEXT: Map425/events/7/pages/0/22/InlineScript/1:4
+> CONTEXT: Map425/events/7/pages/0/28/InlineScript/1:4
+> CONTEXT: Map425/events/7/pages/0/37/InlineScript/1:4
+> CONTEXT: Map425/events/7/pages/0/69/InlineScript/1:4
+> CONTEXT: Map425/events/7/pages/0/78/InlineScript/1:4
+> CONTEXT: Map425/events/7/pages/1/1/InlineScript/1:4
+> CONTEXT: Map425/events/7/pages/1/10/InlineScript/1:4
 "Traveling Alcoholic"
 > END STRING
 

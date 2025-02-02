@@ -1,7 +1,7 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 〔インセンス〕　EP回復(小)
-> CONTEXT: Items/1/description/ < UNTRANSLATED
+> CONTEXT: Items/1/description/
 [Incense] EP Recovery (S)
 > END STRING
 
@@ -18,13 +18,13 @@
 
 > BEGIN STRING
 サイプレスウッド
-> CONTEXT: Items/2/name/ < UNTRANSLATED
+> CONTEXT: Items/2/name/
 Cypress Wood
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　EP回復(中)
-> CONTEXT: Items/2/description/ < UNTRANSLATED
+> CONTEXT: Items/2/description/
 [Incense] EP Recovery (M)
 > END STRING
 
@@ -36,13 +36,13 @@ Cypress Wood
 
 > BEGIN STRING
 〔インセンス〕　EP回復(大)
-> CONTEXT: Items/4/description/ < UNTRANSLATED
+> CONTEXT: Items/4/description/
 [Incense] EP Recovery (L)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　テンションアップ(小)
-> CONTEXT: Items/5/description/ < UNTRANSLATED
+> CONTEXT: Items/5/description/
 [Incense] Tension Up (S)
 > END STRING
 
@@ -57,13 +57,13 @@ Cypress Wood
 
 > BEGIN STRING
 メリッサ
-> CONTEXT: Items/6/name/ < UNTRANSLATED
+> CONTEXT: Items/6/name/
 Melissa
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　テンションアップ(中)
-> CONTEXT: Items/6/description/ < UNTRANSLATED
+> CONTEXT: Items/6/description/
 [Incense] Tension Up (M)
 > END STRING
 
@@ -75,25 +75,25 @@ Melissa
 
 > BEGIN STRING
 〔インセンス〕　テンションアップ(大)
-> CONTEXT: Items/8/description/ < UNTRANSLATED
+> CONTEXT: Items/8/description/
 [Incense] Tension Up (L)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　ムードアップ(小)
-> CONTEXT: Items/9/description/ < UNTRANSLATED
+> CONTEXT: Items/9/description/
 [Incense] Mood Up (S)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　ムードアップ(中)
-> CONTEXT: Items/10/description/ < UNTRANSLATED
+> CONTEXT: Items/10/description/
 [Incense] Mood Up (M)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　ムードアップ(大)
-> CONTEXT: Items/11/description/ < UNTRANSLATED
+> CONTEXT: Items/11/description/
 [Incense] Mood Up (L)
 > END STRING
 
@@ -117,13 +117,13 @@ Melissa
 
 > BEGIN STRING
 ゼラニウム
-> CONTEXT: Items/15/name/ < UNTRANSLATED
+> CONTEXT: Items/15/name/
 Geranium
 > END STRING
 
 > BEGIN STRING
 〔エッセンス〕　パニック回復
-> CONTEXT: Items/15/description/ < UNTRANSLATED
+> CONTEXT: Items/15/description/
 [Essence] Panic recovery
 > END STRING
 
@@ -139,7 +139,7 @@ Geranium
 
 > BEGIN STRING
 カモミール
-> CONTEXT: Items/16/name/ < UNTRANSLATED
+> CONTEXT: Items/16/name/
 Chamomile
 > END STRING
 
@@ -181,7 +181,7 @@ Chamomile
 
 > BEGIN STRING
 ミントティー
-> CONTEXT: Items/21/name/ < UNTRANSLATED
+> CONTEXT: Items/21/name/
 Mint Tea
 > END STRING
 
@@ -195,25 +195,25 @@ Mint Tea
 
 > BEGIN STRING
 アールグレイ
-> CONTEXT: Items/22/name/ < UNTRANSLATED
+> CONTEXT: Items/22/name/
 Earl Grey
 > END STRING
 
 > BEGIN STRING
 〔ティー〕　EP回復
-> CONTEXT: Items/22/description/ < UNTRANSLATED
+> CONTEXT: Items/22/description/
 [Tea] EP recovery
 > END STRING
 
 > BEGIN STRING
 チャーイ
-> CONTEXT: Items/23/name/ < UNTRANSLATED
+> CONTEXT: Items/23/name/
 Chai
 > END STRING
 
 > BEGIN STRING
 ローズティー
-> CONTEXT: Items/26/name/ < UNTRANSLATED
+> CONTEXT: Items/26/name/
 Rose Tea
 > END STRING
 
@@ -231,7 +231,7 @@ Rose Tea
 
 > BEGIN STRING
 エーランドブレンド
-> CONTEXT: Items/27/name/ < UNTRANSLATED
+> CONTEXT: Items/27/name/
 Ehland Blend
 > END STRING
 
@@ -243,7 +243,7 @@ Ehland Blend
 
 > BEGIN STRING
 ロイヤルグルッペン
-> CONTEXT: Items/28/name/ < UNTRANSLATED
+> CONTEXT: Items/28/name/
 Royal Gruppen
 > END STRING
 
@@ -255,7 +255,7 @@ Royal Gruppen
 
 > BEGIN STRING
 鎮静剤
-> CONTEXT: Items/31/name/ < UNTRANSLATED
+> CONTEXT: Items/31/name/
 Sedatives
 > END STRING
 
@@ -268,13 +268,13 @@ Sedatives
 
 > BEGIN STRING
 強化鎮静剤
-> CONTEXT: Items/32/name/ < UNTRANSLATED
+> CONTEXT: Items/32/name/
 Enhanced Sedative
 > END STRING
 
 > BEGIN STRING
 興奮剤
-> CONTEXT: Items/33/name/ < UNTRANSLATED
+> CONTEXT: Items/33/name/
 Stimulant
 > END STRING
 
@@ -293,7 +293,7 @@ Stimulant
 
 > BEGIN STRING
 シンセミア
-> CONTEXT: Items/35/name/ < UNTRANSLATED
+> CONTEXT: Items/35/name/
 Synthesia
 > END STRING
 
@@ -317,8 +317,8 @@ Synthesia
 
 > BEGIN STRING
 チャミングブーケ
-> CONTEXT: Items/40/name/ < UNTRANSLATED
-> CONTEXT: Skills/534/name/ < UNTRANSLATED
+> CONTEXT: Items/40/name/
+> CONTEXT: Skills/534/name/
 Charming Bouquet
 > END STRING
 
@@ -330,8 +330,8 @@ Charming Bouquet
 
 > BEGIN STRING
 ミスリルアイアン
-> CONTEXT: Items/41/name/ < UNTRANSLATED
-> CONTEXT: Skills/532/name/ < UNTRANSLATED
+> CONTEXT: Items/41/name/
+> CONTEXT: Skills/532/name/
 Mythril Iron
 > END STRING
 
@@ -343,26 +343,26 @@ Mythril Iron
 
 > BEGIN STRING
 夢魔の触手
-> CONTEXT: Items/42/name/ < UNTRANSLATED
+> CONTEXT: Items/42/name/
 Succubus Tentacle
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 相手一人に一定ターンの間快感を与え続ける触手
-> CONTEXT: Items/42/description/ < UNTRANSLATED
+> CONTEXT: Items/42/description/
 [Tool] Gives pleasure to one opponent for a number of turns.
 > END STRING
 
 > BEGIN STRING
 エーテルローション
-> CONTEXT: Items/43/name/ < UNTRANSLATED
-> CONTEXT: Skills/533/name/ < UNTRANSLATED
+> CONTEXT: Items/43/name/
+> CONTEXT: Skills/533/name/
 Ether Lotion
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 相手一人をセンシブ状態にする媚薬
-> CONTEXT: Items/43/description/ < UNTRANSLATED
+> CONTEXT: Items/43/description/
 [Tool] Aphrodisiac that makes one opponent sensitive
 > END STRING
 
@@ -465,7 +465,7 @@ Ether Lotion
 
 > BEGIN STRING
 まどろみの一滴
-> CONTEXT: Items/53/name/ < UNTRANSLATED
+> CONTEXT: Items/53/name/
 Sleepdrop
 > END STRING
 
@@ -477,49 +477,49 @@ Sleepdrop
 
 > BEGIN STRING
 カースドアイアン
-> CONTEXT: Items/55/name/ < UNTRANSLATED
+> CONTEXT: Items/55/name/
 Cursed Iron
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 呪われた拘束具
-> CONTEXT: Items/55/description/ < UNTRANSLATED
+> CONTEXT: Items/55/description/
 [Tool] Cursed Restraints
 > END STRING
 
 > BEGIN STRING
 ルゥインローション
-> CONTEXT: Items/56/name/ < UNTRANSLATED
+> CONTEXT: Items/56/name/
 Ruin Lotion
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 呪われた媚薬
-> CONTEXT: Items/56/description/ < UNTRANSLATED
+> CONTEXT: Items/56/description/
 [Tool] Cursed Love Potion
 > END STRING
 
 > BEGIN STRING
 悪意の触手
-> CONTEXT: Items/57/name/ < UNTRANSLATED
+> CONTEXT: Items/57/name/
 Malice Tentacle
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 呪われた触手
-> CONTEXT: Items/57/description/ < UNTRANSLATED
+> CONTEXT: Items/57/description/
 [Tool] Cursed Tentacle
 > END STRING
 
 > BEGIN STRING
 レベルリミッター
-> CONTEXT: Items/58/name/ < UNTRANSLATED
+> CONTEXT: Items/58/name/
 Level Limiter
 > END STRING
 
 > BEGIN STRING
 相手に合わせて自分のレベルを制限する
-> CONTEXT: Items/58/description/ < UNTRANSLATED
+> CONTEXT: Items/58/description/
 Limit your level to match your opponent
 > END STRING
 
@@ -627,7 +627,7 @@ Limit your level to match your opponent
 
 > BEGIN STRING
 ファドゥルサワー
-> CONTEXT: Items/86/name/ < UNTRANSLATED
+> CONTEXT: Items/86/name/
 Fadul Sour
 > END STRING
 
@@ -660,7 +660,7 @@ SQ_Drink
 
 > BEGIN STRING
 クヴァラットミルク
-> CONTEXT: Items/88/name/ < UNTRANSLATED
+> CONTEXT: Items/88/name/
 Kvalatte Milk
 > END STRING
 
@@ -672,7 +672,7 @@ Kvalatte Milk
 
 > BEGIN STRING
 マトンジャーキー
-> CONTEXT: Items/89/name/ < UNTRANSLATED
+> CONTEXT: Items/89/name/
 Mutton Jerky
 > END STRING
 
@@ -691,7 +691,7 @@ SQ_Food
 
 > BEGIN STRING
 スモークサーモン
-> CONTEXT: Items/90/name/ < UNTRANSLATED
+> CONTEXT: Items/90/name/
 Smoked Salmon
 > END STRING
 
@@ -703,7 +703,7 @@ Smoked Salmon
 
 > BEGIN STRING
 ベイクドアップル
-> CONTEXT: Items/91/name/ < UNTRANSLATED
+> CONTEXT: Items/91/name/
 Baked Apple
 > END STRING
 
@@ -715,13 +715,13 @@ Baked Apple
 
 > BEGIN STRING
 シリアスシリアル
-> CONTEXT: Items/98/name/ < UNTRANSLATED
+> CONTEXT: Items/98/name/
 Serious Serial
 > END STRING
 
 > BEGIN STRING
 酔い覚ましの効果がある麦の実
-> CONTEXT: Items/98/description/ < UNTRANSLATED
+> CONTEXT: Items/98/description/
 Barley berries with hangover-relief properties
 > END STRING
 
@@ -1734,7 +1734,7 @@ Barley berries with hangover-relief properties
 
 > BEGIN STRING
 夜の絵本
-> CONTEXT: Items/199/name/ < UNTRANSLATED
+> CONTEXT: Items/199/name/
 Night Picture Book
 > END STRING
 
@@ -2036,20 +2036,20 @@ Night Picture Book
 
 > BEGIN STRING
 幻想の指輪
-> CONTEXT: Items/298/name/ < UNTRANSLATED
+> CONTEXT: Items/298/name/
 Ring of Illusion
 > END STRING
 
 > BEGIN STRING
 目に見えなく手でも触れられないが、存在だけはそこにある奇妙な指輪
-> CONTEXT: Items/298/description/ < UNTRANSLATED
-> CONTEXT: Items/299/description/ < UNTRANSLATED
+> CONTEXT: Items/298/description/
+> CONTEXT: Items/299/description/
 A strange ring that cannot be seen or touched, but exists.
 > END STRING
 
 > BEGIN STRING
 虚構の指輪
-> CONTEXT: Items/299/name/ < UNTRANSLATED
+> CONTEXT: Items/299/name/
 Fictional Ring
 > END STRING
 
@@ -2061,13 +2061,13 @@ Fictional Ring
 
 > BEGIN STRING
 サキュバス
-> CONTEXT: Items/400/name/ < UNTRANSLATED
+> CONTEXT: Items/400/name/
 Succubus
 > END STRING
 
 > BEGIN STRING
 ナイトメア
-> CONTEXT: Items/401/name/ < UNTRANSLATED
+> CONTEXT: Items/401/name/
 Nightmare
 > END STRING
 
@@ -2079,85 +2079,85 @@ Nightmare
 
 > BEGIN STRING
 リリス
-> CONTEXT: Items/403/name/ < UNTRANSLATED
+> CONTEXT: Items/403/name/
 Lilith
 > END STRING
 
 > BEGIN STRING
 インプ
-> CONTEXT: Items/405/name/ < UNTRANSLATED
+> CONTEXT: Items/405/name/
 Imp
 > END STRING
 
 > BEGIN STRING
 アルプ
-> CONTEXT: Items/406/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/153/474/Choice/2 < UNTRANSLATED
+> CONTEXT: Items/406/name/
+> CONTEXT: Commonevents/153/474/Choice/2
 Alp
 > END STRING
 
 > BEGIN STRING
 リリム
-> CONTEXT: Items/407/name/ < UNTRANSLATED
+> CONTEXT: Items/407/name/
 Lilim
 > END STRING
 
 > BEGIN STRING
 ピクシー
-> CONTEXT: Items/410/name/ < UNTRANSLATED
+> CONTEXT: Items/410/name/
 Pixie
 > END STRING
 
 > BEGIN STRING
 リャナンシー
-> CONTEXT: Items/411/name/ < UNTRANSLATED
+> CONTEXT: Items/411/name/
 Leanan Sídhe
 > END STRING
 
 > BEGIN STRING
 ティターニア
-> CONTEXT: Items/412/name/ < UNTRANSLATED
+> CONTEXT: Items/412/name/
 Titania
 > END STRING
 
 > BEGIN STRING
 ドライアド
-> CONTEXT: Items/415/name/ < UNTRANSLATED
+> CONTEXT: Items/415/name/
 Dryad
 > END STRING
 
 > BEGIN STRING
 アルラウネ
-> CONTEXT: Items/416/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/153/218/Choice/1 < UNTRANSLATED
+> CONTEXT: Items/416/name/
+> CONTEXT: Commonevents/153/218/Choice/1
 Alraune
 > END STRING
 
 > BEGIN STRING
 ヴェルデレット
-> CONTEXT: Items/417/name/ < UNTRANSLATED
+> CONTEXT: Items/417/name/
 Verdelet
 > END STRING
 
 > BEGIN STRING
 ネコマタ
-> CONTEXT: Items/420/name/ < UNTRANSLATED
+> CONTEXT: Items/420/name/
 Nekomata
 > END STRING
 
 > BEGIN STRING
 ケットシー
-> CONTEXT: Items/421/name/ < UNTRANSLATED
+> CONTEXT: Items/421/name/
 Cait Sith
 > END STRING
 
 > BEGIN STRING
 スフィンクス
-> CONTEXT: Items/422/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/175/22/Label < UNTRANSLATED
-> CONTEXT: Commonevents/175/83/Label < UNTRANSLATED
-> CONTEXT: Commonevents/175/164/Label < UNTRANSLATED
-> CONTEXT: Commonevents/175/180/Label < UNTRANSLATED
+> CONTEXT: Items/422/name/
+> CONTEXT: Commonevents/175/22/Label
+> CONTEXT: Commonevents/175/83/Label
+> CONTEXT: Commonevents/175/164/Label
+> CONTEXT: Commonevents/175/180/Label
 Sphinx
 > END STRING
 
@@ -2169,7 +2169,7 @@ Sphinx
 
 > BEGIN STRING
 ワーウルフ
-> CONTEXT: Items/425/name/ < UNTRANSLATED
+> CONTEXT: Items/425/name/
 Werewolf
 > END STRING
 
@@ -2181,43 +2181,43 @@ Werewolf
 
 > BEGIN STRING
 ラミア
-> CONTEXT: Items/430/name/ < UNTRANSLATED
+> CONTEXT: Items/430/name/
 Lamia
 > END STRING
 
 > BEGIN STRING
 メリュジーヌ
-> CONTEXT: Items/431/name/ < UNTRANSLATED
+> CONTEXT: Items/431/name/
 Melusine
 > END STRING
 
 > BEGIN STRING
 エキドナ
-> CONTEXT: Items/432/name/ < UNTRANSLATED
+> CONTEXT: Items/432/name/
 Echidna
 > END STRING
 
 > BEGIN STRING
 リザードマン
-> CONTEXT: Items/435/name/ < UNTRANSLATED
+> CONTEXT: Items/435/name/
 Lizardwoman
 > END STRING
 
 > BEGIN STRING
 サラマンダー
-> CONTEXT: Items/436/name/ < UNTRANSLATED
+> CONTEXT: Items/436/name/
 Salamander
 > END STRING
 
 > BEGIN STRING
 ヴィーヴル
-> CONTEXT: Items/437/name/ < UNTRANSLATED
+> CONTEXT: Items/437/name/
 Vivre
 > END STRING
 
 > BEGIN STRING
 マーメイド
-> CONTEXT: Items/440/name/ < UNTRANSLATED
+> CONTEXT: Items/440/name/
 Mermaid
 > END STRING
 
@@ -2229,51 +2229,51 @@ Mermaid
 
 > BEGIN STRING
 スキュラ
-> CONTEXT: Items/443/name/ < UNTRANSLATED
+> CONTEXT: Items/443/name/
 Scylla
 > END STRING
 
 > BEGIN STRING
 カリュブディス
-> CONTEXT: Items/444/name/ < UNTRANSLATED
+> CONTEXT: Items/444/name/
 Charybdis
 > END STRING
 
 > BEGIN STRING
 ヴィレッジャ
-> CONTEXT: Items/445/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/153/474/Choice/0 < UNTRANSLATED
+> CONTEXT: Items/445/name/
+> CONTEXT: Commonevents/153/474/Choice/0
 Villager
 > END STRING
 
 > BEGIN STRING
 バンシー
-> CONTEXT: Items/447/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/153/474/Choice/1 < UNTRANSLATED
+> CONTEXT: Items/447/name/
+> CONTEXT: Commonevents/153/474/Choice/1
 Banshee
 > END STRING
 
 > BEGIN STRING
 アルバスタ
-> CONTEXT: Items/448/name/ < UNTRANSLATED
+> CONTEXT: Items/448/name/
 Albasty
 > END STRING
 
 > BEGIN STRING
 ハーピー
-> CONTEXT: Items/450/name/ < UNTRANSLATED
+> CONTEXT: Items/450/name/
 Harpy
 > END STRING
 
 > BEGIN STRING
 セイレーン
-> CONTEXT: Items/451/name/ < UNTRANSLATED
+> CONTEXT: Items/451/name/
 Siren
 > END STRING
 
 > BEGIN STRING
 エンジェル
-> CONTEXT: Items/455/name/ < UNTRANSLATED
+> CONTEXT: Items/455/name/
 Angel
 > END STRING
 
@@ -2291,13 +2291,13 @@ Angel
 
 > BEGIN STRING
 クズノハ
-> CONTEXT: Items/460/name/ < UNTRANSLATED
+> CONTEXT: Items/460/name/
 Kuzunoha
 > END STRING
 
 > BEGIN STRING
 ダッキ
-> CONTEXT: Items/461/name/ < UNTRANSLATED
+> CONTEXT: Items/461/name/
 Dakki
 > END STRING
 
@@ -2333,13 +2333,13 @@ Dakki
 
 > BEGIN STRING
 ジャバウォック
-> CONTEXT: Items/475/name/ < UNTRANSLATED
+> CONTEXT: Items/475/name/
 Jabberwocky
 > END STRING
 
 > BEGIN STRING
 ジャブジャブ
-> CONTEXT: Items/480/name/ < UNTRANSLATED
+> CONTEXT: Items/480/name/
 Jubjub
 > END STRING
 
@@ -2363,8 +2363,8 @@ Jubjub
 
 > BEGIN STRING
 ミミック
-> CONTEXT: Items/500/name/ < UNTRANSLATED
-> CONTEXT: Skills/717/name/ < UNTRANSLATED
+> CONTEXT: Items/500/name/
+> CONTEXT: Skills/717/name/
 Mimic
 > END STRING
 
@@ -2388,7 +2388,7 @@ Mimic
 
 > BEGIN STRING
 マイェストレ
-> CONTEXT: Items/506/name/ < UNTRANSLATED
+> CONTEXT: Items/506/name/
 Măiestre
 > END STRING
 

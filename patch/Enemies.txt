@@ -104,15 +104,15 @@
 
 > BEGIN STRING
 オリビア
-> CONTEXT: Enemies/41/name/ < UNTRANSLATED
-> CONTEXT: Items/341/name/ < UNTRANSLATED
+> CONTEXT: Enemies/41/name/
+> CONTEXT: Items/341/name/
 Olivia
 > END STRING
 
 > BEGIN STRING
 ルヴィッサ
-> CONTEXT: Enemies/42/name/ < UNTRANSLATED
-> CONTEXT: Items/342/name/ < UNTRANSLATED
+> CONTEXT: Enemies/42/name/
+> CONTEXT: Items/342/name/
 Rovissa
 > END STRING
 

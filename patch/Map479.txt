@@ -408,7 +408,7 @@
 
 > BEGIN STRING
 「え？
-> CONTEXT: Map479/events/5/pages/0/192/Dialogue < UNTRANSLATED
+> CONTEXT: Map479/events/5/pages/0/192/Dialogue
 「Eh?
 > END STRING
 

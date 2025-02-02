@@ -127,9 +127,9 @@
 
 > BEGIN STRING
 「？
-> CONTEXT: Map458/events/2/pages/0/197/Dialogue < UNTRANSLATED
-> CONTEXT: Map458/events/2/pages/0/430/Dialogue < UNTRANSLATED
-> CONTEXT: Map431/events/1/pages/0/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/197/Dialogue
+> CONTEXT: Map458/events/2/pages/0/430/Dialogue
+> CONTEXT: Map431/events/1/pages/0/93/Dialogue
 「?
 > END STRING
 

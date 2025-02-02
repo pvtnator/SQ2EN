@@ -14,7 +14,7 @@
 > BEGIN STRING
 「待ってたわよ！
 　勇者ラルス！
-> CONTEXT: Map467/events/3/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map467/events/3/pages/0/89/Dialogue
 「We've been waiting!
 　Hero Lars!
 > END STRING

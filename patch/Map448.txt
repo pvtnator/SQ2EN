@@ -78,8 +78,8 @@ SQT_WeirdWorld
 
 > BEGIN STRING
 「ふふ………
-> CONTEXT: Map448/events/7/pages/0/109/Dialogue < UNTRANSLATED
-> CONTEXT: Map448/events/15/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/7/pages/0/109/Dialogue
+> CONTEXT: Map448/events/15/pages/0/109/Dialogue
 「Hehe.....
 > END STRING
 

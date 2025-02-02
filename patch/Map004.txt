@@ -1,7 +1,7 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "声"
-> CONTEXT: Map004/events/2/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map004/events/2/pages/0/3/InlineScript/1:4
 "Voice"
 > END STRING
 

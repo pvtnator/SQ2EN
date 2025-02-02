@@ -51,28 +51,28 @@ SQT_Dungeon_Eltumb
 
 > BEGIN STRING
 「………………
-> CONTEXT: Map999/events/29/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map473/events/29/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map469/events/2/pages/0/182/Dialogue < UNTRANSLATED
-> CONTEXT: Map469/events/2/pages/0/184/Dialogue < UNTRANSLATED
-> CONTEXT: Map469/events/2/pages/0/186/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/9/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/2/pages/1/60/Dialogue < UNTRANSLATED
-> CONTEXT: Map453/events/3/pages/0/105/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/20/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map453/events/3/pages/0/109/Dialogue < UNTRANSLATED
-> CONTEXT: Map450/events/6/pages/0/107/Dialogue < UNTRANSLATED
-> CONTEXT: Map448/events/7/pages/0/221/Dialogue < UNTRANSLATED
-> CONTEXT: Map429/events/7/pages/2/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map448/events/15/pages/0/221/Dialogue < UNTRANSLATED
-> CONTEXT: Map423/events/1/pages/0/206/Dialogue < UNTRANSLATED
+> CONTEXT: Map999/events/29/pages/0/5/Dialogue
+> CONTEXT: Map473/events/29/pages/0/5/Dialogue
+> CONTEXT: Map469/events/2/pages/0/182/Dialogue
+> CONTEXT: Map469/events/2/pages/0/184/Dialogue
+> CONTEXT: Map469/events/2/pages/0/186/Dialogue
+> CONTEXT: Troops/9/pages/0/20/Dialogue
+> CONTEXT: Map452/events/2/pages/1/60/Dialogue
+> CONTEXT: Map453/events/3/pages/0/105/Dialogue
+> CONTEXT: Troops/20/pages/0/6/Dialogue
+> CONTEXT: Map453/events/3/pages/0/109/Dialogue
+> CONTEXT: Map450/events/6/pages/0/107/Dialogue
+> CONTEXT: Map448/events/7/pages/0/221/Dialogue
+> CONTEXT: Map429/events/7/pages/2/25/Dialogue
+> CONTEXT: Map448/events/15/pages/0/221/Dialogue
+> CONTEXT: Map423/events/1/pages/0/206/Dialogue
 「......
 > END STRING
 
 > BEGIN STRING
 「…………………………
-> CONTEXT: Map999/events/29/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map473/events/29/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map999/events/29/pages/0/6/Dialogue
+> CONTEXT: Map473/events/29/pages/0/6/Dialogue
 「...........
 > END STRING
 

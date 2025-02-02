@@ -57,16 +57,16 @@ EV_サフィ（オープニング）
 
 > BEGIN STRING
 「……………
-> CONTEXT: Troops/4/pages/1/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map476/events/5/pages/0/48/Dialogue < UNTRANSLATED
-> CONTEXT: Map483/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map483/events/24/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map448/events/7/pages/0/112/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map448/events/15/pages/0/112/Dialogue < UNTRANSLATED
-> CONTEXT: Map431/events/1/pages/0/131/Dialogue < UNTRANSLATED
-> CONTEXT: Map423/events/1/pages/0/314/Dialogue < UNTRANSLATED
-> CONTEXT: Map426/events/28/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/4/pages/1/5/Dialogue
+> CONTEXT: Map476/events/5/pages/0/48/Dialogue
+> CONTEXT: Map483/events/15/pages/0/1/Dialogue
+> CONTEXT: Map483/events/24/pages/0/1/Dialogue
+> CONTEXT: Map448/events/7/pages/0/112/Dialogue
+> CONTEXT: Map451/events/15/pages/0/1/Dialogue
+> CONTEXT: Map448/events/15/pages/0/112/Dialogue
+> CONTEXT: Map431/events/1/pages/0/131/Dialogue
+> CONTEXT: Map423/events/1/pages/0/314/Dialogue
+> CONTEXT: Map426/events/28/pages/0/1/Dialogue
 「......
 > END STRING
 
@@ -232,7 +232,7 @@ EV_サキュバス(オープニング)
 
 > BEGIN STRING
 「う……
-> CONTEXT: Troops/5/pages/0/52/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/5/pages/0/52/Dialogue
 「Ugh...
 > END STRING
 
@@ -689,7 +689,7 @@ EV_ドラゴンナイト
 
 > BEGIN STRING
 「ガオォォンッ！
-> CONTEXT: Troops/28/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/28/pages/0/3/Dialogue
 「Gaooow!
 > END STRING
 
@@ -863,14 +863,14 @@ EVTEST
 
 > BEGIN STRING
 サキュバス*1
-> CONTEXT: Troops/71/name/ < UNTRANSLATED
-> CONTEXT: Troops/72/name/ < UNTRANSLATED
+> CONTEXT: Troops/71/name/
+> CONTEXT: Troops/72/name/
 Succubus*1
 > END STRING
 
 > BEGIN STRING
 サキュバス*2
-> CONTEXT: Troops/73/name/ < UNTRANSLATED
+> CONTEXT: Troops/73/name/
 Succubus*2
 > END STRING
 
@@ -882,27 +882,27 @@ Succubus*2
 
 > BEGIN STRING
 サキュバス+インプ*2
-> CONTEXT: Troops/75/name/ < UNTRANSLATED
-> CONTEXT: Troops/76/name/ < UNTRANSLATED
+> CONTEXT: Troops/75/name/
+> CONTEXT: Troops/76/name/
 Succubus+Imp*2
 > END STRING
 
 > BEGIN STRING
 サキュバス+インプ
-> CONTEXT: Troops/77/name/ < UNTRANSLATED
-> CONTEXT: Troops/78/name/ < UNTRANSLATED
+> CONTEXT: Troops/77/name/
+> CONTEXT: Troops/78/name/
 Succubus+Imp
 > END STRING
 
 > BEGIN STRING
 インプ*1
-> CONTEXT: Troops/79/name/ < UNTRANSLATED
+> CONTEXT: Troops/79/name/
 Imp*1
 > END STRING
 
 > BEGIN STRING
 インプ*2
-> CONTEXT: Troops/80/name/ < UNTRANSLATED
+> CONTEXT: Troops/80/name/
 Imp*2
 > END STRING
 
@@ -926,13 +926,13 @@ Imp*2
 
 > BEGIN STRING
 ピクシー*2
-> CONTEXT: Troops/84/name/ < UNTRANSLATED
+> CONTEXT: Troops/84/name/
 Pixie*2
 > END STRING
 
 > BEGIN STRING
 ピクシー*3
-> CONTEXT: Troops/85/name/ < UNTRANSLATED
+> CONTEXT: Troops/85/name/
 Pixie*3
 > END STRING
 
@@ -944,14 +944,14 @@ Pixie*3
 
 > BEGIN STRING
 ドライアド*1
-> CONTEXT: Troops/87/name/ < UNTRANSLATED
-> CONTEXT: Troops/88/name/ < UNTRANSLATED
+> CONTEXT: Troops/87/name/
+> CONTEXT: Troops/88/name/
 Dryad*1
 > END STRING
 
 > BEGIN STRING
 ドライアド*2
-> CONTEXT: Troops/89/name/ < UNTRANSLATED
+> CONTEXT: Troops/89/name/
 Dryad*2
 > END STRING
 
@@ -963,8 +963,8 @@ Dryad*2
 
 > BEGIN STRING
 ドライアド+ピクシー
-> CONTEXT: Troops/91/name/ < UNTRANSLATED
-> CONTEXT: Troops/92/name/ < UNTRANSLATED
+> CONTEXT: Troops/91/name/
+> CONTEXT: Troops/92/name/
 Dryad+Pixie
 > END STRING
 
@@ -1866,8 +1866,8 @@ Dryad+Pixie
 
 > BEGIN STRING
 ヴァージンヴィレッジャ
-> CONTEXT: Troops/258/name/ < UNTRANSLATED
-> CONTEXT: Items/446/name/ < UNTRANSLATED
+> CONTEXT: Troops/258/name/
+> CONTEXT: Items/446/name/
 Virgin Villager
 > END STRING
 

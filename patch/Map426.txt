@@ -84,18 +84,18 @@ SQT_ReadingRoom
 
 > BEGIN STRING
 どうしますか？
-> CONTEXT: Map426/events/1/pages/0/25/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/174/31/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/177/31/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/179/46/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/180/50/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/182/56/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/182/133/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/182/206/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/182/233/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/184/83/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/189/38/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/198/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map426/events/1/pages/0/25/Dialogue
+> CONTEXT: Commonevents/174/31/Dialogue
+> CONTEXT: Commonevents/177/31/Dialogue
+> CONTEXT: Commonevents/179/46/Dialogue
+> CONTEXT: Commonevents/180/50/Dialogue
+> CONTEXT: Commonevents/182/56/Dialogue
+> CONTEXT: Commonevents/182/133/Dialogue
+> CONTEXT: Commonevents/182/206/Dialogue
+> CONTEXT: Commonevents/182/233/Dialogue
+> CONTEXT: Commonevents/184/83/Dialogue
+> CONTEXT: Commonevents/189/38/Dialogue
+> CONTEXT: Commonevents/198/144/Dialogue
 What will you do?
 > END STRING
 

@@ -55,12 +55,12 @@
 
 > BEGIN STRING
 「…………………
-> CONTEXT: Map432/events/21/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map433/events/7/pages/0/173/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/22/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/23/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/2/pages/0/205/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/2/pages/0/249/Dialogue < UNTRANSLATED
+> CONTEXT: Map432/events/21/pages/0/17/Dialogue
+> CONTEXT: Map433/events/7/pages/0/173/Dialogue
+> CONTEXT: Map432/events/22/pages/0/17/Dialogue
+> CONTEXT: Map432/events/23/pages/0/17/Dialogue
+> CONTEXT: Map002/events/2/pages/0/205/Dialogue
+> CONTEXT: Map002/events/2/pages/0/249/Dialogue
 「........
 > END STRING
 
