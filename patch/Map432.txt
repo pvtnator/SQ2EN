@@ -61,7 +61,7 @@
 > CONTEXT: Map432/events/23/pages/0/17/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/2/pages/0/205/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/2/pages/0/249/Dialogue < UNTRANSLATED
-
+「........
 > END STRING
 
 > BEGIN STRING

@@ -2,7 +2,7 @@
 > BEGIN STRING
 "声"
 > CONTEXT: Map004/events/2/pages/0/3/InlineScript/1:4 < UNTRANSLATED
-
+"Voice"
 > END STRING
 
 > BEGIN STRING

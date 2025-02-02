@@ -88,7 +88,7 @@
 "夢魔"
 > CONTEXT: Map453/events/3/pages/0/136/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map424/events/1/pages/0/97/InlineScript/1:4 < UNTRANSLATED
-
+"Succubus"
 > END STRING
 
 > BEGIN STRING

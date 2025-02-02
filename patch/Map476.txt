@@ -325,7 +325,7 @@
 > CONTEXT: Map476/events/5/pages/0/292/Dialogue < UNTRANSLATED
 > CONTEXT: Map476/events/5/pages/0/304/Dialogue < UNTRANSLATED
 > CONTEXT: Map005/events/2/pages/0/13/Dialogue < UNTRANSLATED
-
+「..........
 > END STRING
 
 > BEGIN STRING

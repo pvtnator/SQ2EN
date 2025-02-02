@@ -30,7 +30,7 @@
 > BEGIN STRING
 「！？
 > CONTEXT: Map450/events/6/pages/0/12/Dialogue < UNTRANSLATED
-
+「!?
 > END STRING
 
 > BEGIN STRING

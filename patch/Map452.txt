@@ -63,7 +63,7 @@
 > BEGIN STRING
 "男の声"
 > CONTEXT: Map452/events/9/pages/0/5/InlineScript/1:4 < UNTRANSLATED
-
+"Male Voice"
 > END STRING
 
 > BEGIN STRING

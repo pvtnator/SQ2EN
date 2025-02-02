@@ -106,14 +106,14 @@
 オリビア
 > CONTEXT: Enemies/41/name/ < UNTRANSLATED
 > CONTEXT: Items/341/name/ < UNTRANSLATED
-
+Olivia
 > END STRING
 
 > BEGIN STRING
 ルヴィッサ
 > CONTEXT: Enemies/42/name/ < UNTRANSLATED
 > CONTEXT: Items/342/name/ < UNTRANSLATED
-
+Rovissa
 > END STRING
 
 > BEGIN STRING

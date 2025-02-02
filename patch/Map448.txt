@@ -80,7 +80,7 @@ SQT_WeirdWorld
 「ふふ………
 > CONTEXT: Map448/events/7/pages/0/109/Dialogue < UNTRANSLATED
 > CONTEXT: Map448/events/15/pages/0/109/Dialogue < UNTRANSLATED
-
+「Hehe.....
 > END STRING
 
 > BEGIN STRING

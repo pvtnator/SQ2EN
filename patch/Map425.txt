@@ -3,7 +3,7 @@
 "男"
 > CONTEXT: Map425/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map425/events/3/pages/0/7/InlineScript/1:4 < UNTRANSLATED
-
+"Man"
 > END STRING
 
 > BEGIN STRING
@@ -356,7 +356,7 @@
 > CONTEXT: Map425/events/7/pages/0/78/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map425/events/7/pages/1/1/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map425/events/7/pages/1/10/InlineScript/1:4 < UNTRANSLATED
-
+"Traveling Alcoholic"
 > END STRING
 
 > BEGIN STRING

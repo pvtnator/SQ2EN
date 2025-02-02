@@ -211,5 +211,5 @@ SQT_EntranceOfDream
 中に入りますか？
 > CONTEXT: Map471/events/1/pages/1/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map471/events/1/pages/2/0/Dialogue < UNTRANSLATED
-
+Go in?
 > END STRING

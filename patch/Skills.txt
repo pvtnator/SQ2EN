@@ -9,7 +9,7 @@
 服を脱ぐ
 > CONTEXT: Skills/2/name/ < UNTRANSLATED
 > CONTEXT: Skills/201/name/ < UNTRANSLATED
-
+Strip
 > END STRING
 
 > BEGIN STRING
@@ -22,7 +22,7 @@
 服を脱がせる
 > CONTEXT: Skills/3/name/ < UNTRANSLATED
 > CONTEXT: Skills/202/name/ < UNTRANSLATED
-
+Undress
 > END STRING
 
 > BEGIN STRING
@@ -36,7 +36,7 @@
 > CONTEXT: Skills/4/name/ < UNTRANSLATED
 > CONTEXT: System/elements/44/ < UNTRANSLATED
 > CONTEXT: Skills/203/name/ < UNTRANSLATED
-
+Insert
 > END STRING
 
 > BEGIN STRING
@@ -48,13 +48,13 @@
 > BEGIN STRING
 リターン
 > CONTEXT: Skills/6/name/ < UNTRANSLATED
-
+Return
 > END STRING
 
 > BEGIN STRING
 ルヴィッサを帰還させる
 > CONTEXT: Skills/6/description/ < UNTRANSLATED
-
+Have Rovissa return
 > END STRING
 
 > BEGIN STRING
@@ -72,13 +72,13 @@
 > BEGIN STRING
 アトラクト
 > CONTEXT: Skills/10/name/ < UNTRANSLATED
-
+Attract
 > END STRING
 
 > BEGIN STRING
 夢魔をおびき寄せる
 > CONTEXT: Skills/10/description/ < UNTRANSLATED
-
+Lure a succubus
 > END STRING
 
 > BEGIN STRING
@@ -103,13 +103,13 @@
 > BEGIN STRING
 もがく
 > CONTEXT: Skills/13/name/ < UNTRANSLATED
-
+Struggle
 > END STRING
 
 > BEGIN STRING
 もがいて拘束から逃れる
 > CONTEXT: Skills/13/description/ < UNTRANSLATED
-
+Struggle to escape restraints
 > END STRING
 
 > BEGIN STRING
@@ -153,7 +153,7 @@
 相手の性格や弱点を調べる
 > CONTEXT: Skills/21/description/ < UNTRANSLATED
 > CONTEXT: Skills/92/description/ < UNTRANSLATED
-
+Examine target's personality and weaknesses
 > END STRING
 
 > BEGIN STRING
@@ -332,13 +332,13 @@ EXP2倍、アイテム100%入手
 > CONTEXT: Skills/61/name/ < UNTRANSLATED
 > CONTEXT: Skills/375/name/ < UNTRANSLATED
 > CONTEXT: Skills/653/name/ < UNTRANSLATED
-
+Kiss
 > END STRING
 
 > BEGIN STRING
 熱いキスをかわす
 > CONTEXT: Skills/61/description/ < UNTRANSLATED
-
+Exchange a passionate kiss
 > END STRING
 
 > BEGIN STRING
@@ -347,13 +347,13 @@ EXP2倍、アイテム100%入手
 > CONTEXT: Commonevents/99/43/Label < UNTRANSLATED
 > CONTEXT: Commonevents/114/26/Label < UNTRANSLATED
 > CONTEXT: Commonevents/117/36/Label < UNTRANSLATED
-
+Bust
 > END STRING
 
 > BEGIN STRING
 胸をせめる
 > CONTEXT: Skills/62/description/ < UNTRANSLATED
-
+Attack the chest
 > END STRING
 
 > BEGIN STRING
@@ -362,13 +362,13 @@ EXP2倍、アイテム100%入手
 > CONTEXT: Commonevents/99/54/Label < UNTRANSLATED
 > CONTEXT: Commonevents/114/37/Label < UNTRANSLATED
 > CONTEXT: Commonevents/117/54/Label < UNTRANSLATED
-
+Hip
 > END STRING
 
 > BEGIN STRING
 お尻をせめる
 > CONTEXT: Skills/63/description/ < UNTRANSLATED
-
+Attack the hip
 > END STRING
 
 > BEGIN STRING
@@ -377,13 +377,13 @@ EXP2倍、アイテム100%入手
 > CONTEXT: Commonevents/99/65/Label < UNTRANSLATED
 > CONTEXT: Commonevents/114/48/Label < UNTRANSLATED
 > CONTEXT: Commonevents/117/72/Label < UNTRANSLATED
-
+Vagina
 > END STRING
 
 > BEGIN STRING
 アソコをせめる
 > CONTEXT: Skills/64/description/ < UNTRANSLATED
-
+Attack the vagina
 > END STRING
 
 > BEGIN STRING
@@ -485,19 +485,19 @@ EXP2倍、アイテム100%入手
 > BEGIN STRING
 テンダーキッス
 > CONTEXT: Skills/73/name/ < UNTRANSLATED
-
+Tender Kiss
 > END STRING
 
 > BEGIN STRING
 優しいキッスでムードアップ
 > CONTEXT: Skills/73/description/ < UNTRANSLATED
-
+A gentle kiss that raises the mood
 > END STRING
 
 > BEGIN STRING
 フラート
 > CONTEXT: Skills/75/name/ < UNTRANSLATED
-
+Flirt
 > END STRING
 
 > BEGIN STRING
@@ -545,13 +545,13 @@ EXP2倍、アイテム100%入手
 > BEGIN STRING
 ガード
 > CONTEXT: Skills/81/name/ < UNTRANSLATED
-
+Guard
 > END STRING
 
 > BEGIN STRING
 1ターンだけ快感から身を守る
 > CONTEXT: Skills/81/description/ < UNTRANSLATED
-
+Protect yourself from pleasure for 1 turn
 > END STRING
 
 > BEGIN STRING
@@ -563,7 +563,7 @@ EXP2倍、アイテム100%入手
 > BEGIN STRING
 落ち着いた呼吸でEPを回復する
 > CONTEXT: Skills/82/description/ < UNTRANSLATED
-
+Breath calmly to restore EP
 > END STRING
 
 > BEGIN STRING
@@ -625,7 +625,7 @@ EXP2倍、アイテム100%入手
 アナライズ
 > CONTEXT: Skills/92/name/ < UNTRANSLATED
 > CONTEXT: Skills/446/name/ < UNTRANSLATED
-
+Analyze
 > END STRING
 
 > BEGIN STRING
@@ -646,7 +646,7 @@ EXP2倍、アイテム100%入手
 > CONTEXT: Skills/184/name/ < UNTRANSLATED
 > CONTEXT: Skills/447/name/ < UNTRANSLATED
 > CONTEXT: Skills/587/name/ < UNTRANSLATED
-
+Small Rogin
 > END STRING
 
 > BEGIN STRING
@@ -826,7 +826,7 @@ EP回復（少）
 > BEGIN STRING
 リズ・ラズ
 > CONTEXT: Skills/123/name/ < UNTRANSLATED
-
+Riz-Raz
 > END STRING
 
 > BEGIN STRING
@@ -895,7 +895,7 @@ EP回復
 > CONTEXT: Skills/182/description/ < UNTRANSLATED
 > CONTEXT: Skills/267/description/ < UNTRANSLATED
 > CONTEXT: Skills/277/description/ < UNTRANSLATED
-
+EP Recovery
 > END STRING
 
 > BEGIN STRING
@@ -910,7 +910,7 @@ EP回復
 > CONTEXT: Skills/254/description/ < UNTRANSLATED
 > CONTEXT: Skills/274/description/ < UNTRANSLATED
 > CONTEXT: Skills/652/name/ < UNTRANSLATED
-
+Tension Up
 > END STRING
 
 > BEGIN STRING
@@ -1043,7 +1043,7 @@ EP回復 / 精神力アップ
 > BEGIN STRING
 ヘヴィレイン
 > CONTEXT: Skills/147/name/ < UNTRANSLATED
-
+Heavy Rain
 > END STRING
 
 > BEGIN STRING
@@ -1055,7 +1055,7 @@ EP回復 / 精神力アップ
 > BEGIN STRING
 クロスブレード
 > CONTEXT: Skills/152/name/ < UNTRANSLATED
-
+Cross-blade
 > END STRING
 
 > BEGIN STRING
@@ -1074,7 +1074,7 @@ EP回復 / 精神力アップ
 全能力アップ
 > CONTEXT: Skills/153/description/ < UNTRANSLATED
 > CONTEXT: Skills/173/description/ < UNTRANSLATED
-
+All abilities up
 > END STRING
 
 > BEGIN STRING
@@ -1099,7 +1099,7 @@ EP回復 / 精神力アップ
 相手の全能力ダウン
 > CONTEXT: Skills/155/description/ < UNTRANSLATED
 > CONTEXT: Skills/179/description/ < UNTRANSLATED
-
+Opponents' all abilities down
 > END STRING
 
 > BEGIN STRING
@@ -1112,7 +1112,7 @@ EP回復 / 精神力アップ
 ウルズグン
 > CONTEXT: Skills/161/name/ < UNTRANSLATED
 > CONTEXT: Skills/285/name/ < UNTRANSLATED
-
+Uruzgun
 > END STRING
 
 > BEGIN STRING
@@ -1120,7 +1120,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/161/description/ < UNTRANSLATED
 > CONTEXT: Skills/168/description/ < UNTRANSLATED
 > CONTEXT: Skills/722/description/ < UNTRANSLATED
-
+Energy up
 > END STRING
 
 > BEGIN STRING
@@ -1129,7 +1129,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/286/name/ < UNTRANSLATED
 > CONTEXT: Commonevents/150/314/Choice/1 < UNTRANSLATED
 > CONTEXT: Commonevents/153/282/Choice/1 < UNTRANSLATED
-
+Ragsgun
 > END STRING
 
 > BEGIN STRING
@@ -1138,7 +1138,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/169/description/ < UNTRANSLATED
 > CONTEXT: Skills/283/description/ < UNTRANSLATED
 > CONTEXT: Skills/723/description/ < UNTRANSLATED
-
+Skill up
 > END STRING
 
 > BEGIN STRING
@@ -1148,7 +1148,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Commonevents/150/314/Choice/2 < UNTRANSLATED
 > CONTEXT: Skills/585/name/ < UNTRANSLATED
 > CONTEXT: Commonevents/153/282/Choice/0 < UNTRANSLATED
-
+Hagalgun
 > END STRING
 
 > BEGIN STRING
@@ -1156,14 +1156,14 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/163/description/ < UNTRANSLATED
 > CONTEXT: Skills/170/description/ < UNTRANSLATED
 > CONTEXT: Skills/724/description/ < UNTRANSLATED
-
+Agility up
 > END STRING
 
 > BEGIN STRING
 エオルグン
 > CONTEXT: Skills/164/name/ < UNTRANSLATED
 > CONTEXT: Skills/288/name/ < UNTRANSLATED
-
+Eorgun
 > END STRING
 
 > BEGIN STRING
@@ -1171,7 +1171,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/164/description/ < UNTRANSLATED
 > CONTEXT: Skills/171/description/ < UNTRANSLATED
 > CONTEXT: Skills/725/description/ < UNTRANSLATED
-
+Spirit up
 > END STRING
 
 > BEGIN STRING
@@ -1180,7 +1180,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/289/name/ < UNTRANSLATED
 > CONTEXT: Commonevents/150/444/Choice/0 < UNTRANSLATED
 > CONTEXT: Commonevents/153/410/Choice/0 < UNTRANSLATED
-
+Sigilgun
 > END STRING
 
 > BEGIN STRING
@@ -1191,7 +1191,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/282/description/ < UNTRANSLATED
 > CONTEXT: Skills/351/description/ < UNTRANSLATED
 > CONTEXT: Skills/726/description/ < UNTRANSLATED
-
+Charm up
 > END STRING
 
 > BEGIN STRING
@@ -1203,7 +1203,7 @@ EP回復 / 精神力アップ
 > BEGIN STRING
 幸運アップ
 > CONTEXT: Skills/166/description/ < UNTRANSLATED
-
+Luck up
 > END STRING
 
 > BEGIN STRING
@@ -1246,7 +1246,7 @@ EP回復 / 精神力アップ
 ウルズフニ
 > CONTEXT: Skills/174/name/ < UNTRANSLATED
 > CONTEXT: Skills/291/name/ < UNTRANSLATED
-
+Uruzfuni
 > END STRING
 
 > BEGIN STRING
@@ -1254,14 +1254,14 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/174/description/ < UNTRANSLATED
 > CONTEXT: Skills/291/description/ < UNTRANSLATED
 > CONTEXT: Skills/728/description/ < UNTRANSLATED
-
+Opponents' energy down
 > END STRING
 
 > BEGIN STRING
 ラグズフニ
 > CONTEXT: Skills/175/name/ < UNTRANSLATED
 > CONTEXT: Skills/292/name/ < UNTRANSLATED
-
+Raguzfuni
 > END STRING
 
 > BEGIN STRING
@@ -1269,14 +1269,14 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/175/description/ < UNTRANSLATED
 > CONTEXT: Skills/292/description/ < UNTRANSLATED
 > CONTEXT: Skills/729/description/ < UNTRANSLATED
-
+Opponents' skill down
 > END STRING
 
 > BEGIN STRING
 ハガルフニ
 > CONTEXT: Skills/176/name/ < UNTRANSLATED
 > CONTEXT: Skills/293/name/ < UNTRANSLATED
-
+Hagalfuni
 > END STRING
 
 > BEGIN STRING
@@ -1284,14 +1284,14 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/176/description/ < UNTRANSLATED
 > CONTEXT: Skills/293/description/ < UNTRANSLATED
 > CONTEXT: Skills/730/description/ < UNTRANSLATED
-
+Opponents' agility down
 > END STRING
 
 > BEGIN STRING
 エオルフニ
 > CONTEXT: Skills/177/name/ < UNTRANSLATED
 > CONTEXT: Skills/294/name/ < UNTRANSLATED
-
+Eorufuni
 > END STRING
 
 > BEGIN STRING
@@ -1299,7 +1299,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/177/description/ < UNTRANSLATED
 > CONTEXT: Skills/294/description/ < UNTRANSLATED
 > CONTEXT: Skills/731/description/ < UNTRANSLATED
-
+Opponents' spirit down
 > END STRING
 
 > BEGIN STRING
@@ -1308,7 +1308,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/295/name/ < UNTRANSLATED
 > CONTEXT: Commonevents/150/444/Choice/1 < UNTRANSLATED
 > CONTEXT: Commonevents/153/410/Choice/1 < UNTRANSLATED
-
+Sigilfuni
 > END STRING
 
 > BEGIN STRING
@@ -1316,7 +1316,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/178/description/ < UNTRANSLATED
 > CONTEXT: Skills/295/description/ < UNTRANSLATED
 > CONTEXT: Skills/732/description/ < UNTRANSLATED
-
+Opponents' charm down
 > END STRING
 
 > BEGIN STRING
@@ -1329,26 +1329,26 @@ EP回復 / 精神力アップ
 イーサグン
 > CONTEXT: Skills/180/name/ < UNTRANSLATED
 > CONTEXT: Skills/313/name/ < UNTRANSLATED
-
+Ethergun
 > END STRING
 
 > BEGIN STRING
 相手にかかっているグン系の魔法を打ち消す
 > CONTEXT: Skills/180/description/ < UNTRANSLATED
-
+Cancels any gun-type magic cast on the opponent
 > END STRING
 
 > BEGIN STRING
 イーサフニ
 > CONTEXT: Skills/181/name/ < UNTRANSLATED
 > CONTEXT: Skills/314/name/ < UNTRANSLATED
-
+Etherfuni
 > END STRING
 
 > BEGIN STRING
 味方にかかっているフニ系の魔法を打ち消す
 > CONTEXT: Skills/181/description/ < UNTRANSLATED
-
+Cancels funi-type magic on allies
 > END STRING
 
 > BEGIN STRING
@@ -1356,7 +1356,7 @@ EP回復 / 精神力アップ
 > CONTEXT: Skills/182/name/ < UNTRANSLATED
 > CONTEXT: Skills/315/name/ < UNTRANSLATED
 > CONTEXT: Skills/586/name/ < UNTRANSLATED
-
+Rogin
 > END STRING
 
 > BEGIN STRING
@@ -1438,7 +1438,7 @@ EP回復(大)
 > CONTEXT: Commonevents/251/150/Choice/1 < UNTRANSLATED
 > CONTEXT: Commonevents/251/183/Choice/1 < UNTRANSLATED
 > CONTEXT: Commonevents/251/216/Choice/1 < UNTRANSLATED
-
+Summon the Harpy Sisters
 > END STRING
 
 > BEGIN STRING
@@ -1552,7 +1552,7 @@ EP回復(大)
 > BEGIN STRING
 エナジードレイン
 > CONTEXT: Skills/212/name/ < UNTRANSLATED
-
+Energy Drain
 > END STRING
 
 > BEGIN STRING
@@ -1696,7 +1696,7 @@ EP回復(大)
 > CONTEXT: Skills/232/name/ < UNTRANSLATED
 > CONTEXT: Skills/249/name/ < UNTRANSLATED
 > CONTEXT: Skills/643/name/ < UNTRANSLATED
-
+Petra Eyes
 > END STRING
 
 > BEGIN STRING
@@ -1709,7 +1709,7 @@ EP回復(大)
 メルティキッス
 > CONTEXT: Skills/233/name/ < UNTRANSLATED
 > CONTEXT: Skills/644/name/ < UNTRANSLATED
-
+Melty Kiss
 > END STRING
 
 > BEGIN STRING
@@ -1729,19 +1729,19 @@ EP回復(大)
 > CONTEXT: Skills/234/description/ < UNTRANSLATED
 > CONTEXT: Skills/271/description/ < UNTRANSLATED
 > CONTEXT: Skills/299/name/ < UNTRANSLATED
-
+Bind
 > END STRING
 
 > BEGIN STRING
 アクアクロス
 > CONTEXT: Skills/235/name/ < UNTRANSLATED
-
+Aqua Cross
 > END STRING
 
 > BEGIN STRING
 守りアップ
 > CONTEXT: Skills/235/description/ < UNTRANSLATED
-
+Defense up
 > END STRING
 
 > BEGIN STRING
@@ -1779,7 +1779,7 @@ EP回復+精神力回復
 アルスイーサ
 > CONTEXT: Skills/239/name/ < UNTRANSLATED
 > CONTEXT: Skills/691/name/ < UNTRANSLATED
-
+Ars Ether
 > END STRING
 
 > BEGIN STRING
@@ -1791,13 +1791,13 @@ EP回復+精神力回復
 > BEGIN STRING
 サイズ
 > CONTEXT: Skills/240/name/ < UNTRANSLATED
-
+Scythe
 > END STRING
 
 > BEGIN STRING
 魔法を使う相手からMPを奪う
 > CONTEXT: Skills/240/description/ < UNTRANSLATED
-
+Steal MP from a magic using opponent
 > END STRING
 
 > BEGIN STRING
@@ -1805,7 +1805,7 @@ EP回復+精神力回復
 > CONTEXT: Skills/241/name/ < UNTRANSLATED
 > CONTEXT: Commonevents/150/444/Choice/2 < UNTRANSLATED
 > CONTEXT: Commonevents/153/410/Choice/2 < UNTRANSLATED
-
+Dorumba
 > END STRING
 
 > BEGIN STRING
@@ -1818,13 +1818,13 @@ EP回復+精神力回復
 > BEGIN STRING
 ファル・ルゥイン
 > CONTEXT: Skills/242/name/ < UNTRANSLATED
-
+Far-Ruin
 > END STRING
 
 > BEGIN STRING
 相手一人の守りダウン
 > CONTEXT: Skills/242/description/ < UNTRANSLATED
-
+Defense down on one opponent
 > END STRING
 
 > BEGIN STRING
@@ -1836,13 +1836,13 @@ EP回復+精神力回復
 > BEGIN STRING
 オーロラルグロウ
 > CONTEXT: Skills/244/name/ < UNTRANSLATED
-
+Auroral Glow
 > END STRING
 
 > BEGIN STRING
 ディスペルソング
 > CONTEXT: Skills/245/name/ < UNTRANSLATED
-
+Dispel Song
 > END STRING
 
 > BEGIN STRING
@@ -1855,7 +1855,7 @@ EP回復+精神力回復
 > BEGIN STRING
 デイスペルソング
 > CONTEXT: Skills/246/name/ < UNTRANSLATED
-
+Dispel Song
 > END STRING
 
 > BEGIN STRING
@@ -1868,7 +1868,7 @@ EP回復+精神力回復
 > BEGIN STRING
 クリアソウル
 > CONTEXT: Skills/247/name/ < UNTRANSLATED
-
+Clear Soul
 > END STRING
 
 > BEGIN STRING
@@ -1880,7 +1880,7 @@ EP回復+精神力回復
 > BEGIN STRING
 ファンシーヴィジョン
 > CONTEXT: Skills/248/name/ < UNTRANSLATED
-
+Fancy Vision
 > END STRING
 
 > BEGIN STRING
@@ -1898,7 +1898,7 @@ EP回復+精神力回復
 > BEGIN STRING
 セクシーアイ
 > CONTEXT: Skills/250/name/ < UNTRANSLATED
-
+Sexy Eye
 > END STRING
 
 > BEGIN STRING
@@ -1917,7 +1917,7 @@ EP回復+精神力回復
 > CONTEXT: Skills/251/name/ < UNTRANSLATED
 > CONTEXT: Skills/312/name/ < UNTRANSLATED
 > CONTEXT: Skills/588/name/ < UNTRANSLATED
-
+Arsfuni
 > END STRING
 
 > BEGIN STRING
@@ -1930,7 +1930,7 @@ EP回復+精神力回復
 サモン
 > CONTEXT: Skills/252/name/ < UNTRANSLATED
 > CONTEXT: Skills/319/name/ < UNTRANSLATED
-
+Summon
 > END STRING
 
 > BEGIN STRING
@@ -1968,13 +1968,13 @@ EP回復+精神力回復
 > BEGIN STRING
 鼓舞の舞
 > CONTEXT: Skills/254/name/ < UNTRANSLATED
-
+Rousing Dance
 > END STRING
 
 > BEGIN STRING
 セクシーウィンク
 > CONTEXT: Skills/255/name/ < UNTRANSLATED
-
+Sexy Wink
 > END STRING
 
 > BEGIN STRING
@@ -1996,7 +1996,7 @@ EP回復+精神力回復
 > BEGIN STRING
 ダリッシュスキン
 > CONTEXT: Skills/258/name/ < UNTRANSLATED
-
+Dalish Skin
 > END STRING
 
 > BEGIN STRING
@@ -2008,19 +2008,19 @@ EP回復+精神力回復
 > BEGIN STRING
 プリティスマイル
 > CONTEXT: Skills/261/name/ < UNTRANSLATED
-
+Pretty Smile
 > END STRING
 
 > BEGIN STRING
 プリティキッス
 > CONTEXT: Skills/262/name/ < UNTRANSLATED
-
+Pretty Kiss
 > END STRING
 
 > BEGIN STRING
 低確率恍惚
 > CONTEXT: Skills/262/description/ < UNTRANSLATED
-
+Low Probability Ecstasy
 > END STRING
 
 > BEGIN STRING
@@ -2038,13 +2038,13 @@ EP回復+精神力回復
 > BEGIN STRING
 フェアリーサークル
 > CONTEXT: Skills/265/name/ < UNTRANSLATED
-
+Fairy Circle
 > END STRING
 
 > BEGIN STRING
 センシブパウダー
 > CONTEXT: Skills/266/name/ < UNTRANSLATED
-
+Sensitive Powder
 > END STRING
 
 > BEGIN STRING
@@ -2053,38 +2053,38 @@ EP回復+精神力回復
 > CONTEXT: Skills/279/description/ < UNTRANSLATED
 > CONTEXT: Skills/309/description/ < UNTRANSLATED
 > CONTEXT: Skills/428/description/ < UNTRANSLATED
-
+Medium probability sensitive
 > END STRING
 
 > BEGIN STRING
 リジェネレーション
 > CONTEXT: Skills/267/name/ < UNTRANSLATED
-
+Regeneration
 > END STRING
 
 > BEGIN STRING
 センシブリキッド
 > CONTEXT: Skills/268/name/ < UNTRANSLATED
-
+Sensitive Liquid
 > END STRING
 
 > BEGIN STRING
 おたけび
 > CONTEXT: Skills/269/name/ < UNTRANSLATED
 > CONTEXT: Skills/322/name/ < UNTRANSLATED
-
+Roar
 > END STRING
 
 > BEGIN STRING
 顔を洗う
 > CONTEXT: Skills/270/name/ < UNTRANSLATED
-
+Wash Face
 > END STRING
 
 > BEGIN STRING
 トゥレイルルート
 > CONTEXT: Skills/271/name/ < UNTRANSLATED
-
+Tourail Root
 > END STRING
 
 > BEGIN STRING
@@ -2096,7 +2096,7 @@ EP回復+精神力回復
 > BEGIN STRING
 ラヴトラップ
 > CONTEXT: Skills/273/name/ < UNTRANSLATED
-
+Love Trap
 > END STRING
 
 > BEGIN STRING
@@ -2109,20 +2109,20 @@ EP回復+精神力回復
 > BEGIN STRING
 パッションフレイム
 > CONTEXT: Skills/274/name/ < UNTRANSLATED
-
+Passion Flame
 > END STRING
 
 > BEGIN STRING
 誘惑の歌
 > CONTEXT: Skills/275/name/ < UNTRANSLATED
 > CONTEXT: Skills/654/name/ < UNTRANSLATED
-
+Song of Temptation
 > END STRING
 
 > BEGIN STRING
 混乱の歌
 > CONTEXT: Skills/276/name/ < UNTRANSLATED
-
+Song of Confusion
 > END STRING
 
 > BEGIN STRING
@@ -2132,13 +2132,13 @@ EP回復+精神力回復
 > CONTEXT: Skills/338/description/ < UNTRANSLATED
 > CONTEXT: Skills/347/description/ < UNTRANSLATED
 > CONTEXT: Skills/353/description/ < UNTRANSLATED
-
+Medium probability of panic
 > END STRING
 
 > BEGIN STRING
 平穏の歌
 > CONTEXT: Skills/277/name/ < UNTRANSLATED
-
+Song of Peace
 > END STRING
 
 > BEGIN STRING
@@ -2151,7 +2151,7 @@ EP回復+精神力回復
 羽根吹雪
 > CONTEXT: Skills/279/name/ < UNTRANSLATED
 > CONTEXT: Skills/591/name/ < UNTRANSLATED
-
+Feather Storm
 > END STRING
 
 > BEGIN STRING
@@ -2163,7 +2163,7 @@ EP回復+精神力回復
 > BEGIN STRING
 まきつき
 > CONTEXT: Skills/281/name/ < UNTRANSLATED
-
+Twine
 > END STRING
 
 > BEGIN STRING
@@ -2176,13 +2176,13 @@ EP回復+精神力回復
 祝福のキッス
 > CONTEXT: Skills/282/name/ < UNTRANSLATED
 > CONTEXT: Skills/283/name/ < UNTRANSLATED
-
+Blessing Kiss
 > END STRING
 
 > BEGIN STRING
 運命のキッス
 > CONTEXT: Skills/284/name/ < UNTRANSLATED
-
+Destined Kiss
 > END STRING
 
 > BEGIN STRING
@@ -2234,7 +2234,7 @@ EP回復+精神力回復
 > BEGIN STRING
 ペルスグン
 > CONTEXT: Skills/290/name/ < UNTRANSLATED
-
+Persgun
 > END STRING
 
 > BEGIN STRING
@@ -2264,37 +2264,37 @@ EP回復+精神力回復
 > BEGIN STRING
 ラプチャ
 > CONTEXT: Skills/300/name/ < UNTRANSLATED
-
+Rapture
 > END STRING
 
 > BEGIN STRING
 ファル・ウルズグン
 > CONTEXT: Skills/301/name/ < UNTRANSLATED
-
+Far-Uruzgun
 > END STRING
 
 > BEGIN STRING
 ファル・ラグズグン
 > CONTEXT: Skills/302/name/ < UNTRANSLATED
-
+Far-Ragsgun
 > END STRING
 
 > BEGIN STRING
 ファル・ハガルグン
 > CONTEXT: Skills/303/name/ < UNTRANSLATED
-
+Far-Hagalgun
 > END STRING
 
 > BEGIN STRING
 ファル・エオルグン
 > CONTEXT: Skills/304/name/ < UNTRANSLATED
-
+Far-Eorgun
 > END STRING
 
 > BEGIN STRING
 ファル・シギルグン
 > CONTEXT: Skills/305/name/ < UNTRANSLATED
-
+Far-Sigilgun
 > END STRING
 
 > BEGIN STRING
@@ -2302,7 +2302,7 @@ EP回復+精神力回復
 > CONTEXT: Skills/306/name/ < UNTRANSLATED
 > CONTEXT: Skills/581/name/ < UNTRANSLATED
 > CONTEXT: Skills/584/name/ < UNTRANSLATED
-
+Arsgun
 > END STRING
 
 > BEGIN STRING
@@ -2322,7 +2322,7 @@ EP回復+精神力回復
 > BEGIN STRING
 ホルド
 > CONTEXT: Skills/308/name/ < UNTRANSLATED
-
+Hold
 > END STRING
 
 > BEGIN STRING
@@ -2337,14 +2337,14 @@ EP回復+精神力回復
 > CONTEXT: Commonevents/150/314/Choice/0 < UNTRANSLATED
 > CONTEXT: Commonevents/153/282/Choice/2 < UNTRANSLATED
 > CONTEXT: Skills/700/name/ < UNTRANSLATED
-
+Ristil
 > END STRING
 
 > BEGIN STRING
 フィーブル
 > CONTEXT: Skills/311/name/ < UNTRANSLATED
 > CONTEXT: Skills/582/name/ < UNTRANSLATED
-
+Feeble
 > END STRING
 
 > BEGIN STRING
@@ -2369,7 +2369,7 @@ EP回復(個別)
 > BEGIN STRING
 ラル・ロギン
 > CONTEXT: Skills/316/name/ < UNTRANSLATED
-
+Far-Rogin
 > END STRING
 
 > BEGIN STRING
@@ -2381,13 +2381,13 @@ EP回復(全体)
 > BEGIN STRING
 ファル・ロギン
 > CONTEXT: Skills/317/name/ < UNTRANSLATED
-
+Far-Rogin
 > END STRING
 
 > BEGIN STRING
 ハパピィ
 > CONTEXT: Skills/318/name/ < UNTRANSLATED
-
+Hapapi
 > END STRING
 
 > BEGIN STRING
@@ -2450,13 +2450,13 @@ EP回復(全体)
 > BEGIN STRING
 センシブウォーター
 > CONTEXT: Skills/325/name/ < UNTRANSLATED
-
+Sensitive Water
 > END STRING
 
 > BEGIN STRING
 誘惑の舞い
 > CONTEXT: Skills/326/name/ < UNTRANSLATED
-
+Temptation Dance
 > END STRING
 
 > BEGIN STRING
@@ -2470,13 +2470,13 @@ EP回復(全体)
 > BEGIN STRING
 ロマンスソング
 > CONTEXT: Skills/327/name/ < UNTRANSLATED
-
+Romance Song
 > END STRING
 
 > BEGIN STRING
 ファル･ラグズグン
 > CONTEXT: Skills/328/name/ < UNTRANSLATED
-
+Far-Ragsgun
 > END STRING
 
 > BEGIN STRING
@@ -2490,13 +2490,13 @@ EP回復(全体)
 > BEGIN STRING
 ファル･シギルグン
 > CONTEXT: Skills/329/name/ < UNTRANSLATED
-
+Far-Sigilgun
 > END STRING
 
 > BEGIN STRING
 アルス・ロギン
 > CONTEXT: Skills/330/name/ < UNTRANSLATED
-
+Ars-Rogin
 > END STRING
 
 > BEGIN STRING
@@ -2508,7 +2508,7 @@ EP回復(全体)
 > BEGIN STRING
 ワインドウェッブ
 > CONTEXT: Skills/332/name/ < UNTRANSLATED
-
+Windweb
 > END STRING
 
 > BEGIN STRING
@@ -2549,7 +2549,7 @@ EP回復(全体)
 > BEGIN STRING
 セクシーポーズ
 > CONTEXT: Skills/336/name/ < UNTRANSLATED
-
+Sexy Pose
 > END STRING
 
 > BEGIN STRING
@@ -2562,7 +2562,7 @@ EP回復(全体)
 狐火
 > CONTEXT: Skills/337/name/ < UNTRANSLATED
 > CONTEXT: Skills/338/name/ < UNTRANSLATED
-
+Foxfire
 > END STRING
 
 > BEGIN STRING
@@ -2587,7 +2587,7 @@ EP回復(全体)
 リドル
 > CONTEXT: Skills/341/name/ < UNTRANSLATED
 > CONTEXT: Skills/358/name/ < UNTRANSLATED
-
+Riddle
 > END STRING
 
 > BEGIN STRING
@@ -2607,7 +2607,7 @@ EP回復(全体)
 > CONTEXT: Skills/343/name/ < UNTRANSLATED
 > CONTEXT: Skills/344/name/ < UNTRANSLATED
 > CONTEXT: Skills/345/name/ < UNTRANSLATED
-
+Wondertrip
 > END STRING
 
 > BEGIN STRING
@@ -2662,25 +2662,25 @@ EP回復(全体)
 > BEGIN STRING
 花ざかり
 > CONTEXT: Skills/351/name/ < UNTRANSLATED
-
+Blooming
 > END STRING
 
 > BEGIN STRING
 誘惑の調べ
 > CONTEXT: Skills/352/name/ < UNTRANSLATED
-
+Alluring Tune
 > END STRING
 
 > BEGIN STRING
 混乱の調べ
 > CONTEXT: Skills/353/name/ < UNTRANSLATED
-
+Chaos Tune
 > END STRING
 
 > BEGIN STRING
 ジェントリーウィープ
 > CONTEXT: Skills/354/name/ < UNTRANSLATED
-
+Gently Weep
 > END STRING
 
 > BEGIN STRING
@@ -2695,25 +2695,25 @@ EP回復(全体)
 > BEGIN STRING
 ディスペルクライ
 > CONTEXT: Skills/355/name/ < UNTRANSLATED
-
+Dispel Cry
 > END STRING
 
 > BEGIN STRING
 ブリザード
 > CONTEXT: Skills/356/name/ < UNTRANSLATED
-
+Blizzard
 > END STRING
 
 > BEGIN STRING
 インセンス打消し
 > CONTEXT: Skills/356/description/ < UNTRANSLATED
-
+Incense Cancel
 > END STRING
 
 > BEGIN STRING
 フロストリング
 > CONTEXT: Skills/357/name/ < UNTRANSLATED
-
+Frost Ring
 > END STRING
 
 > BEGIN STRING
@@ -2978,7 +2978,7 @@ EP回復(全体)
 > BEGIN STRING
 水の愛撫
 > CONTEXT: Skills/392/name/ < UNTRANSLATED
-
+Water Caress
 > END STRING
 
 > BEGIN STRING
@@ -2990,7 +2990,7 @@ EP回復(全体)
 > BEGIN STRING
 おぼれくるえ
 > CONTEXT: Skills/393/name/ < UNTRANSLATED
-
+Drown
 > END STRING
 
 > BEGIN STRING
@@ -3032,13 +3032,13 @@ EP回復(全体)
 > BEGIN STRING
 風の愛撫
 > CONTEXT: Skills/399/name/ < UNTRANSLATED
-
+Wind Caress
 > END STRING
 
 > BEGIN STRING
 追加効果：全身敏感
 > CONTEXT: Skills/399/description/ < UNTRANSLATED
-
+Additional effect: Whole body sensitivity
 > END STRING
 
 > BEGIN STRING
@@ -3086,7 +3086,7 @@ EP回復(全体)
 > BEGIN STRING
 ブラッドサック
 > CONTEXT: Skills/406/name/ < UNTRANSLATED
-
+Bloodsuck
 > END STRING
 
 > BEGIN STRING
@@ -3141,19 +3141,19 @@ EP回復(全体)
 > BEGIN STRING
 ウィップ
 > CONTEXT: Skills/414/name/ < UNTRANSLATED
-
+Whip
 > END STRING
 
 > BEGIN STRING
 スパンク
 > CONTEXT: Skills/415/name/ < UNTRANSLATED
-
+Spank
 > END STRING
 
 > BEGIN STRING
 雪の口溶け
 > CONTEXT: Skills/416/name/ < UNTRANSLATED
-
+Snow Mouth
 > END STRING
 
 > BEGIN STRING
@@ -3165,7 +3165,7 @@ EP回復(全体)
 > BEGIN STRING
 運命繰り
 > CONTEXT: Skills/417/name/ < UNTRANSLATED
-
+Fate Reversal
 > END STRING
 
 > BEGIN STRING
@@ -3195,7 +3195,7 @@ EP回復(全体)
 > BEGIN STRING
 惑乱の手練
 > CONTEXT: Skills/420/name/ < UNTRANSLATED
-
+Confusion Technique
 > END STRING
 
 > BEGIN STRING
@@ -3207,7 +3207,7 @@ EP回復(全体)
 > BEGIN STRING
 くすぐる
 > CONTEXT: Skills/421/name/ < UNTRANSLATED
-
+Tickle
 > END STRING
 
 > BEGIN STRING
@@ -3219,7 +3219,7 @@ EP回復(全体)
 > BEGIN STRING
 グングニル
 > CONTEXT: Skills/423/name/ < UNTRANSLATED
-
+Gungnir
 > END STRING
 
 > BEGIN STRING
@@ -3243,7 +3243,7 @@ EP回復(全体)
 > BEGIN STRING
 夏至の魔力
 > CONTEXT: Skills/426/name/ < UNTRANSLATED
-
+Summersolstice Magic
 > END STRING
 
 > BEGIN STRING
@@ -3681,7 +3681,7 @@ EP回復(全体)
 > BEGIN STRING
 ファル・ラプチャ
 > CONTEXT: Skills/583/name/ < UNTRANSLATED
-
+Far-Rapture
 > END STRING
 
 > BEGIN STRING
@@ -3755,7 +3755,7 @@ EP回復(全体)
 上天の道行き
 > CONTEXT: Skills/598/name/ < UNTRANSLATED
 > CONTEXT: Skills/656/name/ < UNTRANSLATED
-
+Journey to Heaven
 > END STRING
 
 > BEGIN STRING
@@ -3936,7 +3936,7 @@ EP回復(全体)
 > BEGIN STRING
 インビテーション
 > CONTEXT: Skills/659/name/ < UNTRANSLATED
-
+Invitation
 > END STRING
 
 > BEGIN STRING
@@ -3960,7 +3960,7 @@ EP回復(全体)
 > BEGIN STRING
 狐眷來々
 > CONTEXT: Skills/666/name/ < UNTRANSLATED
-
+Fox arrival
 > END STRING
 
 > BEGIN STRING
@@ -4044,7 +4044,7 @@ EP回復(全体)
 > BEGIN STRING
 クリエイション
 > CONTEXT: Skills/676/name/ < UNTRANSLATED
-
+Creation
 > END STRING
 
 > BEGIN STRING
@@ -4086,7 +4086,7 @@ EP回復(全体)
 > BEGIN STRING
 カースイーサ
 > CONTEXT: Skills/687/name/ < UNTRANSLATED
-
+Kasu Ether
 > END STRING
 
 > BEGIN STRING
@@ -4098,7 +4098,7 @@ EP回復(全体)
 > BEGIN STRING
 マインイーサ
 > CONTEXT: Skills/688/name/ < UNTRANSLATED
-
+Mine Ether
 > END STRING
 
 > BEGIN STRING
@@ -4110,7 +4110,7 @@ EP回復(全体)
 > BEGIN STRING
 センスイーサ
 > CONTEXT: Skills/689/name/ < UNTRANSLATED
-
+Sense Ether
 > END STRING
 
 > BEGIN STRING
@@ -4122,13 +4122,13 @@ EP回復(全体)
 > BEGIN STRING
 バインイーサ
 > CONTEXT: Skills/690/name/ < UNTRANSLATED
-
+Bind Ether
 > END STRING
 
 > BEGIN STRING
 バインド解除
 > CONTEXT: Skills/690/description/ < UNTRANSLATED
-
+Unbind
 > END STRING
 
 > BEGIN STRING
@@ -4152,7 +4152,7 @@ EP回復(全体)
 > BEGIN STRING
 テンションが上がりやすくなる
 > CONTEXT: Skills/694/description/ < UNTRANSLATED
-
+Increase tension gain
 > END STRING
 
 > BEGIN STRING
@@ -4201,7 +4201,7 @@ EP回復(全体)
 > BEGIN STRING
 ファル・リスティル
 > CONTEXT: Skills/701/name/ < UNTRANSLATED
-
+Far-Ristil
 > END STRING
 
 > BEGIN STRING
@@ -4213,7 +4213,7 @@ EP回復(全体)
 > BEGIN STRING
 ファル・ドルンバ
 > CONTEXT: Skills/704/name/ < UNTRANSLATED
-
+Far-Dorumba
 > END STRING
 
 > BEGIN STRING
@@ -4249,7 +4249,7 @@ EP回復(全体)
 > BEGIN STRING
 相手全員をセンシブ状態にする
 > CONTEXT: Skills/707/description/ < UNTRANSLATED
-
+Put all opponents in a sensitive state
 > END STRING
 
 > BEGIN STRING
@@ -4261,7 +4261,7 @@ EP回復(全体)
 > BEGIN STRING
 ルート
 > CONTEXT: Skills/709/name/ < UNTRANSLATED
-
+Root
 > END STRING
 
 > BEGIN STRING
@@ -4279,7 +4279,7 @@ EP回復(全体)
 > BEGIN STRING
 相手全員を魔法を使えなくする
 > CONTEXT: Skills/710/description/ < UNTRANSLATED
-
+Prevents all opponents from using magic
 > END STRING
 
 > BEGIN STRING

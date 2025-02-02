@@ -197,7 +197,7 @@ SQ_Town02
 > CONTEXT: Map460/events/5/pages/0/12/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map451/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map451/events/5/pages/0/12/InlineScript/1:4 < UNTRANSLATED
-
+"Master"
 > END STRING
 
 > BEGIN STRING
@@ -255,7 +255,7 @@ SQ_Town02
 "バーテン"
 > CONTEXT: Map470/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map460/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Bartender"
 > END STRING
 
 > BEGIN STRING
@@ -483,7 +483,7 @@ SQ_Town02
 > CONTEXT: Map470/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map451/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map460/events/19/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Traveller"
 > END STRING
 
 > BEGIN STRING
@@ -510,7 +510,7 @@ SQ_Town02
 > CONTEXT: Map470/events/24/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map460/events/17/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map460/events/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Mage"
 > END STRING
 
 > BEGIN STRING
@@ -606,13 +606,13 @@ SQ_Town02
 > BEGIN STRING
 "売り子"
 > CONTEXT: Map470/events/31/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Salesperson"
 > END STRING
 
 > BEGIN STRING
 「うちは料理もおいしいですよ♪
 > CONTEXT: Map470/events/31/pages/0/1/Dialogue < UNTRANSLATED
-
+「Our food is also delicious♪
 > END STRING
 
 > BEGIN STRING

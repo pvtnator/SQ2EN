@@ -96,7 +96,7 @@ SQT_ReadingRoom
 > CONTEXT: Commonevents/184/83/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/189/38/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/198/144/Dialogue < UNTRANSLATED
-
+What will you do?
 > END STRING
 
 > BEGIN STRING

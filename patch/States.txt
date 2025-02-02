@@ -178,7 +178,7 @@
 > CONTEXT: Skills/309/name/ < UNTRANSLATED
 > CONTEXT: Skills/325/description/ < UNTRANSLATED
 > CONTEXT: Skills/707/name/ < UNTRANSLATED
-
+Sensitive
 > END STRING
 
 > BEGIN STRING
@@ -191,58 +191,58 @@
 クラムジ
 > CONTEXT: States/31/name/ < UNTRANSLATED
 > CONTEXT: Skills/297/name/ < UNTRANSLATED
-
+Clumsy
 > END STRING
 
 > BEGIN STRING
 ヴィジョン
 > CONTEXT: States/32/name/ < UNTRANSLATED
 > CONTEXT: Skills/298/name/ < UNTRANSLATED
-
+Vision
 > END STRING
 
 > BEGIN STRING
 ミニマム
 > CONTEXT: States/33/name/ < UNTRANSLATED
 > CONTEXT: Skills/296/name/ < UNTRANSLATED
-
+Mini
 > END STRING
 
 > BEGIN STRING
 スタン
 > CONTEXT: States/34/name/ < UNTRANSLATED
-
+Stun
 > END STRING
 
 > BEGIN STRING
 エキサイト
 > CONTEXT: States/35/name/ < UNTRANSLATED
-
+Excite
 > END STRING
 
 > BEGIN STRING
 クールダウン
 > CONTEXT: States/36/name/ < UNTRANSLATED
-
+Cooldown
 > END STRING
 
 > BEGIN STRING
 ヴィジャラス
 > CONTEXT: States/37/name/ < UNTRANSLATED
-
+Vigor
 > END STRING
 
 > BEGIN STRING
 アキュレイ
 > CONTEXT: States/38/name/ < UNTRANSLATED
-
+Accuracy
 > END STRING
 
 > BEGIN STRING
 ダリッシュ
 > CONTEXT: States/39/name/ < UNTRANSLATED
 > CONTEXT: Skills/258/description/ < UNTRANSLATED
-
+Dalish
 > END STRING
 
 > BEGIN STRING
@@ -261,7 +261,7 @@
 クヮイエト
 > CONTEXT: States/42/name/ < UNTRANSLATED
 > CONTEXT: Skills/243/name/ < UNTRANSLATED
-
+Quiet
 > END STRING
 
 > BEGIN STRING
@@ -285,7 +285,7 @@
 > BEGIN STRING
 無敵
 > CONTEXT: States/46/name/ < UNTRANSLATED
-
+Invincible
 > END STRING
 
 > BEGIN STRING
@@ -298,13 +298,13 @@
 パッション
 > CONTEXT: States/48/name/ < UNTRANSLATED
 > CONTEXT: Skills/694/name/ < UNTRANSLATED
-
+Passion
 > END STRING
 
 > BEGIN STRING
 トワイス
 > CONTEXT: States/49/name/ < UNTRANSLATED
-
+Twice
 > END STRING
 
 > BEGIN STRING
@@ -738,34 +738,34 @@ EP+50%
 シダーウッド
 > CONTEXT: States/135/name/ < UNTRANSLATED
 > CONTEXT: Items/1/name/ < UNTRANSLATED
-
+Cedarwood
 > END STRING
 
 > BEGIN STRING
 ローズウッド
 > CONTEXT: States/136/name/ < UNTRANSLATED
-
+Rosewood
 > END STRING
 
 > BEGIN STRING
 サンダルウッド
 > CONTEXT: States/137/name/ < UNTRANSLATED
 > CONTEXT: Items/3/name/ < UNTRANSLATED
-
+Sandalwood
 > END STRING
 
 > BEGIN STRING
 アローズウッド
 > CONTEXT: States/138/name/ < UNTRANSLATED
 > CONTEXT: Items/4/name/ < UNTRANSLATED
-
+Aloeswood
 > END STRING
 
 > BEGIN STRING
 ペパーミント
 > CONTEXT: States/139/name/ < UNTRANSLATED
 > CONTEXT: Items/5/name/ < UNTRANSLATED
-
+Peppermint
 > END STRING
 
 > BEGIN STRING
@@ -778,70 +778,70 @@ EP+50%
 ローズマリー
 > CONTEXT: States/141/name/ < UNTRANSLATED
 > CONTEXT: Items/7/name/ < UNTRANSLATED
-
+Rosemary
 > END STRING
 
 > BEGIN STRING
 ミルトス
 > CONTEXT: States/142/name/ < UNTRANSLATED
 > CONTEXT: Items/8/name/ < UNTRANSLATED
-
+Miltos
 > END STRING
 
 > BEGIN STRING
 ジャスミン
 > CONTEXT: States/143/name/ < UNTRANSLATED
 > CONTEXT: Items/9/name/ < UNTRANSLATED
-
+Jasmin
 > END STRING
 
 > BEGIN STRING
 ラヴェンダー
 > CONTEXT: States/144/name/ < UNTRANSLATED
 > CONTEXT: Items/10/name/ < UNTRANSLATED
-
+Lavendar
 > END STRING
 
 > BEGIN STRING
 ムスク
 > CONTEXT: States/145/name/ < UNTRANSLATED
 > CONTEXT: Items/11/name/ < UNTRANSLATED
-
+Musk
 > END STRING
 
 > BEGIN STRING
 マージョラム
 > CONTEXT: States/146/name/ < UNTRANSLATED
 > CONTEXT: Items/12/name/ < UNTRANSLATED
-
+Majoram
 > END STRING
 
 > BEGIN STRING
 ヘンルーダ
 > CONTEXT: States/147/name/ < UNTRANSLATED
 > CONTEXT: Items/13/name/ < UNTRANSLATED
-
+Common rue
 > END STRING
 
 > BEGIN STRING
 フランキンセンス
 > CONTEXT: States/148/name/ < UNTRANSLATED
 > CONTEXT: Items/14/name/ < UNTRANSLATED
-
+Frankincense
 > END STRING
 
 > BEGIN STRING
 ユビキタス・ラヴ
 > CONTEXT: States/149/name/ < UNTRANSLATED
 > CONTEXT: Skills/260/name/ < UNTRANSLATED
-
+Ubiquitous Love
 > END STRING
 
 > BEGIN STRING
 ナイトインセンス
 > CONTEXT: States/150/name/ < UNTRANSLATED
 > CONTEXT: Skills/236/name/ < UNTRANSLATED
-
+Night Incense
 > END STRING
 
 > BEGIN STRING
@@ -1489,7 +1489,7 @@ EP+50%
 > BEGIN STRING
 モル・ロギン
 > CONTEXT: States/279/name/ < UNTRANSLATED
-
+Mor-Rogin
 > END STRING
 
 > BEGIN STRING
@@ -1562,7 +1562,7 @@ EP+50%
 フォシブル
 > CONTEXT: States/293/name/ < UNTRANSLATED
 > CONTEXT: Skills/695/name/ < UNTRANSLATED
-
+Forcible
 > END STRING
 
 > BEGIN STRING
@@ -1736,7 +1736,7 @@ EP+50%
 ボディミミック
 > CONTEXT: States/354/name/ < UNTRANSLATED
 > CONTEXT: Skills/272/name/ < UNTRANSLATED
-
+Body Mimic
 > END STRING
 
 > BEGIN STRING

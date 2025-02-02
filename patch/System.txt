@@ -39,7 +39,7 @@
 > BEGIN STRING
 精力
 > CONTEXT: System/words/str/ < UNTRANSLATED
-
+Energy
 > END STRING
 
 > BEGIN STRING
@@ -81,7 +81,7 @@ G
 > BEGIN STRING
 守り
 > CONTEXT: System/words/pdef/ < UNTRANSLATED
-
+Defense
 > END STRING
 
 > BEGIN STRING
@@ -99,13 +99,13 @@ EP
 > BEGIN STRING
 素早さ
 > CONTEXT: System/words/agi/ < UNTRANSLATED
-
+Agility
 > END STRING
 
 > BEGIN STRING
 愛撫
 > CONTEXT: System/words/attack/ < UNTRANSLATED
-
+Caress
 > END STRING
 
 > BEGIN STRING
@@ -117,7 +117,7 @@ EP
 > BEGIN STRING
 アイテム
 > CONTEXT: System/words/item/ < UNTRANSLATED
-
+Items
 > END STRING
 
 > BEGIN STRING
@@ -125,25 +125,25 @@ EP
 > CONTEXT: System/words/atk/ < UNTRANSLATED
 > CONTEXT: Commonevents/171/82/Label < UNTRANSLATED
 > CONTEXT: Commonevents/171/96/Label < UNTRANSLATED
-
+Attack
 > END STRING
 
 > BEGIN STRING
 技巧
 > CONTEXT: System/words/dex/ < UNTRANSLATED
-
+Skill
 > END STRING
 
 > BEGIN STRING
 コーディネート
 > CONTEXT: System/words/weapon/ < UNTRANSLATED
-
+Outfit
 > END STRING
 
 > BEGIN STRING
 耐える
 > CONTEXT: System/words/guard/ < UNTRANSLATED
-
+Endure
 > END STRING
 
 > BEGIN STRING
@@ -431,7 +431,7 @@ EP/SPエフェクト
 > BEGIN STRING
 ベーススキル
 > CONTEXT: System/elements/47/ < UNTRANSLATED
-
+Base Skill
 > END STRING
 
 > BEGIN STRING

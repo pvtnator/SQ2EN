@@ -226,7 +226,7 @@
 > CONTEXT: Commonevents/251/345/Choice/0 < UNTRANSLATED
 > CONTEXT: Commonevents/251/366/Choice/0 < UNTRANSLATED
 > CONTEXT: Commonevents/253/5/Choice/0 < UNTRANSLATED
-
+Yes
 > END STRING
 
 > BEGIN STRING
@@ -392,7 +392,7 @@
 > CONTEXT: Commonevents/251/345/Choice/1 < UNTRANSLATED
 > CONTEXT: Commonevents/251/366/Choice/1 < UNTRANSLATED
 > CONTEXT: Commonevents/253/5/Choice/1 < UNTRANSLATED
-
+No
 > END STRING
 
 > BEGIN STRING
@@ -465,7 +465,7 @@
 > CONTEXT: Map015/events/3/pages/0/8/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map015/events/3/pages/0/13/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map015/events/9/pages/0/233/InlineScript/1:4 < UNTRANSLATED
-
+"Sheep"
 > END STRING
 
 > BEGIN STRING
@@ -483,7 +483,7 @@
 > BEGIN STRING
 "老人"
 > CONTEXT: Map483/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Old Man"
 > END STRING
 
 > BEGIN STRING
@@ -503,7 +503,7 @@
 > BEGIN STRING
 "老婆"
 > CONTEXT: Map483/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Old Woman"
 > END STRING
 
 > BEGIN STRING
@@ -627,7 +627,7 @@
 > BEGIN STRING
 "エルフの男"
 > CONTEXT: Map483/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Elf Man"
 > END STRING
 
 > BEGIN STRING

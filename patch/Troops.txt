@@ -67,7 +67,7 @@ EV_サフィ（オープニング）
 > CONTEXT: Map431/events/1/pages/0/131/Dialogue < UNTRANSLATED
 > CONTEXT: Map423/events/1/pages/0/314/Dialogue < UNTRANSLATED
 > CONTEXT: Map426/events/28/pages/0/1/Dialogue < UNTRANSLATED
-
+「......
 > END STRING
 
 > BEGIN STRING
@@ -233,7 +233,7 @@ EV_サキュバス(オープニング)
 > BEGIN STRING
 「う……
 > CONTEXT: Troops/5/pages/0/52/Dialogue < UNTRANSLATED
-
+「Ugh...
 > END STRING
 
 > BEGIN STRING
@@ -690,7 +690,7 @@ EV_ドラゴンナイト
 > BEGIN STRING
 「ガオォォンッ！
 > CONTEXT: Troops/28/pages/0/3/Dialogue < UNTRANSLATED
-
+「Gaooow!
 > END STRING
 
 > BEGIN STRING
@@ -865,13 +865,13 @@ EVTEST
 サキュバス*1
 > CONTEXT: Troops/71/name/ < UNTRANSLATED
 > CONTEXT: Troops/72/name/ < UNTRANSLATED
-
+Succubus*1
 > END STRING
 
 > BEGIN STRING
 サキュバス*2
 > CONTEXT: Troops/73/name/ < UNTRANSLATED
-
+Succubus*2
 > END STRING
 
 > BEGIN STRING
@@ -884,26 +884,26 @@ EVTEST
 サキュバス+インプ*2
 > CONTEXT: Troops/75/name/ < UNTRANSLATED
 > CONTEXT: Troops/76/name/ < UNTRANSLATED
-
+Succubus+Imp*2
 > END STRING
 
 > BEGIN STRING
 サキュバス+インプ
 > CONTEXT: Troops/77/name/ < UNTRANSLATED
 > CONTEXT: Troops/78/name/ < UNTRANSLATED
-
+Succubus+Imp
 > END STRING
 
 > BEGIN STRING
 インプ*1
 > CONTEXT: Troops/79/name/ < UNTRANSLATED
-
+Imp*1
 > END STRING
 
 > BEGIN STRING
 インプ*2
 > CONTEXT: Troops/80/name/ < UNTRANSLATED
-
+Imp*2
 > END STRING
 
 > BEGIN STRING
@@ -927,13 +927,13 @@ EVTEST
 > BEGIN STRING
 ピクシー*2
 > CONTEXT: Troops/84/name/ < UNTRANSLATED
-
+Pixie*2
 > END STRING
 
 > BEGIN STRING
 ピクシー*3
 > CONTEXT: Troops/85/name/ < UNTRANSLATED
-
+Pixie*3
 > END STRING
 
 > BEGIN STRING
@@ -946,13 +946,13 @@ EVTEST
 ドライアド*1
 > CONTEXT: Troops/87/name/ < UNTRANSLATED
 > CONTEXT: Troops/88/name/ < UNTRANSLATED
-
+Dryad*1
 > END STRING
 
 > BEGIN STRING
 ドライアド*2
 > CONTEXT: Troops/89/name/ < UNTRANSLATED
-
+Dryad*2
 > END STRING
 
 > BEGIN STRING
@@ -965,7 +965,7 @@ EVTEST
 ドライアド+ピクシー
 > CONTEXT: Troops/91/name/ < UNTRANSLATED
 > CONTEXT: Troops/92/name/ < UNTRANSLATED
-
+Dryad+Pixie
 > END STRING
 
 > BEGIN STRING
@@ -1868,7 +1868,7 @@ EVTEST
 ヴァージンヴィレッジャ
 > CONTEXT: Troops/258/name/ < UNTRANSLATED
 > CONTEXT: Items/446/name/ < UNTRANSLATED
-
+Virgin Villager
 > END STRING
 
 > BEGIN STRING
