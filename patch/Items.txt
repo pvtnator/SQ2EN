@@ -745,14 +745,14 @@ Barley berries with hangover-relief properties
 
 > BEGIN STRING
 図書館見取り図
-> CONTEXT: Items/101/name/ < UNTRANSLATED
-
+> CONTEXT: Items/101/name/
+Library Floor Plan
 > END STRING
 
 > BEGIN STRING
 〔地図帳〕 グルッペン王立図書館の見取り図
-> CONTEXT: Items/101/description/ < UNTRANSLATED
-
+> CONTEXT: Items/101/description/
+[Map] Floor plan of the Royal Gruppen Library
 > END STRING
 
 > BEGIN STRING
@@ -931,28 +931,28 @@ Barley berries with hangover-relief properties
 
 > BEGIN STRING
 夢魔史Ⅰ
-> CONTEXT: Items/121/name/ < UNTRANSLATED
-
+> CONTEXT: Items/121/name/
+Succubus History 1
 > END STRING
 
 > BEGIN STRING
 〔史書〕 夢魔についての伝承が綴られた本
-> CONTEXT: Items/121/description/ < UNTRANSLATED
-> CONTEXT: Items/122/description/ < UNTRANSLATED
-> CONTEXT: Items/123/description/ < UNTRANSLATED
-
+> CONTEXT: Items/121/description/
+> CONTEXT: Items/122/description/
+> CONTEXT: Items/123/description/
+[History] A book that contains legends about succubi.
 > END STRING
 
 > BEGIN STRING
 夢魔史Ⅱ
-> CONTEXT: Items/122/name/ < UNTRANSLATED
-
+> CONTEXT: Items/122/name/
+Succubus History 2
 > END STRING
 
 > BEGIN STRING
 夢魔史Ⅲ
-> CONTEXT: Items/123/name/ < UNTRANSLATED
-
+> CONTEXT: Items/123/name/
+Succubus History 3
 > END STRING
 
 > BEGIN STRING
@@ -1740,8 +1740,8 @@ Night Picture Book
 
 > BEGIN STRING
 〔キーアイテム〕 出会った夢魔の姿かたちがひとりでに描かれる絵本
-> CONTEXT: Items/199/description/ < UNTRANSLATED
-
+> CONTEXT: Items/199/description/
+[Key item] A picture book that automatically draws the succubi you encounter
 > END STRING
 
 > BEGIN STRING

@@ -66,9 +66,9 @@
 
 > BEGIN STRING
 「へ？
-> CONTEXT: Map467/events/3/pages/0/110/Dialogue < UNTRANSLATED
-> CONTEXT: Map421/events/6/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/110/Dialogue
+> CONTEXT: Map421/events/6/pages/0/60/Dialogue
+「Eh?
 > END STRING
 
 > BEGIN STRING

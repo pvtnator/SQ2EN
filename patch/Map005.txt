@@ -21,11 +21,11 @@
 
 > BEGIN STRING
 "アイゼクト/AyxectO/09"
-> CONTEXT: Map005/events/2/pages/0/5/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map005/events/2/pages/0/12/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map005/events/2/pages/0/19/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map005/events/2/pages/0/27/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/5/InlineScript/1:4
+> CONTEXT: Map005/events/2/pages/0/12/InlineScript/1:4
+> CONTEXT: Map005/events/2/pages/0/19/InlineScript/1:4
+> CONTEXT: Map005/events/2/pages/0/27/InlineScript/1:4
+"Ayxect/AyxectO/09"
 > END STRING
 
 > BEGIN STRING

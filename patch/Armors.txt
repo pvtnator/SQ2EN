@@ -7,8 +7,8 @@
 
 > BEGIN STRING
 司書の指輪/0/0/0
-> CONTEXT: Armors/2/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/2/name/
+Librarian's Ring/0/0/0
 > END STRING
 
 > BEGIN STRING

@@ -1814,8 +1814,8 @@ Body Mimic
 
 > BEGIN STRING
 鑑定済みアイテム出現率アップ
-> CONTEXT: States/404/name/ < UNTRANSLATED
-
+> CONTEXT: States/404/name/
+Appraised item probability+
 > END STRING
 
 > BEGIN STRING

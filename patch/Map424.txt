@@ -1,128 +1,141 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「ねえ、\\d現にあるもの\\dってなあに？
-> CONTEXT: Map424/events/1/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/36/Dialogue
+「Hey, \\dwhat is real\\d?
 > END STRING
 
 > BEGIN STRING
 「何じゃと？
-> CONTEXT: Map424/events/1/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/38/Dialogue
+「What?
 > END STRING
 
 > BEGIN STRING
 「あなたさっき言ってたじゃない。
 　夢が現にあるなんてわけないって。
 　それじゃ何があるの？
-> CONTEXT: Map424/events/1/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/40/Dialogue
+「You said earlier that 
+　dreams aren't real. 
+　So what is?
 > END STRING
 
 > BEGIN STRING
 「これかしら？
 　あなたの大切な…
-> CONTEXT: Map424/events/1/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/43/Dialogue
+「How about this?
+　Your precious...
 > END STRING
 
 > BEGIN STRING
 「本………
-> CONTEXT: Map424/events/1/pages/0/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/72/Dialogue
+「Book...
 > END STRING
 
 > BEGIN STRING
 「ふふ…
-> CONTEXT: Map424/events/1/pages/0/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/74/Dialogue
+「Hehe...
 > END STRING
 
 > BEGIN STRING
 「ねェ…、
 　遊んで…\\e[0]
-> CONTEXT: Map424/events/1/pages/0/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/98/Dialogue
+「Hey...
+　Let's play...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「…魔物めッ！
-> CONTEXT: Map424/events/1/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/103/Dialogue
+「...Demon!
 > END STRING
 
 > BEGIN STRING
 「…触れられん……？
-> CONTEXT: Map424/events/1/pages/0/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/149/Dialogue
+「...I can't touch it...?
 > END STRING
 
 > BEGIN STRING
 「ダメよ、そんな乱暴に扱っちゃ。
-> CONTEXT: Map424/events/1/pages/0/160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/160/Dialogue
+「Hey, not so violently.
 > END STRING
 
 > BEGIN STRING
 「\\dそれはあなたなんだから\\d。
 　アタシ、あなたのこと
 　もっと知りたくなったのよ。
-> CONTEXT: Map424/events/1/pages/0/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/161/Dialogue
+「\\dIt's because of you\\d.
+　I want to know
+　much more about you.
 > END STRING
 
 > BEGIN STRING
 「アタシに見せて。
 　あなたの現実を。
 　本ならたくさん持ってきてあげる。
-> CONTEXT: Map424/events/1/pages/0/164/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/164/Dialogue
+「Show me. 
+　Your reality.
+　I'll bring you lots of books.
 > END STRING
 
 > BEGIN STRING
 「あなたの、場所を、人を、歴史を、
 　ここにつくって、
 　そしてアタシにちょうだい。
-> CONTEXT: Map424/events/1/pages/0/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/167/Dialogue
+「Create your place, people, history here, 
+　and give it to me.
 > END STRING
 
 > BEGIN STRING
 「でもそれができなかったら………
-> CONTEXT: Map424/events/1/pages/0/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/170/Dialogue
+「But if you can't do that...
 > END STRING
 
 > BEGIN STRING
 「\\dあなたはもう\\d、
 　\\dずっと\\d
 　\\d夢の中\\d……
-> CONTEXT: Map424/events/1/pages/0/189/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/189/Dialogue
+「\\dYou'll be\\d、
+　\\dcompletely\\d
+　\\dswallowed by the dream\\d……
 > END STRING
 
 > BEGIN STRING
 「それじゃ、ガンバってね\\e[0]
-> CONTEXT: Map424/events/1/pages/0/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/192/Dialogue
+「Well then, good luck\\e[0]
 > END STRING
 
 > BEGIN STRING
 「消えた……
-> CONTEXT: Map424/events/1/pages/0/263/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/263/Dialogue
+「Gone...
 > END STRING
 
 > BEGIN STRING
 「偉そうなこと言っておったが、
 　なるほど、快楽の魔物。
-> CONTEXT: Map424/events/1/pages/0/264/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/264/Dialogue
+「Talking about great ideas,
+　but I see, you are a pleasure demon.
 > END STRING
 
 > BEGIN STRING
 「自分が快楽の頂点に達したら、
 　もうそれ以上存在できんのじゃな。
-> CONTEXT: Map424/events/1/pages/0/266/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map424/events/1/pages/0/266/Dialogue
+「When you reach the peak of pleasure, 
+　you can't exist any more.
 > END STRING

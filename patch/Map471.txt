@@ -8,30 +8,30 @@ SQT_EntranceOfDream
 
 > BEGIN STRING
 "扉"
-> CONTEXT: Map471/events/1/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/5/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/18/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/27/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/66/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/77/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/114/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/124/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/164/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/173/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/1/InlineScript/1:4
+> CONTEXT: Map471/events/1/pages/0/5/InlineScript/1:4
+> CONTEXT: Map471/events/1/pages/0/18/InlineScript/1:4
+> CONTEXT: Map471/events/1/pages/0/27/InlineScript/1:4
+> CONTEXT: Map471/events/1/pages/0/66/InlineScript/1:4
+> CONTEXT: Map471/events/1/pages/0/77/InlineScript/1:4
+> CONTEXT: Map471/events/1/pages/0/114/InlineScript/1:4
+> CONTEXT: Map471/events/1/pages/0/124/InlineScript/1:4
+> CONTEXT: Map471/events/1/pages/0/164/InlineScript/1:4
+> CONTEXT: Map471/events/1/pages/0/173/InlineScript/1:4
+"Door"
 > END STRING
 
 > BEGIN STRING
 「ダメ………
-> CONTEXT: Map471/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/2/Dialogue
+「No...
 > END STRING
 
 > BEGIN STRING
 「なに？
-> CONTEXT: Map471/events/1/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/5/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/4/Dialogue
+> CONTEXT: Troops/5/pages/0/37/Dialogue
+「What?
 > END STRING
 
 > BEGIN STRING

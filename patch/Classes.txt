@@ -1,14 +1,14 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 アイゼクト（少年）
-> CONTEXT: Classes/1/name/ < UNTRANSLATED
-
+> CONTEXT: Classes/1/name/
+Ayxect (Boy)
 > END STRING
 
 > BEGIN STRING
 メルヤ
-> CONTEXT: Classes/5/name/ < UNTRANSLATED
-
+> CONTEXT: Classes/5/name/
+Merja
 > END STRING
 
 > BEGIN STRING

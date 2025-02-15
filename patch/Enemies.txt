@@ -7,93 +7,93 @@
 
 > BEGIN STRING
 サフィ/1/B/33
-> CONTEXT: Enemies/2/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/2/name/
+Thafi/1/B/33
 > END STRING
 
 > BEGIN STRING
 メローナ/10/E/39
-> CONTEXT: Enemies/3/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/3/name/
+Merona/10/E/39
 > END STRING
 
 > BEGIN STRING
 ストゥーナ/12/CH/41
-> CONTEXT: Enemies/4/name/ < UNTRANSLATED
-> CONTEXT: Enemies/6/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/4/name/
+> CONTEXT: Enemies/6/name/
+Stona/12/CH/41
 > END STRING
 
 > BEGIN STRING
 メローナ/10/E/41
-> CONTEXT: Enemies/5/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/5/name/
+Merona/10/E/41
 > END STRING
 
 > BEGIN STRING
 スクーグスロー/12/J/40
-> CONTEXT: Enemies/7/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/7/name/
+Skogsrå/12/J/40
 > END STRING
 
 > BEGIN STRING
 スキュラ/13/L/45
-> CONTEXT: Enemies/8/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/8/name/
+Scylla/13/L/45
 > END STRING
 
 > BEGIN STRING
 エスプラーナ/15/CK/50
-> CONTEXT: Enemies/9/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/9/name/
+Esplana/15/CK/50
 > END STRING
 
 > BEGIN STRING
 リズ・ラズ/14/CHL/43
-> CONTEXT: Enemies/10/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/10/name/
+Riz-Raz/14/CHL/43
 > END STRING
 
 > BEGIN STRING
 ロッコ・バロッコ/13/EL/42
-> CONTEXT: Enemies/11/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/11/name/
+Rocco-Barocco/13/EL/42
 > END STRING
 
 > BEGIN STRING
 メルヤ/15/EJ/55
-> CONTEXT: Enemies/12/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/12/name/
+Merja/15/EJ/55
 > END STRING
 
 > BEGIN STRING
 少女/1/GK/70
-> CONTEXT: Enemies/13/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/13/name/
+Girl/1/GK/70
 > END STRING
 
 > BEGIN STRING
 エスト/30/AC/73
-> CONTEXT: Enemies/14/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/14/name/
+Est/30/AC/73
 > END STRING
 
 > BEGIN STRING
 サフィ/25/B/74
-> CONTEXT: Enemies/15/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/15/name/
+Thafi/25/B/74
 > END STRING
 
 > BEGIN STRING
 サフィ/30/B/75
-> CONTEXT: Enemies/16/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/16/name/
+Thafi/30/B/75
 > END STRING
 
 > BEGIN STRING
 ステラ/27/EL/68
-> CONTEXT: Enemies/17/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/17/name/
+Stella/27/EL/68
 > END STRING
 
 > BEGIN STRING
@@ -243,68 +243,68 @@ Rovissa
 
 > BEGIN STRING
 サキュバス/5/A/43
-> CONTEXT: Enemies/100/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/100/name/
+Succubus/5/A/43
 > END STRING
 
 > BEGIN STRING
 ナイトメア/14/A/55
-> CONTEXT: Enemies/101/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/101/name/
+Nightmare/14/A/55
 > END STRING
 
 > BEGIN STRING
 リリス/25/A/76
-> CONTEXT: Enemies/103/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/103/name/
+Lilith/25/A/76
 > END STRING
 
 > BEGIN STRING
 インプ/3/EL/35
-> CONTEXT: Enemies/105/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/105/name/
+Imp/3/EL/35
 > END STRING
 
 > BEGIN STRING
 アルプ/12/EL/42
-> CONTEXT: Enemies/106/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/106/name/
+Alp/12/EL/42
 > END STRING
 
 > BEGIN STRING
 リリム/24/EL/67
-> CONTEXT: Enemies/107/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/107/name/
+Lilim/24/EL/67
 > END STRING
 
 > BEGIN STRING
 ピクシー/3/EN/38
-> CONTEXT: Enemies/110/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/110/name/
+Pixie/3/EN/38
 > END STRING
 
 > BEGIN STRING
 リャナンシー/11/EN/45
-> CONTEXT: Enemies/111/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/111/name/
+Leanan Sídhe/11/EN/45
 > END STRING
 
 > BEGIN STRING
 ドライアド/5/CK/36
-> CONTEXT: Enemies/115/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/115/name/
+Dryad/5/CK/36
 > END STRING
 
 > BEGIN STRING
 アルラウネ/13/CK/45
-> CONTEXT: Enemies/116/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/116/name/
+Alraune/13/CK/45
 > END STRING
 
 > BEGIN STRING
 スクーグスロー/18/CK/51
-> CONTEXT: Enemies/117/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/117/name/
+Skogsrå/18/CK/51
 > END STRING
 
 > BEGIN STRING

@@ -1,23 +1,26 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「やれやれ……
-> CONTEXT: Map423/events/1/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/67/Dialogue
+「Good grief...
 > END STRING
 
 > BEGIN STRING
 「どこの誰が考えた？
 　このような。
 　馬鹿馬鹿しい。
-> CONTEXT: Map423/events/1/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/73/Dialogue
+「Who could have thought of 
+　something like this?
+　It's ridiculous.
 > END STRING
 
 > BEGIN STRING
 「いるはずがない。
 　このような……
-> CONTEXT: Map423/events/1/pages/0/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/76/Dialogue
+「There's no way.
+　Something like this...
 > END STRING
 
 > BEGIN STRING
@@ -30,178 +33,200 @@
 > BEGIN STRING
 「でも残念。
 　現にいるのよ、おじいちゃん。
-> CONTEXT: Map423/events/1/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/87/Dialogue
+「But alas, 
+　we exist, grandpa.
 > END STRING
 
 > BEGIN STRING
 「\\d現にいるだと\\d？
 　馬鹿を言う。
-> CONTEXT: Map423/events/1/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/103/Dialogue
+「\\dIt's real\\d?
+　Nonsense.
 > END STRING
 
 > BEGIN STRING
 「貴様らは夢の魔物。
 　夢であることが貴様らそのもの。
-> CONTEXT: Map423/events/1/pages/0/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/119/Dialogue
+「You are dream demons.
+　You are but dreams.
 > END STRING
 
 > BEGIN STRING
 「何の力も持たぬ。
 　一時の幻想。
 　稚拙な虚構。
-> CONTEXT: Map423/events/1/pages/0/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/121/Dialogue
+「You have no power.
+　Momentary illusion.
+　Childish fiction.
 > END STRING
 
 > BEGIN STRING
 「笑わせてくれる。
 　\\d夢が現にあるなどと\\d。
-> CONTEXT: Map423/events/1/pages/0/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/124/Dialogue
+「Don't make me laugh.
+　\\dDreams aren't real\\d.
 > END STRING
 
 > BEGIN STRING
 「素敵……
-> CONTEXT: Map423/events/1/pages/0/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/145/Dialogue
+「Lovely...
 > END STRING
 
 > BEGIN STRING
 「ねえ、どうするの？
 　感じちゃうわ。
 　そんなふうに言われたら……
-> CONTEXT: Map423/events/1/pages/0/154/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/154/Dialogue
+「Hey, what's it gonna be?
+　It feels good.
+　What if I say...
 > END STRING
 
 > BEGIN STRING
 「あなたを、つかまえて、
 　とっても愛して、
 　もっと愛されて、
-> CONTEXT: Map423/events/1/pages/0/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/157/Dialogue
+「I want to hold you,
+　love you so much,
+　be loved even more,
 > END STRING
 
 > BEGIN STRING
 「ねえ、もうぐちゃぐちゃになるまで。
 　感じちゃうわ。
 　犯したくなっちゃうじゃない。
-> CONTEXT: Map423/events/1/pages/0/160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/160/Dialogue
+「until we're a complete mess.
+　It feels good.
+　It makes me want to violate you.
 > END STRING
 
 > BEGIN STRING
 「貴様は誰じゃ。
-> CONTEXT: Map423/events/1/pages/0/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/169/Dialogue
+「Who are you?
 > END STRING
 
 > BEGIN STRING
 「ねえ、どうするの？
-> CONTEXT: Map423/events/1/pages/0/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/175/Dialogue
+「Hey, what's it gonna be?
 > END STRING
 
 > BEGIN STRING
 「…夢魔……
 　ならばこれも夢か。
-> CONTEXT: Map423/events/1/pages/0/200/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/200/Dialogue
+「...A succubus...
+　So this is also a dream.
 > END STRING
 
 > BEGIN STRING
 「そうね……
-> CONTEXT: Map423/events/1/pages/0/203/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/203/Dialogue
+「Just so...
 > END STRING
 
 > BEGIN STRING
 「でも、いつから？
-> CONTEXT: Map423/events/1/pages/0/204/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/204/Dialogue
+「But for how long?
 > END STRING
 
 > BEGIN STRING
 「今考えてることは、
 　どれもはずれよ。
-> CONTEXT: Map423/events/1/pages/0/213/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/213/Dialogue
+「Whatever you're thinking right now,
+　is wrong.
 > END STRING
 
 > BEGIN STRING
 「教えてあげる。
 　これから、ゆっくり、
-> CONTEXT: Map423/events/1/pages/0/215/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/215/Dialogue
+「I'll teach you.
+　From now on, slowly,
 > END STRING
 
 > BEGIN STRING
 「いつまでも。
 　ね、醒めない夢で……
-> CONTEXT: Map423/events/1/pages/0/217/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/217/Dialogue
+「forever.
+　Like a dream you can't wake up from...
 > END STRING
 
 > BEGIN STRING
 「誰と話している？
-> CONTEXT: Map423/events/1/pages/0/227/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/227/Dialogue
+「Who are you talking to?
 > END STRING
 
 > BEGIN STRING
 「いや、待て、
 　そこにいるのは……
-> CONTEXT: Map423/events/1/pages/0/238/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/238/Dialogue
+「No, wait,
+　there's someone there...
 > END STRING
 
 > BEGIN STRING
 「若い頃の……
-> CONTEXT: Map423/events/1/pages/0/296/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/296/Dialogue
+「When I was young...
 > END STRING
 
 > BEGIN STRING
 「あなたよ。
 　アイゼクト。
-> CONTEXT: Map423/events/1/pages/0/302/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/302/Dialogue
+「It's you.
+　Ayxect.
 > END STRING
 
 > BEGIN STRING
 「若い頃の。
 　女の子のハダカのことばっかり
 　考えてる年頃の\\e[0]
-> CONTEXT: Map423/events/1/pages/0/319/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/319/Dialogue
+「When you were young.
+　When you were at an age where you
+　could only think about naked girls\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ねえ、どう？
 　さっきまでは何でもなかったけど…
-> CONTEXT: Map423/events/1/pages/0/322/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/322/Dialogue
+「Hey, what is it?
+　Everything was fine up until now...
 > END STRING
 
 > BEGIN STRING
 「こんなエッチなカラダが
 　目の前にあるのよ。
 　興奮してこないかしら？
-> CONTEXT: Map423/events/1/pages/0/324/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/324/Dialogue
+「Such a sexy body is right in front of you. 
+　Aren't you excited?
 > END STRING
 
 > BEGIN STRING
 「………～ッ
-> CONTEXT: Map423/events/1/pages/0/328/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/328/Dialogue
+「...～
 > END STRING
 
 > BEGIN STRING
 「でもまだおあずけ\\e[0]
-> CONTEXT: Map423/events/1/pages/0/330/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/330/Dialogue
+「I'm waiting\\e[0]
 > END STRING

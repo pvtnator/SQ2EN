@@ -14,8 +14,8 @@ Strip
 
 > BEGIN STRING
 自分の服を脱ぐ / テンションアップ
-> CONTEXT: Skills/2/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/2/description/
+Take off your clothes / Tension Up
 > END STRING
 
 > BEGIN STRING
@@ -27,8 +27,8 @@ Undress
 
 > BEGIN STRING
 相手の服を脱がせる / テンションアップ
-> CONTEXT: Skills/3/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/3/description/
+Take off opponent's clothes / Tension Up
 > END STRING
 
 > BEGIN STRING
@@ -41,8 +41,8 @@ Insert
 
 > BEGIN STRING
 相手にインサートする / テンションアップ
-> CONTEXT: Skills/4/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/4/description/
+Insert into opponent / Tension Up
 > END STRING
 
 > BEGIN STRING
@@ -145,8 +145,8 @@ Struggle to escape restraints
 
 > BEGIN STRING
 君を知りたい
-> CONTEXT: Skills/21/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/21/name/
+Get Acquainted
 > END STRING
 
 > BEGIN STRING
@@ -158,15 +158,15 @@ Examine target's personality and weaknesses
 
 > BEGIN STRING
 君をとりこに/5/0/0
-> CONTEXT: Skills/22/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/22/name/
+Captivate/5/0/0
 > END STRING
 
 > BEGIN STRING
 相手一人を放心状態にする
-> CONTEXT: Skills/22/description/ < UNTRANSLATED
-> CONTEXT: Skills/614/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/22/description/
+> CONTEXT: Skills/614/description/
+Put one opponent into a daze
 > END STRING
 
 > BEGIN STRING
@@ -195,14 +195,14 @@ Examine target's personality and weaknesses
 
 > BEGIN STRING
 夢と一つに/20/0/0
-> CONTEXT: Skills/26/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/26/name/
+One with the Dream/20/0/0
 > END STRING
 
 > BEGIN STRING
 精神力以外の全ての能力を上げる
-> CONTEXT: Skills/26/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/26/description/
+Increases all abilities except spirit
 > END STRING
 
 > BEGIN STRING
@@ -286,39 +286,39 @@ EXP2倍、アイテム100%入手
 
 > BEGIN STRING
 ピストン/0/50/0
-> CONTEXT: Skills/46/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/46/name/
+Piston/0/50/0
 > END STRING
 
 > BEGIN STRING
 腰をふる
-> CONTEXT: Skills/46/description/ < UNTRANSLATED
-> CONTEXT: Skills/606/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/46/description/
+> CONTEXT: Skills/606/description/
+Shake hips
 > END STRING
 
 > BEGIN STRING
 ダブルピストン/0/130/2
-> CONTEXT: Skills/47/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/47/name/
+Double Piston/0/130/2
 > END STRING
 
 > BEGIN STRING
 激しく腰をふる
-> CONTEXT: Skills/47/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/47/description/
+Shake hips fiercly
 > END STRING
 
 > BEGIN STRING
 エースオブスペード/0/50/0
-> CONTEXT: Skills/55/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/55/name/
+Ace of Spades/0/50/0
 > END STRING
 
 > BEGIN STRING
 アソコでアソコを愛撫する
-> CONTEXT: Skills/55/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/55/description/
+Rub genitals together
 > END STRING
 
 > BEGIN STRING
@@ -556,8 +556,8 @@ Protect yourself from pleasure for 1 turn
 
 > BEGIN STRING
 ブレス
-> CONTEXT: Skills/82/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/82/name/
+Breath
 > END STRING
 
 > BEGIN STRING
@@ -1392,8 +1392,8 @@ EP回復(大)
 
 > BEGIN STRING
 メルヤ/15/0/0
-> CONTEXT: Skills/191/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/191/name/
+Merja/15/0/0
 > END STRING
 
 > BEGIN STRING
@@ -3822,14 +3822,14 @@ Journey to Heaven
 
 > BEGIN STRING
 トリプルピストン
-> CONTEXT: Skills/611/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/611/name/
+Triple Piston
 > END STRING
 
 > BEGIN STRING
 トリプルピストン/0/0/2
-> CONTEXT: Skills/612/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/612/name/
+Triple Piston/0/0/2
 > END STRING
 
 > BEGIN STRING

@@ -189,48 +189,50 @@ Can't take Christine there.
 
 > BEGIN STRING
 "黒猫"
-> CONTEXT: Commonevents/23/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/23/11/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/23/27/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/1/InlineScript/1:4
+> CONTEXT: Commonevents/23/11/InlineScript/1:4
+> CONTEXT: Commonevents/23/27/InlineScript/1:4
+"Black Cat"
 > END STRING
 
 > BEGIN STRING
 「セーブするニャぁ？
-> CONTEXT: Commonevents/23/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/2/Dialogue
+「Save meow?
 > END STRING
 
 > BEGIN STRING
 セーブしますか？（セーブ回数 : \\b\\v[38]\\f 回）
-> CONTEXT: Commonevents/23/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/4/Dialogue
+Do you want to save? (Save count: \\b\\v[38]\\f)
 > END STRING
 
 > BEGIN STRING
 「セーブしたニャぁ。
-> CONTEXT: Commonevents/23/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/12/Dialogue
+「Saved meow.
 > END STRING
 
 > BEGIN STRING
 「ニャニャぁ～、
 　いっぱいセーブしてくれてありがとニャぁ。
-> CONTEXT: Commonevents/23/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/16/Dialogue
+「Meow meow,
+　Thank you for saving so much meow.
 > END STRING
 
 > BEGIN STRING
 「これからたまに、
 　キミの夢にお邪魔するニャぁ。
-> CONTEXT: Commonevents/23/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/18/Dialogue
+「From now on, 
+　I'll occasionally visit your dreams meow.
 > END STRING
 
 > BEGIN STRING
 「それもありだニャぁ。
-> CONTEXT: Commonevents/23/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/28/Dialogue
+「That's okay too, meow.
 > END STRING
 
 > BEGIN STRING
@@ -7466,14 +7468,14 @@ Call \\v[1]
 
 > BEGIN STRING
 「…夢魔…か…………
-> CONTEXT: Commonevents/301/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/301/2/Dialogue
+「...Dreamy......
 > END STRING
 
 > BEGIN STRING
 ダンジョン初クリア！
-> CONTEXT: Commonevents/302/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/139/Dialogue
+Dungeon cleared!
 > END STRING
 
 > BEGIN STRING

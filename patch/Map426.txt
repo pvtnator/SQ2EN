@@ -18,68 +18,69 @@ SQT_ReadingRoom
 
 > BEGIN STRING
 ブックシェルフ \\v[4]
-> CONTEXT: Map426/events/1/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/1/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/1/pages/0/8/Dialogue
+> CONTEXT: Map020/events/1/pages/0/7/Dialogue
+> CONTEXT: Map012/events/1/pages/0/7/Dialogue
+Bookshelf \\v[4]
 > END STRING
 
 > BEGIN STRING
 ブックシェルフの整理
-> CONTEXT: Map426/events/1/pages/0/9/Choice/0 < UNTRANSLATED
-> CONTEXT: Map426/events/1/pages/0/26/Choice/0 < UNTRANSLATED
-> CONTEXT: Map020/events/1/pages/0/8/Choice/0 < UNTRANSLATED
-> CONTEXT: Map018/events/1/pages/0/8/Choice/0 < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/0/8/Choice/0 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/9/Choice/0 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/2/9/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map426/events/1/pages/0/9/Choice/0
+> CONTEXT: Map426/events/1/pages/0/26/Choice/0
+> CONTEXT: Map020/events/1/pages/0/8/Choice/0
+> CONTEXT: Map018/events/1/pages/0/8/Choice/0
+> CONTEXT: Map012/events/1/pages/0/8/Choice/0
+> CONTEXT: Map015/events/9/pages/0/9/Choice/0
+> CONTEXT: Map015/events/9/pages/2/9/Choice/0
+Organize bookshelf
 > END STRING
 
 > BEGIN STRING
 ブックシェルフに入る
-> CONTEXT: Map426/events/1/pages/0/9/Choice/1 < UNTRANSLATED
-> CONTEXT: Map426/events/1/pages/0/26/Choice/1 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/9/Choice/1 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/2/9/Choice/1 < UNTRANSLATED
-> CONTEXT: Map426/events/1/pages/0/14/Label < UNTRANSLATED
-> CONTEXT: Map426/events/1/pages/0/31/Label < UNTRANSLATED
-> CONTEXT: Map426/events/1/pages/0/39/Label < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/298/Label < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/315/Label < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/2/65/Label < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/2/75/Label < UNTRANSLATED
-
+> CONTEXT: Map426/events/1/pages/0/9/Choice/1
+> CONTEXT: Map426/events/1/pages/0/26/Choice/1
+> CONTEXT: Map015/events/9/pages/0/9/Choice/1
+> CONTEXT: Map015/events/9/pages/2/9/Choice/1
+> CONTEXT: Map426/events/1/pages/0/14/Label
+> CONTEXT: Map426/events/1/pages/0/31/Label
+> CONTEXT: Map426/events/1/pages/0/39/Label
+> CONTEXT: Map015/events/9/pages/0/298/Label
+> CONTEXT: Map015/events/9/pages/0/315/Label
+> CONTEXT: Map015/events/9/pages/2/65/Label
+> CONTEXT: Map015/events/9/pages/2/75/Label
+Enter bookshelf
 > END STRING
 
 > BEGIN STRING
 何もしない
-> CONTEXT: Map426/events/1/pages/0/9/Choice/2 < UNTRANSLATED
-> CONTEXT: Map426/events/1/pages/0/26/Choice/2 < UNTRANSLATED
-> CONTEXT: Map020/events/1/pages/0/8/Choice/1 < UNTRANSLATED
-> CONTEXT: Map018/events/1/pages/0/8/Choice/1 < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/0/8/Choice/1 < UNTRANSLATED
-> CONTEXT: Map008/events/1/pages/0/0/Choice/2 < UNTRANSLATED
-> CONTEXT: Map426/events/13/pages/0/57/Choice/2 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/9/Choice/2 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/2/9/Choice/2 < UNTRANSLATED
-> CONTEXT: Map015/events/17/pages/0/5/Choice/2 < UNTRANSLATED
-> CONTEXT: Skills/320/name/ < UNTRANSLATED
-> CONTEXT: Skills/638/name/ < UNTRANSLATED
-
+> CONTEXT: Map426/events/1/pages/0/9/Choice/2
+> CONTEXT: Map426/events/1/pages/0/26/Choice/2
+> CONTEXT: Map020/events/1/pages/0/8/Choice/1
+> CONTEXT: Map018/events/1/pages/0/8/Choice/1
+> CONTEXT: Map012/events/1/pages/0/8/Choice/1
+> CONTEXT: Map008/events/1/pages/0/0/Choice/2
+> CONTEXT: Map426/events/13/pages/0/57/Choice/2
+> CONTEXT: Map015/events/9/pages/0/9/Choice/2
+> CONTEXT: Map015/events/9/pages/2/9/Choice/2
+> CONTEXT: Map015/events/17/pages/0/5/Choice/2
+> CONTEXT: Skills/320/name/
+> CONTEXT: Skills/638/name/
+Nothing
 > END STRING
 
 > BEGIN STRING
 空の本棚がある。
-> CONTEXT: Map426/events/1/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/1/pages/0/22/Dialogue
+Empty bookshelf.
 > END STRING
 
 > BEGIN STRING
 なんだか……
 中に入ってしまえそうだ……
-> CONTEXT: Map426/events/1/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/1/pages/0/23/Dialogue
+Somehow...
+It feels like I could go inside...
 > END STRING
 
 > BEGIN STRING
@@ -101,131 +102,150 @@ What will you do?
 
 > BEGIN STRING
 "白猫"
-> CONTEXT: Map426/events/3/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map426/events/3/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map426/events/3/pages/0/18/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map426/events/3/pages/0/30/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map426/events/3/pages/0/42/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map426/events/3/pages/0/63/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map426/events/3/pages/0/72/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/2/InlineScript/1:4
+> CONTEXT: Map426/events/3/pages/0/9/InlineScript/1:4
+> CONTEXT: Map426/events/3/pages/0/18/InlineScript/1:4
+> CONTEXT: Map426/events/3/pages/0/30/InlineScript/1:4
+> CONTEXT: Map426/events/3/pages/0/42/InlineScript/1:4
+> CONTEXT: Map426/events/3/pages/0/63/InlineScript/1:4
+> CONTEXT: Map426/events/3/pages/0/72/InlineScript/1:4
+"White Cat"
 > END STRING
 
 > BEGIN STRING
 「ニャ～
 　何か知りたいことはあるかニャ？
-> CONTEXT: Map426/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/3/Dialogue
+「Meow～
+　Is there something you wanna know meow?
 > END STRING
 
 > BEGIN STRING
 \\i[101]\\c[3]地図帳\\c[0]について
-> CONTEXT: Map426/events/3/pages/0/7/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/7/Choice/0
+Ask about \\i[101]\\c[3]the map\\c[0]
 > END STRING
 
 > BEGIN STRING
 \\i[131]\\c[3]史書\\c[0]について
-> CONTEXT: Map426/events/3/pages/0/7/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/7/Choice/1
+Ask about \\i[101]\\c[3]history\\c[0]
 > END STRING
 
 > BEGIN STRING
 \\c[2]『ストーリー』\\c[0]について
-> CONTEXT: Map426/events/3/pages/0/7/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/7/Choice/2
+Ask about \\c[2]the story\\c[0]
 > END STRING
 
 > BEGIN STRING
 \\i[181]その他の本について
-> CONTEXT: Map426/events/3/pages/0/7/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/7/Choice/3
+Ask about \\i[181]other books
 > END STRING
 
 > BEGIN STRING
 「\\i[101]\\c[3]地図帳\\c[0]をブックシェルフに入れると、
 　\\dブックシェルフの中\\dに
 　町かダンジョンが現れるニャ。
-> CONTEXT: Map426/events/3/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/10/Dialogue
+「When you put a \\i[101]\\c[3]map\\c[0] on the \\dbookshelf\\d,
+　a town or dungeon will appear
+　in the bookshelf meow.
 > END STRING
 
 > BEGIN STRING
 「だから、まずは
 　どの\\i[101]\\c[3]地図帳\\c[0]を入れるか決めないと
 　お話にならないニャ。
-> CONTEXT: Map426/events/3/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/13/Dialogue
+「So, first of all, you need to decide 
+　which \\i[101]\\c[3]map\\c[0] to put in, 
+　otherwise you can't do anything meow.
 > END STRING
 
 > BEGIN STRING
 「\\i[131]\\c[3]史書\\c[0]をブックシェルフに入れると、
 　それに載っている夢魔が
 　ダンジョンに出てくるようになるニャ。
-> CONTEXT: Map426/events/3/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/19/Dialogue
+「If you put a \\i[131]\\c[3]history book\\c[0] on the \\dbookshelf\\d,
+　the succubus mentioned in it
+　will appear in the dungeon meow.
 > END STRING
 
 > BEGIN STRING
 「\\i[131]\\c[3]史書\\c[0]は最低一冊必要だけど、
 　何冊入れるか、どれを入れるかは
 　キミの自由だニャ。
-> CONTEXT: Map426/events/3/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/22/Dialogue
+「You need at least one \\i[131]\\c[3]history book\\c[0], 
+　but how many and which ones is up to you meow.
 > END STRING
 
 > BEGIN STRING
 「でもどうせなら、自分に見合ったレベルの
 　夢魔を選んだり、\\c[2]『ストーリー』\\c[0]を狙ったり
 　するといいかもニャ～。
-> CONTEXT: Map426/events/3/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/25/Dialogue
+「But if you're going to do it, 
+　you should choose a succubus that matches your level, 
+　or go for the \\c[2]story\\c[0] meow～.
 > END STRING
 
 > BEGIN STRING
 「入れた\\i[101]\\c[3]地図帳\\c[0]や\\i[131]\\c[3]史書\\c[0]の
 　組み合わせで、\\c[2]『ストーリー』\\c[0]が
 　発生することがあるニャ。
-> CONTEXT: Map426/events/3/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/31/Dialogue
+「Depending on the combination of \\i[101]\\c[3]map\\c[0] 
+　and \\i[131]\\c[3]history books\\c[0] you put in, 
+　\\c[2]story\\c[0] may occur meow.
 > END STRING
 
 > BEGIN STRING
 「何が起こるかは
 　その\\c[2]『ストーリー』\\c[0]次第だけど、
 　きっとイイことだと思うニャ～。
-> CONTEXT: Map426/events/3/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/34/Dialogue
+「What happens will depend on the \\c[2]story\\c[0], 
+　but it should generally be something good meow～.
 > END STRING
 
 > BEGIN STRING
 「アイテム欄でXボタン（キーボードの[A]）を
 　押すと本の中が少し覗けるから、
 　関係のありそうな本を探すといいニャ。
-> CONTEXT: Map426/events/3/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/37/Dialogue
+「If you press the X button (A on your keyboard)
+　in the item list, you can peek inside the book a little,
+　so look for books that seem related meow.
 > END STRING
 
 > BEGIN STRING
 「ブックシェルフには、他にも
 　\\i[181]\\c[3]指南書\\c[0]や\\i[181]\\c[3]学術書\\c[0]とかの
 　本を入れることができるニャ。
-> CONTEXT: Map426/events/3/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/43/Dialogue
+「You can also put other books on the bookshelf, 
+　such as \\i[181]\\c[3]guidebooks\\c[0] and 
+　\\i[181]\\c[3]academic books\\c[0] meow.
 > END STRING
 
 > BEGIN STRING
 「どれもきっとキミの役に立つニャ。
 　会いたい夢魔の\\i[131]\\c[3]史書\\c[0]と相談して、
 　空いたスペースに入れるといいニャ。
-> CONTEXT: Map426/events/3/pages/0/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/46/Dialogue
+「I'm sure they'll all be useful to you.
+　Consult the history book of the succubus you want to meet,
+　and fill in the empty space meow.
 > END STRING
 
 > BEGIN STRING
 「他に知りたいことはあるかニャ？」
-> CONTEXT: Map426/events/3/pages/0/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/56/Dialogue
+「Anything else you want to know?」
 > END STRING
 
 > BEGIN STRING
@@ -246,8 +266,9 @@ What will you do?
 > BEGIN STRING
 「それじゃ最後に…
 　黒猫には気をつけるニャ。
-> CONTEXT: Map426/events/3/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/3/pages/0/73/Dialogue
+「Finally then...
+　Be careful of black cats.
 > END STRING
 
 > BEGIN STRING
