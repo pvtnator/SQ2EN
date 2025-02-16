@@ -309,8 +309,8 @@ Skogsrå/18/CK/51
 
 > BEGIN STRING
 ネコマタ/6/E/38
-> CONTEXT: Enemies/120/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/120/name/
+Nekomata/6/E/38
 > END STRING
 
 > BEGIN STRING
@@ -327,8 +327,8 @@ Skogsrå/18/CK/51
 
 > BEGIN STRING
 ワーウルフ/6/CL/36
-> CONTEXT: Enemies/125/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/125/name/
+Werewolf/6/CL/36
 > END STRING
 
 > BEGIN STRING
@@ -369,8 +369,8 @@ Skogsrå/18/CK/51
 
 > BEGIN STRING
 マーメイド/10/K/53
-> CONTEXT: Enemies/140/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/140/name/
+Mermaid/10/K/53
 > END STRING
 
 > BEGIN STRING
@@ -405,8 +405,8 @@ Skogsrå/18/CK/51
 
 > BEGIN STRING
 ハーピー/10/CHI/40
-> CONTEXT: Enemies/150/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/150/name/
+Harpy/10/CHI/40
 > END STRING
 
 > BEGIN STRING
@@ -417,8 +417,8 @@ Skogsrå/18/CK/51
 
 > BEGIN STRING
 エンジェル/7/BGJK/38
-> CONTEXT: Enemies/155/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/155/name/
+Angel/7/BGJK/38
 > END STRING
 
 > BEGIN STRING

@@ -171,14 +171,14 @@ Put one opponent into a daze
 
 > BEGIN STRING
 どこか遠くへ
-> CONTEXT: Skills/23/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/23/name/
+Far Away
 > END STRING
 
 > BEGIN STRING
 別の場所へワープする
-> CONTEXT: Skills/23/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/23/description/
+Warp to another place
 > END STRING
 
 > BEGIN STRING
@@ -3603,7 +3603,7 @@ Summersolstice Magic
 
 > BEGIN STRING
 酔い：トーク
-> CONTEXT: Skills/571/name/ < UNTRANSLATED
+> CONTEXT: Skills/571/name/
 Drunk: Talk
 > END STRING
 

@@ -251,27 +251,27 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 
 > BEGIN STRING
 "先制+20%"
-> CONTEXT: Commonevents/34/61/InlineScript/4:37 < UNTRANSLATED
-> CONTEXT: Commonevents/34/61/InlineScript/5:32 < UNTRANSLATED
+> CONTEXT: Commonevents/34/61/InlineScript/4:37
+> CONTEXT: Commonevents/34/61/InlineScript/5:32
 "First Strike +20%"
 > END STRING
 
 > BEGIN STRING
 "先制+50%"
-> CONTEXT: Commonevents/34/61/InlineScript/6:37 < UNTRANSLATED
+> CONTEXT: Commonevents/34/61/InlineScript/6:37
 "First Strike +50%"
 > END STRING
 
 > BEGIN STRING
 "警戒+20%"
-> CONTEXT: Commonevents/34/69/InlineScript/4:37 < UNTRANSLATED
-> CONTEXT: Commonevents/34/69/InlineScript/6:32 < UNTRANSLATED
+> CONTEXT: Commonevents/34/69/InlineScript/4:37
+> CONTEXT: Commonevents/34/69/InlineScript/6:32
 "Vigilance +20%"
 > END STRING
 
 > BEGIN STRING
 "警戒+100%"
-> CONTEXT: Commonevents/34/69/InlineScript/5:38 < UNTRANSLATED
+> CONTEXT: Commonevents/34/69/InlineScript/5:38
 "Vigilance +100%"
 > END STRING
 
@@ -2576,8 +2576,8 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]はこれ以上
 話を聞く気がないようだ……
-> CONTEXT: Commonevents/111/12/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/111/170/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/12/Dialogue
+> CONTEXT: Commonevents/111/170/Dialogue
 \\a[\\v[105]]\\n[27] doesn't seem interested 
 in listening any further...
 > END STRING
@@ -7498,8 +7498,9 @@ Dungeon cleared!
 > BEGIN STRING
 
 \\i[300]\\c[4]どこか遠くへ\\c[0] と願えるようになった！
-> CONTEXT: Commonevents/302/141/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/302/141/Dialogue
 
+\\i[300]\\c[4]Far Away\\c[0] can now be wished for!
 > END STRING
 
 > BEGIN STRING

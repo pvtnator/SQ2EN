@@ -436,7 +436,7 @@ Base Skill
 
 > BEGIN STRING
 トークスキル
-> CONTEXT: System/elements/48/ < UNTRANSLATED
+> CONTEXT: System/elements/48/
 Talk Skill
 > END STRING
 

@@ -793,38 +793,38 @@ Library Floor Plan
 
 > BEGIN STRING
 エストの部屋見取り図
-> CONTEXT: Items/105/name/ < UNTRANSLATED
-
+> CONTEXT: Items/105/name/
+Est's Room Map
 > END STRING
 
 > BEGIN STRING
 〔地図帳〕 夢魔エストの部屋の見取り図
-> CONTEXT: Items/105/description/ < UNTRANSLATED
-
+> CONTEXT: Items/105/description/
+[Map] Layout of succubus Est's room
 > END STRING
 
 > BEGIN STRING
 ゴズバーン砂漠地図
-> CONTEXT: Items/107/name/ < UNTRANSLATED
-
+> CONTEXT: Items/107/name/
+Gosbern Desert Map
 > END STRING
 
 > BEGIN STRING
 〔地図帳〕 ゴズバーン砂漠の地図
-> CONTEXT: Items/107/description/ < UNTRANSLATED
-
+> CONTEXT: Items/107/description/
+[Map] Map of Gosbern Desert
 > END STRING
 
 > BEGIN STRING
 アンショス海図
-> CONTEXT: Items/108/name/ < UNTRANSLATED
-
+> CONTEXT: Items/108/name/
+Anjos Sea Map
 > END STRING
 
 > BEGIN STRING
 〔地図帳〕 アンショス海の海図
-> CONTEXT: Items/108/description/ < UNTRANSLATED
-
+> CONTEXT: Items/108/description/
+[Map] Nautical map of the Anchos Sea
 > END STRING
 
 > BEGIN STRING
@@ -1029,14 +1029,14 @@ Succubus History 3
 
 > BEGIN STRING
 猫又伝説
-> CONTEXT: Items/130/name/ < UNTRANSLATED
-
+> CONTEXT: Items/130/name/
+Cat Demon Legend
 > END STRING
 
 > BEGIN STRING
 〔史書〕 東洋に伝わる猫の魔物の伝承が綴られた本
-> CONTEXT: Items/130/description/ < UNTRANSLATED
-
+> CONTEXT: Items/130/description/
+[History] Tales of cat demons from the East
 > END STRING
 
 > BEGIN STRING
@@ -1065,21 +1065,21 @@ Succubus History 3
 
 > BEGIN STRING
 獣人史
-> CONTEXT: Items/133/name/ < UNTRANSLATED
-
+> CONTEXT: Items/133/name/
+Therianthropy History
 > END STRING
 
 > BEGIN STRING
 〔史書〕 獣に変身する人間の伝承を綴った本
-> CONTEXT: Items/133/description/ < UNTRANSLATED
-> CONTEXT: Items/134/description/ < UNTRANSLATED
-
+> CONTEXT: Items/133/description/
+> CONTEXT: Items/134/description/
+[History] Tale of a human who transforms into a beast
 > END STRING
 
 > BEGIN STRING
 獣人史Ⅱ
-> CONTEXT: Items/134/name/ < UNTRANSLATED
-
+> CONTEXT: Items/134/name/
+Therianthropy History 2
 > END STRING
 
 > BEGIN STRING
@@ -1144,14 +1144,14 @@ Succubus History 3
 
 > BEGIN STRING
 マーメイド叙事詩
-> CONTEXT: Items/140/name/ < UNTRANSLATED
-
+> CONTEXT: Items/140/name/
+Mermaid Epic
 > END STRING
 
 > BEGIN STRING
 〔史書〕 ある吟遊詩人が綴った人魚の物語
-> CONTEXT: Items/140/description/ < UNTRANSLATED
-
+> CONTEXT: Items/140/description/
+[History] A mermaid story written by a bard
 > END STRING
 
 > BEGIN STRING
@@ -1200,8 +1200,8 @@ Succubus History 3
 
 > BEGIN STRING
 オヴェルーク戦記
-> CONTEXT: Items/145/name/ < UNTRANSLATED
-
+> CONTEXT: Items/145/name/
+Overuke War Chronicles
 > END STRING
 
 > BEGIN STRING
@@ -1224,21 +1224,21 @@ Succubus History 3
 
 > BEGIN STRING
 エーランド聖典Ⅰ
-> CONTEXT: Items/148/name/ < UNTRANSLATED
-
+> CONTEXT: Items/148/name/
+Ehland Scripture 1
 > END STRING
 
 > BEGIN STRING
 〔史書〕 エーランド教の教えが記された本
-> CONTEXT: Items/148/description/ < UNTRANSLATED
-> CONTEXT: Items/149/description/ < UNTRANSLATED
-
+> CONTEXT: Items/148/description/
+> CONTEXT: Items/149/description/
+[History] Recorded teachings of the Ehland religion
 > END STRING
 
 > BEGIN STRING
 エーランド聖典Ⅱ
-> CONTEXT: Items/149/name/ < UNTRANSLATED
-
+> CONTEXT: Items/149/name/
+Ehland Scripture 2
 > END STRING
 
 > BEGIN STRING
@@ -1536,14 +1536,14 @@ Nine Tails Legend 3
 
 > BEGIN STRING
 ダンジョンシーカー
-> CONTEXT: Items/182/name/ < UNTRANSLATED
-
+> CONTEXT: Items/182/name/
+Dungeon Seeker
 > END STRING
 
 > BEGIN STRING
 〔指南書〕 ダンジョンをスムーズに探索するための指南書
-> CONTEXT: Items/182/description/ < UNTRANSLATED
-
+> CONTEXT: Items/182/description/
+[Manual] A manual for smoothly exploring dungeons
 > END STRING
 
 > BEGIN STRING
@@ -1572,26 +1572,26 @@ Farsightedness Manual
 
 > BEGIN STRING
 警戒の指南書
-> CONTEXT: Items/185/name/ < UNTRANSLATED
-
+> CONTEXT: Items/185/name/
+Vigilance Manual
 > END STRING
 
 > BEGIN STRING
 〔指南書〕 相手に先制されにくくなる指南書
-> CONTEXT: Items/185/description/ < UNTRANSLATED
-
+> CONTEXT: Items/185/description/
+[Manual] A manual for avoiding being caught by surprise
 > END STRING
 
 > BEGIN STRING
 先制の指南書
-> CONTEXT: Items/186/name/ < UNTRANSLATED
-
+> CONTEXT: Items/186/name/
+Preemptiveness Manual
 > END STRING
 
 > BEGIN STRING
 〔指南書〕 先制して攻撃しやすくなる指南書
-> CONTEXT: Items/186/description/ < UNTRANSLATED
-
+> CONTEXT: Items/186/description/
+[Manual] A manual for making it easier to attack preemptively
 > END STRING
 
 > BEGIN STRING

@@ -108,7 +108,7 @@ SQT_Dungeon_RoyalLib
 > CONTEXT: Map431/events/1/pages/0/115/Dialogue
 > CONTEXT: Commonevents/303/3/Dialogue
 
-Left the book with Merja!
+Left the books with Merja!
 > END STRING
 
 > BEGIN STRING
