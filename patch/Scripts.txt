@@ -2514,19 +2514,19 @@
 > BEGIN STRING
 "稀に放心させる"
 > CONTEXT: Scripts/RPG::Skill/84:53 < UNTRANSLATED
-
+"Occasional daze"
 > END STRING
 
 > BEGIN STRING
 "稀に敏感にする"
 > CONTEXT: Scripts/RPG::Skill/85:53 < UNTRANSLATED
-
+"Occasional sensitivity"
 > END STRING
 
 > BEGIN STRING
 "稀に即いかせる"
 > CONTEXT: Scripts/RPG::Skill/86:52 < UNTRANSLATED
-
+"Occasional ejaculation"
 > END STRING
 
 > BEGIN STRING
@@ -4742,7 +4742,7 @@
 "常にパニック"
 > CONTEXT: Scripts/Game_Battler 2/56:32 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::State (message)/143:12 < UNTRANSLATED
-
+"Always panic"
 > END STRING
 
 > BEGIN STRING
@@ -4760,7 +4760,7 @@
 > BEGIN STRING
 "常にミニマム"
 > CONTEXT: Scripts/Game_Battler 2/60:32 < UNTRANSLATED
-
+"Always mini"
 > END STRING
 
 > BEGIN STRING
@@ -15527,7 +15527,7 @@
 > CONTEXT: Scripts/Game_Battler 3-1/639:49 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/530:51 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/535:91 < UNTRANSLATED
-
+"Demon weakness"
 > END STRING
 
 > BEGIN STRING
@@ -15535,7 +15535,7 @@
 > CONTEXT: Scripts/Game_Battler 3-1/640:46 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/531:51 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/536:91 < UNTRANSLATED
-
+"Fairy weakness"
 > END STRING
 
 > BEGIN STRING
@@ -15543,7 +15543,7 @@
 > CONTEXT: Scripts/Game_Battler 3-1/641:47 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/532:51 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/537:92 < UNTRANSLATED
-
+"Beast weakness"
 > END STRING
 
 > BEGIN STRING
@@ -15551,7 +15551,7 @@
 > CONTEXT: Scripts/Game_Battler 3-1/642:47 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/533:51 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/538:92 < UNTRANSLATED
-
+"Lizard weakness"
 > END STRING
 
 > BEGIN STRING
@@ -15559,42 +15559,42 @@
 > CONTEXT: Scripts/Game_Battler 3-1/643:46 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/534:51 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/539:91 < UNTRANSLATED
-
+"Girl weakness"
 > END STRING
 
 > BEGIN STRING
 "悪魔に強い"
 > CONTEXT: Scripts/Game_Battler 3-1/648:49 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/535:51 < UNTRANSLATED
-
+"Demon advantage"
 > END STRING
 
 > BEGIN STRING
 "妖精に強い"
 > CONTEXT: Scripts/Game_Battler 3-1/649:46 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/536:51 < UNTRANSLATED
-
+"Fairy advantage"
 > END STRING
 
 > BEGIN STRING
 "ケモノに強い"
 > CONTEXT: Scripts/Game_Battler 3-1/650:47 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/537:51 < UNTRANSLATED
-
+"Beast advantage"
 > END STRING
 
 > BEGIN STRING
 "トカゲに強い"
 > CONTEXT: Scripts/Game_Battler 3-1/651:47 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/538:51 < UNTRANSLATED
-
+"Lizard advantage"
 > END STRING
 
 > BEGIN STRING
 "少女に強い"
 > CONTEXT: Scripts/Game_Battler 3-1/652:46 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/539:51 < UNTRANSLATED
-
+"Girl advantage"
 > END STRING
 
 > BEGIN STRING
@@ -15718,7 +15718,7 @@
 > CONTEXT: Scripts/Game_Battler 3-1/951:65 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler 3-1/958:65 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler 3-1/965:65 < UNTRANSLATED
-
+"Books fill fast"
 > END STRING
 
 > BEGIN STRING
@@ -24128,7 +24128,7 @@
 > BEGIN STRING
 "取得EXP*1.5"
 > CONTEXT: Scripts/Scene_Battle 2/386:35 < UNTRANSLATED
-
+"EXP gain x1.5"
 > END STRING
 
 > BEGIN STRING
@@ -24140,7 +24140,7 @@
 > BEGIN STRING
 "取得EXP*2"
 > CONTEXT: Scripts/Scene_Battle 2/389:35 < UNTRANSLATED
-
+"EXP gain x2"
 > END STRING
 
 > BEGIN STRING
@@ -24457,7 +24457,7 @@
 > BEGIN STRING
 "手に弱い"
 > CONTEXT: Scripts/Scene_Battle 5/525:51 < UNTRANSLATED
-
+"Hand weakness"
 > END STRING
 
 > BEGIN STRING
@@ -24472,31 +24472,31 @@
 > CONTEXT: Scripts/Scene_Battle 5/532:87 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/533:87 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/534:86 < UNTRANSLATED
-
+"All weakness"
 > END STRING
 
 > BEGIN STRING
 "口に弱い"
 > CONTEXT: Scripts/Scene_Battle 5/526:51 < UNTRANSLATED
-
+"Mouth weakness"
 > END STRING
 
 > BEGIN STRING
 "胸に弱い"
 > CONTEXT: Scripts/Scene_Battle 5/527:51 < UNTRANSLATED
-
+"Breast weakness"
 > END STRING
 
 > BEGIN STRING
 "足に弱い"
 > CONTEXT: Scripts/Scene_Battle 5/528:51 < UNTRANSLATED
-
+"Foot weakness"
 > END STRING
 
 > BEGIN STRING
 "アソコに弱い"
 > CONTEXT: Scripts/Scene_Battle 5/529:51 < UNTRANSLATED
-
+"Vagina weakness"
 > END STRING
 
 > BEGIN STRING
@@ -25118,7 +25118,7 @@
 > BEGIN STRING
 "階段+1"
 > CONTEXT: Scripts/Bookshelf/164:38 < UNTRANSLATED
-
+"Floors +1"
 > END STRING
 
 > BEGIN STRING

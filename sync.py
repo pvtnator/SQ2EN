@@ -57,7 +57,7 @@ if __name__ == "__main__":
     current_dir = Path.cwd()
     translations = {}
 
-    main_files = [current_dir / "patch" / "Armors.txt"]
+    main_files = [current_dir / "patch" / "States.txt"]
     #main_files = []
     #for file in (current_dir / "SQ1patch").rglob("*.txt"):
     #    if not "Unused" in str(file):

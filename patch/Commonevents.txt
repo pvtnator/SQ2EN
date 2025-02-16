@@ -253,26 +253,26 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 "先制+20%"
 > CONTEXT: Commonevents/34/61/InlineScript/4:37 < UNTRANSLATED
 > CONTEXT: Commonevents/34/61/InlineScript/5:32 < UNTRANSLATED
-
+"First Strike +20%"
 > END STRING
 
 > BEGIN STRING
 "先制+50%"
 > CONTEXT: Commonevents/34/61/InlineScript/6:37 < UNTRANSLATED
-
+"First Strike +50%"
 > END STRING
 
 > BEGIN STRING
 "警戒+20%"
 > CONTEXT: Commonevents/34/69/InlineScript/4:37 < UNTRANSLATED
 > CONTEXT: Commonevents/34/69/InlineScript/6:32 < UNTRANSLATED
-
+"Vigilance +20%"
 > END STRING
 
 > BEGIN STRING
 "警戒+100%"
 > CONTEXT: Commonevents/34/69/InlineScript/5:38 < UNTRANSLATED
-
+"Vigilance +100%"
 > END STRING
 
 > BEGIN STRING
