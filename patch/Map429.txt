@@ -7,6 +7,7 @@
 > CONTEXT: Map009/events/9/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/9/pages/0/20/Dialogue < UNTRANSLATED
 
+\\i[35]\\c[3]Synthesia\\c[0] found!
 > END STRING
 
 > BEGIN STRING
@@ -15,12 +16,13 @@
 > CONTEXT: Map429/events/5/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map429/events/5/pages/0/20/Dialogue < UNTRANSLATED
 
+\\i[35]\\c[3]Mind Sharpening Stone\\c[0] found!
 > END STRING
 
 > BEGIN STRING
 「な、何じゃここは…？
 > CONTEXT: Map429/events/7/pages/0/11/Dialogue < UNTRANSLATED
-
+「Wh-what is this place...?
 > END STRING
 
 > BEGIN STRING
@@ -28,7 +30,9 @@
 　意識が………
 　薄れる………？
 > CONTEXT: Map429/events/7/pages/0/21/Dialogue < UNTRANSLATED
-
+「No good...
+　My consciousness...
+　is fading...?
 > END STRING
 
 > BEGIN STRING

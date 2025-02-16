@@ -3140,13 +3140,13 @@
 > BEGIN STRING
 "アンバーカフス"
 > CONTEXT: Scripts/RPG::Armor(detail)/52:12 < UNTRANSLATED
-
+"Amber Cuffs"
 > END STRING
 
 > BEGIN STRING
 "琥珀で装飾した袖飾り。"
 > CONTEXT: Scripts/RPG::Armor(detail)/53:15 < UNTRANSLATED
-
+"Sleeve ornaments decorated with amber."
 > END STRING
 
 > BEGIN STRING
@@ -3201,13 +3201,13 @@
 > BEGIN STRING
 "サテンガントレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/62:12 < UNTRANSLATED
-
+"Satin Gauntlet"
 > END STRING
 
 > BEGIN STRING
 "朱子織の手袋。"
 > CONTEXT: Scripts/RPG::Armor(detail)/63:15 < UNTRANSLATED
-
+"Satin gloves."
 > END STRING
 
 > BEGIN STRING
@@ -3219,7 +3219,7 @@
 > BEGIN STRING
 "ビロード織の手袋。"
 > CONTEXT: Scripts/RPG::Armor(detail)/65:15 < UNTRANSLATED
-
+"Velvet gloves."
 > END STRING
 
 > BEGIN STRING
@@ -3444,13 +3444,13 @@
 > BEGIN STRING
 "　こーふんしてきちゃったでしょぉ♪"
 > CONTEXT: Scripts/Game_Battler(msg-nude(E))/35:14
-"　You've come here to have fun♪"
+"　Let's have some fun♪"
 > END STRING
 
 > BEGIN STRING
 "「\#{self.name}、おなかすいちゃったぁ\\\\e[0]"
 > CONTEXT: Scripts/Game_Battler(msg-nude(E))/36:14 < UNTRANSLATED
-
+"「\#{self.name}, I'm hungry\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -3474,7 +3474,7 @@
 > BEGIN STRING
 "「気持ちいいことしよっ\\\\e[0]"
 > CONTEXT: Scripts/Game_Battler(msg-nude(E))/38:14 < UNTRANSLATED
-
+"「Let's do something fun\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -6565,7 +6565,7 @@
 "「ね、脱いでぇ～っ"
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/23:14 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/26:14 < UNTRANSLATED
-
+"「Hey, take it off～
 > END STRING
 
 > BEGIN STRING
@@ -8568,7 +8568,7 @@
 "「いきそぉ～～？\\n\\\\w[\\\\v[104]]"
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/161:16 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/164:16 < UNTRANSLATED
-
+"「Cumming～～？\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -8734,7 +8734,7 @@
 > BEGIN STRING
 "\#{myname}のリアリティが失われていく…！\\n\\004[\\\\v[104]]"
 > CONTEXT: Scripts/Game_Battler(message)/185:20 < UNTRANSLATED
-
+"\#{myname}'s grasp of reality is fading...!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -8898,7 +8898,7 @@
 > BEGIN STRING
 "\#{myname}のリアリティが失われていく…！"
 > CONTEXT: Scripts/Game_Battler(message)/195:22 < UNTRANSLATED
-
+"\#{myname}'s grasp of reality is fading...!"
 > END STRING
 
 > BEGIN STRING
@@ -9217,7 +9217,7 @@
 "\#{myname}はいきそうになっている！"
 > CONTEXT: Scripts/RPG::State (message)/349:18 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::State (message)/379:18 < UNTRANSLATED
-
+"\#{myname} is close to climax!"
 > END STRING
 
 > BEGIN STRING
@@ -9552,7 +9552,7 @@
 > BEGIN STRING
 "「わ～、おいしそぉ～～っ♪"
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/178:12 < UNTRANSLATED
-
+"「Wow～, delicious～～♪"
 > END STRING
 
 > BEGIN STRING
@@ -18577,7 +18577,7 @@
 > CONTEXT: Scripts/RPG::Skill (message)/688:24 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/690:24 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/779:24 < UNTRANSLATED
-
+" cast \#{skill.name.split(/\\//)[0]}!"
 > END STRING
 
 > BEGIN STRING
@@ -19004,7 +19004,7 @@
 > BEGIN STRING
 "\#{skill.name.split(/\\//)[0]}を唱えた！\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/803:24 < UNTRANSLATED
-
+" cast \#{skill.name.split(/\\//)[0]}!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -19483,7 +19483,7 @@
 "王立図書館"
 > CONTEXT: Scripts/Window_SaveFile/119:14 < UNTRANSLATED
 > CONTEXT: Scripts/Bookshelf/52:14 < UNTRANSLATED
-
+"Royal Library"
 > END STRING
 
 > BEGIN STRING
@@ -21635,7 +21635,7 @@
 "\#{myname}は\#{skill.name.split(/\\//)[0]}を唱えた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1393:18 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/1396:18 < UNTRANSLATED
-
+"\#{myname} cast \#{skill.name.split(/\\//)[0]}!"
 > END STRING
 
 > BEGIN STRING
@@ -23278,7 +23278,7 @@
 > BEGIN STRING
 "\#{@partner.name}は\\n\#{@memory_skill_name}を覚えた！"
 > CONTEXT: Scripts/Scene_AddSkill/119:35 < UNTRANSLATED
-
+"\#{@partner.name} learned\\n\#{@memory_skill_name}!"
 > END STRING
 
 > BEGIN STRING
@@ -24276,7 +24276,7 @@
 > BEGIN STRING
 "\\\\c[1]\#{$data_skills[j.skill_id].name.split(/\\//)[0]}\\\\c[0] を覚えた！\\n\\004[\\\\v[104]]"
 > CONTEXT: Scripts/Scene_Battle 2/519:23 < UNTRANSLATED
-
+"\\\\c[1]\#{$data_skills[j.skill_id].name.split(/\\//)[0]}\\\\c[0] learned!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING

@@ -2165,25 +2165,25 @@ EV_色づく魔物
 > BEGIN STRING
 EP自然回復+1%
 > CONTEXT: States/496/name/ < UNTRANSLATED
-
+EP Recovery +1%
 > END STRING
 
 > BEGIN STRING
 EP自然回復+3%
 > CONTEXT: States/497/name/ < UNTRANSLATED
-
+EP Recovery +3%
 > END STRING
 
 > BEGIN STRING
 テンション自然回復+1
 > CONTEXT: States/498/name/ < UNTRANSLATED
-
+TP Recovery +1
 > END STRING
 
 > BEGIN STRING
 テンション自然回復+3
 > CONTEXT: States/499/name/ < UNTRANSLATED
-
+TP Recovery +3
 > END STRING
 
 > BEGIN STRING

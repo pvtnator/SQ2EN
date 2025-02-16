@@ -879,7 +879,7 @@ Riz-Raz
 > CONTEXT: States/423/name/ < UNTRANSLATED
 > CONTEXT: Skills/327/description/ < UNTRANSLATED
 > CONTEXT: Skills/613/description/ < UNTRANSLATED
-
+Mood Up
 > END STRING
 
 > BEGIN STRING

@@ -31,7 +31,7 @@
 > CONTEXT: Map016/events/1/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map452/events/36/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map012/events/2/pages/0/0/Dialogue < UNTRANSLATED
-
+This leads back to the reading room.
 > END STRING
 
 > BEGIN STRING
@@ -60,7 +60,7 @@
 > CONTEXT: Map016/events/1/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map452/events/36/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map012/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+Go back?
 > END STRING
 
 > BEGIN STRING

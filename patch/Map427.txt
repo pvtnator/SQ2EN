@@ -3,7 +3,7 @@
 「どうしてこんなところに
 　羊がいるかって？
 > CONTEXT: Map427/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+「Why are there sheep here?
 > END STRING
 
 > BEGIN STRING
@@ -11,7 +11,9 @@
 　夢といえば羊は付き物じゃないか。
 　メェ～～ッ
 > CONTEXT: Map427/events/1/pages/0/5/Dialogue < UNTRANSLATED
-
+「Because of you!
+　Sheep are essential for dreams.
+　Baaa～～!
 > END STRING
 
 > BEGIN STRING
@@ -19,7 +21,9 @@
 　\\i[101]\\c[3]地図\\c[0]と\\i[131]\\c[3]史書\\c[0]を
 　手に入れたんだね。
 > CONTEXT: Map427/events/1/pages/0/8/Dialogue < UNTRANSLATED
-
+「By the way, congratulations! 
+　You obtained the \\i[101]\\c[3]map\\c[0] and 
+　\\i[131]\\c[3]history book\\c[0].
 > END STRING
 
 > BEGIN STRING
@@ -27,21 +31,25 @@
 　でもこの調子で\\i[101]\\c[3]地図\\c[0]で場所を、
 　\\i[131]\\c[3]史書\\c[0]で時間を世界に与えるんだ。
 > CONTEXT: Map427/events/1/pages/0/12/Dialogue < UNTRANSLATED
-
+「This is a dream world where time and space are distorted.
+　But now we can give places in \\i[101]\\c[3]maps\\c[0]
+　time with \\i[131]\\c[3]history books\\c[0].
 > END STRING
 
 > BEGIN STRING
 「探し物があるなら、
 　きっとそのうち見つかるはずさ。
 > CONTEXT: Map427/events/1/pages/0/15/Dialogue < UNTRANSLATED
-
+「If you're looking for something, 
+　I'm sure you'll find it eventually.
 > END STRING
 
 > BEGIN STRING
 「\\dだってここは君なんだから\\d！
 　メェ～～ッ
 > CONTEXT: Map427/events/1/pages/0/18/Dialogue < UNTRANSLATED
-
+「\\dThis is because of you\\d!
+　Baaa～～!
 > END STRING
 
 > BEGIN STRING
@@ -49,7 +57,9 @@
 　どうやら君はまだ\\i[131]\\c[3]史書\\c[0]を
 　本棚に入れてないみたいだ。
 > CONTEXT: Map427/events/1/pages/0/22/Dialogue < UNTRANSLATED
-
+「But alas!
+　You haven't put the \\i[131]\\c[3]history book\\c[0]
+　on your bookshelf yet.
 > END STRING
 
 > BEGIN STRING
@@ -57,5 +67,7 @@
 　\\c[3]史書\\c[0]で時間を与えないと
 　何も起こらないよ！　メェ～～ッ
 > CONTEXT: Map427/events/1/pages/0/26/Dialogue < UNTRANSLATED
-
+「This is a dream world where time and space are distorted.
+　If you don't give it time with a \\c[3]history book\\c[0],
+　nothing will happen! Baaa～～!
 > END STRING

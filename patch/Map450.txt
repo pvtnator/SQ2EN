@@ -92,4 +92,5 @@
 > CONTEXT: Commonevents/38/46/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/38/63/Dialogue < UNTRANSLATED
 
+\\i[\\v[25]]\\c[3]\\v[22]\\c[0] found!
 > END STRING

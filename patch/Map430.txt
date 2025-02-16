@@ -44,5 +44,6 @@
 > CONTEXT: Map431/events/41/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map431/events/42/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map431/events/43/pages/0/1/Dialogue < UNTRANSLATED
-
+Can't get the book out.
+It's like an illusion in the shape of a book.
 > END STRING

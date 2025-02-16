@@ -14,106 +14,106 @@ Librarian's Ring/0/0/0
 > BEGIN STRING
 騎士のペンダント/1/0/0
 > CONTEXT: Armors/3/name/ < UNTRANSLATED
-
+Knight Pendant/1/0/0
 > END STRING
 
 > BEGIN STRING
 花のかんむり/7/0/0
 > CONTEXT: Armors/4/name/ < UNTRANSLATED
-
+Flower Crown/7/0/0
 > END STRING
 
 > BEGIN STRING
 鼠のインタリオ/1/0/0
 > CONTEXT: Armors/5/name/ < UNTRANSLATED
-
+Mouse Intaglio/1/0/0
 > END STRING
 
 > BEGIN STRING
 ぬいぐるみ/0/0/0
 > CONTEXT: Armors/6/name/ < UNTRANSLATED
 > CONTEXT: Armors/15/name/ < UNTRANSLATED
-
+Plush Toy/0/0/0
 > END STRING
 
 > BEGIN STRING
 奴隷の鎖/-10/0/0
 > CONTEXT: Armors/7/name/ < UNTRANSLATED
-
+Slave Chains
 > END STRING
 
 > BEGIN STRING
 誘惑の林檎/7/0/0
 > CONTEXT: Armors/8/name/ < UNTRANSLATED
-
+Temptation Apple/7/0/0
 > END STRING
 
 > BEGIN STRING
 聖人の頭/30/0/0
 > CONTEXT: Armors/9/name/ < UNTRANSLATED
-
+Saint's Head/30/0/0
 > END STRING
 
 > BEGIN STRING
 竜石/5/0/0
 > CONTEXT: Armors/10/name/ < UNTRANSLATED
-
+Dragon Stone/5/0/0
 > END STRING
 
 > BEGIN STRING
 犬の首輪/1/0/0
 > CONTEXT: Armors/11/name/ < UNTRANSLATED
-
+Dog Collar/1/0/0
 > END STRING
 
 > BEGIN STRING
 リンクスファー/4/0/0
 > CONTEXT: Armors/12/name/ < UNTRANSLATED
-
+Lynx Fur/4/0/0
 > END STRING
 
 > BEGIN STRING
 エンジェルハロ/4/0/0
 > CONTEXT: Armors/13/name/ < UNTRANSLATED
-
+Angel Halo/4/0/0
 > END STRING
 
 > BEGIN STRING
 プリティブラウス/4/0/0
 > CONTEXT: Armors/14/name/ < UNTRANSLATED
-
+Pretty Blouse/4/0/0
 > END STRING
 
 > BEGIN STRING
 テスト用/99/0/0
 > CONTEXT: Armors/18/name/ < UNTRANSLATED
-
+Test/99/0/0
 > END STRING
 
 > BEGIN STRING
 テスト用/25/0/0
 > CONTEXT: Armors/19/name/ < UNTRANSLATED
 > CONTEXT: Armors/22/name/ < UNTRANSLATED
-
+Test/25/0/0
 > END STRING
 
 > BEGIN STRING
 テスト用/5/0/0
 > CONTEXT: Armors/20/name/ < UNTRANSLATED
-
+Test/5/0/0
 > END STRING
 
 > BEGIN STRING
 テスト用/15/0/0
 > CONTEXT: Armors/21/name/ < UNTRANSLATED
-
+Test/15/0/0
 > END STRING
 
 > BEGIN STRING
 テスト用/10/0/0
 > CONTEXT: Armors/23/name/ < UNTRANSLATED
 > CONTEXT: Armors/24/name/ < UNTRANSLATED
-
+Test/10/0/0
 > END STRING
 
 > BEGIN STRING
@@ -155,7 +155,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/547/name/ < UNTRANSLATED
 > CONTEXT: Armors/565/name/ < UNTRANSLATED
 > CONTEXT: Armors/577/name/ < UNTRANSLATED
-
+Bronze Bracelet/1/0/0
 > END STRING
 
 > BEGIN STRING
@@ -197,7 +197,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/548/name/ < UNTRANSLATED
 > CONTEXT: Armors/566/name/ < UNTRANSLATED
 > CONTEXT: Armors/578/name/ < UNTRANSLATED
-
+Amber Cuffs/5/0/0
 > END STRING
 
 > BEGIN STRING
@@ -221,7 +221,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/510/name/ < UNTRANSLATED
 > CONTEXT: Armors/540/name/ < UNTRANSLATED
 > CONTEXT: Armors/570/name/ < UNTRANSLATED
-
+Diamond Ring/1/0/0
 > END STRING
 
 > BEGIN STRING
@@ -268,7 +268,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/543/name/ < UNTRANSLATED
 > CONTEXT: Armors/567/name/ < UNTRANSLATED
 > CONTEXT: Armors/573/name/ < UNTRANSLATED
-
+Silk Gauntlet/3/0/0
 > END STRING
 
 > BEGIN STRING
@@ -309,7 +309,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/544/name/ < UNTRANSLATED
 > CONTEXT: Armors/568/name/ < UNTRANSLATED
 > CONTEXT: Armors/574/name/ < UNTRANSLATED
-
+Rabbit Sash/3/0/0
 > END STRING
 
 > BEGIN STRING
@@ -350,7 +350,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/552/name/ < UNTRANSLATED
 > CONTEXT: Armors/571/name/ < UNTRANSLATED
 > CONTEXT: Armors/582/name/ < UNTRANSLATED
-
+Mystic Silver Bracelet/1/0/0
 > END STRING
 
 > BEGIN STRING
@@ -373,7 +373,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/512/name/ < UNTRANSLATED
 > CONTEXT: Armors/542/name/ < UNTRANSLATED
 > CONTEXT: Armors/572/name/ < UNTRANSLATED
-
+Coral Cuffs/5/0/0
 > END STRING
 
 > BEGIN STRING
@@ -396,7 +396,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/516/name/ < UNTRANSLATED
 > CONTEXT: Armors/546/name/ < UNTRANSLATED
 > CONTEXT: Armors/576/name/ < UNTRANSLATED
-
+Crystal Ring/1/0/0
 > END STRING
 
 > BEGIN STRING
@@ -437,7 +437,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/554/name/ < UNTRANSLATED
 > CONTEXT: Armors/579/name/ < UNTRANSLATED
 > CONTEXT: Armors/584/name/ < UNTRANSLATED
-
+Satin Gauntlet/3/0/0
 > END STRING
 
 > BEGIN STRING
@@ -478,7 +478,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/555/name/ < UNTRANSLATED
 > CONTEXT: Armors/580/name/ < UNTRANSLATED
 > CONTEXT: Armors/585/name/ < UNTRANSLATED
-
+Stag Sash/3/0/0
 > END STRING
 
 > BEGIN STRING
@@ -501,7 +501,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/521/name/ < UNTRANSLATED
 > CONTEXT: Armors/551/name/ < UNTRANSLATED
 > CONTEXT: Armors/581/name/ < UNTRANSLATED
-
+Jade Cuffs/5/0/0
 > END STRING
 
 > BEGIN STRING
@@ -542,7 +542,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/561/name/ < UNTRANSLATED
 > CONTEXT: Armors/586/name/ < UNTRANSLATED
 > CONTEXT: Armors/591/name/ < UNTRANSLATED
-
+Ivory Bracelet/1/0/0
 > END STRING
 
 > BEGIN STRING
@@ -565,7 +565,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/527/name/ < UNTRANSLATED
 > CONTEXT: Armors/557/name/ < UNTRANSLATED
 > CONTEXT: Armors/587/name/ < UNTRANSLATED
-
+Platinum Bracelet/1/0/0
 > END STRING
 
 > BEGIN STRING
@@ -606,7 +606,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/562/name/ < UNTRANSLATED
 > CONTEXT: Armors/588/name/ < UNTRANSLATED
 > CONTEXT: Armors/592/name/ < UNTRANSLATED
-
+Fossil Cuffs/5/0/0
 > END STRING
 
 > BEGIN STRING
@@ -647,7 +647,7 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/563/name/ < UNTRANSLATED
 > CONTEXT: Armors/589/name/ < UNTRANSLATED
 > CONTEXT: Armors/593/name/ < UNTRANSLATED
-
+Velvet Gauntlet/3/0/0
 > END STRING
 
 > BEGIN STRING
@@ -688,5 +688,5 @@ Librarian's Ring/0/0/0
 > CONTEXT: Armors/564/name/ < UNTRANSLATED
 > CONTEXT: Armors/590/name/ < UNTRANSLATED
 > CONTEXT: Armors/594/name/ < UNTRANSLATED
-
+Stallion Sash/3/0/0
 > END STRING

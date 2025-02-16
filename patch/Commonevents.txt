@@ -56,6 +56,7 @@ The effect of the food has worn off
 \\i[\\v[25]]\\c[3]\\v[22]\\c[0] を手に入れた！
 > CONTEXT: Commonevents/9/2/Dialogue < UNTRANSLATED
 
+\\i[\\v[25]]\\c[3]\\v[22]\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
@@ -63,6 +64,7 @@ The effect of the food has worn off
 \\b\\v[22]G\\f 手に入れた！
 > CONTEXT: Commonevents/10/2/Dialogue < UNTRANSLATED
 
+\\b\\v[22]G\\f obtained!
 > END STRING
 
 > BEGIN STRING
@@ -1461,7 +1463,8 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 \\a[\\v[105]]\\n[1]は夢魔に精を奪われた！
 \\w[\\v[105]]\\n[1]は夢に無防備になってしまった！
 > CONTEXT: Commonevents/52/414/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]\\n[1] had his semen stolen by a succubus!
+\\w[\\v[105]]\\n[1] is now defenseless against dreams!
 > END STRING
 
 > BEGIN STRING
