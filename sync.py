@@ -57,11 +57,11 @@ if __name__ == "__main__":
     current_dir = Path.cwd()
     translations = {}
 
-    #main_files = [current_dir / "patch" / "Armors.txt", current_dir / "patch" / "Weapons.txt"]
-    main_files = []
-    for file in (current_dir / "SQ1patch").rglob("*.txt"):
-        if not "Unused" in str(file):
-            main_files.append(file)
+    main_files = [current_dir / "patch" / "Armors.txt"]
+    #main_files = []
+    #for file in (current_dir / "SQ1patch").rglob("*.txt"):
+    #    if not "Unused" in str(file):
+    #        main_files.append(file)
 
     print("===Reading current translations===")
     for translations_file in main_files:

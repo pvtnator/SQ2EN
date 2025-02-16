@@ -2895,7 +2895,7 @@
 > BEGIN STRING
 "騎士のペンダント"
 > CONTEXT: Scripts/RPG::Armor(detail)/14:12 < UNTRANSLATED
-
+"Knight Pendant"
 > END STRING
 
 > BEGIN STRING
@@ -2966,7 +2966,7 @@
 > CONTEXT: Map013/events/31/pages/1/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map013/events/32/pages/1/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map013/events/37/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+"Plush Toy"
 > END STRING
 
 > BEGIN STRING
@@ -2984,7 +2984,7 @@
 > BEGIN STRING
 "奴隷の鎖"
 > CONTEXT: Scripts/RPG::Armor(detail)/26:12 < UNTRANSLATED
-
+"Slave Chains"
 > END STRING
 
 > BEGIN STRING
@@ -3002,7 +3002,7 @@
 > BEGIN STRING
 "聖人の頭"
 > CONTEXT: Scripts/RPG::Armor(detail)/29:12 < UNTRANSLATED
-
+"Saint's Head"
 > END STRING
 
 > BEGIN STRING
@@ -3038,7 +3038,7 @@
 > BEGIN STRING
 "犬の首輪"
 > CONTEXT: Scripts/RPG::Armor(detail)/35:12 < UNTRANSLATED
-
+"Dog Collar"
 > END STRING
 
 > BEGIN STRING
@@ -3080,7 +3080,7 @@
 > BEGIN STRING
 "プリティブラウス"
 > CONTEXT: Scripts/RPG::Armor(detail)/42:12 < UNTRANSLATED
-
+"Pretty Blouse"
 > END STRING
 
 > BEGIN STRING
@@ -3104,7 +3104,7 @@
 > BEGIN STRING
 "霊銀のブレスレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/46:12 < UNTRANSLATED
-
+"Mystic Silver Bracelet"
 > END STRING
 
 > BEGIN STRING
@@ -3116,7 +3116,7 @@
 > BEGIN STRING
 "白金のブレスレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/48:12 < UNTRANSLATED
-
+"Platinum Bracelet"
 > END STRING
 
 > BEGIN STRING
@@ -3128,7 +3128,7 @@
 > BEGIN STRING
 "象牙のブレスレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/50:12 < UNTRANSLATED
-
+"Ivory Bracelet"
 > END STRING
 
 > BEGIN STRING
@@ -3152,7 +3152,7 @@
 > BEGIN STRING
 "コーラルカフス"
 > CONTEXT: Scripts/RPG::Armor(detail)/54:12 < UNTRANSLATED
-
+"Coral Cuffs"
 > END STRING
 
 > BEGIN STRING
@@ -3164,7 +3164,7 @@
 > BEGIN STRING
 "フォシルカフス"
 > CONTEXT: Scripts/RPG::Armor(detail)/56:12 < UNTRANSLATED
-
+"Fossil Cuffs"
 > END STRING
 
 > BEGIN STRING
@@ -3176,7 +3176,7 @@
 > BEGIN STRING
 "ジェイドカフス"
 > CONTEXT: Scripts/RPG::Armor(detail)/58:12 < UNTRANSLATED
-
+"Jade Cuffs"
 > END STRING
 
 > BEGIN STRING
@@ -3189,7 +3189,7 @@
 "シルクガントレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/60:12
 > CONTEXT: Scripts/Game_Actor(coordinates)/18:20
-"Silk Gauntlets"
+"Silk Gauntlet"
 > END STRING
 
 > BEGIN STRING
@@ -3225,7 +3225,7 @@
 > BEGIN STRING
 "雄兎のサッシュ"
 > CONTEXT: Scripts/RPG::Armor(detail)/66:12 < UNTRANSLATED
-
+"Rabbit Sash"
 > END STRING
 
 > BEGIN STRING
@@ -3237,7 +3237,7 @@
 > BEGIN STRING
 "牡鹿のサッシュ"
 > CONTEXT: Scripts/RPG::Armor(detail)/68:12 < UNTRANSLATED
-
+"Stag Sash"
 > END STRING
 
 > BEGIN STRING
@@ -3249,7 +3249,7 @@
 > BEGIN STRING
 "牡馬のサッシュ"
 > CONTEXT: Scripts/RPG::Armor(detail)/70:12 < UNTRANSLATED
-
+"Stallion Sash"
 > END STRING
 
 > BEGIN STRING
@@ -3261,7 +3261,7 @@
 > BEGIN STRING
 "ダイアモンドリング"
 > CONTEXT: Scripts/RPG::Armor(detail)/72:12 < UNTRANSLATED
-
+"Diamond Ring"
 > END STRING
 
 > BEGIN STRING
@@ -3273,7 +3273,7 @@
 > BEGIN STRING
 "クリスタルリング"
 > CONTEXT: Scripts/RPG::Armor(detail)/74:12 < UNTRANSLATED
-
+"Crystal Ring"
 > END STRING
 
 > BEGIN STRING
