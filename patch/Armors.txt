@@ -13,214 +13,214 @@ Librarian's Ring/0/0/0
 
 > BEGIN STRING
 騎士のペンダント/1/0/0
-> CONTEXT: Armors/3/name/ < UNTRANSLATED
+> CONTEXT: Armors/3/name/
 Knight Pendant/1/0/0
 > END STRING
 
 > BEGIN STRING
 花のかんむり/7/0/0
-> CONTEXT: Armors/4/name/ < UNTRANSLATED
+> CONTEXT: Armors/4/name/
 Flower Crown/7/0/0
 > END STRING
 
 > BEGIN STRING
 鼠のインタリオ/1/0/0
-> CONTEXT: Armors/5/name/ < UNTRANSLATED
+> CONTEXT: Armors/5/name/
 Mouse Intaglio/1/0/0
 > END STRING
 
 > BEGIN STRING
 ぬいぐるみ/0/0/0
-> CONTEXT: Armors/6/name/ < UNTRANSLATED
-> CONTEXT: Armors/15/name/ < UNTRANSLATED
+> CONTEXT: Armors/6/name/
+> CONTEXT: Armors/15/name/
 Plush Toy/0/0/0
 > END STRING
 
 > BEGIN STRING
 奴隷の鎖/-10/0/0
-> CONTEXT: Armors/7/name/ < UNTRANSLATED
+> CONTEXT: Armors/7/name/
 Slave Chains
 > END STRING
 
 > BEGIN STRING
 誘惑の林檎/7/0/0
-> CONTEXT: Armors/8/name/ < UNTRANSLATED
+> CONTEXT: Armors/8/name/
 Temptation Apple/7/0/0
 > END STRING
 
 > BEGIN STRING
 聖人の頭/30/0/0
-> CONTEXT: Armors/9/name/ < UNTRANSLATED
+> CONTEXT: Armors/9/name/
 Saint's Head/30/0/0
 > END STRING
 
 > BEGIN STRING
 竜石/5/0/0
-> CONTEXT: Armors/10/name/ < UNTRANSLATED
+> CONTEXT: Armors/10/name/
 Dragon Stone/5/0/0
 > END STRING
 
 > BEGIN STRING
 犬の首輪/1/0/0
-> CONTEXT: Armors/11/name/ < UNTRANSLATED
+> CONTEXT: Armors/11/name/
 Dog Collar/1/0/0
 > END STRING
 
 > BEGIN STRING
 リンクスファー/4/0/0
-> CONTEXT: Armors/12/name/ < UNTRANSLATED
+> CONTEXT: Armors/12/name/
 Lynx Fur/4/0/0
 > END STRING
 
 > BEGIN STRING
 エンジェルハロ/4/0/0
-> CONTEXT: Armors/13/name/ < UNTRANSLATED
+> CONTEXT: Armors/13/name/
 Angel Halo/4/0/0
 > END STRING
 
 > BEGIN STRING
 プリティブラウス/4/0/0
-> CONTEXT: Armors/14/name/ < UNTRANSLATED
+> CONTEXT: Armors/14/name/
 Pretty Blouse/4/0/0
 > END STRING
 
 > BEGIN STRING
 テスト用/99/0/0
-> CONTEXT: Armors/18/name/ < UNTRANSLATED
+> CONTEXT: Armors/18/name/
 Test/99/0/0
 > END STRING
 
 > BEGIN STRING
 テスト用/25/0/0
-> CONTEXT: Armors/19/name/ < UNTRANSLATED
-> CONTEXT: Armors/22/name/ < UNTRANSLATED
+> CONTEXT: Armors/19/name/
+> CONTEXT: Armors/22/name/
 Test/25/0/0
 > END STRING
 
 > BEGIN STRING
 テスト用/5/0/0
-> CONTEXT: Armors/20/name/ < UNTRANSLATED
+> CONTEXT: Armors/20/name/
 Test/5/0/0
 > END STRING
 
 > BEGIN STRING
 テスト用/15/0/0
-> CONTEXT: Armors/21/name/ < UNTRANSLATED
+> CONTEXT: Armors/21/name/
 Test/15/0/0
 > END STRING
 
 > BEGIN STRING
 テスト用/10/0/0
-> CONTEXT: Armors/23/name/ < UNTRANSLATED
-> CONTEXT: Armors/24/name/ < UNTRANSLATED
+> CONTEXT: Armors/23/name/
+> CONTEXT: Armors/24/name/
 Test/10/0/0
 > END STRING
 
 > BEGIN STRING
 青銅のブレスレット/1/0/0
-> CONTEXT: Armors/26/name/ < UNTRANSLATED
-> CONTEXT: Armors/51/name/ < UNTRANSLATED
-> CONTEXT: Armors/63/name/ < UNTRANSLATED
-> CONTEXT: Armors/81/name/ < UNTRANSLATED
-> CONTEXT: Armors/93/name/ < UNTRANSLATED
-> CONTEXT: Armors/111/name/ < UNTRANSLATED
-> CONTEXT: Armors/123/name/ < UNTRANSLATED
-> CONTEXT: Armors/142/name/ < UNTRANSLATED
-> CONTEXT: Armors/154/name/ < UNTRANSLATED
-> CONTEXT: Armors/172/name/ < UNTRANSLATED
-> CONTEXT: Armors/184/name/ < UNTRANSLATED
-> CONTEXT: Armors/202/name/ < UNTRANSLATED
-> CONTEXT: Armors/214/name/ < UNTRANSLATED
-> CONTEXT: Armors/233/name/ < UNTRANSLATED
-> CONTEXT: Armors/245/name/ < UNTRANSLATED
-> CONTEXT: Armors/263/name/ < UNTRANSLATED
-> CONTEXT: Armors/275/name/ < UNTRANSLATED
-> CONTEXT: Armors/293/name/ < UNTRANSLATED
-> CONTEXT: Armors/305/name/ < UNTRANSLATED
-> CONTEXT: Armors/324/name/ < UNTRANSLATED
-> CONTEXT: Armors/336/name/ < UNTRANSLATED
-> CONTEXT: Armors/354/name/ < UNTRANSLATED
-> CONTEXT: Armors/366/name/ < UNTRANSLATED
-> CONTEXT: Armors/384/name/ < UNTRANSLATED
-> CONTEXT: Armors/396/name/ < UNTRANSLATED
-> CONTEXT: Armors/414/name/ < UNTRANSLATED
-> CONTEXT: Armors/426/name/ < UNTRANSLATED
-> CONTEXT: Armors/444/name/ < UNTRANSLATED
-> CONTEXT: Armors/456/name/ < UNTRANSLATED
-> CONTEXT: Armors/474/name/ < UNTRANSLATED
-> CONTEXT: Armors/486/name/ < UNTRANSLATED
-> CONTEXT: Armors/505/name/ < UNTRANSLATED
-> CONTEXT: Armors/517/name/ < UNTRANSLATED
-> CONTEXT: Armors/535/name/ < UNTRANSLATED
-> CONTEXT: Armors/547/name/ < UNTRANSLATED
-> CONTEXT: Armors/565/name/ < UNTRANSLATED
-> CONTEXT: Armors/577/name/ < UNTRANSLATED
+> CONTEXT: Armors/26/name/
+> CONTEXT: Armors/51/name/
+> CONTEXT: Armors/63/name/
+> CONTEXT: Armors/81/name/
+> CONTEXT: Armors/93/name/
+> CONTEXT: Armors/111/name/
+> CONTEXT: Armors/123/name/
+> CONTEXT: Armors/142/name/
+> CONTEXT: Armors/154/name/
+> CONTEXT: Armors/172/name/
+> CONTEXT: Armors/184/name/
+> CONTEXT: Armors/202/name/
+> CONTEXT: Armors/214/name/
+> CONTEXT: Armors/233/name/
+> CONTEXT: Armors/245/name/
+> CONTEXT: Armors/263/name/
+> CONTEXT: Armors/275/name/
+> CONTEXT: Armors/293/name/
+> CONTEXT: Armors/305/name/
+> CONTEXT: Armors/324/name/
+> CONTEXT: Armors/336/name/
+> CONTEXT: Armors/354/name/
+> CONTEXT: Armors/366/name/
+> CONTEXT: Armors/384/name/
+> CONTEXT: Armors/396/name/
+> CONTEXT: Armors/414/name/
+> CONTEXT: Armors/426/name/
+> CONTEXT: Armors/444/name/
+> CONTEXT: Armors/456/name/
+> CONTEXT: Armors/474/name/
+> CONTEXT: Armors/486/name/
+> CONTEXT: Armors/505/name/
+> CONTEXT: Armors/517/name/
+> CONTEXT: Armors/535/name/
+> CONTEXT: Armors/547/name/
+> CONTEXT: Armors/565/name/
+> CONTEXT: Armors/577/name/
 Bronze Bracelet/1/0/0
 > END STRING
 
 > BEGIN STRING
 アンバーカフス/5/0/0
-> CONTEXT: Armors/27/name/ < UNTRANSLATED
-> CONTEXT: Armors/52/name/ < UNTRANSLATED
-> CONTEXT: Armors/64/name/ < UNTRANSLATED
-> CONTEXT: Armors/82/name/ < UNTRANSLATED
-> CONTEXT: Armors/94/name/ < UNTRANSLATED
-> CONTEXT: Armors/112/name/ < UNTRANSLATED
-> CONTEXT: Armors/124/name/ < UNTRANSLATED
-> CONTEXT: Armors/143/name/ < UNTRANSLATED
-> CONTEXT: Armors/155/name/ < UNTRANSLATED
-> CONTEXT: Armors/173/name/ < UNTRANSLATED
-> CONTEXT: Armors/185/name/ < UNTRANSLATED
-> CONTEXT: Armors/203/name/ < UNTRANSLATED
-> CONTEXT: Armors/215/name/ < UNTRANSLATED
-> CONTEXT: Armors/234/name/ < UNTRANSLATED
-> CONTEXT: Armors/246/name/ < UNTRANSLATED
-> CONTEXT: Armors/264/name/ < UNTRANSLATED
-> CONTEXT: Armors/276/name/ < UNTRANSLATED
-> CONTEXT: Armors/294/name/ < UNTRANSLATED
-> CONTEXT: Armors/306/name/ < UNTRANSLATED
-> CONTEXT: Armors/325/name/ < UNTRANSLATED
-> CONTEXT: Armors/337/name/ < UNTRANSLATED
-> CONTEXT: Armors/355/name/ < UNTRANSLATED
-> CONTEXT: Armors/367/name/ < UNTRANSLATED
-> CONTEXT: Armors/385/name/ < UNTRANSLATED
-> CONTEXT: Armors/397/name/ < UNTRANSLATED
-> CONTEXT: Armors/415/name/ < UNTRANSLATED
-> CONTEXT: Armors/427/name/ < UNTRANSLATED
-> CONTEXT: Armors/445/name/ < UNTRANSLATED
-> CONTEXT: Armors/457/name/ < UNTRANSLATED
-> CONTEXT: Armors/475/name/ < UNTRANSLATED
-> CONTEXT: Armors/487/name/ < UNTRANSLATED
-> CONTEXT: Armors/506/name/ < UNTRANSLATED
-> CONTEXT: Armors/518/name/ < UNTRANSLATED
-> CONTEXT: Armors/536/name/ < UNTRANSLATED
-> CONTEXT: Armors/548/name/ < UNTRANSLATED
-> CONTEXT: Armors/566/name/ < UNTRANSLATED
-> CONTEXT: Armors/578/name/ < UNTRANSLATED
+> CONTEXT: Armors/27/name/
+> CONTEXT: Armors/52/name/
+> CONTEXT: Armors/64/name/
+> CONTEXT: Armors/82/name/
+> CONTEXT: Armors/94/name/
+> CONTEXT: Armors/112/name/
+> CONTEXT: Armors/124/name/
+> CONTEXT: Armors/143/name/
+> CONTEXT: Armors/155/name/
+> CONTEXT: Armors/173/name/
+> CONTEXT: Armors/185/name/
+> CONTEXT: Armors/203/name/
+> CONTEXT: Armors/215/name/
+> CONTEXT: Armors/234/name/
+> CONTEXT: Armors/246/name/
+> CONTEXT: Armors/264/name/
+> CONTEXT: Armors/276/name/
+> CONTEXT: Armors/294/name/
+> CONTEXT: Armors/306/name/
+> CONTEXT: Armors/325/name/
+> CONTEXT: Armors/337/name/
+> CONTEXT: Armors/355/name/
+> CONTEXT: Armors/367/name/
+> CONTEXT: Armors/385/name/
+> CONTEXT: Armors/397/name/
+> CONTEXT: Armors/415/name/
+> CONTEXT: Armors/427/name/
+> CONTEXT: Armors/445/name/
+> CONTEXT: Armors/457/name/
+> CONTEXT: Armors/475/name/
+> CONTEXT: Armors/487/name/
+> CONTEXT: Armors/506/name/
+> CONTEXT: Armors/518/name/
+> CONTEXT: Armors/536/name/
+> CONTEXT: Armors/548/name/
+> CONTEXT: Armors/566/name/
+> CONTEXT: Armors/578/name/
 Amber Cuffs/5/0/0
 > END STRING
 
 > BEGIN STRING
 ダイアモンドリング/1/0/0
-> CONTEXT: Armors/28/name/ < UNTRANSLATED
-> CONTEXT: Armors/56/name/ < UNTRANSLATED
-> CONTEXT: Armors/86/name/ < UNTRANSLATED
-> CONTEXT: Armors/116/name/ < UNTRANSLATED
-> CONTEXT: Armors/147/name/ < UNTRANSLATED
-> CONTEXT: Armors/177/name/ < UNTRANSLATED
-> CONTEXT: Armors/207/name/ < UNTRANSLATED
-> CONTEXT: Armors/238/name/ < UNTRANSLATED
-> CONTEXT: Armors/268/name/ < UNTRANSLATED
-> CONTEXT: Armors/298/name/ < UNTRANSLATED
-> CONTEXT: Armors/329/name/ < UNTRANSLATED
-> CONTEXT: Armors/359/name/ < UNTRANSLATED
-> CONTEXT: Armors/389/name/ < UNTRANSLATED
-> CONTEXT: Armors/419/name/ < UNTRANSLATED
-> CONTEXT: Armors/449/name/ < UNTRANSLATED
-> CONTEXT: Armors/479/name/ < UNTRANSLATED
-> CONTEXT: Armors/510/name/ < UNTRANSLATED
-> CONTEXT: Armors/540/name/ < UNTRANSLATED
-> CONTEXT: Armors/570/name/ < UNTRANSLATED
+> CONTEXT: Armors/28/name/
+> CONTEXT: Armors/56/name/
+> CONTEXT: Armors/86/name/
+> CONTEXT: Armors/116/name/
+> CONTEXT: Armors/147/name/
+> CONTEXT: Armors/177/name/
+> CONTEXT: Armors/207/name/
+> CONTEXT: Armors/238/name/
+> CONTEXT: Armors/268/name/
+> CONTEXT: Armors/298/name/
+> CONTEXT: Armors/329/name/
+> CONTEXT: Armors/359/name/
+> CONTEXT: Armors/389/name/
+> CONTEXT: Armors/419/name/
+> CONTEXT: Armors/449/name/
+> CONTEXT: Armors/479/name/
+> CONTEXT: Armors/510/name/
+> CONTEXT: Armors/540/name/
+> CONTEXT: Armors/570/name/
 Diamond Ring/1/0/0
 > END STRING
 
@@ -232,461 +232,461 @@ Diamond Ring/1/0/0
 
 > BEGIN STRING
 シルクガントレット/3/0/0
-> CONTEXT: Armors/53/name/ < UNTRANSLATED
-> CONTEXT: Armors/59/name/ < UNTRANSLATED
-> CONTEXT: Armors/83/name/ < UNTRANSLATED
-> CONTEXT: Armors/89/name/ < UNTRANSLATED
-> CONTEXT: Armors/113/name/ < UNTRANSLATED
-> CONTEXT: Armors/119/name/ < UNTRANSLATED
-> CONTEXT: Armors/144/name/ < UNTRANSLATED
-> CONTEXT: Armors/150/name/ < UNTRANSLATED
-> CONTEXT: Armors/174/name/ < UNTRANSLATED
-> CONTEXT: Armors/180/name/ < UNTRANSLATED
-> CONTEXT: Armors/204/name/ < UNTRANSLATED
-> CONTEXT: Armors/210/name/ < UNTRANSLATED
-> CONTEXT: Armors/235/name/ < UNTRANSLATED
-> CONTEXT: Armors/241/name/ < UNTRANSLATED
-> CONTEXT: Armors/265/name/ < UNTRANSLATED
-> CONTEXT: Armors/271/name/ < UNTRANSLATED
-> CONTEXT: Armors/295/name/ < UNTRANSLATED
-> CONTEXT: Armors/301/name/ < UNTRANSLATED
-> CONTEXT: Armors/326/name/ < UNTRANSLATED
-> CONTEXT: Armors/332/name/ < UNTRANSLATED
-> CONTEXT: Armors/356/name/ < UNTRANSLATED
-> CONTEXT: Armors/362/name/ < UNTRANSLATED
-> CONTEXT: Armors/386/name/ < UNTRANSLATED
-> CONTEXT: Armors/392/name/ < UNTRANSLATED
-> CONTEXT: Armors/416/name/ < UNTRANSLATED
-> CONTEXT: Armors/422/name/ < UNTRANSLATED
-> CONTEXT: Armors/446/name/ < UNTRANSLATED
-> CONTEXT: Armors/452/name/ < UNTRANSLATED
-> CONTEXT: Armors/476/name/ < UNTRANSLATED
-> CONTEXT: Armors/482/name/ < UNTRANSLATED
-> CONTEXT: Armors/507/name/ < UNTRANSLATED
-> CONTEXT: Armors/513/name/ < UNTRANSLATED
-> CONTEXT: Armors/537/name/ < UNTRANSLATED
-> CONTEXT: Armors/543/name/ < UNTRANSLATED
-> CONTEXT: Armors/567/name/ < UNTRANSLATED
-> CONTEXT: Armors/573/name/ < UNTRANSLATED
-Silk Gauntlet/3/0/0
+> CONTEXT: Armors/53/name/
+> CONTEXT: Armors/59/name/
+> CONTEXT: Armors/83/name/
+> CONTEXT: Armors/89/name/
+> CONTEXT: Armors/113/name/
+> CONTEXT: Armors/119/name/
+> CONTEXT: Armors/144/name/
+> CONTEXT: Armors/150/name/
+> CONTEXT: Armors/174/name/
+> CONTEXT: Armors/180/name/
+> CONTEXT: Armors/204/name/
+> CONTEXT: Armors/210/name/
+> CONTEXT: Armors/235/name/
+> CONTEXT: Armors/241/name/
+> CONTEXT: Armors/265/name/
+> CONTEXT: Armors/271/name/
+> CONTEXT: Armors/295/name/
+> CONTEXT: Armors/301/name/
+> CONTEXT: Armors/326/name/
+> CONTEXT: Armors/332/name/
+> CONTEXT: Armors/356/name/
+> CONTEXT: Armors/362/name/
+> CONTEXT: Armors/386/name/
+> CONTEXT: Armors/392/name/
+> CONTEXT: Armors/416/name/
+> CONTEXT: Armors/422/name/
+> CONTEXT: Armors/446/name/
+> CONTEXT: Armors/452/name/
+> CONTEXT: Armors/476/name/
+> CONTEXT: Armors/482/name/
+> CONTEXT: Armors/507/name/
+> CONTEXT: Armors/513/name/
+> CONTEXT: Armors/537/name/
+> CONTEXT: Armors/543/name/
+> CONTEXT: Armors/567/name/
+> CONTEXT: Armors/573/name/
+Silk Gauntlets/3/0/0
 > END STRING
 
 > BEGIN STRING
 雄兎のサッシュ/3/0/0
-> CONTEXT: Armors/54/name/ < UNTRANSLATED
-> CONTEXT: Armors/60/name/ < UNTRANSLATED
-> CONTEXT: Armors/84/name/ < UNTRANSLATED
-> CONTEXT: Armors/90/name/ < UNTRANSLATED
-> CONTEXT: Armors/114/name/ < UNTRANSLATED
-> CONTEXT: Armors/120/name/ < UNTRANSLATED
-> CONTEXT: Armors/145/name/ < UNTRANSLATED
-> CONTEXT: Armors/151/name/ < UNTRANSLATED
-> CONTEXT: Armors/175/name/ < UNTRANSLATED
-> CONTEXT: Armors/181/name/ < UNTRANSLATED
-> CONTEXT: Armors/205/name/ < UNTRANSLATED
-> CONTEXT: Armors/211/name/ < UNTRANSLATED
-> CONTEXT: Armors/236/name/ < UNTRANSLATED
-> CONTEXT: Armors/242/name/ < UNTRANSLATED
-> CONTEXT: Armors/266/name/ < UNTRANSLATED
-> CONTEXT: Armors/272/name/ < UNTRANSLATED
-> CONTEXT: Armors/296/name/ < UNTRANSLATED
-> CONTEXT: Armors/302/name/ < UNTRANSLATED
-> CONTEXT: Armors/327/name/ < UNTRANSLATED
-> CONTEXT: Armors/333/name/ < UNTRANSLATED
-> CONTEXT: Armors/357/name/ < UNTRANSLATED
-> CONTEXT: Armors/363/name/ < UNTRANSLATED
-> CONTEXT: Armors/387/name/ < UNTRANSLATED
-> CONTEXT: Armors/393/name/ < UNTRANSLATED
-> CONTEXT: Armors/417/name/ < UNTRANSLATED
-> CONTEXT: Armors/423/name/ < UNTRANSLATED
-> CONTEXT: Armors/447/name/ < UNTRANSLATED
-> CONTEXT: Armors/453/name/ < UNTRANSLATED
-> CONTEXT: Armors/477/name/ < UNTRANSLATED
-> CONTEXT: Armors/483/name/ < UNTRANSLATED
-> CONTEXT: Armors/508/name/ < UNTRANSLATED
-> CONTEXT: Armors/514/name/ < UNTRANSLATED
-> CONTEXT: Armors/538/name/ < UNTRANSLATED
-> CONTEXT: Armors/544/name/ < UNTRANSLATED
-> CONTEXT: Armors/568/name/ < UNTRANSLATED
-> CONTEXT: Armors/574/name/ < UNTRANSLATED
+> CONTEXT: Armors/54/name/
+> CONTEXT: Armors/60/name/
+> CONTEXT: Armors/84/name/
+> CONTEXT: Armors/90/name/
+> CONTEXT: Armors/114/name/
+> CONTEXT: Armors/120/name/
+> CONTEXT: Armors/145/name/
+> CONTEXT: Armors/151/name/
+> CONTEXT: Armors/175/name/
+> CONTEXT: Armors/181/name/
+> CONTEXT: Armors/205/name/
+> CONTEXT: Armors/211/name/
+> CONTEXT: Armors/236/name/
+> CONTEXT: Armors/242/name/
+> CONTEXT: Armors/266/name/
+> CONTEXT: Armors/272/name/
+> CONTEXT: Armors/296/name/
+> CONTEXT: Armors/302/name/
+> CONTEXT: Armors/327/name/
+> CONTEXT: Armors/333/name/
+> CONTEXT: Armors/357/name/
+> CONTEXT: Armors/363/name/
+> CONTEXT: Armors/387/name/
+> CONTEXT: Armors/393/name/
+> CONTEXT: Armors/417/name/
+> CONTEXT: Armors/423/name/
+> CONTEXT: Armors/447/name/
+> CONTEXT: Armors/453/name/
+> CONTEXT: Armors/477/name/
+> CONTEXT: Armors/483/name/
+> CONTEXT: Armors/508/name/
+> CONTEXT: Armors/514/name/
+> CONTEXT: Armors/538/name/
+> CONTEXT: Armors/544/name/
+> CONTEXT: Armors/568/name/
+> CONTEXT: Armors/574/name/
 Rabbit Sash/3/0/0
 > END STRING
 
 > BEGIN STRING
 霊銀のブレスレット/1/0/0
-> CONTEXT: Armors/57/name/ < UNTRANSLATED
-> CONTEXT: Armors/68/name/ < UNTRANSLATED
-> CONTEXT: Armors/87/name/ < UNTRANSLATED
-> CONTEXT: Armors/98/name/ < UNTRANSLATED
-> CONTEXT: Armors/117/name/ < UNTRANSLATED
-> CONTEXT: Armors/128/name/ < UNTRANSLATED
-> CONTEXT: Armors/148/name/ < UNTRANSLATED
-> CONTEXT: Armors/159/name/ < UNTRANSLATED
-> CONTEXT: Armors/178/name/ < UNTRANSLATED
-> CONTEXT: Armors/189/name/ < UNTRANSLATED
-> CONTEXT: Armors/208/name/ < UNTRANSLATED
-> CONTEXT: Armors/219/name/ < UNTRANSLATED
-> CONTEXT: Armors/239/name/ < UNTRANSLATED
-> CONTEXT: Armors/250/name/ < UNTRANSLATED
-> CONTEXT: Armors/269/name/ < UNTRANSLATED
-> CONTEXT: Armors/280/name/ < UNTRANSLATED
-> CONTEXT: Armors/299/name/ < UNTRANSLATED
-> CONTEXT: Armors/310/name/ < UNTRANSLATED
-> CONTEXT: Armors/330/name/ < UNTRANSLATED
-> CONTEXT: Armors/341/name/ < UNTRANSLATED
-> CONTEXT: Armors/360/name/ < UNTRANSLATED
-> CONTEXT: Armors/371/name/ < UNTRANSLATED
-> CONTEXT: Armors/390/name/ < UNTRANSLATED
-> CONTEXT: Armors/401/name/ < UNTRANSLATED
-> CONTEXT: Armors/420/name/ < UNTRANSLATED
-> CONTEXT: Armors/431/name/ < UNTRANSLATED
-> CONTEXT: Armors/450/name/ < UNTRANSLATED
-> CONTEXT: Armors/461/name/ < UNTRANSLATED
-> CONTEXT: Armors/480/name/ < UNTRANSLATED
-> CONTEXT: Armors/491/name/ < UNTRANSLATED
-> CONTEXT: Armors/511/name/ < UNTRANSLATED
-> CONTEXT: Armors/522/name/ < UNTRANSLATED
-> CONTEXT: Armors/541/name/ < UNTRANSLATED
-> CONTEXT: Armors/552/name/ < UNTRANSLATED
-> CONTEXT: Armors/571/name/ < UNTRANSLATED
-> CONTEXT: Armors/582/name/ < UNTRANSLATED
+> CONTEXT: Armors/57/name/
+> CONTEXT: Armors/68/name/
+> CONTEXT: Armors/87/name/
+> CONTEXT: Armors/98/name/
+> CONTEXT: Armors/117/name/
+> CONTEXT: Armors/128/name/
+> CONTEXT: Armors/148/name/
+> CONTEXT: Armors/159/name/
+> CONTEXT: Armors/178/name/
+> CONTEXT: Armors/189/name/
+> CONTEXT: Armors/208/name/
+> CONTEXT: Armors/219/name/
+> CONTEXT: Armors/239/name/
+> CONTEXT: Armors/250/name/
+> CONTEXT: Armors/269/name/
+> CONTEXT: Armors/280/name/
+> CONTEXT: Armors/299/name/
+> CONTEXT: Armors/310/name/
+> CONTEXT: Armors/330/name/
+> CONTEXT: Armors/341/name/
+> CONTEXT: Armors/360/name/
+> CONTEXT: Armors/371/name/
+> CONTEXT: Armors/390/name/
+> CONTEXT: Armors/401/name/
+> CONTEXT: Armors/420/name/
+> CONTEXT: Armors/431/name/
+> CONTEXT: Armors/450/name/
+> CONTEXT: Armors/461/name/
+> CONTEXT: Armors/480/name/
+> CONTEXT: Armors/491/name/
+> CONTEXT: Armors/511/name/
+> CONTEXT: Armors/522/name/
+> CONTEXT: Armors/541/name/
+> CONTEXT: Armors/552/name/
+> CONTEXT: Armors/571/name/
+> CONTEXT: Armors/582/name/
 Mystic Silver Bracelet/1/0/0
 > END STRING
 
 > BEGIN STRING
 コーラルカフス/5/0/0
-> CONTEXT: Armors/58/name/ < UNTRANSLATED
-> CONTEXT: Armors/88/name/ < UNTRANSLATED
-> CONTEXT: Armors/118/name/ < UNTRANSLATED
-> CONTEXT: Armors/149/name/ < UNTRANSLATED
-> CONTEXT: Armors/179/name/ < UNTRANSLATED
-> CONTEXT: Armors/209/name/ < UNTRANSLATED
-> CONTEXT: Armors/240/name/ < UNTRANSLATED
-> CONTEXT: Armors/270/name/ < UNTRANSLATED
-> CONTEXT: Armors/300/name/ < UNTRANSLATED
-> CONTEXT: Armors/331/name/ < UNTRANSLATED
-> CONTEXT: Armors/361/name/ < UNTRANSLATED
-> CONTEXT: Armors/391/name/ < UNTRANSLATED
-> CONTEXT: Armors/421/name/ < UNTRANSLATED
-> CONTEXT: Armors/451/name/ < UNTRANSLATED
-> CONTEXT: Armors/481/name/ < UNTRANSLATED
-> CONTEXT: Armors/512/name/ < UNTRANSLATED
-> CONTEXT: Armors/542/name/ < UNTRANSLATED
-> CONTEXT: Armors/572/name/ < UNTRANSLATED
+> CONTEXT: Armors/58/name/
+> CONTEXT: Armors/88/name/
+> CONTEXT: Armors/118/name/
+> CONTEXT: Armors/149/name/
+> CONTEXT: Armors/179/name/
+> CONTEXT: Armors/209/name/
+> CONTEXT: Armors/240/name/
+> CONTEXT: Armors/270/name/
+> CONTEXT: Armors/300/name/
+> CONTEXT: Armors/331/name/
+> CONTEXT: Armors/361/name/
+> CONTEXT: Armors/391/name/
+> CONTEXT: Armors/421/name/
+> CONTEXT: Armors/451/name/
+> CONTEXT: Armors/481/name/
+> CONTEXT: Armors/512/name/
+> CONTEXT: Armors/542/name/
+> CONTEXT: Armors/572/name/
 Coral Cuffs/5/0/0
 > END STRING
 
 > BEGIN STRING
 クリスタルリング/1/0/0
-> CONTEXT: Armors/62/name/ < UNTRANSLATED
-> CONTEXT: Armors/92/name/ < UNTRANSLATED
-> CONTEXT: Armors/122/name/ < UNTRANSLATED
-> CONTEXT: Armors/153/name/ < UNTRANSLATED
-> CONTEXT: Armors/183/name/ < UNTRANSLATED
-> CONTEXT: Armors/213/name/ < UNTRANSLATED
-> CONTEXT: Armors/244/name/ < UNTRANSLATED
-> CONTEXT: Armors/274/name/ < UNTRANSLATED
-> CONTEXT: Armors/304/name/ < UNTRANSLATED
-> CONTEXT: Armors/335/name/ < UNTRANSLATED
-> CONTEXT: Armors/365/name/ < UNTRANSLATED
-> CONTEXT: Armors/395/name/ < UNTRANSLATED
-> CONTEXT: Armors/425/name/ < UNTRANSLATED
-> CONTEXT: Armors/455/name/ < UNTRANSLATED
-> CONTEXT: Armors/485/name/ < UNTRANSLATED
-> CONTEXT: Armors/516/name/ < UNTRANSLATED
-> CONTEXT: Armors/546/name/ < UNTRANSLATED
-> CONTEXT: Armors/576/name/ < UNTRANSLATED
+> CONTEXT: Armors/62/name/
+> CONTEXT: Armors/92/name/
+> CONTEXT: Armors/122/name/
+> CONTEXT: Armors/153/name/
+> CONTEXT: Armors/183/name/
+> CONTEXT: Armors/213/name/
+> CONTEXT: Armors/244/name/
+> CONTEXT: Armors/274/name/
+> CONTEXT: Armors/304/name/
+> CONTEXT: Armors/335/name/
+> CONTEXT: Armors/365/name/
+> CONTEXT: Armors/395/name/
+> CONTEXT: Armors/425/name/
+> CONTEXT: Armors/455/name/
+> CONTEXT: Armors/485/name/
+> CONTEXT: Armors/516/name/
+> CONTEXT: Armors/546/name/
+> CONTEXT: Armors/576/name/
 Crystal Ring/1/0/0
 > END STRING
 
 > BEGIN STRING
 サテンガントレット/3/0/0
-> CONTEXT: Armors/65/name/ < UNTRANSLATED
-> CONTEXT: Armors/70/name/ < UNTRANSLATED
-> CONTEXT: Armors/95/name/ < UNTRANSLATED
-> CONTEXT: Armors/100/name/ < UNTRANSLATED
-> CONTEXT: Armors/125/name/ < UNTRANSLATED
-> CONTEXT: Armors/130/name/ < UNTRANSLATED
-> CONTEXT: Armors/156/name/ < UNTRANSLATED
-> CONTEXT: Armors/161/name/ < UNTRANSLATED
-> CONTEXT: Armors/186/name/ < UNTRANSLATED
-> CONTEXT: Armors/191/name/ < UNTRANSLATED
-> CONTEXT: Armors/216/name/ < UNTRANSLATED
-> CONTEXT: Armors/221/name/ < UNTRANSLATED
-> CONTEXT: Armors/247/name/ < UNTRANSLATED
-> CONTEXT: Armors/252/name/ < UNTRANSLATED
-> CONTEXT: Armors/277/name/ < UNTRANSLATED
-> CONTEXT: Armors/282/name/ < UNTRANSLATED
-> CONTEXT: Armors/307/name/ < UNTRANSLATED
-> CONTEXT: Armors/312/name/ < UNTRANSLATED
-> CONTEXT: Armors/338/name/ < UNTRANSLATED
-> CONTEXT: Armors/343/name/ < UNTRANSLATED
-> CONTEXT: Armors/368/name/ < UNTRANSLATED
-> CONTEXT: Armors/373/name/ < UNTRANSLATED
-> CONTEXT: Armors/398/name/ < UNTRANSLATED
-> CONTEXT: Armors/403/name/ < UNTRANSLATED
-> CONTEXT: Armors/428/name/ < UNTRANSLATED
-> CONTEXT: Armors/433/name/ < UNTRANSLATED
-> CONTEXT: Armors/458/name/ < UNTRANSLATED
-> CONTEXT: Armors/463/name/ < UNTRANSLATED
-> CONTEXT: Armors/488/name/ < UNTRANSLATED
-> CONTEXT: Armors/493/name/ < UNTRANSLATED
-> CONTEXT: Armors/519/name/ < UNTRANSLATED
-> CONTEXT: Armors/524/name/ < UNTRANSLATED
-> CONTEXT: Armors/549/name/ < UNTRANSLATED
-> CONTEXT: Armors/554/name/ < UNTRANSLATED
-> CONTEXT: Armors/579/name/ < UNTRANSLATED
-> CONTEXT: Armors/584/name/ < UNTRANSLATED
-Satin Gauntlet/3/0/0
+> CONTEXT: Armors/65/name/
+> CONTEXT: Armors/70/name/
+> CONTEXT: Armors/95/name/
+> CONTEXT: Armors/100/name/
+> CONTEXT: Armors/125/name/
+> CONTEXT: Armors/130/name/
+> CONTEXT: Armors/156/name/
+> CONTEXT: Armors/161/name/
+> CONTEXT: Armors/186/name/
+> CONTEXT: Armors/191/name/
+> CONTEXT: Armors/216/name/
+> CONTEXT: Armors/221/name/
+> CONTEXT: Armors/247/name/
+> CONTEXT: Armors/252/name/
+> CONTEXT: Armors/277/name/
+> CONTEXT: Armors/282/name/
+> CONTEXT: Armors/307/name/
+> CONTEXT: Armors/312/name/
+> CONTEXT: Armors/338/name/
+> CONTEXT: Armors/343/name/
+> CONTEXT: Armors/368/name/
+> CONTEXT: Armors/373/name/
+> CONTEXT: Armors/398/name/
+> CONTEXT: Armors/403/name/
+> CONTEXT: Armors/428/name/
+> CONTEXT: Armors/433/name/
+> CONTEXT: Armors/458/name/
+> CONTEXT: Armors/463/name/
+> CONTEXT: Armors/488/name/
+> CONTEXT: Armors/493/name/
+> CONTEXT: Armors/519/name/
+> CONTEXT: Armors/524/name/
+> CONTEXT: Armors/549/name/
+> CONTEXT: Armors/554/name/
+> CONTEXT: Armors/579/name/
+> CONTEXT: Armors/584/name/
+Satin Gauntlets/3/0/0
 > END STRING
 
 > BEGIN STRING
 牡鹿のサッシュ/3/0/0
-> CONTEXT: Armors/66/name/ < UNTRANSLATED
-> CONTEXT: Armors/71/name/ < UNTRANSLATED
-> CONTEXT: Armors/96/name/ < UNTRANSLATED
-> CONTEXT: Armors/101/name/ < UNTRANSLATED
-> CONTEXT: Armors/126/name/ < UNTRANSLATED
-> CONTEXT: Armors/131/name/ < UNTRANSLATED
-> CONTEXT: Armors/157/name/ < UNTRANSLATED
-> CONTEXT: Armors/162/name/ < UNTRANSLATED
-> CONTEXT: Armors/187/name/ < UNTRANSLATED
-> CONTEXT: Armors/192/name/ < UNTRANSLATED
-> CONTEXT: Armors/217/name/ < UNTRANSLATED
-> CONTEXT: Armors/222/name/ < UNTRANSLATED
-> CONTEXT: Armors/248/name/ < UNTRANSLATED
-> CONTEXT: Armors/253/name/ < UNTRANSLATED
-> CONTEXT: Armors/278/name/ < UNTRANSLATED
-> CONTEXT: Armors/283/name/ < UNTRANSLATED
-> CONTEXT: Armors/308/name/ < UNTRANSLATED
-> CONTEXT: Armors/313/name/ < UNTRANSLATED
-> CONTEXT: Armors/339/name/ < UNTRANSLATED
-> CONTEXT: Armors/344/name/ < UNTRANSLATED
-> CONTEXT: Armors/369/name/ < UNTRANSLATED
-> CONTEXT: Armors/374/name/ < UNTRANSLATED
-> CONTEXT: Armors/399/name/ < UNTRANSLATED
-> CONTEXT: Armors/404/name/ < UNTRANSLATED
-> CONTEXT: Armors/429/name/ < UNTRANSLATED
-> CONTEXT: Armors/434/name/ < UNTRANSLATED
-> CONTEXT: Armors/459/name/ < UNTRANSLATED
-> CONTEXT: Armors/464/name/ < UNTRANSLATED
-> CONTEXT: Armors/489/name/ < UNTRANSLATED
-> CONTEXT: Armors/494/name/ < UNTRANSLATED
-> CONTEXT: Armors/520/name/ < UNTRANSLATED
-> CONTEXT: Armors/525/name/ < UNTRANSLATED
-> CONTEXT: Armors/550/name/ < UNTRANSLATED
-> CONTEXT: Armors/555/name/ < UNTRANSLATED
-> CONTEXT: Armors/580/name/ < UNTRANSLATED
-> CONTEXT: Armors/585/name/ < UNTRANSLATED
+> CONTEXT: Armors/66/name/
+> CONTEXT: Armors/71/name/
+> CONTEXT: Armors/96/name/
+> CONTEXT: Armors/101/name/
+> CONTEXT: Armors/126/name/
+> CONTEXT: Armors/131/name/
+> CONTEXT: Armors/157/name/
+> CONTEXT: Armors/162/name/
+> CONTEXT: Armors/187/name/
+> CONTEXT: Armors/192/name/
+> CONTEXT: Armors/217/name/
+> CONTEXT: Armors/222/name/
+> CONTEXT: Armors/248/name/
+> CONTEXT: Armors/253/name/
+> CONTEXT: Armors/278/name/
+> CONTEXT: Armors/283/name/
+> CONTEXT: Armors/308/name/
+> CONTEXT: Armors/313/name/
+> CONTEXT: Armors/339/name/
+> CONTEXT: Armors/344/name/
+> CONTEXT: Armors/369/name/
+> CONTEXT: Armors/374/name/
+> CONTEXT: Armors/399/name/
+> CONTEXT: Armors/404/name/
+> CONTEXT: Armors/429/name/
+> CONTEXT: Armors/434/name/
+> CONTEXT: Armors/459/name/
+> CONTEXT: Armors/464/name/
+> CONTEXT: Armors/489/name/
+> CONTEXT: Armors/494/name/
+> CONTEXT: Armors/520/name/
+> CONTEXT: Armors/525/name/
+> CONTEXT: Armors/550/name/
+> CONTEXT: Armors/555/name/
+> CONTEXT: Armors/580/name/
+> CONTEXT: Armors/585/name/
 Stag Sash/3/0/0
 > END STRING
 
 > BEGIN STRING
 ジェイドカフス/5/0/0
-> CONTEXT: Armors/67/name/ < UNTRANSLATED
-> CONTEXT: Armors/97/name/ < UNTRANSLATED
-> CONTEXT: Armors/127/name/ < UNTRANSLATED
-> CONTEXT: Armors/158/name/ < UNTRANSLATED
-> CONTEXT: Armors/188/name/ < UNTRANSLATED
-> CONTEXT: Armors/218/name/ < UNTRANSLATED
-> CONTEXT: Armors/249/name/ < UNTRANSLATED
-> CONTEXT: Armors/279/name/ < UNTRANSLATED
-> CONTEXT: Armors/309/name/ < UNTRANSLATED
-> CONTEXT: Armors/340/name/ < UNTRANSLATED
-> CONTEXT: Armors/370/name/ < UNTRANSLATED
-> CONTEXT: Armors/400/name/ < UNTRANSLATED
-> CONTEXT: Armors/430/name/ < UNTRANSLATED
-> CONTEXT: Armors/460/name/ < UNTRANSLATED
-> CONTEXT: Armors/490/name/ < UNTRANSLATED
-> CONTEXT: Armors/521/name/ < UNTRANSLATED
-> CONTEXT: Armors/551/name/ < UNTRANSLATED
-> CONTEXT: Armors/581/name/ < UNTRANSLATED
+> CONTEXT: Armors/67/name/
+> CONTEXT: Armors/97/name/
+> CONTEXT: Armors/127/name/
+> CONTEXT: Armors/158/name/
+> CONTEXT: Armors/188/name/
+> CONTEXT: Armors/218/name/
+> CONTEXT: Armors/249/name/
+> CONTEXT: Armors/279/name/
+> CONTEXT: Armors/309/name/
+> CONTEXT: Armors/340/name/
+> CONTEXT: Armors/370/name/
+> CONTEXT: Armors/400/name/
+> CONTEXT: Armors/430/name/
+> CONTEXT: Armors/460/name/
+> CONTEXT: Armors/490/name/
+> CONTEXT: Armors/521/name/
+> CONTEXT: Armors/551/name/
+> CONTEXT: Armors/581/name/
 Jade Cuffs/5/0/0
 > END STRING
 
 > BEGIN STRING
 象牙のブレスレット/1/0/0
-> CONTEXT: Armors/72/name/ < UNTRANSLATED
-> CONTEXT: Armors/77/name/ < UNTRANSLATED
-> CONTEXT: Armors/102/name/ < UNTRANSLATED
-> CONTEXT: Armors/107/name/ < UNTRANSLATED
-> CONTEXT: Armors/132/name/ < UNTRANSLATED
-> CONTEXT: Armors/137/name/ < UNTRANSLATED
-> CONTEXT: Armors/163/name/ < UNTRANSLATED
-> CONTEXT: Armors/168/name/ < UNTRANSLATED
-> CONTEXT: Armors/193/name/ < UNTRANSLATED
-> CONTEXT: Armors/198/name/ < UNTRANSLATED
-> CONTEXT: Armors/223/name/ < UNTRANSLATED
-> CONTEXT: Armors/228/name/ < UNTRANSLATED
-> CONTEXT: Armors/254/name/ < UNTRANSLATED
-> CONTEXT: Armors/259/name/ < UNTRANSLATED
-> CONTEXT: Armors/284/name/ < UNTRANSLATED
-> CONTEXT: Armors/289/name/ < UNTRANSLATED
-> CONTEXT: Armors/314/name/ < UNTRANSLATED
-> CONTEXT: Armors/319/name/ < UNTRANSLATED
-> CONTEXT: Armors/345/name/ < UNTRANSLATED
-> CONTEXT: Armors/350/name/ < UNTRANSLATED
-> CONTEXT: Armors/375/name/ < UNTRANSLATED
-> CONTEXT: Armors/380/name/ < UNTRANSLATED
-> CONTEXT: Armors/405/name/ < UNTRANSLATED
-> CONTEXT: Armors/410/name/ < UNTRANSLATED
-> CONTEXT: Armors/435/name/ < UNTRANSLATED
-> CONTEXT: Armors/440/name/ < UNTRANSLATED
-> CONTEXT: Armors/465/name/ < UNTRANSLATED
-> CONTEXT: Armors/470/name/ < UNTRANSLATED
-> CONTEXT: Armors/495/name/ < UNTRANSLATED
-> CONTEXT: Armors/500/name/ < UNTRANSLATED
-> CONTEXT: Armors/526/name/ < UNTRANSLATED
-> CONTEXT: Armors/531/name/ < UNTRANSLATED
-> CONTEXT: Armors/556/name/ < UNTRANSLATED
-> CONTEXT: Armors/561/name/ < UNTRANSLATED
-> CONTEXT: Armors/586/name/ < UNTRANSLATED
-> CONTEXT: Armors/591/name/ < UNTRANSLATED
+> CONTEXT: Armors/72/name/
+> CONTEXT: Armors/77/name/
+> CONTEXT: Armors/102/name/
+> CONTEXT: Armors/107/name/
+> CONTEXT: Armors/132/name/
+> CONTEXT: Armors/137/name/
+> CONTEXT: Armors/163/name/
+> CONTEXT: Armors/168/name/
+> CONTEXT: Armors/193/name/
+> CONTEXT: Armors/198/name/
+> CONTEXT: Armors/223/name/
+> CONTEXT: Armors/228/name/
+> CONTEXT: Armors/254/name/
+> CONTEXT: Armors/259/name/
+> CONTEXT: Armors/284/name/
+> CONTEXT: Armors/289/name/
+> CONTEXT: Armors/314/name/
+> CONTEXT: Armors/319/name/
+> CONTEXT: Armors/345/name/
+> CONTEXT: Armors/350/name/
+> CONTEXT: Armors/375/name/
+> CONTEXT: Armors/380/name/
+> CONTEXT: Armors/405/name/
+> CONTEXT: Armors/410/name/
+> CONTEXT: Armors/435/name/
+> CONTEXT: Armors/440/name/
+> CONTEXT: Armors/465/name/
+> CONTEXT: Armors/470/name/
+> CONTEXT: Armors/495/name/
+> CONTEXT: Armors/500/name/
+> CONTEXT: Armors/526/name/
+> CONTEXT: Armors/531/name/
+> CONTEXT: Armors/556/name/
+> CONTEXT: Armors/561/name/
+> CONTEXT: Armors/586/name/
+> CONTEXT: Armors/591/name/
 Ivory Bracelet/1/0/0
 > END STRING
 
 > BEGIN STRING
 白金のブレスレット/1/0/0
-> CONTEXT: Armors/73/name/ < UNTRANSLATED
-> CONTEXT: Armors/103/name/ < UNTRANSLATED
-> CONTEXT: Armors/133/name/ < UNTRANSLATED
-> CONTEXT: Armors/164/name/ < UNTRANSLATED
-> CONTEXT: Armors/194/name/ < UNTRANSLATED
-> CONTEXT: Armors/224/name/ < UNTRANSLATED
-> CONTEXT: Armors/255/name/ < UNTRANSLATED
-> CONTEXT: Armors/285/name/ < UNTRANSLATED
-> CONTEXT: Armors/315/name/ < UNTRANSLATED
-> CONTEXT: Armors/346/name/ < UNTRANSLATED
-> CONTEXT: Armors/376/name/ < UNTRANSLATED
-> CONTEXT: Armors/406/name/ < UNTRANSLATED
-> CONTEXT: Armors/436/name/ < UNTRANSLATED
-> CONTEXT: Armors/466/name/ < UNTRANSLATED
-> CONTEXT: Armors/496/name/ < UNTRANSLATED
-> CONTEXT: Armors/527/name/ < UNTRANSLATED
-> CONTEXT: Armors/557/name/ < UNTRANSLATED
-> CONTEXT: Armors/587/name/ < UNTRANSLATED
+> CONTEXT: Armors/73/name/
+> CONTEXT: Armors/103/name/
+> CONTEXT: Armors/133/name/
+> CONTEXT: Armors/164/name/
+> CONTEXT: Armors/194/name/
+> CONTEXT: Armors/224/name/
+> CONTEXT: Armors/255/name/
+> CONTEXT: Armors/285/name/
+> CONTEXT: Armors/315/name/
+> CONTEXT: Armors/346/name/
+> CONTEXT: Armors/376/name/
+> CONTEXT: Armors/406/name/
+> CONTEXT: Armors/436/name/
+> CONTEXT: Armors/466/name/
+> CONTEXT: Armors/496/name/
+> CONTEXT: Armors/527/name/
+> CONTEXT: Armors/557/name/
+> CONTEXT: Armors/587/name/
 Platinum Bracelet/1/0/0
 > END STRING
 
 > BEGIN STRING
 フォシルカフス/5/0/0
-> CONTEXT: Armors/74/name/ < UNTRANSLATED
-> CONTEXT: Armors/78/name/ < UNTRANSLATED
-> CONTEXT: Armors/104/name/ < UNTRANSLATED
-> CONTEXT: Armors/108/name/ < UNTRANSLATED
-> CONTEXT: Armors/134/name/ < UNTRANSLATED
-> CONTEXT: Armors/138/name/ < UNTRANSLATED
-> CONTEXT: Armors/165/name/ < UNTRANSLATED
-> CONTEXT: Armors/169/name/ < UNTRANSLATED
-> CONTEXT: Armors/195/name/ < UNTRANSLATED
-> CONTEXT: Armors/199/name/ < UNTRANSLATED
-> CONTEXT: Armors/225/name/ < UNTRANSLATED
-> CONTEXT: Armors/229/name/ < UNTRANSLATED
-> CONTEXT: Armors/256/name/ < UNTRANSLATED
-> CONTEXT: Armors/260/name/ < UNTRANSLATED
-> CONTEXT: Armors/286/name/ < UNTRANSLATED
-> CONTEXT: Armors/290/name/ < UNTRANSLATED
-> CONTEXT: Armors/316/name/ < UNTRANSLATED
-> CONTEXT: Armors/320/name/ < UNTRANSLATED
-> CONTEXT: Armors/347/name/ < UNTRANSLATED
-> CONTEXT: Armors/351/name/ < UNTRANSLATED
-> CONTEXT: Armors/377/name/ < UNTRANSLATED
-> CONTEXT: Armors/381/name/ < UNTRANSLATED
-> CONTEXT: Armors/407/name/ < UNTRANSLATED
-> CONTEXT: Armors/411/name/ < UNTRANSLATED
-> CONTEXT: Armors/437/name/ < UNTRANSLATED
-> CONTEXT: Armors/441/name/ < UNTRANSLATED
-> CONTEXT: Armors/467/name/ < UNTRANSLATED
-> CONTEXT: Armors/471/name/ < UNTRANSLATED
-> CONTEXT: Armors/497/name/ < UNTRANSLATED
-> CONTEXT: Armors/501/name/ < UNTRANSLATED
-> CONTEXT: Armors/528/name/ < UNTRANSLATED
-> CONTEXT: Armors/532/name/ < UNTRANSLATED
-> CONTEXT: Armors/558/name/ < UNTRANSLATED
-> CONTEXT: Armors/562/name/ < UNTRANSLATED
-> CONTEXT: Armors/588/name/ < UNTRANSLATED
-> CONTEXT: Armors/592/name/ < UNTRANSLATED
+> CONTEXT: Armors/74/name/
+> CONTEXT: Armors/78/name/
+> CONTEXT: Armors/104/name/
+> CONTEXT: Armors/108/name/
+> CONTEXT: Armors/134/name/
+> CONTEXT: Armors/138/name/
+> CONTEXT: Armors/165/name/
+> CONTEXT: Armors/169/name/
+> CONTEXT: Armors/195/name/
+> CONTEXT: Armors/199/name/
+> CONTEXT: Armors/225/name/
+> CONTEXT: Armors/229/name/
+> CONTEXT: Armors/256/name/
+> CONTEXT: Armors/260/name/
+> CONTEXT: Armors/286/name/
+> CONTEXT: Armors/290/name/
+> CONTEXT: Armors/316/name/
+> CONTEXT: Armors/320/name/
+> CONTEXT: Armors/347/name/
+> CONTEXT: Armors/351/name/
+> CONTEXT: Armors/377/name/
+> CONTEXT: Armors/381/name/
+> CONTEXT: Armors/407/name/
+> CONTEXT: Armors/411/name/
+> CONTEXT: Armors/437/name/
+> CONTEXT: Armors/441/name/
+> CONTEXT: Armors/467/name/
+> CONTEXT: Armors/471/name/
+> CONTEXT: Armors/497/name/
+> CONTEXT: Armors/501/name/
+> CONTEXT: Armors/528/name/
+> CONTEXT: Armors/532/name/
+> CONTEXT: Armors/558/name/
+> CONTEXT: Armors/562/name/
+> CONTEXT: Armors/588/name/
+> CONTEXT: Armors/592/name/
 Fossil Cuffs/5/0/0
 > END STRING
 
 > BEGIN STRING
 ビロードガントレット/3/0/0
-> CONTEXT: Armors/75/name/ < UNTRANSLATED
-> CONTEXT: Armors/79/name/ < UNTRANSLATED
-> CONTEXT: Armors/105/name/ < UNTRANSLATED
-> CONTEXT: Armors/109/name/ < UNTRANSLATED
-> CONTEXT: Armors/135/name/ < UNTRANSLATED
-> CONTEXT: Armors/139/name/ < UNTRANSLATED
-> CONTEXT: Armors/166/name/ < UNTRANSLATED
-> CONTEXT: Armors/170/name/ < UNTRANSLATED
-> CONTEXT: Armors/196/name/ < UNTRANSLATED
-> CONTEXT: Armors/200/name/ < UNTRANSLATED
-> CONTEXT: Armors/226/name/ < UNTRANSLATED
-> CONTEXT: Armors/230/name/ < UNTRANSLATED
-> CONTEXT: Armors/257/name/ < UNTRANSLATED
-> CONTEXT: Armors/261/name/ < UNTRANSLATED
-> CONTEXT: Armors/287/name/ < UNTRANSLATED
-> CONTEXT: Armors/291/name/ < UNTRANSLATED
-> CONTEXT: Armors/317/name/ < UNTRANSLATED
-> CONTEXT: Armors/321/name/ < UNTRANSLATED
-> CONTEXT: Armors/348/name/ < UNTRANSLATED
-> CONTEXT: Armors/352/name/ < UNTRANSLATED
-> CONTEXT: Armors/378/name/ < UNTRANSLATED
-> CONTEXT: Armors/382/name/ < UNTRANSLATED
-> CONTEXT: Armors/408/name/ < UNTRANSLATED
-> CONTEXT: Armors/412/name/ < UNTRANSLATED
-> CONTEXT: Armors/438/name/ < UNTRANSLATED
-> CONTEXT: Armors/442/name/ < UNTRANSLATED
-> CONTEXT: Armors/468/name/ < UNTRANSLATED
-> CONTEXT: Armors/472/name/ < UNTRANSLATED
-> CONTEXT: Armors/498/name/ < UNTRANSLATED
-> CONTEXT: Armors/502/name/ < UNTRANSLATED
-> CONTEXT: Armors/529/name/ < UNTRANSLATED
-> CONTEXT: Armors/533/name/ < UNTRANSLATED
-> CONTEXT: Armors/559/name/ < UNTRANSLATED
-> CONTEXT: Armors/563/name/ < UNTRANSLATED
-> CONTEXT: Armors/589/name/ < UNTRANSLATED
-> CONTEXT: Armors/593/name/ < UNTRANSLATED
-Velvet Gauntlet/3/0/0
+> CONTEXT: Armors/75/name/
+> CONTEXT: Armors/79/name/
+> CONTEXT: Armors/105/name/
+> CONTEXT: Armors/109/name/
+> CONTEXT: Armors/135/name/
+> CONTEXT: Armors/139/name/
+> CONTEXT: Armors/166/name/
+> CONTEXT: Armors/170/name/
+> CONTEXT: Armors/196/name/
+> CONTEXT: Armors/200/name/
+> CONTEXT: Armors/226/name/
+> CONTEXT: Armors/230/name/
+> CONTEXT: Armors/257/name/
+> CONTEXT: Armors/261/name/
+> CONTEXT: Armors/287/name/
+> CONTEXT: Armors/291/name/
+> CONTEXT: Armors/317/name/
+> CONTEXT: Armors/321/name/
+> CONTEXT: Armors/348/name/
+> CONTEXT: Armors/352/name/
+> CONTEXT: Armors/378/name/
+> CONTEXT: Armors/382/name/
+> CONTEXT: Armors/408/name/
+> CONTEXT: Armors/412/name/
+> CONTEXT: Armors/438/name/
+> CONTEXT: Armors/442/name/
+> CONTEXT: Armors/468/name/
+> CONTEXT: Armors/472/name/
+> CONTEXT: Armors/498/name/
+> CONTEXT: Armors/502/name/
+> CONTEXT: Armors/529/name/
+> CONTEXT: Armors/533/name/
+> CONTEXT: Armors/559/name/
+> CONTEXT: Armors/563/name/
+> CONTEXT: Armors/589/name/
+> CONTEXT: Armors/593/name/
+Velvet Gauntlets/3/0/0
 > END STRING
 
 > BEGIN STRING
 牡馬のサッシュ/3/0/0
-> CONTEXT: Armors/76/name/ < UNTRANSLATED
-> CONTEXT: Armors/80/name/ < UNTRANSLATED
-> CONTEXT: Armors/106/name/ < UNTRANSLATED
-> CONTEXT: Armors/110/name/ < UNTRANSLATED
-> CONTEXT: Armors/136/name/ < UNTRANSLATED
-> CONTEXT: Armors/140/name/ < UNTRANSLATED
-> CONTEXT: Armors/167/name/ < UNTRANSLATED
-> CONTEXT: Armors/171/name/ < UNTRANSLATED
-> CONTEXT: Armors/197/name/ < UNTRANSLATED
-> CONTEXT: Armors/201/name/ < UNTRANSLATED
-> CONTEXT: Armors/227/name/ < UNTRANSLATED
-> CONTEXT: Armors/231/name/ < UNTRANSLATED
-> CONTEXT: Armors/258/name/ < UNTRANSLATED
-> CONTEXT: Armors/262/name/ < UNTRANSLATED
-> CONTEXT: Armors/288/name/ < UNTRANSLATED
-> CONTEXT: Armors/292/name/ < UNTRANSLATED
-> CONTEXT: Armors/318/name/ < UNTRANSLATED
-> CONTEXT: Armors/322/name/ < UNTRANSLATED
-> CONTEXT: Armors/349/name/ < UNTRANSLATED
-> CONTEXT: Armors/353/name/ < UNTRANSLATED
-> CONTEXT: Armors/379/name/ < UNTRANSLATED
-> CONTEXT: Armors/383/name/ < UNTRANSLATED
-> CONTEXT: Armors/409/name/ < UNTRANSLATED
-> CONTEXT: Armors/413/name/ < UNTRANSLATED
-> CONTEXT: Armors/439/name/ < UNTRANSLATED
-> CONTEXT: Armors/443/name/ < UNTRANSLATED
-> CONTEXT: Armors/469/name/ < UNTRANSLATED
-> CONTEXT: Armors/473/name/ < UNTRANSLATED
-> CONTEXT: Armors/499/name/ < UNTRANSLATED
-> CONTEXT: Armors/503/name/ < UNTRANSLATED
-> CONTEXT: Armors/530/name/ < UNTRANSLATED
-> CONTEXT: Armors/534/name/ < UNTRANSLATED
-> CONTEXT: Armors/560/name/ < UNTRANSLATED
-> CONTEXT: Armors/564/name/ < UNTRANSLATED
-> CONTEXT: Armors/590/name/ < UNTRANSLATED
-> CONTEXT: Armors/594/name/ < UNTRANSLATED
+> CONTEXT: Armors/76/name/
+> CONTEXT: Armors/80/name/
+> CONTEXT: Armors/106/name/
+> CONTEXT: Armors/110/name/
+> CONTEXT: Armors/136/name/
+> CONTEXT: Armors/140/name/
+> CONTEXT: Armors/167/name/
+> CONTEXT: Armors/171/name/
+> CONTEXT: Armors/197/name/
+> CONTEXT: Armors/201/name/
+> CONTEXT: Armors/227/name/
+> CONTEXT: Armors/231/name/
+> CONTEXT: Armors/258/name/
+> CONTEXT: Armors/262/name/
+> CONTEXT: Armors/288/name/
+> CONTEXT: Armors/292/name/
+> CONTEXT: Armors/318/name/
+> CONTEXT: Armors/322/name/
+> CONTEXT: Armors/349/name/
+> CONTEXT: Armors/353/name/
+> CONTEXT: Armors/379/name/
+> CONTEXT: Armors/383/name/
+> CONTEXT: Armors/409/name/
+> CONTEXT: Armors/413/name/
+> CONTEXT: Armors/439/name/
+> CONTEXT: Armors/443/name/
+> CONTEXT: Armors/469/name/
+> CONTEXT: Armors/473/name/
+> CONTEXT: Armors/499/name/
+> CONTEXT: Armors/503/name/
+> CONTEXT: Armors/530/name/
+> CONTEXT: Armors/534/name/
+> CONTEXT: Armors/560/name/
+> CONTEXT: Armors/564/name/
+> CONTEXT: Armors/590/name/
+> CONTEXT: Armors/594/name/
 Stallion Sash/3/0/0
 > END STRING

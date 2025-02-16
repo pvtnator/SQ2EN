@@ -7,59 +7,59 @@
 
 > BEGIN STRING
 ここから読書室に戻れそうだ。
-> CONTEXT: Map483/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map480/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map486/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map486/events/22/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map481/events/11/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map472/events/18/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map461/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map456/events/10/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map455/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map450/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map469/events/7/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map458/events/5/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map445/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map458/events/5/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map430/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map448/events/11/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map458/events/5/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map427/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/36/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/2/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map483/events/2/pages/0/0/Dialogue
+> CONTEXT: Map480/events/1/pages/0/0/Dialogue
+> CONTEXT: Map486/events/3/pages/0/0/Dialogue
+> CONTEXT: Map486/events/22/pages/0/0/Dialogue
+> CONTEXT: Map481/events/11/pages/0/0/Dialogue
+> CONTEXT: Map472/events/18/pages/0/0/Dialogue
+> CONTEXT: Map461/events/1/pages/0/0/Dialogue
+> CONTEXT: Map456/events/10/pages/0/0/Dialogue
+> CONTEXT: Map455/events/2/pages/0/0/Dialogue
+> CONTEXT: Map450/events/2/pages/0/0/Dialogue
+> CONTEXT: Map469/events/7/pages/0/0/Dialogue
+> CONTEXT: Map458/events/5/pages/0/0/Dialogue
+> CONTEXT: Map445/events/1/pages/0/0/Dialogue
+> CONTEXT: Map458/events/5/pages/1/0/Dialogue
+> CONTEXT: Map430/events/3/pages/0/0/Dialogue
+> CONTEXT: Map448/events/11/pages/0/0/Dialogue
+> CONTEXT: Map458/events/5/pages/2/0/Dialogue
+> CONTEXT: Map427/events/3/pages/0/0/Dialogue
+> CONTEXT: Map025/events/1/pages/0/0/Dialogue
+> CONTEXT: Map019/events/1/pages/0/0/Dialogue
+> CONTEXT: Map020/events/2/pages/0/0/Dialogue
+> CONTEXT: Map016/events/1/pages/0/0/Dialogue
+> CONTEXT: Map452/events/36/pages/0/0/Dialogue
+> CONTEXT: Map012/events/2/pages/0/0/Dialogue
 This leads back to the reading room.
 > END STRING
 
 > BEGIN STRING
 戻りますか？
-> CONTEXT: Map483/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map480/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map486/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map486/events/22/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map481/events/11/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map472/events/18/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map461/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map456/events/10/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map455/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map450/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map469/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map458/events/5/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map445/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map458/events/5/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map430/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map448/events/11/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map458/events/5/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map427/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/36/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map483/events/2/pages/0/1/Dialogue
+> CONTEXT: Map480/events/1/pages/0/1/Dialogue
+> CONTEXT: Map486/events/3/pages/0/1/Dialogue
+> CONTEXT: Map486/events/22/pages/0/1/Dialogue
+> CONTEXT: Map481/events/11/pages/0/1/Dialogue
+> CONTEXT: Map472/events/18/pages/0/1/Dialogue
+> CONTEXT: Map461/events/1/pages/0/1/Dialogue
+> CONTEXT: Map456/events/10/pages/0/1/Dialogue
+> CONTEXT: Map455/events/2/pages/0/1/Dialogue
+> CONTEXT: Map450/events/2/pages/0/1/Dialogue
+> CONTEXT: Map469/events/7/pages/0/1/Dialogue
+> CONTEXT: Map458/events/5/pages/0/1/Dialogue
+> CONTEXT: Map445/events/1/pages/0/1/Dialogue
+> CONTEXT: Map458/events/5/pages/1/1/Dialogue
+> CONTEXT: Map430/events/3/pages/0/1/Dialogue
+> CONTEXT: Map448/events/11/pages/0/1/Dialogue
+> CONTEXT: Map458/events/5/pages/2/1/Dialogue
+> CONTEXT: Map427/events/3/pages/0/1/Dialogue
+> CONTEXT: Map025/events/1/pages/0/1/Dialogue
+> CONTEXT: Map019/events/1/pages/0/1/Dialogue
+> CONTEXT: Map020/events/2/pages/0/1/Dialogue
+> CONTEXT: Map016/events/1/pages/0/1/Dialogue
+> CONTEXT: Map452/events/36/pages/0/1/Dialogue
+> CONTEXT: Map012/events/2/pages/0/1/Dialogue
 Go back?
 > END STRING
 

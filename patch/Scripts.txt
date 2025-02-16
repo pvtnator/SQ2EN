@@ -2851,8 +2851,8 @@
 
 > BEGIN STRING
 "\#{myname}はかわした！"
-> CONTEXT: Scripts/RPG::Item (message)/46:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item (message)/46:18
+"\#{myname} dodged!"
 > END STRING
 
 > BEGIN STRING
@@ -2894,20 +2894,20 @@
 
 > BEGIN STRING
 "騎士のペンダント"
-> CONTEXT: Scripts/RPG::Armor(detail)/14:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/14:12
 "Knight Pendant"
 > END STRING
 
 > BEGIN STRING
 "昔グルッペンの騎士が好んで身に着けていた、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/15:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/15:15
+"Once worn by the knights of Gruppen,\\n"
 > END STRING
 
 > BEGIN STRING
 "素朴な銀の首飾り。"
-> CONTEXT: Scripts/RPG::Armor(detail)/16:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/16:15
+"it's a simple silver necklace."
 > END STRING
 
 > BEGIN STRING
@@ -2919,14 +2919,14 @@
 
 > BEGIN STRING
 "色とりどりの花を編んで作った冠。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/18:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/18:15
+"A crown made from woven colorful flowers.\\n"
 > END STRING
 
 > BEGIN STRING
 "いつまでも編まれた時のまま色あせない。"
-> CONTEXT: Scripts/RPG::Armor(detail)/19:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/19:15
+"The color will never fade from when it was woven."
 > END STRING
 
 > BEGIN STRING
@@ -2939,82 +2939,82 @@
 
 > BEGIN STRING
 "特殊な技法で宝石の表面に\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/21:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/21:15
+"Special techniques were used to carve\\n"
 > END STRING
 
 > BEGIN STRING
 "鼠の図柄を彫り込んだアクセサリー。"
-> CONTEXT: Scripts/RPG::Armor(detail)/22:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/22:15
+"a mouse design onto the gemstone surface."
 > END STRING
 
 > BEGIN STRING
 "ぬいぐるみ"
-> CONTEXT: Scripts/RPG::Armor(detail)/23:12 < UNTRANSLATED
-> CONTEXT: Map451/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map016/events/3/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/14/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/15/pages/1/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/16/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/19/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/20/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/24/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/25/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/26/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/27/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/31/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/32/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/37/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/23:12
+> CONTEXT: Map451/events/15/pages/0/0/InlineScript/1:4
+> CONTEXT: Map016/events/3/pages/1/0/InlineScript/1:4
+> CONTEXT: Map015/events/14/pages/1/0/InlineScript/1:4
+> CONTEXT: Map015/events/15/pages/1/1/InlineScript/1:4
+> CONTEXT: Map015/events/16/pages/1/0/InlineScript/1:4
+> CONTEXT: Map015/events/19/pages/1/0/InlineScript/1:4
+> CONTEXT: Map015/events/20/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/24/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/25/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/26/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/27/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/31/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/32/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/37/pages/1/0/InlineScript/1:4
 "Plush Toy"
 > END STRING
 
 > BEGIN STRING
 "年代もののぬいぐるみ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/24:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/24:15
+"Antique stuffed animal.\\n"
 > END STRING
 
 > BEGIN STRING
 "わりとかわいい。"
-> CONTEXT: Scripts/RPG::Armor(detail)/25:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/25:15
+"Quite cute."
 > END STRING
 
 > BEGIN STRING
 "奴隷の鎖"
-> CONTEXT: Scripts/RPG::Armor(detail)/26:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/26:12
 "Slave Chains"
 > END STRING
 
 > BEGIN STRING
 "サディストが奴隷を拘束するための鎖。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/27:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/27:15
+"Chains used by sadists to restrain their slaves.\\n"
 > END STRING
 
 > BEGIN STRING
 "あえて僅かに抵抗できるようにするのが特徴。"
-> CONTEXT: Scripts/RPG::Armor(detail)/28:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/28:15
+"Uniquely, it allows for slight resistance."
 > END STRING
 
 > BEGIN STRING
 "聖人の頭"
-> CONTEXT: Scripts/RPG::Armor(detail)/29:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/29:12
 "Saint's Head"
 > END STRING
 
 > BEGIN STRING
 "首を切られたある聖人の頭。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/30:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/30:15
+"The decapitated head of a saint.\\n"
 > END STRING
 
 > BEGIN STRING
 "その目は神だけを見続けている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/31:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/31:15
+"The eyes are fixed on God alone."
 > END STRING
 
 > BEGIN STRING
@@ -3025,32 +3025,32 @@
 
 > BEGIN STRING
 "ドラゴンだけが持つ貴重な宝石。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/33:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/33:15
+"A precious gem that only dragons possess.\\n"
 > END STRING
 
 > BEGIN STRING
 "持つ者のあらゆる力を高める。"
-> CONTEXT: Scripts/RPG::Armor(detail)/34:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/34:15
+"Increases all attributes of the holder."
 > END STRING
 
 > BEGIN STRING
 "犬の首輪"
-> CONTEXT: Scripts/RPG::Armor(detail)/35:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/35:12
 "Dog Collar"
 > END STRING
 
 > BEGIN STRING
 "首にぴったりと巻きつける革製のネックレス。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/36:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/36:15
+"A leather necklace that wraps tightly around the neck.\\n"
 > END STRING
 
 > BEGIN STRING
 "犬の首輪にも似ている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/37:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/37:15
+"It's similar to a dog collar."
 > END STRING
 
 > BEGIN STRING
@@ -3061,8 +3061,8 @@
 
 > BEGIN STRING
 "ヤマネコの毛皮で作った衣服。"
-> CONTEXT: Scripts/RPG::Armor(detail)/39:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/39:15
+"Clothing made from the fur of an ocelot."
 > END STRING
 
 > BEGIN STRING
@@ -3073,20 +3073,20 @@
 
 > BEGIN STRING
 "魔法で頭上に浮かぶ天使の輪。"
-> CONTEXT: Scripts/RPG::Armor(detail)/41:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/41:15
+"A magical halo of angels floating above your head."
 > END STRING
 
 > BEGIN STRING
 "プリティブラウス"
-> CONTEXT: Scripts/RPG::Armor(detail)/42:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/42:12
 "Pretty Blouse"
 > END STRING
 
 > BEGIN STRING
 "少女が好む可愛らしいデザインのブラウス。"
-> CONTEXT: Scripts/RPG::Armor(detail)/43:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/43:15
+"A cute blouse design that girls will love."
 > END STRING
 
 > BEGIN STRING
@@ -3097,189 +3097,189 @@
 
 > BEGIN STRING
 "青銅でできた腕輪。"
-> CONTEXT: Scripts/RPG::Armor(detail)/45:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/45:15
+"A bracelet made of bronze."
 > END STRING
 
 > BEGIN STRING
 "霊銀のブレスレット"
-> CONTEXT: Scripts/RPG::Armor(detail)/46:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/46:12
 "Mystic Silver Bracelet"
 > END STRING
 
 > BEGIN STRING
 "ミスリルでできた腕輪。"
-> CONTEXT: Scripts/RPG::Armor(detail)/47:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/47:15
+"A bracelet made of mithril."
 > END STRING
 
 > BEGIN STRING
 "白金のブレスレット"
-> CONTEXT: Scripts/RPG::Armor(detail)/48:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/48:12
 "Platinum Bracelet"
 > END STRING
 
 > BEGIN STRING
 "プラチナでできた腕輪。"
-> CONTEXT: Scripts/RPG::Armor(detail)/49:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/49:15
+"A bracelet made of platinum."
 > END STRING
 
 > BEGIN STRING
 "象牙のブレスレット"
-> CONTEXT: Scripts/RPG::Armor(detail)/50:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/50:12
 "Ivory Bracelet"
 > END STRING
 
 > BEGIN STRING
 "象牙でできた腕輪。"
-> CONTEXT: Scripts/RPG::Armor(detail)/51:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/51:15
+"A bracelet made of ivory."
 > END STRING
 
 > BEGIN STRING
 "アンバーカフス"
-> CONTEXT: Scripts/RPG::Armor(detail)/52:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/52:12
 "Amber Cuffs"
 > END STRING
 
 > BEGIN STRING
 "琥珀で装飾した袖飾り。"
-> CONTEXT: Scripts/RPG::Armor(detail)/53:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/53:15
 "Sleeve ornaments decorated with amber."
 > END STRING
 
 > BEGIN STRING
 "コーラルカフス"
-> CONTEXT: Scripts/RPG::Armor(detail)/54:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/54:12
 "Coral Cuffs"
 > END STRING
 
 > BEGIN STRING
 "珊瑚で装飾した袖飾り。"
-> CONTEXT: Scripts/RPG::Armor(detail)/55:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/55:15
+"Sleeve ornaments decorated with coral."
 > END STRING
 
 > BEGIN STRING
 "フォシルカフス"
-> CONTEXT: Scripts/RPG::Armor(detail)/56:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/56:12
 "Fossil Cuffs"
 > END STRING
 
 > BEGIN STRING
 "化石で装飾した袖飾り。"
-> CONTEXT: Scripts/RPG::Armor(detail)/57:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/57:15
+"Sleeve ornaments decorated with fossils."
 > END STRING
 
 > BEGIN STRING
 "ジェイドカフス"
-> CONTEXT: Scripts/RPG::Armor(detail)/58:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/58:12
 "Jade Cuffs"
 > END STRING
 
 > BEGIN STRING
 "ヒスイで装飾した袖飾り。"
-> CONTEXT: Scripts/RPG::Armor(detail)/59:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/59:15
+"Sleeve ornaments decorated with jade."
 > END STRING
 
 > BEGIN STRING
 "シルクガントレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/60:12
 > CONTEXT: Scripts/Game_Actor(coordinates)/18:20
-"Silk Gauntlet"
+"Silk Gauntlets"
 > END STRING
 
 > BEGIN STRING
 "絹製の手袋。"
-> CONTEXT: Scripts/RPG::Armor(detail)/61:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/61:15
+"Silk gloves."
 > END STRING
 
 > BEGIN STRING
 "サテンガントレット"
-> CONTEXT: Scripts/RPG::Armor(detail)/62:12 < UNTRANSLATED
-"Satin Gauntlet"
+> CONTEXT: Scripts/RPG::Armor(detail)/62:12
+"Satin Gauntlets"
 > END STRING
 
 > BEGIN STRING
 "朱子織の手袋。"
-> CONTEXT: Scripts/RPG::Armor(detail)/63:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/63:15
 "Satin gloves."
 > END STRING
 
 > BEGIN STRING
 "ビロードガントレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/64:12
-"Velvet Gauntlet"
+"Velvet Gauntlets"
 > END STRING
 
 > BEGIN STRING
 "ビロード織の手袋。"
-> CONTEXT: Scripts/RPG::Armor(detail)/65:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/65:15
 "Velvet gloves."
 > END STRING
 
 > BEGIN STRING
 "雄兎のサッシュ"
-> CONTEXT: Scripts/RPG::Armor(detail)/66:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/66:12
 "Rabbit Sash"
 > END STRING
 
 > BEGIN STRING
 "雄兎の毛皮でできた腰布。"
-> CONTEXT: Scripts/RPG::Armor(detail)/67:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/67:15
+"A loincloth made from male rabbit fur."
 > END STRING
 
 > BEGIN STRING
 "牡鹿のサッシュ"
-> CONTEXT: Scripts/RPG::Armor(detail)/68:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/68:12
 "Stag Sash"
 > END STRING
 
 > BEGIN STRING
 "牡鹿の毛皮でできた腰布。"
-> CONTEXT: Scripts/RPG::Armor(detail)/69:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/69:15
+"A loincloth made from stag fur."
 > END STRING
 
 > BEGIN STRING
 "牡馬のサッシュ"
-> CONTEXT: Scripts/RPG::Armor(detail)/70:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/70:12
 "Stallion Sash"
 > END STRING
 
 > BEGIN STRING
 "牡馬の毛皮でできた腰布。"
-> CONTEXT: Scripts/RPG::Armor(detail)/71:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/71:15
+"A loincloth made from stallion fur."
 > END STRING
 
 > BEGIN STRING
 "ダイアモンドリング"
-> CONTEXT: Scripts/RPG::Armor(detail)/72:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/72:12
 "Diamond Ring"
 > END STRING
 
 > BEGIN STRING
 "ダイアモンドをはめこんだ指輪。"
-> CONTEXT: Scripts/RPG::Armor(detail)/73:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/73:15
+"A ring inlaid with diamonds."
 > END STRING
 
 > BEGIN STRING
 "クリスタルリング"
-> CONTEXT: Scripts/RPG::Armor(detail)/74:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/74:12
 "Crystal Ring"
 > END STRING
 
 > BEGIN STRING
 "クリスタルをはめこんだ指輪。"
-> CONTEXT: Scripts/RPG::Armor(detail)/75:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/75:15
+"A ring inlaid with crystals."
 > END STRING
 
 > BEGIN STRING
@@ -3449,7 +3449,7 @@
 
 > BEGIN STRING
 "「\#{self.name}、おなかすいちゃったぁ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/36:14 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/36:14
 "「\#{self.name}, I'm hungry\\\\e[0]"
 > END STRING
 
@@ -3473,7 +3473,7 @@
 
 > BEGIN STRING
 "「気持ちいいことしよっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/38:14 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/38:14
 "「Let's do something fun\\\\e[0]"
 > END STRING
 
@@ -6563,9 +6563,9 @@
 
 > BEGIN STRING
 "「ね、脱いでぇ～っ"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/23:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/26:14 < UNTRANSLATED
-"「Hey, take it off～
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/23:14
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/26:14
+"「Hey, take it off～"
 > END STRING
 
 > BEGIN STRING
@@ -8566,8 +8566,8 @@
 
 > BEGIN STRING
 "「いきそぉ～～？\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/161:16 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/164:16 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/161:16
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/164:16
 "「Cumming～～？\\n\\\\w[\\\\v[104]]"
 > END STRING
 
@@ -8733,7 +8733,7 @@
 
 > BEGIN STRING
 "\#{myname}のリアリティが失われていく…！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(message)/185:20 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(message)/185:20
 "\#{myname}'s grasp of reality is fading...!\\n\\004[\\\\v[104]]"
 > END STRING
 
@@ -8897,7 +8897,7 @@
 
 > BEGIN STRING
 "\#{myname}のリアリティが失われていく…！"
-> CONTEXT: Scripts/Game_Battler(message)/195:22 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(message)/195:22
 "\#{myname}'s grasp of reality is fading...!"
 > END STRING
 
@@ -9215,8 +9215,8 @@
 
 > BEGIN STRING
 "\#{myname}はいきそうになっている！"
-> CONTEXT: Scripts/RPG::State (message)/349:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/379:18 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::State (message)/349:18
+> CONTEXT: Scripts/RPG::State (message)/379:18
 "\#{myname} is close to climax!"
 > END STRING
 
@@ -9551,7 +9551,7 @@
 
 > BEGIN STRING
 "「わ～、おいしそぉ～～っ♪"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/178:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/178:12
 "「Wow～, delicious～～♪"
 > END STRING
 
@@ -18573,10 +18573,10 @@
 
 > BEGIN STRING
 "\#{skill.name.split(/\\//)[0]}を唱えた！"
-> CONTEXT: Scripts/RPG::Skill (message)/667:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/688:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/690:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/779:24 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/667:24
+> CONTEXT: Scripts/RPG::Skill (message)/688:24
+> CONTEXT: Scripts/RPG::Skill (message)/690:24
+> CONTEXT: Scripts/RPG::Skill (message)/779:24
 " cast \#{skill.name.split(/\\//)[0]}!"
 > END STRING
 
@@ -19003,7 +19003,7 @@
 
 > BEGIN STRING
 "\#{skill.name.split(/\\//)[0]}を唱えた！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/803:24 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/803:24
 " cast \#{skill.name.split(/\\//)[0]}!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
@@ -19481,8 +19481,8 @@
 
 > BEGIN STRING
 "王立図書館"
-> CONTEXT: Scripts/Window_SaveFile/119:14 < UNTRANSLATED
-> CONTEXT: Scripts/Bookshelf/52:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_SaveFile/119:14
+> CONTEXT: Scripts/Bookshelf/52:14
 "Royal Library"
 > END STRING
 
@@ -21633,8 +21633,8 @@
 
 > BEGIN STRING
 "\#{myname}は\#{skill.name.split(/\\//)[0]}を唱えた！"
-> CONTEXT: Scripts/RPG::Skill (message)/1393:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/1396:18 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/1393:18
+> CONTEXT: Scripts/RPG::Skill (message)/1396:18
 "\#{myname} cast \#{skill.name.split(/\\//)[0]}!"
 > END STRING
 
@@ -23277,7 +23277,7 @@
 
 > BEGIN STRING
 "\#{@partner.name}は\\n\#{@memory_skill_name}を覚えた！"
-> CONTEXT: Scripts/Scene_AddSkill/119:35 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_AddSkill/119:35
 "\#{@partner.name} learned\\n\#{@memory_skill_name}!"
 > END STRING
 
@@ -24275,7 +24275,7 @@
 
 > BEGIN STRING
 "\\\\c[1]\#{$data_skills[j.skill_id].name.split(/\\//)[0]}\\\\c[0] を覚えた！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Scene_Battle 2/519:23 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 2/519:23
 "\\\\c[1]\#{$data_skills[j.skill_id].name.split(/\\//)[0]}\\\\c[0] learned!\\n\\004[\\\\v[104]]"
 > END STRING
 

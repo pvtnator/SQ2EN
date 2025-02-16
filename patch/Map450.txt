@@ -77,20 +77,20 @@
 > BEGIN STRING
 
 \\i[\\v[25]]\\c[3]\\v[22]\\c[0] をみつけた！
-> CONTEXT: Map450/events/8/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map450/events/8/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map445/events/4/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map445/events/4/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map430/events/13/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map430/events/13/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/3/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/6/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/6/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/6/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/7/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/38/46/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/38/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map450/events/8/pages/0/3/Dialogue
+> CONTEXT: Map450/events/8/pages/0/20/Dialogue
+> CONTEXT: Map445/events/4/pages/0/3/Dialogue
+> CONTEXT: Map445/events/4/pages/0/20/Dialogue
+> CONTEXT: Map430/events/13/pages/0/3/Dialogue
+> CONTEXT: Map430/events/13/pages/0/20/Dialogue
+> CONTEXT: Map020/events/3/pages/0/3/Dialogue
+> CONTEXT: Map020/events/3/pages/0/20/Dialogue
+> CONTEXT: Map012/events/6/pages/0/3/Dialogue
+> CONTEXT: Map012/events/6/pages/0/20/Dialogue
+> CONTEXT: Map008/events/6/pages/0/2/Dialogue
+> CONTEXT: Map008/events/7/pages/0/2/Dialogue
+> CONTEXT: Commonevents/38/46/Dialogue
+> CONTEXT: Commonevents/38/63/Dialogue
 
 \\i[\\v[25]]\\c[3]\\v[22]\\c[0] found!
 > END STRING

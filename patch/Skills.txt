@@ -874,11 +874,11 @@ Riz-Raz
 
 > BEGIN STRING
 ムードアップ
-> CONTEXT: Skills/131/description/ < UNTRANSLATED
-> CONTEXT: Skills/138/description/ < UNTRANSLATED
-> CONTEXT: States/423/name/ < UNTRANSLATED
-> CONTEXT: Skills/327/description/ < UNTRANSLATED
-> CONTEXT: Skills/613/description/ < UNTRANSLATED
+> CONTEXT: Skills/131/description/
+> CONTEXT: Skills/138/description/
+> CONTEXT: States/423/name/
+> CONTEXT: Skills/327/description/
+> CONTEXT: Skills/613/description/
 Mood Up
 > END STRING
 

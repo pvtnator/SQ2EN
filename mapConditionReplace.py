@@ -3,20 +3,21 @@ import re
 
 def replace_strings_in_files(folder_path, mod_path, replace_dict):
     for filename in os.listdir(folder_path):
-        if (filename.startswith("Map") or filename.startswith("Common")) and os.path.isfile(os.path.join(folder_path, filename)):
+        if (filename.startswith("Map") or filename.startswith("Common") or filename.startswith("Save")) and os.path.isfile(os.path.join(folder_path, filename)):
             with open(os.path.join(folder_path, filename), 'rb') as file:
                 content = file.read()
 
             utf8_parts = re.findall(rb'\(\"[^\$\"]{3,30}\"\)', content)
             utf8_parts += re.findall(rb'== \"[^\$\"]{3,30}\"', content)
+            if filename.startswith("Save"):
+                utf8_parts += re.findall(rb'\".(.{3,30}\/[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{1,2})', content)
             replaced = False
 
             savedspot = -1
             saveddiff = 0
 
             for part in utf8_parts:
-                if "メローナ" in part.decode():
-                    print(part.decode())
+                #print(part.decode())
                 replacement = replace_dict.get(part)
                 if replacement:
                     diff = len(part)-len(replace_dict[part])
@@ -25,6 +26,8 @@ def replace_strings_in_files(folder_path, mod_path, replace_dict):
                     replaced = True
                     lensymbol = content.rfind(rb"$", 0, content.find(part))-1
                     lensymbol = max(content.rfind(rb"@", 0, content.find(part))-1, lensymbol)
+                    if filename.startswith("Save"):
+                        lensymbol = content.find(part)-1
                     if diff > 0:
                         #print(lensymbol)
                         #print(content[lensymbol-2])
@@ -98,6 +101,8 @@ if __name__ == "__main__":
     lines = []
     with open("patch/Scripts.txt", 'r', encoding='utf-8') as trans_file:
         lines = trans_file.readlines()
+    with open("patch/Armors.txt", 'r', encoding='utf-8') as trans_file:
+        lines += trans_file.readlines()
     i = 0
     while i < len(lines):
         if lines[i].strip() == "> BEGIN STRING":
@@ -108,11 +113,14 @@ if __name__ == "__main__":
                 i += 1
             if lines[i].strip():
                 noquotes = lines[i].strip().replace('"', '')
-                
-                rep = "(\""+noquotes+"\")"
-                replacements["(\""+string+"\")"] = rep
-                rep = "== \""+noquotes+"\""
-                replacements["== \""+string+"\""] = rep
+
+                if lines[i].count("/") > 1:
+                    replacements[string] = lines[i].strip()
+                else:
+                    rep = "(\""+noquotes+"\")"
+                    replacements["(\""+string+"\")"] = rep
+                    rep = "== \""+noquotes+"\""
+                    replacements["== \""+string+"\""] = rep
             i += 2
         else:
             i += 1
