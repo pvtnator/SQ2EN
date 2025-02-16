@@ -1803,13 +1803,13 @@ Body Mimic
 > BEGIN STRING
 入手装備品質アップ
 > CONTEXT: States/402/name/ < UNTRANSLATED
-
+Improved equipment quality
 > END STRING
 
 > BEGIN STRING
 入手装備効果数アップ
 > CONTEXT: States/403/name/ < UNTRANSLATED
-
+Increased equipment effect
 > END STRING
 
 > BEGIN STRING
@@ -2123,7 +2123,7 @@ EV_色づく魔物
 > BEGIN STRING
 階段+1
 > CONTEXT: States/481/name/ < UNTRANSLATED
-
+Floors +1
 > END STRING
 
 > BEGIN STRING
@@ -2134,32 +2134,32 @@ EV_色づく魔物
 
 > BEGIN STRING
 精力+5%
-> CONTEXT: States/491/name/ < UNTRANSLATED
-
+> CONTEXT: States/491/name/
+Energy +5%
 > END STRING
 
 > BEGIN STRING
 技巧+5%
-> CONTEXT: States/492/name/ < UNTRANSLATED
-
+> CONTEXT: States/492/name/
+Skill +5%
 > END STRING
 
 > BEGIN STRING
 素早さ+5%
-> CONTEXT: States/493/name/ < UNTRANSLATED
-
+> CONTEXT: States/493/name/
+Agility +5%
 > END STRING
 
 > BEGIN STRING
 精神力+5%
-> CONTEXT: States/494/name/ < UNTRANSLATED
-
+> CONTEXT: States/494/name/
+Spirit +5%
 > END STRING
 
 > BEGIN STRING
 魅力+5%/105/100/100
-> CONTEXT: States/495/name/ < UNTRANSLATED
-
+> CONTEXT: States/495/name/
+Charm +5%/105/100/100
 > END STRING
 
 > BEGIN STRING
@@ -2189,217 +2189,217 @@ TP Recovery +3
 > BEGIN STRING
 テンション自然減少-1
 > CONTEXT: States/500/name/ < UNTRANSLATED
-
+Tension decrease -1
 > END STRING
 
 > BEGIN STRING
 テンション自然減少-3
 > CONTEXT: States/501/name/ < UNTRANSLATED
-
+Tension decrease -3
 > END STRING
 
 > BEGIN STRING
 トラップ発生率アップ
 > CONTEXT: States/502/name/ < UNTRANSLATED
-
+Increased traps
 > END STRING
 
 > BEGIN STRING
 トラップ発生率ダウン
 > CONTEXT: States/503/name/ < UNTRANSLATED
-
+Decreased traps
 > END STRING
 
 > BEGIN STRING
 受ける快感+10%
 > CONTEXT: States/504/name/ < UNTRANSLATED
-
+Received pleasure +10%
 > END STRING
 
 > BEGIN STRING
 ユニーク夢魔出現率アップ
 > CONTEXT: States/505/name/ < UNTRANSLATED
-
+Increased unique succubi
 > END STRING
 
 > BEGIN STRING
 宝箱出現率アップ
 > CONTEXT: States/506/name/ < UNTRANSLATED
-
+Increased treasures
 > END STRING
 
 > BEGIN STRING
 受ける快感-10%
 > CONTEXT: States/510/name/ < UNTRANSLATED
-
+Received pleasure -10%
 > END STRING
 
 > BEGIN STRING
 受ける快感-20%
 > CONTEXT: States/511/name/ < UNTRANSLATED
-
+Received pleasure -20%
 > END STRING
 
 > BEGIN STRING
 精力+10%
 > CONTEXT: States/512/name/ < UNTRANSLATED
-
+Energy +10%
 > END STRING
 
 > BEGIN STRING
 精力+20%
 > CONTEXT: States/513/name/ < UNTRANSLATED
-
+Energy +20%
 > END STRING
 
 > BEGIN STRING
 技巧+10%
 > CONTEXT: States/514/name/ < UNTRANSLATED
-
+Skill +10%
 > END STRING
 
 > BEGIN STRING
 技巧+20%
 > CONTEXT: States/515/name/ < UNTRANSLATED
-
+Skill +20%
 > END STRING
 
 > BEGIN STRING
 素早さ+10%
 > CONTEXT: States/516/name/ < UNTRANSLATED
-
+Agility +10%
 > END STRING
 
 > BEGIN STRING
 素早さ+20%
 > CONTEXT: States/517/name/ < UNTRANSLATED
-
+Agility +20%
 > END STRING
 
 > BEGIN STRING
 精神力+10%
 > CONTEXT: States/518/name/ < UNTRANSLATED
-
+Spirit +10%
 > END STRING
 
 > BEGIN STRING
 精神力+20%
 > CONTEXT: States/519/name/ < UNTRANSLATED
-
+Spirit +20%
 > END STRING
 
 > BEGIN STRING
 魅力+10%/110/100/100
 > CONTEXT: States/520/name/ < UNTRANSLATED
-
+Charm +10%/110/100/100
 > END STRING
 
 > BEGIN STRING
 魅力+20%/120/100/100
 > CONTEXT: States/521/name/ < UNTRANSLATED
-
+Charm +20%/110/100/100
 > END STRING
 
 > BEGIN STRING
 恍惚耐性+20%
 > CONTEXT: States/522/name/ < UNTRANSLATED
-
+Ecstacy res. +20%
 > END STRING
 
 > BEGIN STRING
 恍惚耐性+50%
 > CONTEXT: States/523/name/ < UNTRANSLATED
-
+Ecstacy res. +50%
 > END STRING
 
 > BEGIN STRING
 恍惚無効
 > CONTEXT: States/524/name/ < UNTRANSLATED
-
+Ecstacy immunity
 > END STRING
 
 > BEGIN STRING
 バインド耐性+20%
 > CONTEXT: States/525/name/ < UNTRANSLATED
-
+Bind res. +20%
 > END STRING
 
 > BEGIN STRING
 バインド耐性+50%
 > CONTEXT: States/526/name/ < UNTRANSLATED
-
+Bind res. +50%
 > END STRING
 
 > BEGIN STRING
 バインド無効
 > CONTEXT: States/527/name/ < UNTRANSLATED
-
+Bind immunity
 > END STRING
 
 > BEGIN STRING
 パニック耐性+20%
 > CONTEXT: States/528/name/ < UNTRANSLATED
-
+Panic res. +20%
 > END STRING
 
 > BEGIN STRING
 パニック耐性+50%
 > CONTEXT: States/529/name/ < UNTRANSLATED
-
+Panic res. +50%
 > END STRING
 
 > BEGIN STRING
 パニック無効
 > CONTEXT: States/530/name/ < UNTRANSLATED
-
+Panic immunity
 > END STRING
 
 > BEGIN STRING
 センシブ耐性+20%
 > CONTEXT: States/531/name/ < UNTRANSLATED
-
+Sensitive res. +20%
 > END STRING
 
 > BEGIN STRING
 センシブ耐性+50%
 > CONTEXT: States/532/name/ < UNTRANSLATED
-
+Sensitive res. +50%
 > END STRING
 
 > BEGIN STRING
 センシブ無効
 > CONTEXT: States/533/name/ < UNTRANSLATED
-
+Sensitive immunity
 > END STRING
 
 > BEGIN STRING
 暴走耐性+20%
 > CONTEXT: States/534/name/ < UNTRANSLATED
-
+Berserk res. +20%
 > END STRING
 
 > BEGIN STRING
 暴走耐性+50%
 > CONTEXT: States/535/name/ < UNTRANSLATED
-
+Berserk res. +50%
 > END STRING
 
 > BEGIN STRING
 暴走無効
 > CONTEXT: States/536/name/ < UNTRANSLATED
-
+Berserk immunity
 > END STRING
 
 > BEGIN STRING
 全耐性+20%
 > CONTEXT: States/541/name/ < UNTRANSLATED
-
+All res. +20%
 > END STRING
 
 > BEGIN STRING
 ほぼ常に拘束
 > CONTEXT: States/542/name/ < UNTRANSLATED
-
+Constant restraint
 > END STRING
 
 > BEGIN STRING
@@ -2411,163 +2411,163 @@ EP+100%
 > BEGIN STRING
 受ける快感-50%
 > CONTEXT: States/544/name/ < UNTRANSLATED
-
+Received pleasure -50%
 > END STRING
 
 > BEGIN STRING
 隠密+1
-> CONTEXT: States/550/name/ < UNTRANSLATED
-
+> CONTEXT: States/550/name/
+Stealth +1
 > END STRING
 
 > BEGIN STRING
 隠密+2
-> CONTEXT: States/551/name/ < UNTRANSLATED
-
+> CONTEXT: States/551/name/
+Stealth +2
 > END STRING
 
 > BEGIN STRING
 遠見+1
-> CONTEXT: States/552/name/ < UNTRANSLATED
-
+> CONTEXT: States/552/name/
+Sight +1
 > END STRING
 
 > BEGIN STRING
 遠見+2
-> CONTEXT: States/553/name/ < UNTRANSLATED
-
+> CONTEXT: States/553/name/
+Sight +2
 > END STRING
 
 > BEGIN STRING
 千里眼
 > CONTEXT: States/554/name/ < UNTRANSLATED
-
+Clairvoyance
 > END STRING
 
 > BEGIN STRING
 手に弱い
 > CONTEXT: States/555/name/ < UNTRANSLATED
-
+Hand weakness
 > END STRING
 
 > BEGIN STRING
 口に弱い
 > CONTEXT: States/556/name/ < UNTRANSLATED
-
+Mouth weakness
 > END STRING
 
 > BEGIN STRING
 胸に弱い
 > CONTEXT: States/557/name/ < UNTRANSLATED
-
+Breast weakness
 > END STRING
 
 > BEGIN STRING
 足に弱い
 > CONTEXT: States/558/name/ < UNTRANSLATED
-
+Foot weakness
 > END STRING
 
 > BEGIN STRING
 アソコに弱い
 > CONTEXT: States/559/name/ < UNTRANSLATED
-
+Vagina weakness
 > END STRING
 
 > BEGIN STRING
 悪魔に弱い
 > CONTEXT: States/562/name/ < UNTRANSLATED
-
+Demon weakness
 > END STRING
 
 > BEGIN STRING
 妖精に弱い
 > CONTEXT: States/563/name/ < UNTRANSLATED
-
+Fairy weakness
 > END STRING
 
 > BEGIN STRING
 ケモノに弱い
 > CONTEXT: States/564/name/ < UNTRANSLATED
-
+Beast weakness
 > END STRING
 
 > BEGIN STRING
 トカゲに弱い
 > CONTEXT: States/565/name/ < UNTRANSLATED
-
+Lizard weakness
 > END STRING
 
 > BEGIN STRING
 少女に弱い
 > CONTEXT: States/566/name/ < UNTRANSLATED
-
+Girl weakness
 > END STRING
 
 > BEGIN STRING
 全てに弱い
 > CONTEXT: States/569/name/ < UNTRANSLATED
-
+All weakness
 > END STRING
 
 > BEGIN STRING
 悪魔に強い
 > CONTEXT: States/572/name/ < UNTRANSLATED
-
+Demon advantage
 > END STRING
 
 > BEGIN STRING
 妖精に強い
 > CONTEXT: States/573/name/ < UNTRANSLATED
-
+Fairy advantage
 > END STRING
 
 > BEGIN STRING
 ケモノに強い
 > CONTEXT: States/574/name/ < UNTRANSLATED
-
+Beast advantage
 > END STRING
 
 > BEGIN STRING
 トカゲに強い
 > CONTEXT: States/575/name/ < UNTRANSLATED
-
+Lizard advantage
 > END STRING
 
 > BEGIN STRING
 少女に強い
 > CONTEXT: States/576/name/ < UNTRANSLATED
-
+Girl advantage
 > END STRING
 
 > BEGIN STRING
 常にミニマム
 > CONTEXT: States/577/name/ < UNTRANSLATED
-
+Always mini
 > END STRING
 
 > BEGIN STRING
 常にパニック
 > CONTEXT: States/578/name/ < UNTRANSLATED
-
+Always panic
 > END STRING
 
 > BEGIN STRING
 ラグジャラス率+5%
-> CONTEXT: States/580/name/ < UNTRANSLATED
-
+> CONTEXT: States/580/name/
+Luxurious Rate +5%
 > END STRING
 
 > BEGIN STRING
 ラグジャラス率+7%
-> CONTEXT: States/581/name/ < UNTRANSLATED
-
+> CONTEXT: States/581/name/
+Luxurious Rate +7%
 > END STRING
 
 > BEGIN STRING
 ラグジャラス率+10%
-> CONTEXT: States/582/name/ < UNTRANSLATED
-
+> CONTEXT: States/582/name/
+Luxurious Rate +10%
 > END STRING
 
 > BEGIN STRING
@@ -2590,68 +2590,68 @@ Mood Up +3
 
 > BEGIN STRING
 取得EXP*1.5
-> CONTEXT: States/586/name/ < UNTRANSLATED
-
+> CONTEXT: States/586/name/
+EXP gain x1.5
 > END STRING
 
 > BEGIN STRING
 取得EXP*2
-> CONTEXT: States/587/name/ < UNTRANSLATED
-
+> CONTEXT: States/587/name/
+EXP gain x2
 > END STRING
 
 > BEGIN STRING
 先制+20%
 > CONTEXT: States/588/name/ < UNTRANSLATED
-
+First Strike +20%
 > END STRING
 
 > BEGIN STRING
 先制+50%
 > CONTEXT: States/589/name/ < UNTRANSLATED
-
+First Strike +50%
 > END STRING
 
 > BEGIN STRING
 警戒+20%
 > CONTEXT: States/590/name/ < UNTRANSLATED
-
+Vigilance +20%
 > END STRING
 
 > BEGIN STRING
 警戒+100%
 > CONTEXT: States/591/name/ < UNTRANSLATED
-
+Vigilance +100%
 > END STRING
 
 > BEGIN STRING
 全能力+10%/110/100/110
 > CONTEXT: States/593/name/ < UNTRANSLATED
-
+All attributes +10%/110/100/110
 > END STRING
 
 > BEGIN STRING
 稀に放心させる
 > CONTEXT: States/595/name/ < UNTRANSLATED
-
+Occasional daze
 > END STRING
 
 > BEGIN STRING
 稀に敏感にする
 > CONTEXT: States/596/name/ < UNTRANSLATED
-
+Occasional sensitivity
 > END STRING
 
 > BEGIN STRING
 稀に即いかせる
 > CONTEXT: States/597/name/ < UNTRANSLATED
-
+Occasional ejaculation
 > END STRING
 
 > BEGIN STRING
 白の史書が早く埋まる
 > CONTEXT: States/599/name/ < UNTRANSLATED
-
+Books fill fast
 > END STRING
 
 > BEGIN STRING

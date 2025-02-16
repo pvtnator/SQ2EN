@@ -123,19 +123,19 @@ What will you do?
 > BEGIN STRING
 \\i[101]\\c[3]地図帳\\c[0]について
 > CONTEXT: Map426/events/3/pages/0/7/Choice/0
-Ask about \\i[101]\\c[3]the map\\c[0]
+Ask about \\i[101]\\c[3]maps\\c[0]
 > END STRING
 
 > BEGIN STRING
 \\i[131]\\c[3]史書\\c[0]について
 > CONTEXT: Map426/events/3/pages/0/7/Choice/1
-Ask about \\i[101]\\c[3]history\\c[0]
+Ask about \\i[101]\\c[3]history books\\c[0]
 > END STRING
 
 > BEGIN STRING
 \\c[2]『ストーリー』\\c[0]について
 > CONTEXT: Map426/events/3/pages/0/7/Choice/2
-Ask about \\c[2]the story\\c[0]
+Ask about \\c[2]stories\\c[0]
 > END STRING
 
 > BEGIN STRING
@@ -228,7 +228,7 @@ Ask about \\i[181]other books
 　本を入れることができるニャ。
 > CONTEXT: Map426/events/3/pages/0/43/Dialogue
 「You can also put other books on the bookshelf, 
-　such as \\i[181]\\c[3]guidebooks\\c[0] and 
+　such as \\i[181]\\c[3]manuals\\c[0] and 
 　\\i[181]\\c[3]academic books\\c[0] meow.
 > END STRING
 
@@ -441,46 +441,50 @@ Ask about \\i[181]other books
 > BEGIN STRING
 「アイゼクト様、
 　何かご用ですかぁ？
-> CONTEXT: Map426/events/13/pages/0/53/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/17/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/53/Dialogue
+> CONTEXT: Map015/events/17/pages/0/1/Dialogue
+「Mr. Ayxect,
+　What can I do for you?
 > END STRING
 
 > BEGIN STRING
 「何かご用ですかぁ？」
-> CONTEXT: Map426/events/13/pages/0/56/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/17/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/56/Dialogue
+> CONTEXT: Map015/events/17/pages/0/4/Dialogue
+「What can I do for you?」
 > END STRING
 
 > BEGIN STRING
 預けてある本を見る
-> CONTEXT: Map426/events/13/pages/0/57/Choice/0 < UNTRANSLATED
-> CONTEXT: Map015/events/17/pages/0/5/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/57/Choice/0
+> CONTEXT: Map015/events/17/pages/0/5/Choice/0
+View stored books
 > END STRING
 
 > BEGIN STRING
 アイテムを預ける/引き出す
-> CONTEXT: Map426/events/13/pages/0/57/Choice/1 < UNTRANSLATED
-> CONTEXT: Map015/events/17/pages/0/5/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/57/Choice/1
+> CONTEXT: Map015/events/17/pages/0/5/Choice/1
+Deposit/Withdraw Items
 > END STRING
 
 > BEGIN STRING
 「『一角獣の角』って、
 　アイゼクト様がたまに行ってた
 　お店ですよね。
-> CONTEXT: Map426/events/13/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/73/Dialogue
+「'Unicorn's Horn' is the establishment 
+　that you used to go to sometimes, right?
 > END STRING
 
 > BEGIN STRING
 「どこに行けばいいか分からないなら、
 　とりあえず何か飲んで
 　落ち着いてきたらいかがでしょぉ？
-> CONTEXT: Map426/events/13/pages/0/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/76/Dialogue
+「If you don't know where to go, 
+　why don't you just have a drink 
+　and calm down?
 > END STRING
 
 > BEGIN STRING

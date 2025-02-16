@@ -76,7 +76,7 @@ def replace_strings_in_files(folder_path, mod_path, replace_dict):
             #    print("special case: "+filename)
                 
             if replaced:
-                with open(os.path.join(mod_path, "P_"+filename), 'wb') as modified_file:
+                with open(os.path.join(mod_path, "Q_"+filename), 'wb') as modified_file:
                     modified_file.write(content)
                 print("Modified "+filename)
 
@@ -84,7 +84,7 @@ def Troops(folder_path, mod_path, filename="Troops.rxdata"):
     with open(os.path.join(folder_path, filename), 'rb') as file:
         content = file.read()
     content = content.replace("オリビア".encode(), "Olivia".encode())
-    with open(os.path.join(mod_path, "P_"+filename), 'wb') as modified_file:
+    with open(os.path.join(mod_path, "Q_"+filename), 'wb') as modified_file:
         modified_file.write(content)
 
 if __name__ == "__main__":

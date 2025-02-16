@@ -7,24 +7,24 @@ SQT_Dungeon_Wonderland
 
 > BEGIN STRING
 おぼろげにドアが見える…
-> CONTEXT: Map472/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map461/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map450/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map445/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map427/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map431/events/24/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/1/Dialogue
+> CONTEXT: Map461/events/3/pages/0/1/Dialogue
+> CONTEXT: Map450/events/1/pages/0/1/Dialogue
+> CONTEXT: Map445/events/2/pages/0/1/Dialogue
+> CONTEXT: Map427/events/2/pages/0/1/Dialogue
+> CONTEXT: Map431/events/24/pages/0/1/Dialogue
+A door is faintly visible...
 > END STRING
 
 > BEGIN STRING
 今はこれ以上進めないようだ
-> CONTEXT: Map472/events/1/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map461/events/3/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map450/events/1/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map445/events/2/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map427/events/2/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map431/events/24/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/2/Dialogue
+> CONTEXT: Map461/events/3/pages/0/2/Dialogue
+> CONTEXT: Map450/events/1/pages/0/2/Dialogue
+> CONTEXT: Map445/events/2/pages/0/2/Dialogue
+> CONTEXT: Map427/events/2/pages/0/2/Dialogue
+> CONTEXT: Map431/events/24/pages/0/2/Dialogue
+Can't go any further now
 > END STRING
 
 > BEGIN STRING

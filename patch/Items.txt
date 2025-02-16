@@ -405,14 +405,14 @@ Ether Lotion
 
 > BEGIN STRING
 思考研ぎの石
-> CONTEXT: Items/48/name/ < UNTRANSLATED
-
+> CONTEXT: Items/48/name/
+Mind Sharpening Stone
 > END STRING
 
 > BEGIN STRING
 装備のレベルを1上げることができる石
-> CONTEXT: Items/48/description/ < UNTRANSLATED
-
+> CONTEXT: Items/48/description/
+Stone that can increase level of equipment by 1.
 > END STRING
 
 > BEGIN STRING
@@ -573,14 +573,14 @@ Limit your level to match your opponent
 
 > BEGIN STRING
 おぼろげな手袋
-> CONTEXT: Items/73/name/ < UNTRANSLATED
-
+> CONTEXT: Items/73/name/
+Faint Gloves
 > END STRING
 
 > BEGIN STRING
 おぼろげに存在する手袋　このままでは装備できない
-> CONTEXT: Items/73/description/ < UNTRANSLATED
-
+> CONTEXT: Items/73/description/
+Vaguely existing gloves. Can't equip as is.
 > END STRING
 
 > BEGIN STRING
@@ -940,7 +940,7 @@ Succubus History 1
 > CONTEXT: Items/121/description/
 > CONTEXT: Items/122/description/
 > CONTEXT: Items/123/description/
-[History] A book that contains legends about succubi.
+[History] Legends about succubi.
 > END STRING
 
 > BEGIN STRING
@@ -1243,28 +1243,28 @@ Succubus History 3
 
 > BEGIN STRING
 九尾伝説Ⅰ
-> CONTEXT: Items/150/name/ < UNTRANSLATED
-
+> CONTEXT: Items/150/name/
+Nine Tails Legend 1
 > END STRING
 
 > BEGIN STRING
 〔史書〕 東洋に伝わる狐の魔物の伝承が綴られた本
-> CONTEXT: Items/150/description/ < UNTRANSLATED
-> CONTEXT: Items/151/description/ < UNTRANSLATED
-> CONTEXT: Items/152/description/ < UNTRANSLATED
-
+> CONTEXT: Items/150/description/
+> CONTEXT: Items/151/description/
+> CONTEXT: Items/152/description/
+[History] Legends about fox demons from the East.
 > END STRING
 
 > BEGIN STRING
 九尾伝説Ⅱ
-> CONTEXT: Items/151/name/ < UNTRANSLATED
-
+> CONTEXT: Items/151/name/
+Nine Tails Legend 2
 > END STRING
 
 > BEGIN STRING
 九尾伝説Ⅲ
-> CONTEXT: Items/152/name/ < UNTRANSLATED
-
+> CONTEXT: Items/152/name/
+Nine Tails Legend 3
 > END STRING
 
 > BEGIN STRING
@@ -1548,26 +1548,26 @@ Succubus History 3
 
 > BEGIN STRING
 隠密の指南書
-> CONTEXT: Items/183/name/ < UNTRANSLATED
-
+> CONTEXT: Items/183/name/
+Covert Manual
 > END STRING
 
 > BEGIN STRING
 〔指南書〕 相手に気づかれにくくなるための指南書
-> CONTEXT: Items/183/description/ < UNTRANSLATED
-
+> CONTEXT: Items/183/description/
+[Manual] A manual for avoiding being seen
 > END STRING
 
 > BEGIN STRING
 遠見の指南書
-> CONTEXT: Items/184/name/ < UNTRANSLATED
-
+> CONTEXT: Items/184/name/
+Farsightedness Manual
 > END STRING
 
 > BEGIN STRING
 〔指南書〕 相手を遠くから見つけるための指南書
-> CONTEXT: Items/184/description/ < UNTRANSLATED
-
+> CONTEXT: Items/184/description/
+[Manual] A manual for finding someone from afar
 > END STRING
 
 > BEGIN STRING

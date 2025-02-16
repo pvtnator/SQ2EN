@@ -22,8 +22,8 @@
 　手に入れたんだね。
 > CONTEXT: Map427/events/1/pages/0/8/Dialogue
 「By the way, congratulations! 
-　You obtained the \\i[101]\\c[3]map\\c[0] and 
-　\\i[131]\\c[3]history book\\c[0].
+　You obtained a \\i[101]\\c[3]map\\c[0] and 
+　a \\i[131]\\c[3]history book\\c[0].
 > END STRING
 
 > BEGIN STRING

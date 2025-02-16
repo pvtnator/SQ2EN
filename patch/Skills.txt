@@ -183,14 +183,14 @@ Put one opponent into a daze
 
 > BEGIN STRING
 一人じゃない
-> CONTEXT: Skills/24/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/24/name/
+Not Alone
 > END STRING
 
 > BEGIN STRING
 10ターンの間パートナーを呼ぶ
-> CONTEXT: Skills/24/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/24/description/
+Summon a companion for 10 turns
 > END STRING
 
 > BEGIN STRING
@@ -502,8 +502,8 @@ Flirt
 
 > BEGIN STRING
 焦らす愛撫で次に与える快感アップ
-> CONTEXT: Skills/75/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/75/description/
+Caress teasingly to deal increased pleasure next action
 > END STRING
 
 > BEGIN STRING
@@ -580,26 +580,26 @@ Breath calmly to restore EP
 
 > BEGIN STRING
 リベンジ/5/0/0/0
-> CONTEXT: Skills/83/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/83/name/
+Revenge/5/0/0/0
 > END STRING
 
 > BEGIN STRING
 残りEPが少ないほどテンションアップ
-> CONTEXT: Skills/83/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/83/description/
+Increase TP more the less EP you have
 > END STRING
 
 > BEGIN STRING
 トーク
-> CONTEXT: Skills/85/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/85/name/
+Talk
 > END STRING
 
 > BEGIN STRING
 甘い言葉をかけてムードアップ
-> CONTEXT: Skills/85/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/85/description/
+Talk sweetly to improve the mood
 > END STRING
 
 > BEGIN STRING
@@ -610,9 +610,9 @@ Breath calmly to restore EP
 
 > BEGIN STRING
 夢に帰る
-> CONTEXT: Skills/88/name/ < UNTRANSLATED
-> CONTEXT: Skills/88/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/88/name/
+> CONTEXT: Skills/88/description/
+Return to Dream
 > END STRING
 
 > BEGIN STRING
@@ -630,14 +630,14 @@ Analyze
 
 > BEGIN STRING
 サーヴェイ
-> CONTEXT: Skills/93/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/93/name/
+Survey
 > END STRING
 
 > BEGIN STRING
 相手一人の弱点をさら効果的に突けるようになる
-> CONTEXT: Skills/93/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/93/description/
+Exploit weaknesses more effectively
 > END STRING
 
 > BEGIN STRING
@@ -651,35 +651,35 @@ Small Rogin
 
 > BEGIN STRING
 EP回復（少）
-> CONTEXT: Skills/94/description/ < UNTRANSLATED
-> CONTEXT: Skills/184/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/94/description/
+> CONTEXT: Skills/184/description/
+Small EP recovery
 > END STRING
 
 > BEGIN STRING
 モル・ロギン/5/0/0/0
-> CONTEXT: Skills/95/name/ < UNTRANSLATED
-> CONTEXT: Skills/185/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/95/name/
+> CONTEXT: Skills/185/name/
+Mor-Rogin/5/0/0/0
 > END STRING
 
 > BEGIN STRING
 徐々にEP回復
-> CONTEXT: Skills/95/description/ < UNTRANSLATED
-> CONTEXT: Skills/185/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/95/description/
+> CONTEXT: Skills/185/description/
+Recover EP gradually
 > END STRING
 
 > BEGIN STRING
 リカバリ/0/0/0/1
-> CONTEXT: Skills/96/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/96/name/
+Recovery/0/0/0/1
 > END STRING
 
 > BEGIN STRING
 全てのバッドステート解除
-> CONTEXT: Skills/96/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/96/description/
+Cure all status ailments
 > END STRING
 
 > BEGIN STRING
@@ -1398,8 +1398,8 @@ Merja/15/0/0
 
 > BEGIN STRING
 秘書メルヤを呼ぶ
-> CONTEXT: Skills/191/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/191/description/
+Call Secretary Merja
 > END STRING
 
 > BEGIN STRING
@@ -3604,7 +3604,7 @@ Summersolstice Magic
 > BEGIN STRING
 酔い：トーク
 > CONTEXT: Skills/571/name/ < UNTRANSLATED
-
+Drunk: Talk
 > END STRING
 
 > BEGIN STRING

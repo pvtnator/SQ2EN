@@ -8,41 +8,44 @@
 
 > BEGIN STRING
 「むにゃ…ここは………
-> CONTEXT: Map425/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map425/events/3/pages/0/1/Dialogue
+「Mmh...this is.....
 > END STRING
 
 > BEGIN STRING
 「夢……でも………
 　あんたの夢……？
-> CONTEXT: Map425/events/3/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map425/events/3/pages/0/2/Dialogue
+「A dream...but...
+　Your dream...?
 > END STRING
 
 > BEGIN STRING
 「さぁのぉ？
 　わしはお前を知らんぞ。
-> CONTEXT: Map425/events/3/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map425/events/3/pages/0/5/Dialogue
+「Oh? 
+　I don't know you.
 > END STRING
 
 > BEGIN STRING
 「さっきまで…
 　きれいなお姉さんがいて……
-> CONTEXT: Map425/events/3/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map425/events/3/pages/0/8/Dialogue
+「Until just now...
+　There was a beautiful young lady...
 > END STRING
 
 > BEGIN STRING
 「う…ん……
-> CONTEXT: Map425/events/3/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map425/events/3/pages/0/10/Dialogue
+「Ugh...
 > END STRING
 
 > BEGIN STRING
 「おや…、君は、どこかで会ったっけ？
-> CONTEXT: Map425/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map425/events/4/pages/0/1/Dialogue
+「Oh, we met somewhere before?
 > END STRING
 
 > BEGIN STRING

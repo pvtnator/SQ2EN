@@ -8,136 +8,148 @@ SQT_Dungeon_RoyalLib
 
 > BEGIN STRING
 「わしの部屋……
-> CONTEXT: Map431/events/1/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/6/Dialogue
+「My room...
 > END STRING
 
 > BEGIN STRING
 「な、何じゃこの有様は？
-> CONTEXT: Map431/events/1/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/18/Dialogue
+「W-why does it look like this?
 > END STRING
 
 > BEGIN STRING
 「メルヤ！ おらんのか！？
 　とっとと片付けい！
-> CONTEXT: Map431/events/1/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/19/Dialogue
+「Merja! Are you there?!
+　Clean up quickly!
 > END STRING
 
 > BEGIN STRING
 「…いかん、クセで……
 　いるわけが……
-> CONTEXT: Map431/events/1/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/24/Dialogue
+「...No, it's just a habit...
+　There's no way she's here...
 > END STRING
 
 > BEGIN STRING
 「はぁ～い\\e[0]
-> CONTEXT: Map431/events/1/pages/0/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/58/Dialogue
+「Yeees～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「な……
-> CONTEXT: Map431/events/1/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/60/Dialogue
+「Wh...
 > END STRING
 
 > BEGIN STRING
 「アイゼクト様、
 　どうしたんですか？
-> CONTEXT: Map431/events/1/pages/0/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/64/Dialogue
+「Mr. Ayxect, 
+　what's wrong?
 > END STRING
 
 > BEGIN STRING
 「メルヤ、お前も夢魔に…？
-> CONTEXT: Map431/events/1/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/67/Dialogue
+「Merja, are you a succubus too...?
 > END STRING
 
 > BEGIN STRING
 「いや、やはり……
 　…むむ……
-> CONTEXT: Map431/events/1/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/68/Dialogue
+「No, thought so...
+　...Hmm...
 > END STRING
 
 > BEGIN STRING
 「あ、本の整理でしたね。
 　少々お待ちくださ～い。
-> CONTEXT: Map431/events/1/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/71/Dialogue
+「Oh, organizing the books.
+　Please wait a moment.
 > END STRING
 
 > BEGIN STRING
 「この本は…わしの本じゃな。
 　本物の……
-> CONTEXT: Map431/events/1/pages/0/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/90/Dialogue
+「This book...is my book.
+　It's real...
 > END STRING
 
 > BEGIN STRING
 「あの夢魔めが持ってきたのか…
-> CONTEXT: Map431/events/1/pages/0/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/95/Dialogue
+「Did that succubus bring it...?
 > END STRING
 
 > BEGIN STRING
 「…しかし、こんなに持てんな。
-> CONTEXT: Map431/events/1/pages/0/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/99/Dialogue
+「...But I can't hold this much.
 > END STRING
 
 > BEGIN STRING
 「あたしがお預かりしますよぉ。
-> CONTEXT: Map431/events/1/pages/0/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/101/Dialogue
+「I'll take care of it.
 > END STRING
 
 > BEGIN STRING
 
 メルヤに本を預けた！
-> CONTEXT: Map431/events/1/pages/0/115/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/303/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/1/pages/0/115/Dialogue
+> CONTEXT: Commonevents/303/3/Dialogue
 
+Left the book with Merja!
 > END STRING
 
 > BEGIN STRING
 「それじゃアイゼクト様、
 　また必要な時は
 　いつでも呼んで下さいね。
-> CONTEXT: Map431/events/1/pages/0/118/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/118/Dialogue
+「Well then, Mr. Ayxect,
+　please call me again 
+　whenever you need me.
 > END STRING
 
 > BEGIN STRING
 「すぐお助けに参りますから。
-> CONTEXT: Map431/events/1/pages/0/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/121/Dialogue
+「I'll come right away to help you.
 > END STRING
 
 > BEGIN STRING
 「助ける？
 　ここで、お前がわしをか？
-> CONTEXT: Map431/events/1/pages/0/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/123/Dialogue
+「Help me?
+　The you that's here?
 > END STRING
 
 > BEGIN STRING
 「あたりまえじゃないですかぁ。
 　メルヤ、そのためにいるんですよ。
-> CONTEXT: Map431/events/1/pages/0/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/126/Dialogue
+「Isn’t that obvious?
+　That’s what Merja is here for.
 > END STRING
 
 > BEGIN STRING
 「アイゼクト様、
 　もうお一人じゃありませんよ\\e[0]
-> CONTEXT: Map431/events/1/pages/0/128/Dialogue < UNTRANSLATED
-> CONTEXT: Map431/events/1/pages/0/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/128/Dialogue
+> CONTEXT: Map431/events/1/pages/0/201/Dialogue
+「Mr. Ayxect, 
+　you're not alone anymore\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -188,102 +200,115 @@ SQT_Dungeon_RoyalLib
 > BEGIN STRING
 「よろしい。
 　メルヤ・マイエル
-> CONTEXT: Map431/events/1/pages/0/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/175/Dialogue
+「Very well.
+　Merja Mayer
 > END STRING
 
 > BEGIN STRING
 「君を今日付けで
 　わしの秘書とする。
-> CONTEXT: Map431/events/1/pages/0/177/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/177/Dialogue
+「As of today, 
+　you are my secretary.
 > END STRING
 
 > BEGIN STRING
 「はい！
 　よろしくお願いしますぅ！
-> CONTEXT: Map431/events/1/pages/0/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/180/Dialogue
+「Yes!
+　Thank you very much!
 > END STRING
 
 > BEGIN STRING
 「秘書など雇うのはわしも初めてじゃ。
 　こちらこそよろしくのぅ。
-> CONTEXT: Map431/events/1/pages/0/183/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/183/Dialogue
+「This is the first time I've ever hired a secretary. 
+　Thank you for your help.
 > END STRING
 
 > BEGIN STRING
 「アイゼクト様、
 　今までずっとお一人だったんですか？
-> CONTEXT: Map431/events/1/pages/0/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/186/Dialogue
+「Mr. Ayxect,
+　You've been alone this entire time?
 > END STRING
 
 > BEGIN STRING
 「うむ。じゃが歳のせいなのか、
 　一人では色々辛くなってきての。
-> CONTEXT: Map431/events/1/pages/0/189/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/189/Dialogue
+「Yes. Maybe it's because I'm getting older, 
+　but it's getting harder to be alone.
 > END STRING
 
 > BEGIN STRING
 「特に重い本の整理など…
-> CONTEXT: Map431/events/1/pages/0/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/191/Dialogue
+「Especially when organizing heavy books...
 > END STRING
 
 > BEGIN STRING
 「そうですよぉ！
 　そんな、ずっと、お一人でいられたら、
 　いけませんよ、寂しくなっちゃいます！
-> CONTEXT: Map431/events/1/pages/0/193/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/193/Dialogue
+「That's right!
+　It's no good to be alone like that forever,
+　You'll get lonely!
 > END STRING
 
 > BEGIN STRING
 「ん？
 　あ、うむ、いや、
-> CONTEXT: Map431/events/1/pages/0/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/197/Dialogue
+「Hm?
+　Ah, um, well,
 > END STRING
 
 > BEGIN STRING
 「でもこれからはメルヤがいますから！
-> CONTEXT: Map431/events/1/pages/0/200/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/200/Dialogue
+「But from now on you'll have Merja!
 > END STRING
 
 > BEGIN STRING
 「……うむ。
 　よろしく頼む。
-> CONTEXT: Map431/events/1/pages/0/204/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/204/Dialogue
+「...Yes.
+　Thank you.
 > END STRING
 
 > BEGIN STRING
 「夢…なのじゃろうな……
-> CONTEXT: Map431/events/1/pages/0/232/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/232/Dialogue
+「A dream...it seems...
 > END STRING
 
 > BEGIN STRING
 「やはり……
 　わしの……
-> CONTEXT: Map431/events/1/pages/0/233/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map431/events/1/pages/0/233/Dialogue
+「Of course...
+　My...
 > END STRING
 
 > BEGIN STRING
 
 \\i[300]\\c[4]一人じゃない\\c[0] と願えるようになった！
-> CONTEXT: Map431/events/1/pages/0/238/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/1/pages/0/238/Dialogue
 
+\\i[300]\\c[4]Not Alone\\c[0] can now be wished for!
 > END STRING
 
 > BEGIN STRING
 
 メルヤを呼べるようになった！
-> CONTEXT: Map431/events/1/pages/0/240/Dialogue < UNTRANSLATED
+> CONTEXT: Map431/events/1/pages/0/240/Dialogue
 
+Now you can summon Merja!
 > END STRING

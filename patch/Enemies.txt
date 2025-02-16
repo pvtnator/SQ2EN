@@ -429,8 +429,8 @@ Skogsrå/18/CK/51
 
 > BEGIN STRING
 クズノハ/7/DG/40
-> CONTEXT: Enemies/160/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/160/name/
+Kuzunoha/7/DG/40
 > END STRING
 
 > BEGIN STRING
