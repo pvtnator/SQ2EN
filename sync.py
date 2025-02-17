@@ -30,9 +30,9 @@ def sync(files, update, txstrdir=0):
                         trans = update.get(string)
                         if trans:
                             trans = trans.replace('"',"").replace("「","")
-                    if not trans and "/" in string and len(string)>5:
+                    if not trans and "/" in string and len(string)>3:
                         for t in update.keys():
-                            if t.strip() in string and len(t)>5:
+                            if t.strip() in string and len(t)>3:
                                 trans = string.replace(t.strip(), update[t].strip())
                                 print(trans)
                                 break

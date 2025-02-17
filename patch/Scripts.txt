@@ -26888,37 +26888,37 @@
 > BEGIN STRING
 "アスモデウス、アスモダイオス。"
 > CONTEXT: Scripts/☆図鑑用詳細データ/260:12 < UNTRANSLATED
-
+"Asmodeus, Asmodea."
 > END STRING
 
 > BEGIN STRING
 "色欲を司る悪魔。ソロモン72柱の1柱にも数えられ、"
 > CONTEXT: Scripts/☆図鑑用詳細データ/261:12 < UNTRANSLATED
-
+"A demon who governs lust. One of the 72 demons"
 > END STRING
 
 > BEGIN STRING
 "72の軍団を率いるとされる。"
 > CONTEXT: Scripts/☆図鑑用詳細データ/262:12 < UNTRANSLATED
-
+"of Solomon, said to command 72 legions."
 > END STRING
 
 > BEGIN STRING
 "旧約聖書ではサラという美しい娘に取り付き、"
 > CONTEXT: Scripts/☆図鑑用詳細データ/263:12 < UNTRANSLATED
-
+"Possessed a beautiful young woman named Sarah"
 > END STRING
 
 > BEGIN STRING
 "彼女が結婚した七人の男をことごとく"
 > CONTEXT: Scripts/☆図鑑用詳細データ/264:12 < UNTRANSLATED
-
+"and strangled all 7 men she married"
 > END STRING
 
 > BEGIN STRING
 "初夜の床で絞め殺した。"
 > CONTEXT: Scripts/☆図鑑用詳細データ/265:12 < UNTRANSLATED
-
+"on their wedding night in the Old Testament."
 > END STRING
 
 > BEGIN STRING
@@ -26966,31 +26966,31 @@
 > BEGIN STRING
 "マンモン。"
 > CONTEXT: Scripts/☆図鑑用詳細データ/277:12 < UNTRANSLATED
-
+"Pronounced more like mamon."
 > END STRING
 
 > BEGIN STRING
 "七つの大罪のうち強欲に対応する悪魔。"
 > CONTEXT: Scripts/☆図鑑用詳細データ/278:12 < UNTRANSLATED
-
+"The demon of greed, one of the 7 deadly sins."
 > END STRING
 
 > BEGIN STRING
 "その名も「富」「金銭」を意味する。"
 > CONTEXT: Scripts/☆図鑑用詳細データ/279:12 < UNTRANSLATED
-
+"The name itself means 'wealth' or 'money'."
 > END STRING
 
 > BEGIN STRING
 "金銀財宝に非常に強欲であり、"
 > CONTEXT: Scripts/☆図鑑用詳細データ/280:12 < UNTRANSLATED
-
+"Very greedy for gold, silver and treasures,"
 > END STRING
 
 > BEGIN STRING
 "人間を誘惑して自分と同じように強欲にさせる。"
 > CONTEXT: Scripts/☆図鑑用詳細データ/281:12 < UNTRANSLATED
-
+"tempting humans to become equally greedy"
 > END STRING
 
 > BEGIN STRING

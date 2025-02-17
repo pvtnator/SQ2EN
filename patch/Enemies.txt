@@ -154,55 +154,55 @@ Sphinx/19/HK/48
 マーチヘア/19/AE/49
 > CONTEXT: Enemies/55/name/ < UNTRANSLATED
 > CONTEXT: Enemies/171/name/ < UNTRANSLATED
-
+March Hare/19/AE/49
 > END STRING
 
 > BEGIN STRING
 タマモ/19/ACHI/55
 > CONTEXT: Enemies/56/name/ < UNTRANSLATED
 > CONTEXT: Enemies/162/name/ < UNTRANSLATED
-
+Tamamo/19/ACHI/55
 > END STRING
 
 > BEGIN STRING
 ハツメ/19/CM/50
 > CONTEXT: Enemies/57/name/ < UNTRANSLATED
 > CONTEXT: Enemies/166/name/ < UNTRANSLATED
-
+Hatsume/19/CM/50
 > END STRING
 
 > BEGIN STRING
 カーミラ/20/CK/54
 > CONTEXT: Enemies/58/name/ < UNTRANSLATED
 > CONTEXT: Enemies/197/name/ < UNTRANSLATED
-
+Carmilla/20/CK/54
 > END STRING
 
 > BEGIN STRING
 アスモデ/19/A/70
 > CONTEXT: Enemies/59/name/ < UNTRANSLATED
 > CONTEXT: Enemies/102/name/ < UNTRANSLATED
-
+Asmode/19/A/70
 > END STRING
 
 > BEGIN STRING
 レヴィアタン/18/H/58
 > CONTEXT: Enemies/60/name/ < UNTRANSLATED
 > CONTEXT: Enemies/142/name/ < UNTRANSLATED
-
+Leviathan/18/H/58
 > END STRING
 
 > BEGIN STRING
 マモン/18/E/50
 > CONTEXT: Enemies/61/name/ < UNTRANSLATED
-
+Mammon/18/E/50
 > END STRING
 
 > BEGIN STRING
 ルシフェル/20/CIK/57
 > CONTEXT: Enemies/62/name/ < UNTRANSLATED
 > CONTEXT: Enemies/157/name/ < UNTRANSLATED
-
+Lucifer/20/CIK/57
 > END STRING
 
 > BEGIN STRING
@@ -225,14 +225,14 @@ Jubjub/19/CEL/48
 > CONTEXT: Enemies/68/name/ < UNTRANSLATED
 > CONTEXT: Enemies/213/name/ < UNTRANSLATED
 > CONTEXT: Enemies/214/name/ < UNTRANSLATED
-
+Slime/18/EL/51
 > END STRING
 
 > BEGIN STRING
 ドラグーン/19/CG/48
 > CONTEXT: Enemies/69/name/ < UNTRANSLATED
 > CONTEXT: Enemies/210/name/ < UNTRANSLATED
-
+Dragoon/19/CG/48
 > END STRING
 
 > BEGIN STRING
@@ -322,7 +322,7 @@ Cait Sith/12/EK/41
 > BEGIN STRING
 ブラックキャット/6/E/66
 > CONTEXT: Enemies/123/name/ < UNTRANSLATED
-
+Black Cat/6/E/66
 > END STRING
 
 > BEGIN STRING
@@ -334,13 +334,13 @@ Werewolf/6/CL/36
 > BEGIN STRING
 ケルベロス/17/CL/45
 > CONTEXT: Enemies/127/name/ < UNTRANSLATED
-
+Cerberus/17/CL/45
 > END STRING
 
 > BEGIN STRING
 ラミア/4/AC/36
 > CONTEXT: Enemies/130/name/ < UNTRANSLATED
-
+Lamia/4/AC/36
 > END STRING
 
 > BEGIN STRING
@@ -352,7 +352,7 @@ Melusine/14/BK/50
 > BEGIN STRING
 エキドナ/20/AC/50
 > CONTEXT: Enemies/132/name/ < UNTRANSLATED
-
+Echidna/20/AC/50
 > END STRING
 
 > BEGIN STRING
@@ -376,7 +376,7 @@ Mermaid/10/K/53
 > BEGIN STRING
 スキュラ/14/BG/45
 > CONTEXT: Enemies/143/name/ < UNTRANSLATED
-
+Scylla/14/BG/45
 > END STRING
 
 > BEGIN STRING
@@ -394,7 +394,7 @@ Virgin Villager/1/BDN/50
 > BEGIN STRING
 バンシー/12/DF/39
 > CONTEXT: Enemies/147/name/ < UNTRANSLATED
-
+Banshee/12/DF/39
 > END STRING
 
 > BEGIN STRING
@@ -424,7 +424,7 @@ Angel/7/BGJK/38
 > BEGIN STRING
 ガブリエル/12/BGK/40
 > CONTEXT: Enemies/156/name/ < UNTRANSLATED
-
+Gabriel/12/BGK/40
 > END STRING
 
 > BEGIN STRING
@@ -436,61 +436,61 @@ Kuzunoha/7/DG/40
 > BEGIN STRING
 ダッキ/11/ACHI/43
 > CONTEXT: Enemies/161/name/ < UNTRANSLATED
-
+Dakki/11/ACHI/43
 > END STRING
 
 > BEGIN STRING
 クノイチ/11/CM/40
 > CONTEXT: Enemies/165/name/ < UNTRANSLATED
-
+Kunoichi/11/CM/40
 > END STRING
 
 > BEGIN STRING
 クノイチ/5/CM/40
 > CONTEXT: Enemies/167/name/ < UNTRANSLATED
-
+Kunoichi/5/CM/40
 > END STRING
 
 > BEGIN STRING
 ハツメ/10/CM/50
 > CONTEXT: Enemies/168/name/ < UNTRANSLATED
-
+Hatsume/10/CM/50
 > END STRING
 
 > BEGIN STRING
 ホワイトラビット/15/E/41
 > CONTEXT: Enemies/170/name/ < UNTRANSLATED
-
+White Rabbit/15/E/41
 > END STRING
 
 > BEGIN STRING
 サロメ/16/G/50
 > CONTEXT: Enemies/190/name/ < UNTRANSLATED
-
+Salome/16/G/50
 > END STRING
 
 > BEGIN STRING
 ヴァンパイア/14/CK/40
 > CONTEXT: Enemies/195/name/ < UNTRANSLATED
-
+Vampire/14/CK/40
 > END STRING
 
 > BEGIN STRING
 ミミック/1/E/50
 > CONTEXT: Enemies/200/name/ < UNTRANSLATED
-
+Mimic/1/E/50
 > END STRING
 
 > BEGIN STRING
 ミミック☆/1/E/50
 > CONTEXT: Enemies/201/name/ < UNTRANSLATED
-
+Mimic☆/1/E/50
 > END STRING
 
 > BEGIN STRING
 マモン/18/E/49
 > CONTEXT: Enemies/202/name/ < UNTRANSLATED
-
+Mammon/18/E/49
 > END STRING
 
 > BEGIN STRING
@@ -508,23 +508,23 @@ Măiestre/18/CH/51
 > BEGIN STRING
 プロフェテス/13/KH/40
 > CONTEXT: Enemies/211/name/ < UNTRANSLATED
-
+Prophetess/13/KH/40
 > END STRING
 
 > BEGIN STRING
 ソルジャー/7/C/36
 > CONTEXT: Enemies/212/name/ < UNTRANSLATED
-
+Soldier/7/C/36
 > END STRING
 
 > BEGIN STRING
 ユニコーン/16/B/50
 > CONTEXT: Enemies/215/name/ < UNTRANSLATED
-
+Unicorn/16/B/50
 > END STRING
 
 > BEGIN STRING
 ゴブリン/4/CE/33
 > CONTEXT: Enemies/216/name/ < UNTRANSLATED
-
+Goblin/4/CE/33
 > END STRING
