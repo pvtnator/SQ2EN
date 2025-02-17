@@ -22,7 +22,7 @@ def sync(files, update, txstrdir=0):
                     while(lines[i][0] == ">"):
                         i += 1
                     trans = update.get(string)
-                    if not trans and False:
+                    if not trans:
                         for t in update.keys():
                             if string.strip() in t and len(t)-len(string) < 10:
                                 string = t
@@ -30,6 +30,12 @@ def sync(files, update, txstrdir=0):
                         trans = update.get(string)
                         if trans:
                             trans = trans.replace('"',"").replace("「","")
+                    if not trans and "/" in string and len(string)>5:
+                        for t in update.keys():
+                            if t.strip() in string and len(t)>5:
+                                trans = string.replace(t.strip(), update[t].strip())
+                                print(trans)
+                                break
                     if trans and lines[i]!=trans:
                         #print(lines[i].strip()+" replaced by "+trans.strip())
                         lines[i] = trans
@@ -57,11 +63,11 @@ if __name__ == "__main__":
     current_dir = Path.cwd()
     translations = {}
 
-    main_files = [current_dir / "patch" / "States.txt"]
-    #main_files = []
-    #for file in (current_dir / "SQ1patch").rglob("*.txt"):
-    #    if not "Unused" in str(file):
-    #        main_files.append(file)
+    #main_files = [current_dir / "patch" / "Scripts.txt"]
+    main_files = []
+    for file in (current_dir / "SQ1patch").rglob("*.txt"):
+        if not "Unused" in str(file) and "Enemies" in str(file):
+            main_files.append(file)
 
     print("===Reading current translations===")
     for translations_file in main_files:
@@ -88,9 +94,11 @@ if __name__ == "__main__":
                     #stripped = multiline
                     stripped = multiline.split("/")[0]+"\n" if "/" in multiline else multiline
                     string = string.split("/")[0]+"\n" if "/" in string else string
+                    #string = string.replace("\"","")
+                    #stripped = stripped.replace("\"","")
                     #string = string.replace("\\\\", "\\")
                     #stripped = stripped.replace("\\\\", "\\")
-                    if "この犬！ 犬っ！！" in string:
+                    if "バンシー" in string:
                         print(string)
                         print(stripped)
                     translations[string] = stripped
@@ -103,9 +111,9 @@ if __name__ == "__main__":
     print("===Updating mod translations===")
     #main_files = [current_dir / "patch" / "Scripts.txt"]
     #main_files = [current_dir / "patch" / "States.txt"]
-    main_files = []
-    for file in (current_dir / "patch").rglob("*.txt"):
-        main_files.append(file)
+    main_files = [current_dir / "patch" / "Enemies.txt"]
+    #for file in (current_dir / "patch").rglob("*.txt"):
+    #    main_files.append(file)
         
     sync(main_files, translations, 0)
     #sync(main_files, translations, 1)

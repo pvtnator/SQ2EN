@@ -126,28 +126,28 @@ Rovissa
 ヴィーヴル/18/CH/50
 > CONTEXT: Enemies/51/name/ < UNTRANSLATED
 > CONTEXT: Enemies/137/name/ < UNTRANSLATED
-
+Vivre/18/CH/50
 > END STRING
 
 > BEGIN STRING
 ティターニア/18/CE/65
 > CONTEXT: Enemies/52/name/ < UNTRANSLATED
 > CONTEXT: Enemies/112/name/ < UNTRANSLATED
-
+Titania/18/CE/65
 > END STRING
 
 > BEGIN STRING
 カリュブディス/17/BG/47
 > CONTEXT: Enemies/53/name/ < UNTRANSLATED
 > CONTEXT: Enemies/144/name/ < UNTRANSLATED
-
+Charybdis/17/BG/47
 > END STRING
 
 > BEGIN STRING
 スフィンクス/19/HK/48
 > CONTEXT: Enemies/54/name/ < UNTRANSLATED
 > CONTEXT: Enemies/122/name/ < UNTRANSLATED
-
+Sphinx/19/HK/48
 > END STRING
 
 > BEGIN STRING
@@ -209,14 +209,14 @@ Rovissa
 ジャバウォック/20/C/51
 > CONTEXT: Enemies/64/name/ < UNTRANSLATED
 > CONTEXT: Enemies/175/name/ < UNTRANSLATED
-
+Jabberwocky/20/C/51
 > END STRING
 
 > BEGIN STRING
 ジャブジャブ/19/CEL/48
 > CONTEXT: Enemies/65/name/ < UNTRANSLATED
 > CONTEXT: Enemies/180/name/ < UNTRANSLATED
-
+Jubjub/19/CEL/48
 > END STRING
 
 > BEGIN STRING
@@ -316,7 +316,7 @@ Nekomata/6/E/38
 > BEGIN STRING
 ケットシー/12/EK/41
 > CONTEXT: Enemies/121/name/ < UNTRANSLATED
-
+Cait Sith/12/EK/41
 > END STRING
 
 > BEGIN STRING
@@ -346,7 +346,7 @@ Werewolf/6/CL/36
 > BEGIN STRING
 メリュジーヌ/14/BK/50
 > CONTEXT: Enemies/131/name/ < UNTRANSLATED
-
+Melusine/14/BK/50
 > END STRING
 
 > BEGIN STRING
@@ -358,13 +358,13 @@ Werewolf/6/CL/36
 > BEGIN STRING
 リザードマン/4/CH/35
 > CONTEXT: Enemies/135/name/ < UNTRANSLATED
-
+Lizardwoman/4/CH/35
 > END STRING
 
 > BEGIN STRING
 サラマンダー/12/CH/41
 > CONTEXT: Enemies/136/name/ < UNTRANSLATED
-
+Salamander/12/CH/41
 > END STRING
 
 > BEGIN STRING
@@ -382,13 +382,13 @@ Mermaid/10/K/53
 > BEGIN STRING
 ヴィレッジャ/3/BD/37
 > CONTEXT: Enemies/145/name/ < UNTRANSLATED
-
+Villager/3/BD/37
 > END STRING
 
 > BEGIN STRING
 ヴァージンヴィレッジャ/1/BDN/50
 > CONTEXT: Enemies/146/name/ < UNTRANSLATED
-
+Virgin Villager/1/BDN/50
 > END STRING
 
 > BEGIN STRING
@@ -400,7 +400,7 @@ Mermaid/10/K/53
 > BEGIN STRING
 アルバスタ/20/FH/52
 > CONTEXT: Enemies/148/name/ < UNTRANSLATED
-
+Albasty/20/FH/52
 > END STRING
 
 > BEGIN STRING
@@ -412,7 +412,7 @@ Harpy/10/CHI/40
 > BEGIN STRING
 モーリアン/17/CHKI/48
 > CONTEXT: Enemies/151/name/ < UNTRANSLATED
-
+Morrigan/17/CHKI/48
 > END STRING
 
 > BEGIN STRING
@@ -496,13 +496,13 @@ Kuzunoha/7/DG/40
 > BEGIN STRING
 クィーンメイヴ/12/CH/42
 > CONTEXT: Enemies/205/name/ < UNTRANSLATED
-
+Queen Maeve/12/CH/42
 > END STRING
 
 > BEGIN STRING
 マイェストレ/18/CH/51
 > CONTEXT: Enemies/206/name/ < UNTRANSLATED
-
+Măiestre/18/CH/51
 > END STRING
 
 > BEGIN STRING
