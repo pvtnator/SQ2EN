@@ -2463,7 +2463,7 @@
 "君を知りたい"
 > CONTEXT: Scripts/RPG::Skill/56:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/612:32 < UNTRANSLATED
-
+"Get Acquainted"
 > END STRING
 
 > BEGIN STRING
@@ -2471,7 +2471,7 @@
 > CONTEXT: Scripts/RPG::Skill/58:12 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/152:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/642:32 < UNTRANSLATED
-
+"Captivate"
 > END STRING
 
 > BEGIN STRING
@@ -2487,7 +2487,7 @@
 "夢と一つに"
 > CONTEXT: Scripts/RPG::Skill/62:12 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::State (message)/60:12 < UNTRANSLATED
-
+"One with the Dream"
 > END STRING
 
 > BEGIN STRING
@@ -2533,7 +2533,7 @@
 "リベンジ"
 > CONTEXT: Scripts/RPG::Skill/92:34 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/146:12 < UNTRANSLATED
-
+"Revenge"
 > END STRING
 
 > BEGIN STRING
@@ -3601,7 +3601,7 @@
 > CONTEXT: Scripts/Game_Enemy/181:10 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Enemy/182:12 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/175:10 < UNTRANSLATED
-
+"Vampire"
 > END STRING
 
 > BEGIN STRING
@@ -3874,7 +3874,7 @@
 > CONTEXT: Scripts/Game_Enemy/177:10 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Enemy/178:12 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/217:10 < UNTRANSLATED
-
+"Kunoichi"
 > END STRING
 
 > BEGIN STRING
@@ -3959,7 +3959,7 @@
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/213:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/238:10 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/158:10 < UNTRANSLATED
-
+"Salome"
 > END STRING
 
 > BEGIN STRING
@@ -4016,7 +4016,7 @@
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/218:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/245:10 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/209:10 < UNTRANSLATED
-
+"March Hare"
 > END STRING
 
 > BEGIN STRING
@@ -4086,7 +4086,7 @@
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/224:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/251:10 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/250:10 < UNTRANSLATED
-
+"Lucifer"
 > END STRING
 
 > BEGIN STRING
@@ -4302,7 +4302,7 @@
 > CONTEXT: Map030/events/17/pages/1/2/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map030/events/18/pages/1/2/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map030/events/19/pages/1/2/InlineScript/1:4 < UNTRANSLATED
-
+"Goblin"
 > END STRING
 
 > BEGIN STRING
@@ -4359,7 +4359,7 @@
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/259:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/291:10 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/87:10 < UNTRANSLATED
-
+"Unicorn"
 > END STRING
 
 > BEGIN STRING
@@ -4394,7 +4394,7 @@
 > CONTEXT: Scripts/☆図鑑用詳細データ/95:10 < UNTRANSLATED
 > CONTEXT: Commonevents/71/18/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Commonevents/71/22/InlineScript/1:4 < UNTRANSLATED
-
+"Slime"
 > END STRING
 
 > BEGIN STRING
@@ -4438,7 +4438,7 @@
 > CONTEXT: Map029/events/31/pages/0/125/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map029/events/31/pages/0/129/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map029/events/31/pages/0/133/InlineScript/1:4 < UNTRANSLATED
-
+"Soldier"
 > END STRING
 
 > BEGIN STRING
@@ -4485,7 +4485,7 @@
 > CONTEXT: Scripts/☆図鑑用詳細データ/116:10 < UNTRANSLATED
 > CONTEXT: Map031/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map028/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Prophetess"
 > END STRING
 
 > BEGIN STRING
@@ -4513,7 +4513,7 @@
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/303:10 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/128:10 < UNTRANSLATED
 > CONTEXT: Troops/28/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Dragoon"
 > END STRING
 
 > BEGIN STRING
@@ -4811,7 +4811,7 @@
 > CONTEXT: Scripts/Game_Battler 2/79:21 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Enemy/181:19 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/168:10 < UNTRANSLATED
-
+"Carmilla"
 > END STRING
 
 > BEGIN STRING
@@ -4837,7 +4837,7 @@
 > CONTEXT: Scripts/Game_Battler 2/93:18 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Enemy/147:26 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/258:10 < UNTRANSLATED
-
+"Asmode"
 > END STRING
 
 > BEGIN STRING
@@ -4885,7 +4885,7 @@
 > CONTEXT: Scripts/Game_Battler 2/96:18 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Enemy/163:18 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/266:10 < UNTRANSLATED
-
+"Leviathan"
 > END STRING
 
 > BEGIN STRING
@@ -4905,7 +4905,7 @@
 > CONTEXT: Scripts/Game_Battler 2/98:18 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Enemy/183:25 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/275:10 < UNTRANSLATED
-
+"Mammon"
 > END STRING
 
 > BEGIN STRING
@@ -11948,7 +11948,7 @@
 > BEGIN STRING
 "遠見の指南書"
 > CONTEXT: Scripts/RPG::Item(detail)/339:12 < UNTRANSLATED
-
+"Farsightedness Manual"
 > END STRING
 
 > BEGIN STRING
@@ -14701,7 +14701,7 @@
 "ブラックキャット"
 > CONTEXT: Scripts/Game_Enemy/155:34 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/236:10 < UNTRANSLATED
-
+"Black Cat"
 > END STRING
 
 > BEGIN STRING
@@ -14851,7 +14851,7 @@
 "ガブリエル"
 > CONTEXT: Scripts/Game_Enemy/171:18 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/244:10 < UNTRANSLATED
-
+"Gabriel"
 > END STRING
 
 > BEGIN STRING
@@ -14877,7 +14877,7 @@
 "タマモ"
 > CONTEXT: Scripts/Game_Enemy/173:17 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/349:10 < UNTRANSLATED
-
+"Tamamo"
 > END STRING
 
 > BEGIN STRING
@@ -14903,7 +14903,7 @@
 "ハツメ"
 > CONTEXT: Scripts/Game_Enemy/177:17 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/225:10 < UNTRANSLATED
-
+"Hatsume"
 > END STRING
 
 > BEGIN STRING
@@ -14924,7 +14924,7 @@
 "ホワイトラビット"
 > CONTEXT: Scripts/Game_Enemy/179:10 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/204:10 < UNTRANSLATED
-
+"White Rabbit"
 > END STRING
 
 > BEGIN STRING
@@ -14957,7 +14957,7 @@
 "ミミック☆"
 > CONTEXT: Scripts/Game_Enemy/183:17 < UNTRANSLATED
 > CONTEXT: Scripts/☆図鑑用詳細データ/232:10 < UNTRANSLATED
-
+"Mimic☆"
 > END STRING
 
 > BEGIN STRING

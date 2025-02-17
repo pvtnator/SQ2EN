@@ -30,7 +30,7 @@ def sync(files, update, txstrdir=0):
                         trans = update.get(string)
                         if trans:
                             trans = trans.replace('"',"").replace("「","")
-                    if not trans and "/" in string and len(string)>3:
+                    if not trans and "/" in string and len(string)>3 and False:
                         for t in update.keys():
                             if t.strip() in string and len(t)>3:
                                 trans = string.replace(t.strip(), update[t].strip())
@@ -65,8 +65,8 @@ if __name__ == "__main__":
 
     #main_files = [current_dir / "patch" / "Scripts.txt"]
     main_files = []
-    for file in (current_dir / "SQ1patch").rglob("*.txt"):
-        if not "Unused" in str(file) and "Enemies" in str(file):
+    for file in (current_dir / "patch").rglob("*.txt"):
+        if not "Unused" in str(file):
             main_files.append(file)
 
     print("===Reading current translations===")
@@ -111,7 +111,7 @@ if __name__ == "__main__":
     print("===Updating mod translations===")
     #main_files = [current_dir / "patch" / "Scripts.txt"]
     #main_files = [current_dir / "patch" / "States.txt"]
-    main_files = [current_dir / "patch" / "Enemies.txt"]
+    main_files = [current_dir / "patch" / "Items.txt", current_dir / "patch" / "Scripts.txt"]
     #for file in (current_dir / "patch").rglob("*.txt"):
     #    main_files.append(file)
         

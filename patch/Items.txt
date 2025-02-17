@@ -288,7 +288,7 @@ Stimulant
 > BEGIN STRING
 強化興奮剤
 > CONTEXT: Items/34/name/ < UNTRANSLATED
-
+Enhanced Stimulant
 > END STRING
 
 > BEGIN STRING
@@ -1681,7 +1681,7 @@ Preemptiveness Manual
 > BEGIN STRING
 夢の深淵
 > CONTEXT: Items/194/name/ < UNTRANSLATED
-
+The Abyss of Dreams
 > END STRING
 
 > BEGIN STRING
@@ -2074,7 +2074,7 @@ Nightmare
 > BEGIN STRING
 アスモデ
 > CONTEXT: Items/402/name/ < UNTRANSLATED
-
+Asmode
 > END STRING
 
 > BEGIN STRING
@@ -2164,7 +2164,7 @@ Sphinx
 > BEGIN STRING
 ブラックキャット
 > CONTEXT: Items/423/name/ < UNTRANSLATED
-
+Black Cat
 > END STRING
 
 > BEGIN STRING
@@ -2176,7 +2176,7 @@ Werewolf
 > BEGIN STRING
 ケルベロス
 > CONTEXT: Items/427/name/ < UNTRANSLATED
-
+Cerberus
 > END STRING
 
 > BEGIN STRING
@@ -2224,7 +2224,7 @@ Mermaid
 > BEGIN STRING
 レヴィアタン
 > CONTEXT: Items/442/name/ < UNTRANSLATED
-
+Leviathan
 > END STRING
 
 > BEGIN STRING
@@ -2280,13 +2280,13 @@ Angel
 > BEGIN STRING
 ガブリエル
 > CONTEXT: Items/456/name/ < UNTRANSLATED
-
+Gabriel
 > END STRING
 
 > BEGIN STRING
 ルシフェル
 > CONTEXT: Items/457/name/ < UNTRANSLATED
-
+Lucifer
 > END STRING
 
 > BEGIN STRING
@@ -2304,31 +2304,31 @@ Dakki
 > BEGIN STRING
 タマモ
 > CONTEXT: Items/462/name/ < UNTRANSLATED
-
+Tamamo
 > END STRING
 
 > BEGIN STRING
 クノイチ
 > CONTEXT: Items/465/name/ < UNTRANSLATED
-
+Kunoichi
 > END STRING
 
 > BEGIN STRING
 ハツメ
 > CONTEXT: Items/466/name/ < UNTRANSLATED
-
+Hatsume
 > END STRING
 
 > BEGIN STRING
 ホワイトラビット
 > CONTEXT: Items/470/name/ < UNTRANSLATED
-
+White Rabbit
 > END STRING
 
 > BEGIN STRING
 マーチヘア
 > CONTEXT: Items/471/name/ < UNTRANSLATED
-
+March Hare
 > END STRING
 
 > BEGIN STRING
@@ -2346,19 +2346,19 @@ Jubjub
 > BEGIN STRING
 サロメ
 > CONTEXT: Items/490/name/ < UNTRANSLATED
-
+Salome
 > END STRING
 
 > BEGIN STRING
 ヴァンパイア
 > CONTEXT: Items/495/name/ < UNTRANSLATED
-
+Vampire
 > END STRING
 
 > BEGIN STRING
 カーミラ
 > CONTEXT: Items/497/name/ < UNTRANSLATED
-
+Carmilla
 > END STRING
 
 > BEGIN STRING
@@ -2371,13 +2371,13 @@ Mimic
 > BEGIN STRING
 ミミック☆
 > CONTEXT: Items/501/name/ < UNTRANSLATED
-
+Mimic☆
 > END STRING
 
 > BEGIN STRING
 マモン
 > CONTEXT: Items/502/name/ < UNTRANSLATED
-
+Mammon
 > END STRING
 
 > BEGIN STRING
@@ -2395,35 +2395,35 @@ Măiestre
 > BEGIN STRING
 ドラグーン
 > CONTEXT: Items/510/name/ < UNTRANSLATED
-
+Dragoon
 > END STRING
 
 > BEGIN STRING
 プロフェテス
 > CONTEXT: Items/511/name/ < UNTRANSLATED
-
+Prophetess
 > END STRING
 
 > BEGIN STRING
 ソルジャー
 > CONTEXT: Items/512/name/ < UNTRANSLATED
-
+Soldier
 > END STRING
 
 > BEGIN STRING
 スライム
 > CONTEXT: Items/513/name/ < UNTRANSLATED
-
+Slime
 > END STRING
 
 > BEGIN STRING
 ユニコーン
 > CONTEXT: Items/515/name/ < UNTRANSLATED
-
+Unicorn
 > END STRING
 
 > BEGIN STRING
 ゴブリン
 > CONTEXT: Items/516/name/ < UNTRANSLATED
-
+Goblin
 > END STRING
