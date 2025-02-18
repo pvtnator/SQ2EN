@@ -7,8 +7,8 @@
 
 > BEGIN STRING
 「ほ～ほっほっほっほっほ！
-> CONTEXT: Map467/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/3/Dialogue
+「Hooohohhohhohhoh!
 > END STRING
 
 > BEGIN STRING
@@ -21,47 +21,50 @@
 
 > BEGIN STRING
 「今日こそここで！
-> CONTEXT: Map467/events/3/pages/0/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/92/Dialogue
+「Today is the day!
 > END STRING
 
 > BEGIN STRING
 「やっつけてやるのだぁ～！
-> CONTEXT: Map467/events/3/pages/0/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/94/Dialogue
+「We'll beat you～!
 > END STRING
 
 > BEGIN STRING
 「…………？
-> CONTEXT: Map467/events/3/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/96/Dialogue
+「.....?
 > END STRING
 
 > BEGIN STRING
 「………ん？
 　ま、待って、姉さん……
-> CONTEXT: Map467/events/3/pages/0/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/98/Dialogue
+「...Hm?
+　Hey, sis...
 > END STRING
 
 > BEGIN STRING
 「怖気づいちゃだめよ！
 　リズ・ラズ！
 　今回こそはきっと……
-> CONTEXT: Map467/events/3/pages/0/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/101/Dialogue
+「Don't be scared!
+　Riz-Raz!
+　This time for sure...
 > END STRING
 
 > BEGIN STRING
 「いや…そうじゃなくて……
-> CONTEXT: Map467/events/3/pages/0/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/106/Dialogue
+「No...that’s not it...
 > END STRING
 
 > BEGIN STRING
 「この子、違くない？
-> CONTEXT: Map467/events/3/pages/0/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/107/Dialogue
+「Isn't this a different kid?
 > END STRING
 
 > BEGIN STRING
@@ -74,39 +77,42 @@
 > BEGIN STRING
 「あ！ほんとだ！
 　勇者くんじゃない～っ
-> CONTEXT: Map467/events/3/pages/0/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/112/Dialogue
+「Ah! True!
+　He's not the hero～
 > END STRING
 
 > BEGIN STRING
 「うそっ、間違えた？
-> CONTEXT: Map467/events/3/pages/0/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/115/Dialogue
+「No way, I was mistaken?
 > END STRING
 
 > BEGIN STRING
 「そうみたい……
 　何でこんなところにいるのよ、
 　この子……
-> CONTEXT: Map467/events/3/pages/0/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/117/Dialogue
+「Seems so...
+　Why is this kid here...
 > END STRING
 
 > BEGIN STRING
 「せっかく待ち伏せしてたのに～……
-> CONTEXT: Map467/events/3/pages/0/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/121/Dialogue
+「We've been lying in wait～...
 > END STRING
 
 > BEGIN STRING
 「また準備しなおしね…
 　行きましょ……
-> CONTEXT: Map467/events/3/pages/0/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/123/Dialogue
+「Let's get ready again...
+　Come...
 > END STRING
 
 > BEGIN STRING
 「……なんじゃいな。
-> CONTEXT: Map467/events/3/pages/0/172/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map467/events/3/pages/0/172/Dialogue
+「...What was that
 > END STRING

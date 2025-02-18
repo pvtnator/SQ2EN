@@ -1887,8 +1887,8 @@ EP回復量アップ
 
 > BEGIN STRING
 統率
-> CONTEXT: States/424/name/ < UNTRANSLATED
-
+> CONTEXT: States/424/name/
+Command
 > END STRING
 
 > BEGIN STRING

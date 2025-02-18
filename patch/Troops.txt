@@ -547,29 +547,32 @@ EV_ハーピー姉妹
 
 > BEGIN STRING
 「こんなガキでも、男は男っ！
-> CONTEXT: Troops/14/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/14/pages/0/2/Dialogue
+「A man is a man, even if just a boy!
 > END STRING
 
 > BEGIN STRING
 「アナタにウラミは無いけれどぉ～\\e[0]
-> CONTEXT: Troops/14/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/14/pages/0/4/Dialogue
+「I don't have a grudge against you, but～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「犠牲になって！
 　アタシ達の経験値のためっ！
-> CONTEXT: Troops/14/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/14/pages/0/6/Dialogue
+「Sacrifice yourself! 
+　For our experience points!
 > END STRING
 
 > BEGIN STRING
 「………ちと、
 　キツめにお灸をすえてやらんと
 　いかんかの。
-> CONTEXT: Troops/14/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/14/pages/0/9/Dialogue
+「...Hmph,
+　perhaps I should give them
+　a proper scolding.
 > END STRING
 
 > BEGIN STRING

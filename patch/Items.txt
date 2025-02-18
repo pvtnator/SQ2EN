@@ -111,8 +111,8 @@ Melissa
 
 > BEGIN STRING
 〔インセンス〕　EP回復 / テンションアップ / ムードアップ
-> CONTEXT: Items/14/description/ < UNTRANSLATED
-
+> CONTEXT: Items/14/description/
+[Incense] EP Recovery / Tension Up / Mood Up
 > END STRING
 
 > BEGIN STRING
@@ -187,10 +187,10 @@ Mint Tea
 
 > BEGIN STRING
 〔ティー〕　EP回復 / テンションアップ
-> CONTEXT: Items/21/description/ < UNTRANSLATED
-> CONTEXT: Items/23/description/ < UNTRANSLATED
-> CONTEXT: Items/28/description/ < UNTRANSLATED
-
+> CONTEXT: Items/21/description/
+> CONTEXT: Items/23/description/
+> CONTEXT: Items/28/description/
+[Tea] EP Recovery / Tension Up
 > END STRING
 
 > BEGIN STRING
@@ -280,9 +280,9 @@ Stimulant
 
 > BEGIN STRING
 〔ドラッグ〕 テンションアップ / 副作用もあるかも…？
-> CONTEXT: Items/33/description/ < UNTRANSLATED
-> CONTEXT: Items/34/description/ < UNTRANSLATED
-
+> CONTEXT: Items/33/description/
+> CONTEXT: Items/34/description/
+[Drug] Tension Up / May have side effects...?
 > END STRING
 
 > BEGIN STRING
@@ -299,8 +299,8 @@ Synthesia
 
 > BEGIN STRING
 〔ドラッグ〕 EP回復 / テンションアップ / 副作用
-> CONTEXT: Items/35/description/ < UNTRANSLATED
-
+> CONTEXT: Items/35/description/
+[Drug] EP Recovery / Tension Up / Side effects
 > END STRING
 
 > BEGIN STRING
@@ -337,8 +337,8 @@ Mythril Iron
 
 > BEGIN STRING
 〔ツール〕 相手一人をバインド状態にする拘束具
-> CONTEXT: Items/41/description/ < UNTRANSLATED
-
+> CONTEXT: Items/41/description/
+[Tool] Restraining device that binds an opponent.
 > END STRING
 
 > BEGIN STRING
@@ -1041,14 +1041,14 @@ Cat Demon Legend
 
 > BEGIN STRING
 魔猫王国史
-> CONTEXT: Items/131/name/ < UNTRANSLATED
-
+> CONTEXT: Items/131/name/
+Demon Cat Kingdom History
 > END STRING
 
 > BEGIN STRING
 〔史書〕 猫たちの王国の歴史を綴った本
-> CONTEXT: Items/131/description/ < UNTRANSLATED
-
+> CONTEXT: Items/131/description/
+[History] Tells the history of the kingdom of cats
 > END STRING
 
 > BEGIN STRING
@@ -1181,21 +1181,21 @@ Mermaid Tale
 
 > BEGIN STRING
 弔辞録Ⅰ
-> CONTEXT: Items/143/name/ < UNTRANSLATED
-
+> CONTEXT: Items/143/name/
+Eulogy I
 > END STRING
 
 > BEGIN STRING
 〔史書〕 死の妖精が綴った弔辞の数々
-> CONTEXT: Items/143/description/ < UNTRANSLATED
-> CONTEXT: Items/144/description/ < UNTRANSLATED
-
+> CONTEXT: Items/143/description/
+> CONTEXT: Items/144/description/
+[History] Eulogies written by the Death Fairy
 > END STRING
 
 > BEGIN STRING
 弔辞録Ⅱ
-> CONTEXT: Items/144/name/ < UNTRANSLATED
-
+> CONTEXT: Items/144/name/
+Eulogy 2
 > END STRING
 
 > BEGIN STRING
@@ -1206,20 +1206,20 @@ Overuke War Chronicles
 
 > BEGIN STRING
 〔史書〕 勇者の戦いの記録
-> CONTEXT: Items/145/description/ < UNTRANSLATED
-
+> CONTEXT: Items/145/description/
+[History] Records of the Hero's Battles
 > END STRING
 
 > BEGIN STRING
 英雄の最期
-> CONTEXT: Items/146/name/ < UNTRANSLATED
-
+> CONTEXT: Items/146/name/
+Hero's End
 > END STRING
 
 > BEGIN STRING
 〔史書〕 妖精の英雄と死の女神の悲恋を綴った本
-> CONTEXT: Items/146/description/ < UNTRANSLATED
-
+> CONTEXT: Items/146/description/
+[History] Tragic love between an elf hero and the goddess of death.
 > END STRING
 
 > BEGIN STRING
@@ -1269,21 +1269,21 @@ Nine Tails Legend 3
 
 > BEGIN STRING
 奇東忍法帖Ⅰ
-> CONTEXT: Items/153/name/ < UNTRANSLATED
-
+> CONTEXT: Items/153/name/
+Odd Ninja Scroll 1
 > END STRING
 
 > BEGIN STRING
 〔史書〕 キアズマの国に伝わるニンジャの伝承が綴られた本
-> CONTEXT: Items/153/description/ < UNTRANSLATED
-> CONTEXT: Items/154/description/ < UNTRANSLATED
-
+> CONTEXT: Items/153/description/
+> CONTEXT: Items/154/description/
+[History] Tells the ninja lore of the country of Kiazma.
 > END STRING
 
 > BEGIN STRING
 奇東忍法帖Ⅱ
-> CONTEXT: Items/154/name/ < UNTRANSLATED
-
+> CONTEXT: Items/154/name/
+Odd Ninja Scroll 2
 > END STRING
 
 > BEGIN STRING
@@ -1656,14 +1656,14 @@ Preemptiveness Manual
 
 > BEGIN STRING
 誘惑者の術
-> CONTEXT: Items/192/name/ < UNTRANSLATED
-
+> CONTEXT: Items/192/name/
+Art of Seduction
 > END STRING
 
 > BEGIN STRING
 〔学術書〕 「君をとりこに」をリアルにする学術書
-> CONTEXT: Items/192/description/ < UNTRANSLATED
-
+> CONTEXT: Items/192/description/
+[Academic] Academic book that makes "Captivate" a reality
 > END STRING
 
 > BEGIN STRING
@@ -1716,14 +1716,14 @@ The Abyss of Dreams
 
 > BEGIN STRING
 時間と空間
-> CONTEXT: Items/197/name/ < UNTRANSLATED
-
+> CONTEXT: Items/197/name/
+Time and Space
 > END STRING
 
 > BEGIN STRING
 〔学術書〕 「時よ止まれ」をリアルにする学術書
-> CONTEXT: Items/197/description/ < UNTRANSLATED
-
+> CONTEXT: Items/197/description/
+[Academic] Academic book that makes "Stop Time" a reality
 > END STRING
 
 > BEGIN STRING
@@ -2000,7 +2000,7 @@ Night Picture Book
 
 > BEGIN STRING
 一角獣の角
-> CONTEXT: Items/228/name/ < UNTRANSLATED
+> CONTEXT: Items/228/name/
 Unicorn's Horn
 > END STRING
 

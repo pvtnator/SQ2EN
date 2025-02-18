@@ -36,104 +36,119 @@ SQT_EntranceOfDream
 
 > BEGIN STRING
 「ダメ、あたしを開かないで。
-> CONTEXT: Map471/events/1/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/6/Dialogue
+「No, I can’t stand it.
 > END STRING
 
 > BEGIN STRING
 「恐ろしいことが待ってるわ。
 　この先、あなたは、
 　恐ろしいものを手に入れるわ。
-> CONTEXT: Map471/events/1/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/7/Dialogue
+「Terrifying things await.
+　Beyond this, you will obtain 
+　something horrifying.
 > END STRING
 
 > BEGIN STRING
 「お願い、ここで引き返して。
 　戻れば、もっと幸せな夢が待ってるわ。
-> CONTEXT: Map471/events/1/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/10/Dialogue
+「Please, turn back now. 
+　If you turn back, 
+　happier dreams await you.
 > END STRING
 
 > BEGIN STRING
 「これは恐れ入った。
 　扉に忠告を受けるとは。
-> CONTEXT: Map471/events/1/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/13/Dialogue
+「That's impressive. 
+　To receive a warning from the door.
 > END STRING
 
 > BEGIN STRING
 「しかしお前の役目は
 　わしを中に通すこと。
 　さあ、とっとと開けい。
-> CONTEXT: Map471/events/1/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/15/Dialogue
+「But your job is to let me in. 
+　Come on, open up.
 > END STRING
 
 > BEGIN STRING
 「この中にいるのは、
 　とてもきれいで、魅力的で、
 　すてきな身体を持ったひと。
-> CONTEXT: Map471/events/1/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/19/Dialogue
+「There is a very beautiful, 
+　attractive person 
+　with a lovely body.
 > END STRING
 
 > BEGIN STRING
 「あなたはあなたの
 　色欲に勝てないわ。
-> CONTEXT: Map471/events/1/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/22/Dialogue
+「You will not win
+　against your lust.
 > END STRING
 
 > BEGIN STRING
 「やってみなければわからん。
-> CONTEXT: Map471/events/1/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/25/Dialogue
+「Can't know until you try.
 > END STRING
 
 > BEGIN STRING
 「ほんとう？
 　ほんとうに？
-> CONTEXT: Map471/events/1/pages/0/28/Dialogue < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/78/Dialogue < UNTRANSLATED
-> CONTEXT: Map471/events/1/pages/0/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/28/Dialogue
+> CONTEXT: Map471/events/1/pages/0/78/Dialogue
+> CONTEXT: Map471/events/1/pages/0/125/Dialogue
+「Really?
+　Really??
 > END STRING
 
 > BEGIN STRING
 「彼女の美しさには、
 　なにものもかなわない。
-> CONTEXT: Map471/events/1/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/67/Dialogue
+「Nothing can compare
+　to her beauty.
 > END STRING
 
 > BEGIN STRING
 「男のあなたでも、
 　彼女に嫉妬せずにはいられないわ。
-> CONTEXT: Map471/events/1/pages/0/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/69/Dialogue
+「Even as a man,
+　you can't help but feel jealous of her.
 > END STRING
 
 > BEGIN STRING
 「それは絶対の服従と同じこと。
 　あなたは二度と、
 　そこから抜け出せないわ。
-> CONTEXT: Map471/events/1/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/71/Dialogue
+「It's the same as absolute submission.
+　You will never
+　break free from it.
 > END STRING
 
 > BEGIN STRING
 「このわしが、今さら他人と
 　おのれを比べたりするものか。
-> CONTEXT: Map471/events/1/pages/0/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/75/Dialogue
+「Why would I be the same as others?
 > END STRING
 
 > BEGIN STRING
 「そんなに彼女が欲しいの？
 　彼女がくれるものが欲しいの？
-> CONTEXT: Map471/events/1/pages/0/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/115/Dialogue
+「Do you want her that badly? 
+　Do you want what she gives you?
 > END STRING
 
 > BEGIN STRING

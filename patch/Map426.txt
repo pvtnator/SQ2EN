@@ -274,8 +274,9 @@ Ask about \\i[181]other books
 > BEGIN STRING
 「経験値のお礼に、
 　イイコト教えてあげるわっ
-> CONTEXT: Map426/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/9/pages/0/1/Dialogue
+「As thanks for the experience points, 
+　I'll teach you something good
 > END STRING
 
 > BEGIN STRING
@@ -297,51 +298,60 @@ Ask about \\i[181]other books
 「……\\c[3]トーク\\c[0]は
 　ムードが高まってから使った方が
 　成功しやすいわよ。
-> CONTEXT: Map426/events/9/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/9/pages/0/14/Dialogue
+「...\\c[3]Talk\\c[0] is more successful
+　if you use it after the mood
+　has gone up a bit.
 > END STRING
 
 > BEGIN STRING
 「出だしは\\c[3]テンダーキッス\\c[0]でも
 　してた方がいいってことね。
-> CONTEXT: Map426/events/9/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/9/pages/0/17/Dialogue
+「That means you should start
+　with \\c[3]Tender Kiss\\c[0].
 > END STRING
 
 > BEGIN STRING
 「あなた、\\c[3]学術書\\c[0]って見たことある？
-> CONTEXT: Map426/events/9/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/9/pages/0/23/Dialogue
+「Have you seen any \\c[3]Academic\\c[0] books?
 > END STRING
 
 > BEGIN STRING
 「ワカる人が読めば、
 　今まで非現実的に思えてたことも
 　現実味を帯びてくるそうよ。
-> CONTEXT: Map426/events/9/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/9/pages/0/24/Dialogue
+「When someone reads and understands it, 
+　things that previously seemed unrealistic 
+　start to become more real.
 > END STRING
 
 > BEGIN STRING
 「効果の強さも、
 　モノによってけっこう違うみたいね。
-> CONTEXT: Map426/events/9/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/9/pages/0/27/Dialogue
+「The strength of the effect seems to 
+　vary quite a bit depending on the item.
 > END STRING
 
 > BEGIN STRING
 「\\c[3]本の一頁\\c[0]は、たまに出てきても
 　すぐ消えちゃうのをよく見るわ。
-> CONTEXT: Map426/events/9/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/9/pages/0/33/Dialogue
+「\\c[3]Book Pages\\c[0] often disappears 
+　as soon as it appears.
 > END STRING
 
 > BEGIN STRING
 「カバンは常に空けておいて、
 　出たらすぐに取れるようにすると
 　いいかもね。
-> CONTEXT: Map426/events/9/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/9/pages/0/35/Dialogue
+「It might be a good idea to keep your bag 
+　open at all times so you can 
+　grab things as soon as you find them.
 > END STRING
 
 > BEGIN STRING
@@ -588,70 +598,75 @@ Deposit/Withdraw Items
 
 > BEGIN STRING
 "ロッコ・バロッコ/RoccoBarocco"
-> CONTEXT: Map426/events/19/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map426/events/19/pages/0/6/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map426/events/19/pages/0/12/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/86/5/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/101/62/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/500/19/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map426/events/19/pages/0/0/InlineScript/1:4
+> CONTEXT: Map426/events/19/pages/0/6/InlineScript/1:4
+> CONTEXT: Map426/events/19/pages/0/12/InlineScript/1:4
+> CONTEXT: Commonevents/86/5/InlineScript/1:4
+> CONTEXT: Commonevents/101/62/InlineScript/1:4
+> CONTEXT: Commonevents/500/19/InlineScript/1:4
+"Rocco-Barocco/RoccoBarocco"
 > END STRING
 
 > BEGIN STRING
 「ここって、キミの部屋ぁ？
-> CONTEXT: Map426/events/19/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/19/pages/0/1/Dialogue
+「Is this your room?
 > END STRING
 
 > BEGIN STRING
 「ここって、キミの部屋ぁ？」
-> CONTEXT: Map426/events/19/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/19/pages/0/3/Dialogue
+「Is this your room?」
 > END STRING
 
 > BEGIN STRING
 「なんだか、本がいっぱいある気がするぅ。
 　本棚ひとつしかないのにね？
-> CONTEXT: Map426/events/19/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/19/pages/0/7/Dialogue
+「It feels like there are a lot of books here.
+　Even though there's only one bookshelf.
 > END STRING
 
 > BEGIN STRING
 「ロッコも絵本すきだよぉ♪
-> CONTEXT: Map426/events/19/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/19/pages/0/9/Dialogue
+「Rocco likes picture books too♪
 > END STRING
 
 > BEGIN STRING
 「ウソついても、
 　ロッコわかっちゃうよぉ♪
-> CONTEXT: Map426/events/19/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/19/pages/0/13/Dialogue
+「Even if you lie,
+　Rocco will know♪
 > END STRING
 
 > BEGIN STRING
 「じー……………
-> CONTEXT: Map426/events/20/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/20/pages/0/1/Dialogue
+「Sigh.....
 > END STRING
 
 > BEGIN STRING
 「アンタ、最初に見たときは
 　ただのガキだったのに……
-> CONTEXT: Map426/events/20/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/20/pages/0/2/Dialogue
+「When I first saw you, 
+　you seemed like an ordinary kid...
 > END STRING
 
 > BEGIN STRING
 「なんだか今、
 　アタシより年上っぽく見えるわ。
 　どうしてかしら……
-> CONTEXT: Map426/events/20/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/20/pages/0/4/Dialogue
+「But now,
+　You look older than me.
+　I wonder why...
 > END STRING
 
 > BEGIN STRING
 "ラルス/Lars"
-> CONTEXT: Map426/events/28/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map426/events/28/pages/0/0/InlineScript/1:4
+"Lars/Lars"
 > END STRING

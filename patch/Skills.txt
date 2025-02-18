@@ -232,8 +232,8 @@ EXP2倍、アイテム100%入手
 
 > BEGIN STRING
 時よ止まれ/10/0/0
-> CONTEXT: Skills/32/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/32/name/
+Stop Time/10/0/0
 > END STRING
 
 > BEGIN STRING
@@ -514,8 +514,8 @@ Charge/0/110/0
 
 > BEGIN STRING
 ランダムに激しくせめる
-> CONTEXT: Skills/76/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/76/description/
+Attack randomly and fiercly
 > END STRING
 
 > BEGIN STRING
@@ -813,14 +813,14 @@ Cure all status ailments
 
 > BEGIN STRING
 統率/3/0/0/0
-> CONTEXT: Skills/122/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/122/name/
+Command/3/0/0/0
 > END STRING
 
 > BEGIN STRING
 リズ・ラズとロッコ･バロッコの行動成功率アップ
-> CONTEXT: Skills/122/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/122/description/
+Riz-Raz and Rocco-Barocco success rate up
 > END STRING
 
 > BEGIN STRING
@@ -831,45 +831,45 @@ Riz-Raz
 
 > BEGIN STRING
 リズ・ラズが何かしてくれるかも知れない
-> CONTEXT: Skills/123/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/123/description/
+Maybe Riz-Raz can do something
 > END STRING
 
 > BEGIN STRING
 ロッコ･バロッコ
-> CONTEXT: Skills/124/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/124/name/
+Rocco-Barocco
 > END STRING
 
 > BEGIN STRING
 ロッコ・バロッコが何かしてくれるかも知れない
-> CONTEXT: Skills/124/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/124/description/
+Maybe Rocco-Barocco can do something.
 > END STRING
 
 > BEGIN STRING
 コンビネーション/3/0/0/0
-> CONTEXT: Skills/125/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/125/name/
+Combination/3/0/0/0
 > END STRING
 
 > BEGIN STRING
 三人でコンビネーションを使う
-> CONTEXT: Skills/125/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/125/description/
+3 person combination move 
 > END STRING
 
 > BEGIN STRING
 ■ローズニル
-> CONTEXT: Skills/130/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/130/name/
+■Rosenil
 > END STRING
 
 > BEGIN STRING
 浜辺の小夜曲
-> CONTEXT: Skills/131/name/ < UNTRANSLATED
-> CONTEXT: States/415/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/131/name/
+> CONTEXT: States/415/name/
+Beach Serenade
 > END STRING
 
 > BEGIN STRING
@@ -884,9 +884,9 @@ Mood Up
 
 > BEGIN STRING
 細波の夜想曲
-> CONTEXT: Skills/132/name/ < UNTRANSLATED
-> CONTEXT: States/416/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/132/name/
+> CONTEXT: States/416/name/
+Nocturne Ripple
 > END STRING
 
 > BEGIN STRING
@@ -900,8 +900,8 @@ EP Recovery
 
 > BEGIN STRING
 雨上がりの輪舞曲
-> CONTEXT: Skills/133/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/133/name/
+After-Rain Rondo
 > END STRING
 
 > BEGIN STRING
@@ -915,67 +915,67 @@ Tension Up
 
 > BEGIN STRING
 泡の奇想曲
-> CONTEXT: Skills/134/name/ < UNTRANSLATED
-> CONTEXT: States/418/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/134/name/
+> CONTEXT: States/418/name/
+Bubble Caprice
 > END STRING
 
 > BEGIN STRING
 相手のグン系魔法を打ち消す / 素早さアップ
-> CONTEXT: Skills/134/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/134/description/
+Cancel opponent's Gun-type magic / Increase Agility
 > END STRING
 
 > BEGIN STRING
 しぶきの行進曲
-> CONTEXT: Skills/135/name/ < UNTRANSLATED
-> CONTEXT: States/419/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/135/name/
+> CONTEXT: States/419/name/
+Splash March
 > END STRING
 
 > BEGIN STRING
 テンションアップ / 精力・技巧アップ
-> CONTEXT: Skills/135/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/135/description/
+Tension Up / Energy and Skill Up
 > END STRING
 
 > BEGIN STRING
 深海の奏鳴曲
-> CONTEXT: Skills/136/name/ < UNTRANSLATED
-> CONTEXT: States/420/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/136/name/
+> CONTEXT: States/420/name/
+Deep Sea Sonata
 > END STRING
 
 > BEGIN STRING
 EP回復 / 精神力アップ
-> CONTEXT: Skills/136/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/136/description/
+EP Recovery / Spirit Up
 > END STRING
 
 > BEGIN STRING
 人魚の狂詩曲
-> CONTEXT: Skills/137/name/ < UNTRANSLATED
-> CONTEXT: States/421/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/137/name/
+> CONTEXT: States/421/name/
+Mermaid Rhapsody
 > END STRING
 
 > BEGIN STRING
 ムードアップ / 魅力アップ
-> CONTEXT: Skills/137/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/137/description/
+Mood Up / Charm Up
 > END STRING
 
 > BEGIN STRING
 愛の幻想曲
-> CONTEXT: Skills/138/name/ < UNTRANSLATED
-> CONTEXT: States/422/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/138/name/
+> CONTEXT: States/422/name/
+Love Fantasia
 > END STRING
 
 > BEGIN STRING
 聴覚に訴える誘惑を無効化する
-> CONTEXT: Skills/139/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/139/description/
+Neutralize auditory temptations
 > END STRING
 
 > BEGIN STRING
@@ -1428,8 +1428,8 @@ Call Secretary Merja
 
 > BEGIN STRING
 エスプラーナ/15/0/0
-> CONTEXT: Skills/194/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/194/name/
+Esplana/15/0/0
 > END STRING
 
 > BEGIN STRING
@@ -1443,14 +1443,14 @@ Summon the Harpy Sisters
 
 > BEGIN STRING
 ローズニル/15/0/0
-> CONTEXT: Skills/195/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/195/name/
+Rosenil/15/0/0
 > END STRING
 
 > BEGIN STRING
 吟遊詩人ローズニルを呼ぶ
-> CONTEXT: Skills/195/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/195/description/
+Summon the bard Rosenil
 > END STRING
 
 > BEGIN STRING
@@ -2567,14 +2567,14 @@ Foxfire
 
 > BEGIN STRING
 スラップ
-> CONTEXT: Skills/339/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/339/name/
+Slap
 > END STRING
 
 > BEGIN STRING
 恍惚解除 / 暴走解除 / パニック解除
-> CONTEXT: Skills/339/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/339/description/
+Ecstasy / Berserk / Panic Recovery
 > END STRING
 
 > BEGIN STRING
@@ -3312,17 +3312,17 @@ Summersolstice Magic
 
 > BEGIN STRING
 色欲の誘い
-> CONTEXT: Skills/439/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/439/name/
+Temptation of Lust
 > END STRING
 
 > BEGIN STRING
 高確率暴走
-> CONTEXT: Skills/439/description/ < UNTRANSLATED
-> CONTEXT: Skills/440/description/ < UNTRANSLATED
-> CONTEXT: Skills/441/description/ < UNTRANSLATED
-> CONTEXT: Skills/442/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/439/description/
+> CONTEXT: Skills/440/description/
+> CONTEXT: Skills/441/description/
+> CONTEXT: Skills/442/description/
+High probability of berserk
 > END STRING
 
 > BEGIN STRING
@@ -3333,8 +3333,8 @@ Summersolstice Magic
 
 > BEGIN STRING
 嫉妬の誘い
-> CONTEXT: Skills/441/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/441/name/
+Invitation to Jealousy
 > END STRING
 
 > BEGIN STRING
@@ -3645,17 +3645,17 @@ Drunk: Talk
 
 > BEGIN STRING
 掠め取る
-> CONTEXT: Skills/579/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/579/name/
+Plunder
 > END STRING
 
 > BEGIN STRING
 コンビネーション成功
-> CONTEXT: Skills/579/description/ < UNTRANSLATED
-> CONTEXT: Skills/596/description/ < UNTRANSLATED
-> CONTEXT: Skills/597/description/ < UNTRANSLATED
-> CONTEXT: Skills/598/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/579/description/
+> CONTEXT: Skills/596/description/
+> CONTEXT: Skills/597/description/
+> CONTEXT: Skills/598/description/
+Combination success
 > END STRING
 
 > BEGIN STRING
@@ -3741,14 +3741,14 @@ Far-Rapture
 
 > BEGIN STRING
 三重唱
-> CONTEXT: Skills/596/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/596/name/
+Trio
 > END STRING
 
 > BEGIN STRING
 疾風撹乱
-> CONTEXT: Skills/597/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/597/name/
+Storm Turbulence
 > END STRING
 
 > BEGIN STRING
@@ -3914,11 +3914,11 @@ Triple Piston/0/0/2
 
 > BEGIN STRING
 エスプラーナ専用
-> CONTEXT: Skills/655/description/ < UNTRANSLATED
-> CONTEXT: Skills/656/description/ < UNTRANSLATED
-> CONTEXT: Skills/657/description/ < UNTRANSLATED
-> CONTEXT: Skills/658/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/655/description/
+> CONTEXT: Skills/656/description/
+> CONTEXT: Skills/657/description/
+> CONTEXT: Skills/658/description/
+Esplana exclusive
 > END STRING
 
 > BEGIN STRING

@@ -25,9 +25,9 @@ Merona
 
 > BEGIN STRING
 ローズニル
-> CONTEXT: Classes/8/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/150/250/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Classes/8/name/
+> CONTEXT: Commonevents/150/250/Choice/1
+Rosenil
 > END STRING
 
 > BEGIN STRING

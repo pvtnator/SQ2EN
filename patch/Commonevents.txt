@@ -332,8 +332,9 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 > BEGIN STRING
 
 \\i[300]\\c[4]時よ止まれ\\c[0] と願えるようになった！
-> CONTEXT: Commonevents/35/18/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/18/Dialogue
 
+\\i[300]\\c[4]Stop Time\\c[0] can now be wished for!
 > END STRING
 
 > BEGIN STRING
@@ -378,30 +379,32 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 
 > BEGIN STRING
 \\a[\\v[105]]ローズニルの小夜曲がムードを盛り上げる！
-> CONTEXT: Commonevents/35/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/92/Dialogue
+\\a[\\v[105]]Rosenil's Serenade livens up the mood!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ローズニルの夜想曲が気持ちを落ち着かせる！
 \\k
-> CONTEXT: Commonevents/35/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/101/Dialogue
+\\a[\\v[105]]Rosenil's Nocturne is soothing!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ローズニルの輪舞曲が気分を盛り上げる！
 \\k
-> CONTEXT: Commonevents/35/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/110/Dialogue
+\\a[\\v[105]]Rosenil's Rondo lifts your spirits!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]のテンションが上がった！
-> CONTEXT: Commonevents/35/115/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/35/149/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/92/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/115/Dialogue
+> CONTEXT: Commonevents/35/149/Dialogue
+> CONTEXT: Commonevents/92/3/Dialogue
+\\a[\\v[105]]\\n[1]'s tension increased!
 > END STRING
 
 > BEGIN STRING
@@ -908,33 +911,34 @@ Leanan Sídhe trap!
 
 > BEGIN STRING
 \\a[\\v[105]]「う……うぅっ…………
-> CONTEXT: Commonevents/51/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/51/2/Dialogue
+\\a[\\v[105]]「Uh...uuuuh......
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]の意識がもうろうとしていく……
-> CONTEXT: Commonevents/51/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/51/4/Dialogue
+\\a[\\v[105]]\\n[1]'s consciousness is becoming hazy...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ふふふっ……\\e[0]
-> CONTEXT: Commonevents/51/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/51/20/Dialogue
+\\a[\\v[105]]「Fufufu...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「くすくす……\\e[0]
-> CONTEXT: Commonevents/51/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/51/25/Dialogue
+\\a[\\v[105]]「Hehe...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[120]
 \\n[1]はいってしまった………
-> CONTEXT: Commonevents/51/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/51/144/Dialogue
+\\a[120]
+\\n[1] climaxed...
 > END STRING
 
 > BEGIN STRING
@@ -1346,22 +1350,26 @@ Leanan Sídhe trap!
 \\a[\\v[105]]「ほほっ、
 \\w[\\v[104]]　アタシたちにかかれば、
 　ざっとこんなものねっ
-> CONTEXT: Commonevents/52/255/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/255/Dialogue
+\\a[\\v[105]]「Hohooh,
+\\w[\\v[104]]　That's how it goes
+　when you deal with us
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ふふっ、
 \\a[\\v[104]]　ザコ狩りいっちょあがりっ\\e[0]
-> CONTEXT: Commonevents/52/261/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/261/Dialogue
+\\a[\\v[105]]「Heheh,
+\\a[\\v[104]]　we're done with the small fry\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あぅ～～っ
 \\w[\\v[104]]　イかせちゃったぁ～\\e[0]
-> CONTEXT: Commonevents/52/266/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/266/Dialogue
+\\a[\\v[105]]「Aaah～～
+\\w[\\v[104]]　Made you cum～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1466,7 +1474,7 @@ Leanan Sídhe trap!
 \\a[\\v[105]]\\n[1]は夢魔に精を奪われた！
 \\w[\\v[105]]\\n[1]は夢に無防備になってしまった！
 > CONTEXT: Commonevents/52/414/Dialogue
-\\a[\\v[105]]\\n[1] had his semen stolen by a succubus!
+\\a[\\v[105]]\\n[1] had his semen stolen by the succubus!
 \\w[\\v[105]]\\n[1] is now defenseless against dreams!
 > END STRING
 

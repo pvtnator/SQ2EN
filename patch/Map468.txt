@@ -2,113 +2,124 @@
 > BEGIN STRING
 「おい……
 　大丈夫かの？
-> CONTEXT: Map468/events/2/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/87/Dialogue
+「Oi...
+　Are you okay?
 > END STRING
 
 > BEGIN STRING
 「うぅっ……
-> CONTEXT: Map468/events/2/pages/0/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/94/Dialogue
+「Uuuuh...
 > END STRING
 
 > BEGIN STRING
 「ぐやじぃ～っ
-> CONTEXT: Map468/events/2/pages/0/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/100/Dialogue
+「Ouchie～
 > END STRING
 
 > BEGIN STRING
 「また負けたぁ～～
-> CONTEXT: Map468/events/2/pages/0/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/106/Dialogue
+「Lost again～～
 > END STRING
 
 > BEGIN STRING
 「どうしよう？
 　姉さん……
-> CONTEXT: Map468/events/2/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/108/Dialogue
+「What should we do?
+　Sis...
 > END STRING
 
 > BEGIN STRING
 「こうなったら…作戦を変えましょう。
-> CONTEXT: Map468/events/2/pages/0/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/114/Dialogue
+「If this is how it is...
+　Let's change our strategy.
 > END STRING
 
 > BEGIN STRING
 「でも今までも、
 　いっぱい作戦考えたよぉ～～？
-> CONTEXT: Map468/events/2/pages/0/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/116/Dialogue
+「But up until now,
+　haven't you thought of lots of strategies～～?
 > END STRING
 
 > BEGIN STRING
 「いいえ、今までのは
 　力で勇者を倒す作戦……
-> CONTEXT: Map468/events/2/pages/0/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/119/Dialogue
+「No, up until now, 
+　our plan was to defeat the hero by force...
 > END STRING
 
 > BEGIN STRING
 「力でかなわないなら、
 　別な方法で……
-> CONTEXT: Map468/events/2/pages/0/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/121/Dialogue
+「If we can't win by force,
+　we'll find another way...
 > END STRING
 
 > BEGIN STRING
 「！
 　姉さん、まさか……
-> CONTEXT: Map468/events/2/pages/0/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/124/Dialogue
+「!
+　Sis, no way...
 > END STRING
 
 > BEGIN STRING
 「……夢魔に身を任せましょう。
-> CONTEXT: Map468/events/2/pages/0/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/127/Dialogue
+「...Let's surrender ourselves to the succubi.
 > END STRING
 
 > BEGIN STRING
 「夢魔と交われば、
 　アタシたちも夢魔になれる……
-> CONTEXT: Map468/events/2/pages/0/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/129/Dialogue
+「If we join with the succubi,
+　we too will become succubi...
 > END STRING
 
 > BEGIN STRING
 「夢魔になったら、
 　アタシたちのこの
 　セクシーな魅力で……
-> CONTEXT: Map468/events/2/pages/0/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/131/Dialogue
+「When we become succubi,
+　we will obtain
+　sexy charm...
 > END STRING
 
 > BEGIN STRING
 「姉さん！勝てる！
 　それなら勝てるわ！！
-> CONTEXT: Map468/events/2/pages/0/134/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/134/Dialogue
+「Sis! We can win!
+　That way we can win!!
 > END STRING
 
 > BEGIN STRING
 「あう…？？
-> CONTEXT: Map468/events/2/pages/0/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/137/Dialogue
+「Ehh...??
 > END STRING
 
 > BEGIN STRING
 「ロッコ、あなたには後で
 　教えてあげるわ。
-> CONTEXT: Map468/events/2/pages/0/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/139/Dialogue
+「Rocco, I'll explain it later.
 > END STRING
 
 > BEGIN STRING
 「さあ、そうと決まれば！
 　行くわよ！
-> CONTEXT: Map468/events/2/pages/0/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/2/pages/0/142/Dialogue
+「Well, if that's decided, let's go!
 > END STRING
