@@ -310,5 +310,5 @@ Left the books with Merja!
 メルヤを呼べるようになった！
 > CONTEXT: Map431/events/1/pages/0/240/Dialogue
 
-Now you can summon Merja!
+You can now summon Merja!
 > END STRING

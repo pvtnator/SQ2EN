@@ -2365,8 +2365,8 @@
 
 > BEGIN STRING
 "パートナーが[\#{skill}]を覚える"
-> CONTEXT: Scripts/RPG::Item/70:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item/70:18
+"Partner learns [\#{skill}]"
 > END STRING
 
 > BEGIN STRING
@@ -2461,16 +2461,16 @@
 
 > BEGIN STRING
 "君を知りたい"
-> CONTEXT: Scripts/RPG::Skill/56:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 5/612:32 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill/56:12
+> CONTEXT: Scripts/Scene_Battle 5/612:32
 "Get Acquainted"
 > END STRING
 
 > BEGIN STRING
 "君をとりこに"
-> CONTEXT: Scripts/RPG::Skill/58:12 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/152:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 5/642:32 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill/58:12
+> CONTEXT: Scripts/RPG::Skill (message)/152:12
+> CONTEXT: Scripts/Scene_Battle 5/642:32
 "Captivate"
 > END STRING
 
@@ -2485,8 +2485,8 @@
 
 > BEGIN STRING
 "夢と一つに"
-> CONTEXT: Scripts/RPG::Skill/62:12 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/60:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill/62:12
+> CONTEXT: Scripts/RPG::State (message)/60:12
 "One with the Dream"
 > END STRING
 
@@ -2531,8 +2531,8 @@
 
 > BEGIN STRING
 "リベンジ"
-> CONTEXT: Scripts/RPG::Skill/92:34 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/146:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill/92:34
+> CONTEXT: Scripts/RPG::Skill (message)/146:12
 "Revenge"
 > END STRING
 
@@ -3538,8 +3538,8 @@
 
 > BEGIN STRING
 "「ニャあぁんっ……\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/46:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/46:14
+"「Nyaaahh\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -3588,19 +3588,19 @@
 
 > BEGIN STRING
 "ヴァンパイア"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/51:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 2/78:21 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/58:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/84:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/35:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/82:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/36:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/177:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/189:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/197:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/181:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/182:12 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/175:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/51:10
+> CONTEXT: Scripts/Game_Battler 2/78:21
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/58:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/84:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/35:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/82:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/36:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/177:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/189:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/197:10
+> CONTEXT: Scripts/Game_Enemy/181:10
+> CONTEXT: Scripts/Game_Enemy/182:12
+> CONTEXT: Scripts/☆図鑑用詳細データ/175:10
 "Vampire"
 > END STRING
 
@@ -3726,8 +3726,8 @@
 
 > BEGIN STRING
 "「食べてあげる………"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/66:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/66:14
+"「I'll give it to you..."
 > END STRING
 
 > BEGIN STRING
@@ -3862,18 +3862,18 @@
 
 > BEGIN STRING
 "クノイチ"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/80:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/85:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/56:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/119:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/129:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/58:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/219:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/206:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/229:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/177:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/178:12 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/217:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/80:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/85:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/56:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/119:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/129:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/58:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/219:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/206:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/229:10
+> CONTEXT: Scripts/Game_Enemy/177:10
+> CONTEXT: Scripts/Game_Enemy/178:12
+> CONTEXT: Scripts/☆図鑑用詳細データ/217:10
 "Kunoichi"
 > END STRING
 
@@ -3949,16 +3949,16 @@
 
 > BEGIN STRING
 "サロメ"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/88:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/93:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/63:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/132:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/65:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/142:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/229:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/213:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/238:10 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/158:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/88:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/93:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/63:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/132:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/65:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/142:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/229:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/213:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/238:10
+> CONTEXT: Scripts/☆図鑑用詳細データ/158:10
 "Salome"
 > END STRING
 
@@ -4006,16 +4006,16 @@
 
 > BEGIN STRING
 "マーチヘア"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/94:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/99:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/68:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/140:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/70:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/153:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/235:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/218:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/245:10 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/209:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/94:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/99:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/68:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/140:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/70:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/153:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/235:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/218:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/245:10
+> CONTEXT: Scripts/☆図鑑用詳細データ/209:10
 "March Hare"
 > END STRING
 
@@ -4075,17 +4075,17 @@
 
 > BEGIN STRING
 "ルシフェル"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/100:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 2/97:18 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/105:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/72:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/148:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/75:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/162:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/241:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/224:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/251:10 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/250:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/100:10
+> CONTEXT: Scripts/Game_Battler 2/97:18
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/105:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/72:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/148:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/75:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/162:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/241:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/224:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/251:10
+> CONTEXT: Scripts/☆図鑑用詳細データ/250:10
 "Lucifer"
 > END STRING
 
@@ -4273,42 +4273,42 @@
 
 > BEGIN STRING
 "ネルトゥプ島地図"
-> CONTEXT: Scripts/RPG::Item(detail)/15:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/15:12
+"Neltup Island Map"
 > END STRING
 
 > BEGIN STRING
 "ゴブリン"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/130:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/97:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/135:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/100:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/187:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/206:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/278:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/256:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/288:10 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/77:10 < UNTRANSLATED
-> CONTEXT: Map030/events/1/pages/0/15/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map027/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map030/events/1/pages/0/20/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map027/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map030/events/2/pages/0/7/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map027/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map030/events/2/pages/0/12/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map027/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map030/events/2/pages/0/18/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map030/events/16/pages/1/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map030/events/17/pages/1/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map030/events/18/pages/1/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map030/events/19/pages/1/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/130:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/97:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/135:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/100:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/187:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/206:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/278:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/256:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/288:10
+> CONTEXT: Scripts/☆図鑑用詳細データ/77:10
+> CONTEXT: Map030/events/1/pages/0/15/InlineScript/1:4
+> CONTEXT: Map027/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map030/events/1/pages/0/20/InlineScript/1:4
+> CONTEXT: Map027/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map030/events/2/pages/0/7/InlineScript/1:4
+> CONTEXT: Map027/events/13/pages/0/0/InlineScript/1:4
+> CONTEXT: Map030/events/2/pages/0/12/InlineScript/1:4
+> CONTEXT: Map027/events/14/pages/0/0/InlineScript/1:4
+> CONTEXT: Map030/events/2/pages/0/18/InlineScript/1:4
+> CONTEXT: Map030/events/16/pages/1/2/InlineScript/1:4
+> CONTEXT: Map030/events/17/pages/1/2/InlineScript/1:4
+> CONTEXT: Map030/events/18/pages/1/2/InlineScript/1:4
+> CONTEXT: Map030/events/19/pages/1/2/InlineScript/1:4
 "Goblin"
 > END STRING
 
 > BEGIN STRING
 "〔地図〕 王国暦404年\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/16:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/16:15
+"[Map] Kingdom Year 404\\n"
 > END STRING
 
 > BEGIN STRING
@@ -4319,8 +4319,8 @@
 
 > BEGIN STRING
 "人間と魔物が住まう島、ネルトゥプ島の地図"
-> CONTEXT: Scripts/RPG::Item(detail)/17:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/17:15
+"An island inhabited by humans and monsters"
 > END STRING
 
 > BEGIN STRING
@@ -4331,8 +4331,8 @@
 
 > BEGIN STRING
 "大ネルトゥプ記"
-> CONTEXT: Scripts/RPG::Item(detail)/18:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/18:12
+"Great Neltup History"
 > END STRING
 
 > BEGIN STRING
@@ -4343,29 +4343,29 @@
 
 > BEGIN STRING
 "〔史書〕 年代不詳\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/19:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/19:15
+"[History] Date unknown\\n"
 > END STRING
 
 > BEGIN STRING
 "ユニコーン"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/134:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/99:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/138:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/102:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/191:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/211:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/281:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/259:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/291:10 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/87:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/134:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/99:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/138:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/102:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/191:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/211:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/281:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/259:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/291:10
+> CONTEXT: Scripts/☆図鑑用詳細データ/87:10
 "Unicorn"
 > END STRING
 
 > BEGIN STRING
 "お伽の国ラミエルと魔物の国ドルヌスがある島、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/20:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/20:15
+"Contains the history of Neltup Island, home to the\\n"
 > END STRING
 
 > BEGIN STRING
@@ -4376,68 +4376,68 @@
 
 > BEGIN STRING
 "ネルトゥプ島の歴史が綴られているとされる本。"
-> CONTEXT: Scripts/RPG::Item(detail)/21:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/21:15
+"fairyland Ramiel and the demon nation Dornus."
 > END STRING
 
 > BEGIN STRING
 "スライム"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/136:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/101:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/141:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/104:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/194:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/214:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/284:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/262:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/294:10 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/95:10 < UNTRANSLATED
-> CONTEXT: Commonevents/71/18/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/71/22/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/136:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/101:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/141:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/104:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/194:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/214:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/284:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/262:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/294:10
+> CONTEXT: Scripts/☆図鑑用詳細データ/95:10
+> CONTEXT: Commonevents/71/18/InlineScript/1:4
+> CONTEXT: Commonevents/71/22/InlineScript/1:4
 "Slime"
 > END STRING
 
 > BEGIN STRING
 "ソルジャー"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/139:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/103:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/144:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/106:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/199:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/219:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/288:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/265:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/297:10 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/105:10 < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map026/events/21/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map026/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/14/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map026/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/46/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/99/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/110/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/125/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/129/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/133/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/28/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/29/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/14/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/46/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/99/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/110/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/125/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/129/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/133/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/14/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/46/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/99/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/110/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/125/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/129/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/133/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/139:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/103:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/144:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/106:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/199:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/219:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/288:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/265:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/297:10
+> CONTEXT: Scripts/☆図鑑用詳細データ/105:10
+> CONTEXT: Map029/events/21/pages/0/0/InlineScript/1:4
+> CONTEXT: Map026/events/21/pages/0/0/InlineScript/1:4
+> CONTEXT: Map029/events/22/pages/0/0/InlineScript/1:4
+> CONTEXT: Map029/events/23/pages/0/0/InlineScript/1:4
+> CONTEXT: Map026/events/22/pages/0/0/InlineScript/1:4
+> CONTEXT: Map029/events/27/pages/0/14/InlineScript/1:4
+> CONTEXT: Map026/events/23/pages/0/0/InlineScript/1:4
+> CONTEXT: Map029/events/27/pages/0/46/InlineScript/1:4
+> CONTEXT: Map029/events/27/pages/0/99/InlineScript/1:4
+> CONTEXT: Map029/events/27/pages/0/110/InlineScript/1:4
+> CONTEXT: Map029/events/27/pages/0/125/InlineScript/1:4
+> CONTEXT: Map029/events/27/pages/0/129/InlineScript/1:4
+> CONTEXT: Map029/events/27/pages/0/133/InlineScript/1:4
+> CONTEXT: Map029/events/28/pages/0/0/InlineScript/1:4
+> CONTEXT: Map029/events/29/pages/0/0/InlineScript/1:4
+> CONTEXT: Map029/events/30/pages/0/14/InlineScript/1:4
+> CONTEXT: Map029/events/30/pages/0/46/InlineScript/1:4
+> CONTEXT: Map029/events/30/pages/0/99/InlineScript/1:4
+> CONTEXT: Map029/events/30/pages/0/110/InlineScript/1:4
+> CONTEXT: Map029/events/30/pages/0/125/InlineScript/1:4
+> CONTEXT: Map029/events/30/pages/0/129/InlineScript/1:4
+> CONTEXT: Map029/events/30/pages/0/133/InlineScript/1:4
+> CONTEXT: Map029/events/31/pages/0/14/InlineScript/1:4
+> CONTEXT: Map029/events/31/pages/0/46/InlineScript/1:4
+> CONTEXT: Map029/events/31/pages/0/99/InlineScript/1:4
+> CONTEXT: Map029/events/31/pages/0/110/InlineScript/1:4
+> CONTEXT: Map029/events/31/pages/0/125/InlineScript/1:4
+> CONTEXT: Map029/events/31/pages/0/129/InlineScript/1:4
+> CONTEXT: Map029/events/31/pages/0/133/InlineScript/1:4
 "Soldier"
 > END STRING
 
@@ -4473,18 +4473,18 @@
 
 > BEGIN STRING
 "プロフェテス"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/142:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/105:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/146:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/108:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/203:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/224:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/291:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/268:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/300:10 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/116:10 < UNTRANSLATED
-> CONTEXT: Map031/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map028/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/142:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/105:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/146:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/108:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/203:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/224:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/291:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/268:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/300:10
+> CONTEXT: Scripts/☆図鑑用詳細データ/116:10
+> CONTEXT: Map031/events/7/pages/0/0/InlineScript/1:4
+> CONTEXT: Map028/events/7/pages/0/0/InlineScript/1:4
 "Prophetess"
 > END STRING
 
@@ -4502,17 +4502,17 @@
 
 > BEGIN STRING
 "ドラグーン"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/144:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/107:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/149:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/110:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/206:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/228:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/295:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/271:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/303:10 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/128:10 < UNTRANSLATED
-> CONTEXT: Troops/28/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/144:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/107:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/149:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/110:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/206:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/228:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/295:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/271:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/303:10
+> CONTEXT: Scripts/☆図鑑用詳細データ/128:10
+> CONTEXT: Troops/28/pages/0/0/InlineScript/1:4
 "Dragoon"
 > END STRING
 
@@ -4704,8 +4704,8 @@
 
 > BEGIN STRING
 "\#{myname}は\#{skill_name}を唱え始めた！"
-> CONTEXT: Scripts/RPG::State (message)/34:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/34:17
+"\#{myname} started casting \#{skill_name}!"
 > END STRING
 
 > BEGIN STRING
@@ -4722,8 +4722,8 @@
 
 > BEGIN STRING
 "\#{myname}は\#{skill_name}を唱えている！"
-> CONTEXT: Scripts/RPG::State (message)/35:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/35:18
+"\#{myname} is casting \#{skill_name}!"
 > END STRING
 
 > BEGIN STRING
@@ -4808,9 +4808,9 @@
 
 > BEGIN STRING
 "カーミラ"
-> CONTEXT: Scripts/Game_Battler 2/79:21 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/181:19 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/168:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 2/79:21
+> CONTEXT: Scripts/Game_Enemy/181:19
+> CONTEXT: Scripts/☆図鑑用詳細データ/168:10
 "Carmilla"
 > END STRING
 
@@ -4834,9 +4834,9 @@
 
 > BEGIN STRING
 "アスモデ"
-> CONTEXT: Scripts/Game_Battler 2/93:18 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/147:26 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/258:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 2/93:18
+> CONTEXT: Scripts/Game_Enemy/147:26
+> CONTEXT: Scripts/☆図鑑用詳細データ/258:10
 "Asmode"
 > END STRING
 
@@ -4882,9 +4882,9 @@
 
 > BEGIN STRING
 "レヴィアタン"
-> CONTEXT: Scripts/Game_Battler 2/96:18 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/163:18 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/266:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 2/96:18
+> CONTEXT: Scripts/Game_Enemy/163:18
+> CONTEXT: Scripts/☆図鑑用詳細データ/266:10
 "Leviathan"
 > END STRING
 
@@ -4902,9 +4902,9 @@
 
 > BEGIN STRING
 "マモン"
-> CONTEXT: Scripts/Game_Battler 2/98:18 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/183:25 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/275:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 2/98:18
+> CONTEXT: Scripts/Game_Enemy/183:25
+> CONTEXT: Scripts/☆図鑑用詳細データ/275:10
 "Mammon"
 > END STRING
 
@@ -5891,8 +5891,8 @@
 
 > BEGIN STRING
 "「あぁんっ………、\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/70:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/70:16
+"「Aaahh....\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -5959,8 +5959,8 @@
 
 > BEGIN STRING
 "　あたし、いっちゃう…っ！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/71:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/71:16
+"　I'm...gonna cum!"
 > END STRING
 
 > BEGIN STRING
@@ -6207,8 +6207,8 @@
 
 > BEGIN STRING
 "イタズラ日記"
-> CONTEXT: Scripts/RPG::Item(detail)/118:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/118:12
+"Prank Diary"
 > END STRING
 
 > BEGIN STRING
@@ -6239,8 +6239,8 @@
 
 > BEGIN STRING
 "〔史書〕 王国暦173年　著:小悪魔ルパパ\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/119:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/119:15
+"[History] Kingdom Year 173, Author: Little Devil Lupapa"
 > END STRING
 
 > BEGIN STRING
@@ -6263,8 +6263,8 @@
 
 > BEGIN STRING
 "『今日はあの家でアレして、あの子にアレして…\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/120:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/120:15
+"'Today I'll do it in that house, to that girl...\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6317,14 +6317,14 @@
 
 > BEGIN STRING
 "　そうだ、今夜あの子に夜のイタズラもいいかもっ♪"
-> CONTEXT: Scripts/RPG::Item(detail)/121:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/121:15
+" Yeah, I should play a little prank on her tonight♪"
 > END STRING
 
 > BEGIN STRING
 "しかしうまくいかなかった……"
-> CONTEXT: Scripts/RPG::State (message)/130:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/130:17
+"But it didn't work..."
 > END STRING
 
 > BEGIN STRING
@@ -6385,8 +6385,8 @@
 
 > BEGIN STRING
 "「いただきまあす……"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/44:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/44:14
+"「Time to eat..."
 > END STRING
 
 > BEGIN STRING
@@ -7097,10 +7097,10 @@
 
 > BEGIN STRING
 "\#{myname}の全ての能力が上がった！"
-> CONTEXT: Scripts/RPG::State (message)/160:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/163:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/242:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/160:17
+> CONTEXT: Scripts/RPG::State (message)/163:17
+> CONTEXT: Scripts/RPG::State (message)/242:19
+"\#{myname}'s all attributes increased!"
 > END STRING
 
 > BEGIN STRING
@@ -7205,8 +7205,8 @@
 
 > BEGIN STRING
 "「ね、脱いで………"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/46:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/46:14
+"「Hey, take it off..."
 > END STRING
 
 > BEGIN STRING
@@ -7610,9 +7610,9 @@
 
 > BEGIN STRING
 "\#{myname}は放心している…"
-> CONTEXT: Scripts/RPG::State (message)/171:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/423:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/171:18
+> CONTEXT: Scripts/RPG::State (message)/423:18
+"\#{myname} is in a daze..."
 > END STRING
 
 > BEGIN STRING
@@ -8125,11 +8125,11 @@
 
 > BEGIN STRING
 "夢で一つに"
-> CONTEXT: Scripts/RPG::State (message)/229:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/420:22 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/364:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/720:38 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/229:12
+> CONTEXT: Scripts/Game_Battler 3-1/420:22
+> CONTEXT: Scripts/RPG::Skill (message)/364:12
+> CONTEXT: Scripts/Scene_Battle 4/720:38
+"One in a Dream"
 > END STRING
 
 > BEGIN STRING
@@ -8207,8 +8207,8 @@
 
 > BEGIN STRING
 "\#{myname}の存在がリアルになる！\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/RPG::State (message)/241:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/241:19
+"\#{myname}'s presence becomes real!\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -8904,7 +8904,7 @@
 > BEGIN STRING
 "マーメイド叙事詩"
 > CONTEXT: Scripts/RPG::Item(detail)/196:12
-"Mermaid Epic"
+"Mermaid Tale"
 > END STRING
 
 > BEGIN STRING
@@ -9418,8 +9418,8 @@
 
 > BEGIN STRING
 "「あら…、いきそうなのね……\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/190:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/190:16
+"「Oh my...you're cumming\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -9600,8 +9600,8 @@
 
 > BEGIN STRING
 "「あ…あぁンっ……\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/202:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/202:12
+"「A-aaahh...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -9630,9 +9630,9 @@
 
 > BEGIN STRING
 "「……つまんない。"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/203:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/212:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/203:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/212:12
+"「...Boring."
 > END STRING
 
 > BEGIN STRING
@@ -10413,8 +10413,8 @@
 
 > BEGIN STRING
 "「ま……すてき………\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/211:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/211:12
+"「Oh my...lovely...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -11011,8 +11011,8 @@
 
 > BEGIN STRING
 "スレイヴダイアリーⅠ"
-> CONTEXT: Scripts/RPG::Item(detail)/269:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/269:12
+"Slave Diary 1"
 > END STRING
 
 > BEGIN STRING
@@ -11029,8 +11029,8 @@
 
 > BEGIN STRING
 "〔史書〕 王国暦187年　著:名誉奴隷ガクスム\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/270:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/270:15
+"[History] Kingdom Year 187, Author: Honorary Slave Gaksum\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11062,8 +11062,8 @@
 
 > BEGIN STRING
 "『この足音…近づいて来てる。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/271:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/271:15
+"'Those footsteps... they're getting closer.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11087,8 +11087,8 @@
 
 > BEGIN STRING
 "　もうどんな遠くからでも分かる。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/272:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/272:15
+" Now I can tell from any distance.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11099,8 +11099,8 @@
 
 > BEGIN STRING
 "　知らなかったぜ。鎖に繋がれるのがこんなに…"
-> CONTEXT: Scripts/RPG::Item(detail)/273:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/273:15
+" I never knew being chained would be so..."
 > END STRING
 
 > BEGIN STRING
@@ -11111,8 +11111,8 @@
 
 > BEGIN STRING
 "スレイヴダイアリーⅡ"
-> CONTEXT: Scripts/RPG::Item(detail)/274:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/274:12
+"Slave Diary 2"
 > END STRING
 
 > BEGIN STRING
@@ -11191,8 +11191,8 @@
 
 > BEGIN STRING
 "闇の血族Ⅰ"
-> CONTEXT: Scripts/RPG::Item(detail)/279:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/279:12
+"Dark Bloodline 1"
 > END STRING
 
 > BEGIN STRING
@@ -11210,9 +11210,9 @@
 
 > BEGIN STRING
 "〔史書〕 王国暦502年　著:ロムス公爵\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/280:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/285:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/280:15
+> CONTEXT: Scripts/RPG::Item(detail)/285:15
+"[History] Kingdom Year 502, Author: Duke Romus\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11241,8 +11241,8 @@
 
 > BEGIN STRING
 "『今宵の血も美味であった。たまには男も悪くない。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/281:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/281:15
+"'Tonight's blood was delicious. Men aren't so bad.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11272,8 +11272,8 @@
 
 > BEGIN STRING
 "　だが我が妻よ、死にかけの男の傍で何を？\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/282:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/282:15
+" But what is my wife doing beside a dying man?\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11303,8 +11303,8 @@
 
 > BEGIN STRING
 "　おかしな夢を見たと言ってから、何か様子が…"
-> CONTEXT: Scripts/RPG::Item(detail)/283:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/283:15
+" Something's been wrong since that strange dream she had..."
 > END STRING
 
 > BEGIN STRING
@@ -11315,8 +11315,8 @@
 
 > BEGIN STRING
 "闇の血族Ⅱ"
-> CONTEXT: Scripts/RPG::Item(detail)/284:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/284:12
+"Dark Bloodline 2"
 > END STRING
 
 > BEGIN STRING
@@ -11947,7 +11947,7 @@
 
 > BEGIN STRING
 "遠見の指南書"
-> CONTEXT: Scripts/RPG::Item(detail)/339:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/339:12
 "Farsightedness Manual"
 > END STRING
 
@@ -12187,10 +12187,10 @@
 
 > BEGIN STRING
 "夢の深淵"
-> CONTEXT: Scripts/RPG::Item(detail)/367:12 < UNTRANSLATED
-> CONTEXT: Scripts/Window_SaveFile/139:14 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BookShelfHelp/156:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/367:12
+> CONTEXT: Scripts/Window_SaveFile/139:14
+> CONTEXT: Scripts/Window_BookShelfHelp/156:10
+"The Abyss of Dreams"
 > END STRING
 
 > BEGIN STRING
@@ -14699,8 +14699,8 @@
 
 > BEGIN STRING
 "ブラックキャット"
-> CONTEXT: Scripts/Game_Enemy/155:34 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/236:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/155:34
+> CONTEXT: Scripts/☆図鑑用詳細データ/236:10
 "Black Cat"
 > END STRING
 
@@ -14849,8 +14849,8 @@
 
 > BEGIN STRING
 "ガブリエル"
-> CONTEXT: Scripts/Game_Enemy/171:18 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/244:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/171:18
+> CONTEXT: Scripts/☆図鑑用詳細データ/244:10
 "Gabriel"
 > END STRING
 
@@ -14875,8 +14875,8 @@
 
 > BEGIN STRING
 "タマモ"
-> CONTEXT: Scripts/Game_Enemy/173:17 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/349:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/173:17
+> CONTEXT: Scripts/☆図鑑用詳細データ/349:10
 "Tamamo"
 > END STRING
 
@@ -14901,8 +14901,8 @@
 
 > BEGIN STRING
 "ハツメ"
-> CONTEXT: Scripts/Game_Enemy/177:17 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/225:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/177:17
+> CONTEXT: Scripts/☆図鑑用詳細データ/225:10
 "Hatsume"
 > END STRING
 
@@ -14922,8 +14922,8 @@
 
 > BEGIN STRING
 "ホワイトラビット"
-> CONTEXT: Scripts/Game_Enemy/179:10 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/204:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/179:10
+> CONTEXT: Scripts/☆図鑑用詳細データ/204:10
 "White Rabbit"
 > END STRING
 
@@ -14955,8 +14955,8 @@
 
 > BEGIN STRING
 "ミミック☆"
-> CONTEXT: Scripts/Game_Enemy/183:17 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/232:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/183:17
+> CONTEXT: Scripts/☆図鑑用詳細データ/232:10
 "Mimic☆"
 > END STRING
 
@@ -16237,9 +16237,9 @@
 
 > BEGIN STRING
 "しかし\#{target}は平気だった！"
-> CONTEXT: Scripts/RPG::Skill (message)/153:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/686:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/153:17
+> CONTEXT: Scripts/RPG::Skill (message)/686:17
+"But \#{target} remained calm!"
 > END STRING
 
 > BEGIN STRING
@@ -17382,8 +17382,8 @@
 
 > BEGIN STRING
 "より深く\\n\\\\w[\\\\v[104]]\\\\n[1]の夢にとけこんできた！"
-> CONTEXT: Scripts/RPG::Skill (message)/365:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/365:24
+" transported \\n\\\\w[\\\\v[104]]\\\\n[1] deeper into the dream world!"
 > END STRING
 
 > BEGIN STRING
@@ -17867,16 +17867,16 @@
 
 > BEGIN STRING
 "しかし\#{myname}は誘惑に耐えた！"
-> CONTEXT: Scripts/RPG::Skill (message)/434:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/441:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/722:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/751:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/798:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/829:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/874:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/909:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/1406:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/434:17
+> CONTEXT: Scripts/RPG::Skill (message)/441:17
+> CONTEXT: Scripts/RPG::Skill (message)/722:17
+> CONTEXT: Scripts/RPG::Skill (message)/751:17
+> CONTEXT: Scripts/RPG::Skill (message)/798:17
+> CONTEXT: Scripts/RPG::Skill (message)/829:17
+> CONTEXT: Scripts/RPG::Skill (message)/874:17
+> CONTEXT: Scripts/RPG::Skill (message)/909:17
+> CONTEXT: Scripts/RPG::Skill (message)/1406:17
+"But \#{myname} resisted temptation!"
 > END STRING
 
 > BEGIN STRING
@@ -19373,7 +19373,7 @@
 > BEGIN STRING
 "セーブデータがありません"
 > CONTEXT: Scripts/Window_SaveFile/102:15 < UNTRANSLATED
-
+"No save data"
 > END STRING
 
 > BEGIN STRING
@@ -19422,7 +19422,7 @@
 > BEGIN STRING
 "夢の入り口"
 > CONTEXT: Scripts/Window_SaveFile/115:14 < UNTRANSLATED
-
+"Dream Entrance"
 > END STRING
 
 > BEGIN STRING
@@ -19567,7 +19567,7 @@
 > CONTEXT: Scripts/Window_SaveFile/125:14 < UNTRANSLATED
 > CONTEXT: Scripts/Window_BookShelfHelp/33:18 < UNTRANSLATED
 > CONTEXT: Scripts/Bookshelf/54:14 < UNTRANSLATED
-
+"Unicorn's Horn"
 > END STRING
 
 > BEGIN STRING
@@ -19714,9 +19714,9 @@
 
 > BEGIN STRING
 "理想郷への道"
-> CONTEXT: Scripts/Window_SaveFile/135:14 < UNTRANSLATED
-> CONTEXT: Scripts/Bookshelf/68:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/135:14
+> CONTEXT: Scripts/Bookshelf/68:14
+"The Road to Utopia"
 > END STRING
 
 > BEGIN STRING
@@ -19853,9 +19853,9 @@
 
 > BEGIN STRING
 "お伽の城、ラミエル"
-> CONTEXT: Scripts/Window_SaveFile/143:14 < UNTRANSLATED
-> CONTEXT: Scripts/Bookshelf/50:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/143:14
+> CONTEXT: Scripts/Bookshelf/50:14
+"Fairyland Castle, Ramiel"
 > END STRING
 
 > BEGIN STRING
@@ -23240,14 +23240,14 @@
 
 > BEGIN STRING
 "覚えますか？"
-> CONTEXT: Scripts/Scene_AddSkill/8:54 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_AddSkill/8:54
+"Memorize?"
 > END STRING
 
 > BEGIN STRING
 "\#{@memory_skill_name}を覚えます"
-> CONTEXT: Scripts/Scene_AddSkill/19:42 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_AddSkill/19:42
+"Memorize \#{@memory_skill_name}"
 > END STRING
 
 > BEGIN STRING
@@ -24196,8 +24196,8 @@
 
 > BEGIN STRING
 "ボーナス！ \\023\#{exp_bonus}\\024 ポイントの経験を得た！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Scene_Battle 2/465:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/465:17
+"Bonus! Received \\023\#{exp_bonus}\\024 EXP!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -25123,8 +25123,8 @@
 
 > BEGIN STRING
 /大ネルトゥプ記/
-> CONTEXT: Scripts/Bookshelf/222:35 < UNTRANSLATED
-
+> CONTEXT: Scripts/Bookshelf/222:35
+/Great Neltup History/
 > END STRING
 
 > BEGIN STRING
@@ -26887,37 +26887,37 @@
 
 > BEGIN STRING
 "アスモデウス、アスモダイオス。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/260:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/260:12
 "Asmodeus, Asmodea."
 > END STRING
 
 > BEGIN STRING
 "色欲を司る悪魔。ソロモン72柱の1柱にも数えられ、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/261:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/261:12
 "A demon who governs lust. One of the 72 demons"
 > END STRING
 
 > BEGIN STRING
 "72の軍団を率いるとされる。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/262:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/262:12
 "of Solomon, said to command 72 legions."
 > END STRING
 
 > BEGIN STRING
 "旧約聖書ではサラという美しい娘に取り付き、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/263:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/263:12
 "Possessed a beautiful young woman named Sarah"
 > END STRING
 
 > BEGIN STRING
 "彼女が結婚した七人の男をことごとく"
-> CONTEXT: Scripts/☆図鑑用詳細データ/264:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/264:12
 "and strangled all 7 men she married"
 > END STRING
 
 > BEGIN STRING
 "初夜の床で絞め殺した。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/265:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/265:12
 "on their wedding night in the Old Testament."
 > END STRING
 
@@ -26965,31 +26965,31 @@
 
 > BEGIN STRING
 "マンモン。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/277:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/277:12
 "Pronounced more like mamon."
 > END STRING
 
 > BEGIN STRING
 "七つの大罪のうち強欲に対応する悪魔。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/278:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/278:12
 "The demon of greed, one of the 7 deadly sins."
 > END STRING
 
 > BEGIN STRING
 "その名も「富」「金銭」を意味する。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/279:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/279:12
 "The name itself means 'wealth' or 'money'."
 > END STRING
 
 > BEGIN STRING
 "金銀財宝に非常に強欲であり、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/280:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/280:12
 "Very greedy for gold, silver and treasures,"
 > END STRING
 
 > BEGIN STRING
 "人間を誘惑して自分と同じように強欲にさせる。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/281:12 < UNTRANSLATED
+> CONTEXT: Scripts/☆図鑑用詳細データ/281:12
 "tempting humans to become equally greedy"
 > END STRING
 

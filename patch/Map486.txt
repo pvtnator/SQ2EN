@@ -2,30 +2,31 @@
 > BEGIN STRING
 
 \\i[28]\\c[3]ロイヤルグルッペン\\c[0]をみつけた！
-> CONTEXT: Map486/events/2/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map486/events/2/pages/0/2/Dialogue
 
+\\i[28]\\c[3]Royal Gruppen\\c[0] found!
 > END STRING
 
 > BEGIN STRING
 しかし荷物がいっぱいで
 これ以上持てない……
-> CONTEXT: Map486/events/2/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map465/events/8/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map459/events/21/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map450/events/8/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map445/events/4/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map429/events/2/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/9/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map429/events/5/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map430/events/13/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map022/events/16/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/3/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/4/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/6/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/9/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/6/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/38/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/2/pages/0/5/Dialogue
+> CONTEXT: Map465/events/8/pages/0/5/Dialogue
+> CONTEXT: Map459/events/21/pages/0/5/Dialogue
+> CONTEXT: Map450/events/8/pages/0/5/Dialogue
+> CONTEXT: Map445/events/4/pages/0/5/Dialogue
+> CONTEXT: Map429/events/2/pages/0/5/Dialogue
+> CONTEXT: Map432/events/9/pages/0/5/Dialogue
+> CONTEXT: Map429/events/5/pages/0/5/Dialogue
+> CONTEXT: Map430/events/13/pages/0/5/Dialogue
+> CONTEXT: Map022/events/16/pages/0/5/Dialogue
+> CONTEXT: Map020/events/3/pages/0/5/Dialogue
+> CONTEXT: Map009/events/4/pages/0/5/Dialogue
+> CONTEXT: Map009/events/6/pages/0/5/Dialogue
+> CONTEXT: Map009/events/9/pages/0/5/Dialogue
+> CONTEXT: Map012/events/6/pages/0/5/Dialogue
+> CONTEXT: Commonevents/38/48/Dialogue
+But I'm too full to carry any more...
 > END STRING
 
 > BEGIN STRING

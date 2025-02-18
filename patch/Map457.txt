@@ -2,8 +2,9 @@
 > BEGIN STRING
 「…竪琴？
 　どこから………
-> CONTEXT: Map457/events/2/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map457/events/2/pages/0/9/Dialogue
+「...A harp?
+　From where...
 > END STRING
 
 > BEGIN STRING
@@ -18,39 +19,46 @@
 
 > BEGIN STRING
 「狂った詩人が弾いてるの。
-> CONTEXT: Map457/events/2/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map457/events/2/pages/0/14/Dialogue
+「The mad poet is playing it.
 > END STRING
 
 > BEGIN STRING
 「かわいそうに、恋人を夢に奪われて。
 　ここの奥でずっと弾いてるの。
 　誰かに助けてもらうまで。
-> CONTEXT: Map457/events/2/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map457/events/2/pages/0/16/Dialogue
+「Poor thing, his lover stolen away by dreams.
+　He'll keep playing in the back here 
+　until someone comes to help.
 > END STRING
 
 > BEGIN STRING
 「しかし見事な竪琴じゃ。
 　狂人が弾いてるとは思えんな。
-> CONTEXT: Map457/events/2/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map457/events/2/pages/0/20/Dialogue
+「But the harp sounds splendid.
+　I can't believe it's being played by a madman.
 > END STRING
 
 > BEGIN STRING
 「そうね、素敵よね。
 　どんな人魚の歌より、
 　素敵な竪琴。
-> CONTEXT: Map457/events/2/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map457/events/2/pages/0/23/Dialogue
+「Yes, it's wonderful.
+　More beautiful
+　than any mermaid's song.
 > END STRING
 
 > BEGIN STRING
 「だから、人魚にとっては毒の曲。
 　人魚の歌より素敵な曲は、
 　人魚を狂わせる毒の旋律。
-> CONTEXT: Map457/events/2/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map457/events/2/pages/0/26/Dialogue
+「So, it's poison for mermaids.
+　The only song more beautiful than a mermaid's song 
+　is a poisonous melody that drives mermaids crazy.
 > END STRING
 
 > BEGIN STRING
@@ -63,13 +71,14 @@
 
 > BEGIN STRING
 「……ほら、みて、わたしも、
-> CONTEXT: Map457/events/2/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map457/events/2/pages/0/40/Dialogue
+「...See, listen, me too,
 > END STRING
 
 > BEGIN STRING
 「もうだめ、ほら、
 　こんなふうに……
-> CONTEXT: Map457/events/2/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map457/events/2/pages/0/41/Dialogue
+「Too late,
+　like this...
 > END STRING

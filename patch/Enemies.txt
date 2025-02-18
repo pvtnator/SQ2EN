@@ -124,114 +124,114 @@ Rovissa
 
 > BEGIN STRING
 ヴィーヴル/18/CH/50
-> CONTEXT: Enemies/51/name/ < UNTRANSLATED
-> CONTEXT: Enemies/137/name/ < UNTRANSLATED
+> CONTEXT: Enemies/51/name/
+> CONTEXT: Enemies/137/name/
 Vivre/18/CH/50
 > END STRING
 
 > BEGIN STRING
 ティターニア/18/CE/65
-> CONTEXT: Enemies/52/name/ < UNTRANSLATED
-> CONTEXT: Enemies/112/name/ < UNTRANSLATED
+> CONTEXT: Enemies/52/name/
+> CONTEXT: Enemies/112/name/
 Titania/18/CE/65
 > END STRING
 
 > BEGIN STRING
 カリュブディス/17/BG/47
-> CONTEXT: Enemies/53/name/ < UNTRANSLATED
-> CONTEXT: Enemies/144/name/ < UNTRANSLATED
+> CONTEXT: Enemies/53/name/
+> CONTEXT: Enemies/144/name/
 Charybdis/17/BG/47
 > END STRING
 
 > BEGIN STRING
 スフィンクス/19/HK/48
-> CONTEXT: Enemies/54/name/ < UNTRANSLATED
-> CONTEXT: Enemies/122/name/ < UNTRANSLATED
+> CONTEXT: Enemies/54/name/
+> CONTEXT: Enemies/122/name/
 Sphinx/19/HK/48
 > END STRING
 
 > BEGIN STRING
 マーチヘア/19/AE/49
-> CONTEXT: Enemies/55/name/ < UNTRANSLATED
-> CONTEXT: Enemies/171/name/ < UNTRANSLATED
+> CONTEXT: Enemies/55/name/
+> CONTEXT: Enemies/171/name/
 March Hare/19/AE/49
 > END STRING
 
 > BEGIN STRING
 タマモ/19/ACHI/55
-> CONTEXT: Enemies/56/name/ < UNTRANSLATED
-> CONTEXT: Enemies/162/name/ < UNTRANSLATED
+> CONTEXT: Enemies/56/name/
+> CONTEXT: Enemies/162/name/
 Tamamo/19/ACHI/55
 > END STRING
 
 > BEGIN STRING
 ハツメ/19/CM/50
-> CONTEXT: Enemies/57/name/ < UNTRANSLATED
-> CONTEXT: Enemies/166/name/ < UNTRANSLATED
+> CONTEXT: Enemies/57/name/
+> CONTEXT: Enemies/166/name/
 Hatsume/19/CM/50
 > END STRING
 
 > BEGIN STRING
 カーミラ/20/CK/54
-> CONTEXT: Enemies/58/name/ < UNTRANSLATED
-> CONTEXT: Enemies/197/name/ < UNTRANSLATED
+> CONTEXT: Enemies/58/name/
+> CONTEXT: Enemies/197/name/
 Carmilla/20/CK/54
 > END STRING
 
 > BEGIN STRING
 アスモデ/19/A/70
-> CONTEXT: Enemies/59/name/ < UNTRANSLATED
-> CONTEXT: Enemies/102/name/ < UNTRANSLATED
+> CONTEXT: Enemies/59/name/
+> CONTEXT: Enemies/102/name/
 Asmode/19/A/70
 > END STRING
 
 > BEGIN STRING
 レヴィアタン/18/H/58
-> CONTEXT: Enemies/60/name/ < UNTRANSLATED
-> CONTEXT: Enemies/142/name/ < UNTRANSLATED
+> CONTEXT: Enemies/60/name/
+> CONTEXT: Enemies/142/name/
 Leviathan/18/H/58
 > END STRING
 
 > BEGIN STRING
 マモン/18/E/50
-> CONTEXT: Enemies/61/name/ < UNTRANSLATED
+> CONTEXT: Enemies/61/name/
 Mammon/18/E/50
 > END STRING
 
 > BEGIN STRING
 ルシフェル/20/CIK/57
-> CONTEXT: Enemies/62/name/ < UNTRANSLATED
-> CONTEXT: Enemies/157/name/ < UNTRANSLATED
+> CONTEXT: Enemies/62/name/
+> CONTEXT: Enemies/157/name/
 Lucifer/20/CIK/57
 > END STRING
 
 > BEGIN STRING
 ジャバウォック/20/C/51
-> CONTEXT: Enemies/64/name/ < UNTRANSLATED
-> CONTEXT: Enemies/175/name/ < UNTRANSLATED
+> CONTEXT: Enemies/64/name/
+> CONTEXT: Enemies/175/name/
 Jabberwocky/20/C/51
 > END STRING
 
 > BEGIN STRING
 ジャブジャブ/19/CEL/48
-> CONTEXT: Enemies/65/name/ < UNTRANSLATED
-> CONTEXT: Enemies/180/name/ < UNTRANSLATED
+> CONTEXT: Enemies/65/name/
+> CONTEXT: Enemies/180/name/
 Jubjub/19/CEL/48
 > END STRING
 
 > BEGIN STRING
 スライム/18/EL/51
-> CONTEXT: Enemies/67/name/ < UNTRANSLATED
-> CONTEXT: Enemies/68/name/ < UNTRANSLATED
-> CONTEXT: Enemies/213/name/ < UNTRANSLATED
-> CONTEXT: Enemies/214/name/ < UNTRANSLATED
+> CONTEXT: Enemies/67/name/
+> CONTEXT: Enemies/68/name/
+> CONTEXT: Enemies/213/name/
+> CONTEXT: Enemies/214/name/
 Slime/18/EL/51
 > END STRING
 
 > BEGIN STRING
 ドラグーン/19/CG/48
-> CONTEXT: Enemies/69/name/ < UNTRANSLATED
-> CONTEXT: Enemies/210/name/ < UNTRANSLATED
+> CONTEXT: Enemies/69/name/
+> CONTEXT: Enemies/210/name/
 Dragoon/19/CG/48
 > END STRING
 
@@ -315,13 +315,13 @@ Nekomata/6/E/38
 
 > BEGIN STRING
 ケットシー/12/EK/41
-> CONTEXT: Enemies/121/name/ < UNTRANSLATED
+> CONTEXT: Enemies/121/name/
 Cait Sith/12/EK/41
 > END STRING
 
 > BEGIN STRING
 ブラックキャット/6/E/66
-> CONTEXT: Enemies/123/name/ < UNTRANSLATED
+> CONTEXT: Enemies/123/name/
 Black Cat/6/E/66
 > END STRING
 
@@ -333,37 +333,37 @@ Werewolf/6/CL/36
 
 > BEGIN STRING
 ケルベロス/17/CL/45
-> CONTEXT: Enemies/127/name/ < UNTRANSLATED
+> CONTEXT: Enemies/127/name/
 Cerberus/17/CL/45
 > END STRING
 
 > BEGIN STRING
 ラミア/4/AC/36
-> CONTEXT: Enemies/130/name/ < UNTRANSLATED
+> CONTEXT: Enemies/130/name/
 Lamia/4/AC/36
 > END STRING
 
 > BEGIN STRING
 メリュジーヌ/14/BK/50
-> CONTEXT: Enemies/131/name/ < UNTRANSLATED
+> CONTEXT: Enemies/131/name/
 Melusine/14/BK/50
 > END STRING
 
 > BEGIN STRING
 エキドナ/20/AC/50
-> CONTEXT: Enemies/132/name/ < UNTRANSLATED
+> CONTEXT: Enemies/132/name/
 Echidna/20/AC/50
 > END STRING
 
 > BEGIN STRING
 リザードマン/4/CH/35
-> CONTEXT: Enemies/135/name/ < UNTRANSLATED
+> CONTEXT: Enemies/135/name/
 Lizardwoman/4/CH/35
 > END STRING
 
 > BEGIN STRING
 サラマンダー/12/CH/41
-> CONTEXT: Enemies/136/name/ < UNTRANSLATED
+> CONTEXT: Enemies/136/name/
 Salamander/12/CH/41
 > END STRING
 
@@ -375,31 +375,31 @@ Mermaid/10/K/53
 
 > BEGIN STRING
 スキュラ/14/BG/45
-> CONTEXT: Enemies/143/name/ < UNTRANSLATED
+> CONTEXT: Enemies/143/name/
 Scylla/14/BG/45
 > END STRING
 
 > BEGIN STRING
 ヴィレッジャ/3/BD/37
-> CONTEXT: Enemies/145/name/ < UNTRANSLATED
+> CONTEXT: Enemies/145/name/
 Villager/3/BD/37
 > END STRING
 
 > BEGIN STRING
 ヴァージンヴィレッジャ/1/BDN/50
-> CONTEXT: Enemies/146/name/ < UNTRANSLATED
+> CONTEXT: Enemies/146/name/
 Virgin Villager/1/BDN/50
 > END STRING
 
 > BEGIN STRING
 バンシー/12/DF/39
-> CONTEXT: Enemies/147/name/ < UNTRANSLATED
+> CONTEXT: Enemies/147/name/
 Banshee/12/DF/39
 > END STRING
 
 > BEGIN STRING
 アルバスタ/20/FH/52
-> CONTEXT: Enemies/148/name/ < UNTRANSLATED
+> CONTEXT: Enemies/148/name/
 Albasty/20/FH/52
 > END STRING
 
@@ -411,7 +411,7 @@ Harpy/10/CHI/40
 
 > BEGIN STRING
 モーリアン/17/CHKI/48
-> CONTEXT: Enemies/151/name/ < UNTRANSLATED
+> CONTEXT: Enemies/151/name/
 Morrigan/17/CHKI/48
 > END STRING
 
@@ -423,7 +423,7 @@ Angel/7/BGJK/38
 
 > BEGIN STRING
 ガブリエル/12/BGK/40
-> CONTEXT: Enemies/156/name/ < UNTRANSLATED
+> CONTEXT: Enemies/156/name/
 Gabriel/12/BGK/40
 > END STRING
 
@@ -435,96 +435,96 @@ Kuzunoha/7/DG/40
 
 > BEGIN STRING
 ダッキ/11/ACHI/43
-> CONTEXT: Enemies/161/name/ < UNTRANSLATED
+> CONTEXT: Enemies/161/name/
 Dakki/11/ACHI/43
 > END STRING
 
 > BEGIN STRING
 クノイチ/11/CM/40
-> CONTEXT: Enemies/165/name/ < UNTRANSLATED
+> CONTEXT: Enemies/165/name/
 Kunoichi/11/CM/40
 > END STRING
 
 > BEGIN STRING
 クノイチ/5/CM/40
-> CONTEXT: Enemies/167/name/ < UNTRANSLATED
+> CONTEXT: Enemies/167/name/
 Kunoichi/5/CM/40
 > END STRING
 
 > BEGIN STRING
 ハツメ/10/CM/50
-> CONTEXT: Enemies/168/name/ < UNTRANSLATED
+> CONTEXT: Enemies/168/name/
 Hatsume/10/CM/50
 > END STRING
 
 > BEGIN STRING
 ホワイトラビット/15/E/41
-> CONTEXT: Enemies/170/name/ < UNTRANSLATED
+> CONTEXT: Enemies/170/name/
 White Rabbit/15/E/41
 > END STRING
 
 > BEGIN STRING
 サロメ/16/G/50
-> CONTEXT: Enemies/190/name/ < UNTRANSLATED
+> CONTEXT: Enemies/190/name/
 Salome/16/G/50
 > END STRING
 
 > BEGIN STRING
 ヴァンパイア/14/CK/40
-> CONTEXT: Enemies/195/name/ < UNTRANSLATED
+> CONTEXT: Enemies/195/name/
 Vampire/14/CK/40
 > END STRING
 
 > BEGIN STRING
 ミミック/1/E/50
-> CONTEXT: Enemies/200/name/ < UNTRANSLATED
+> CONTEXT: Enemies/200/name/
 Mimic/1/E/50
 > END STRING
 
 > BEGIN STRING
 ミミック☆/1/E/50
-> CONTEXT: Enemies/201/name/ < UNTRANSLATED
+> CONTEXT: Enemies/201/name/
 Mimic☆/1/E/50
 > END STRING
 
 > BEGIN STRING
 マモン/18/E/49
-> CONTEXT: Enemies/202/name/ < UNTRANSLATED
+> CONTEXT: Enemies/202/name/
 Mammon/18/E/49
 > END STRING
 
 > BEGIN STRING
 クィーンメイヴ/12/CH/42
-> CONTEXT: Enemies/205/name/ < UNTRANSLATED
+> CONTEXT: Enemies/205/name/
 Queen Maeve/12/CH/42
 > END STRING
 
 > BEGIN STRING
 マイェストレ/18/CH/51
-> CONTEXT: Enemies/206/name/ < UNTRANSLATED
+> CONTEXT: Enemies/206/name/
 Măiestre/18/CH/51
 > END STRING
 
 > BEGIN STRING
 プロフェテス/13/KH/40
-> CONTEXT: Enemies/211/name/ < UNTRANSLATED
+> CONTEXT: Enemies/211/name/
 Prophetess/13/KH/40
 > END STRING
 
 > BEGIN STRING
 ソルジャー/7/C/36
-> CONTEXT: Enemies/212/name/ < UNTRANSLATED
+> CONTEXT: Enemies/212/name/
 Soldier/7/C/36
 > END STRING
 
 > BEGIN STRING
 ユニコーン/16/B/50
-> CONTEXT: Enemies/215/name/ < UNTRANSLATED
+> CONTEXT: Enemies/215/name/
 Unicorn/16/B/50
 > END STRING
 
 > BEGIN STRING
 ゴブリン/4/CE/33
-> CONTEXT: Enemies/216/name/ < UNTRANSLATED
+> CONTEXT: Enemies/216/name/
 Goblin/4/CE/33
 > END STRING

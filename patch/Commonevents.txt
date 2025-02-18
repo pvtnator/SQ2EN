@@ -438,28 +438,29 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 
 > BEGIN STRING
 \\a[\\v[105]]どこかで詩人が曲を奏でている…
-> CONTEXT: Commonevents/35/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/191/Dialogue
+\\a[\\v[105]]A poet is playing somewhere...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]どこかで詩人が曲を奏でている…
 \\k
-> CONTEXT: Commonevents/35/202/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/35/215/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/202/Dialogue
+> CONTEXT: Commonevents/35/215/Dialogue
+\\a[\\v[105]]A poet is playing somewhere...
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]全員のEPが回復した！
-> CONTEXT: Commonevents/35/208/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/208/Dialogue
+\\a[\\v[105]]Restored everyone's EP!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]全員のテンションが上がった！
-> CONTEXT: Commonevents/35/223/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/223/Dialogue
+\\a[\\v[105]]Increased everyone's tension!
 > END STRING
 
 > BEGIN STRING
@@ -595,20 +596,21 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 > BEGIN STRING
 トラップ！
 人魚の罠だ！
-> CONTEXT: Commonevents/44/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/51/Dialogue
+Trap!
+Mermaid trap!
 > END STRING
 
 > BEGIN STRING
 水底に引き込まれる………
-> CONTEXT: Commonevents/44/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/56/Dialogue
+I'm being drawn to the depths.....
 > END STRING
 
 > BEGIN STRING
 \\n[1]のテンションが下がってしまった…
-> CONTEXT: Commonevents/44/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/77/Dialogue
+\\n[1]'s tension has gone down...
 > END STRING
 
 > BEGIN STRING
@@ -646,14 +648,15 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 > BEGIN STRING
 トラップ？
 リャナンシーの罠だ！
-> CONTEXT: Commonevents/44/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/119/Dialogue
+A trap?
+Leanan Sídhe trap!
 > END STRING
 
 > BEGIN STRING
 \\n[1]に幸運が舞い降りた！
-> CONTEXT: Commonevents/44/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/127/Dialogue
+\\n[1] was blessed with good fortune!
 > END STRING
 
 > BEGIN STRING
@@ -678,8 +681,8 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]は逃げだした！
-> CONTEXT: Commonevents/49/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/49/1/Dialogue
+\\a[\\v[105]]\\n[1] ran away!
 > END STRING
 
 > BEGIN STRING
@@ -696,8 +699,8 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 
 > BEGIN STRING
 "\\nすばやく回りこんできた！"
-> CONTEXT: Commonevents/50/10/InlineScript/10:9 < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/10/InlineScript/10:9
+"\\nquickly turned you around!"
 > END STRING
 
 > BEGIN STRING
@@ -7517,15 +7520,16 @@ Nothing happened here...
 
 > BEGIN STRING
 あたりに悲しげな水音がこだまする……
-> CONTEXT: Commonevents/304/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/21/Dialogue
+The sad sound of water echoes all around...
 > END STRING
 
 > BEGIN STRING
 詩人はどこかで、
 色っぽい曲を弾き始めた…
-> CONTEXT: Commonevents/304/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/27/Dialogue
+Somewhere, 
+the poet began to play an amorous tune...
 > END STRING
 
 > BEGIN STRING
@@ -7543,8 +7547,8 @@ Nothing happened here...
 
 > BEGIN STRING
 EPが回復しやすくなった！
-> CONTEXT: Commonevents/304/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/43/Dialogue
+It's now easier to recover EP!
 > END STRING
 
 > BEGIN STRING

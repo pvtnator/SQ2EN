@@ -1536,8 +1536,8 @@ Mor-Rogin
 
 > BEGIN STRING
 夢と一つに/130/100/100
-> CONTEXT: States/289/name/ < UNTRANSLATED
-
+> CONTEXT: States/289/name/
+One with the Dream/130/100/100
 > END STRING
 
 > BEGIN STRING
@@ -1727,9 +1727,9 @@ Forcible
 
 > BEGIN STRING
 夢で一つに
-> CONTEXT: States/353/name/ < UNTRANSLATED
-> CONTEXT: Skills/231/name/ < UNTRANSLATED
-
+> CONTEXT: States/353/name/
+> CONTEXT: Skills/231/name/
+One in a Dream
 > END STRING
 
 > BEGIN STRING
@@ -2050,68 +2050,68 @@ EP回復量アップ
 
 > BEGIN STRING
 EV_いけないおはなし
-> CONTEXT: States/456/name/ < UNTRANSLATED
-
+> CONTEXT: States/456/name/
+EV_Naughty Stories
 > END STRING
 
 > BEGIN STRING
 EV_火竜と石竜
-> CONTEXT: States/457/name/ < UNTRANSLATED
-
+> CONTEXT: States/457/name/
+EV_Fire and Stone Dragons
 > END STRING
 
 > BEGIN STRING
 EV_思い出の森
-> CONTEXT: States/458/name/ < UNTRANSLATED
-
+> CONTEXT: States/458/name/
+EV_Forest of Memories
 > END STRING
 
 > BEGIN STRING
 EV_狂気の詩人
-> CONTEXT: States/459/name/ < UNTRANSLATED
-
+> CONTEXT: States/459/name/
+EV_Mad Poet
 > END STRING
 
 > BEGIN STRING
 EV_砂漠の妖鳥
-> CONTEXT: States/460/name/ < UNTRANSLATED
-
+> CONTEXT: States/460/name/
+EV_The Desert Bird
 > END STRING
 
 > BEGIN STRING
 EV_一番大事な本
-> CONTEXT: States/461/name/ < UNTRANSLATED
-
+> CONTEXT: States/461/name/
+EV_The Most Important Book
 > END STRING
 
 > BEGIN STRING
 EV_迷子の少女
-> CONTEXT: States/462/name/ < UNTRANSLATED
-
+> CONTEXT: States/462/name/
+EV_The Lost Girl
 > END STRING
 
 > BEGIN STRING
 EV_夢の深淵
-> CONTEXT: States/463/name/ < UNTRANSLATED
-
+> CONTEXT: States/463/name/
+EV_The Abyss of Dreams
 > END STRING
 
 > BEGIN STRING
 EV_理想郷への道
-> CONTEXT: States/464/name/ < UNTRANSLATED
-
+> CONTEXT: States/464/name/
+EV_The Road to Utopia
 > END STRING
 
 > BEGIN STRING
 EV_白の史書
-> CONTEXT: States/465/name/ < UNTRANSLATED
-
+> CONTEXT: States/465/name/
+EV_Blank Book
 > END STRING
 
 > BEGIN STRING
 EV_色づく魔物
-> CONTEXT: States/466/name/ < UNTRANSLATED
-
+> CONTEXT: States/466/name/
+EV_Colorful Demon
 > END STRING
 
 > BEGIN STRING

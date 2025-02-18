@@ -508,8 +508,8 @@ Caress teasingly to deal increased pleasure next action
 
 > BEGIN STRING
 チャージ/0/110/0
-> CONTEXT: Skills/76/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/76/name/
+Charge/0/110/0
 > END STRING
 
 > BEGIN STRING
@@ -4193,9 +4193,9 @@ Increase tension gain
 
 > BEGIN STRING
 パートナーの魔力と魅力アップ
-> CONTEXT: Skills/700/description/ < UNTRANSLATED
-> CONTEXT: Skills/701/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/700/description/
+> CONTEXT: Skills/701/description/
+Increase partner's magic and charm
 > END STRING
 
 > BEGIN STRING

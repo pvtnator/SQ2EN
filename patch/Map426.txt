@@ -346,96 +346,106 @@ Ask about \\i[181]other books
 
 > BEGIN STRING
 「一曲、弾かせてもらえるかな？
-> CONTEXT: Map426/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/10/pages/0/1/Dialogue
+「May I play a song for you?
 > END STRING
 
 > BEGIN STRING
 「一曲、弾かせてもらえるかな？」
-> CONTEXT: Map426/events/10/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/10/pages/0/3/Dialogue
+「May I play a song for you?」
 > END STRING
 
 > BEGIN STRING
 曲を選んで下さい
-> CONTEXT: Map426/events/10/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/10/pages/0/7/Dialogue
+Please choose a song
 > END STRING
 
 > BEGIN STRING
 「アイゼクト様、お預かりしていた本の中に
 　いつの間にかこんな本が……
-> CONTEXT: Map426/events/13/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/11/Dialogue
+「Mr. Ayxect, among the books I received, 
+　I suddenly found these books...
 > END STRING
 
 > BEGIN STRING
 「島の地図に…何じゃ？
 　この史書は白紙ではないか。
-> CONTEXT: Map426/events/13/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/22/Dialogue
+「The island map...huh?
+　The history book is blank.
 > END STRING
 
 > BEGIN STRING
 「でもネルトゥプって、
 　どこかで聞いたことありますよぉ。
-> CONTEXT: Map426/events/13/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/25/Dialogue
+「But I've heard of Neltup 
+　somewhere before.
 > END STRING
 
 > BEGIN STRING
 「セルベル王率いるラミエル国の騎士団が、
 　ネルトゥプ島の覇権を巡って
 　魔物の国ドルヌスと戦う……
-> CONTEXT: Map426/events/13/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/28/Dialogue
+「The Knights of Ramiel, led by King Serbel, 
+　fighting against the demon nation of Dornus 
+　for dominance over the island of Neltup...
 > END STRING
 
 > BEGIN STRING
 「そんなお伽話が確かあったはずじゃ。
 　これはそれか？
-> CONTEXT: Map426/events/13/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/31/Dialogue
+「I remember a fairy tale like that. 
+　Is that what this is?
 > END STRING
 
 > BEGIN STRING
 「わ、さすがアイゼクト様ぁ。
-> CONTEXT: Map426/events/13/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/34/Dialogue
+「Wow, as expected of Mr. Ayxect.
 > END STRING
 
 > BEGIN STRING
 「で、その戦いはどうなったんですかぁ？
-> CONTEXT: Map426/events/13/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/35/Dialogue
+「So how did that battle go?
 > END STRING
 
 > BEGIN STRING
 「うむ、その後の顛末は……
-> CONTEXT: Map426/events/13/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/37/Dialogue
+「Well, what happened after that was...
 > END STRING
 
 > BEGIN STRING
 「…む…どうしたことか。
 　思い出せんな。
-> CONTEXT: Map426/events/13/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/38/Dialogue
+「...Hmm... What's this?
+　I can't remember.
 > END STRING
 
 > BEGIN STRING
 「あらぁ。
 　アイゼクト様が本の内容を
 　思い出せないなんて……
-> CONTEXT: Map426/events/13/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/41/Dialogue
+「Oh dear. I can't believe 
+　Mr. Ayxect can't remember 
+　the contents of the book...
 > END STRING
 
 > BEGIN STRING
 「気になりますねぇ。
 　白紙の史書……
-> CONTEXT: Map426/events/13/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/44/Dialogue
+「That makes me curious.
+　A blank history book...
 > END STRING
 
 > BEGIN STRING

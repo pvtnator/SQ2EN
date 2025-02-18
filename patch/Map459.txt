@@ -2,7 +2,8 @@
 > BEGIN STRING
 
 \\i[60]\\c[3]人魚の涙\\c[0] をみつけた！
-> CONTEXT: Map459/events/21/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map459/events/21/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map459/events/21/pages/0/3/Dialogue
+> CONTEXT: Map459/events/21/pages/0/20/Dialogue
 
+\\i[60]\\c[3]Mermaid's Tears\\c[0] found!
 > END STRING

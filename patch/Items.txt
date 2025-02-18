@@ -151,14 +151,14 @@ Chamomile
 
 > BEGIN STRING
 ディルエッセンス
-> CONTEXT: Items/17/name/ < UNTRANSLATED
-
+> CONTEXT: Items/17/name/
+Dill Essence
 > END STRING
 
 > BEGIN STRING
 クラムジ回復 / ミニマム回復 / ヴィジョン回復
-> CONTEXT: Items/17/description/ < UNTRANSLATED
-
+> CONTEXT: Items/17/description/
+Recover Clumsy / Mini / Vision
 > END STRING
 
 > BEGIN STRING
@@ -287,7 +287,7 @@ Stimulant
 
 > BEGIN STRING
 強化興奮剤
-> CONTEXT: Items/34/name/ < UNTRANSLATED
+> CONTEXT: Items/34/name/
 Enhanced Stimulant
 > END STRING
 
@@ -374,14 +374,14 @@ Ether Lotion
 
 > BEGIN STRING
 本の一頁
-> CONTEXT: Items/46/name/ < UNTRANSLATED
-
+> CONTEXT: Items/46/name/
+Book Page
 > END STRING
 
 > BEGIN STRING
 今ブックシェルフに入っている本の一頁　リアリティを高める
-> CONTEXT: Items/46/description/ < UNTRANSLATED
-
+> CONTEXT: Items/46/description/
+A page from a book on your bookshelf - Enhance reality
 > END STRING
 
 > BEGIN STRING
@@ -525,14 +525,14 @@ Limit your level to match your opponent
 
 > BEGIN STRING
 人魚の涙
-> CONTEXT: Items/60/name/ < UNTRANSLATED
-
+> CONTEXT: Items/60/name/
+Mermaid's Tears
 > END STRING
 
 > BEGIN STRING
 詩人の心を狂わせる、人魚が流した涙
-> CONTEXT: Items/60/description/ < UNTRANSLATED
-
+> CONTEXT: Items/60/description/
+Mermaid's tears drive the poet mad
 > END STRING
 
 > BEGIN STRING
@@ -549,26 +549,26 @@ Limit your level to match your opponent
 
 > BEGIN STRING
 おぼろげな腕輪
-> CONTEXT: Items/71/name/ < UNTRANSLATED
-
+> CONTEXT: Items/71/name/
+Faint Gauntlets
 > END STRING
 
 > BEGIN STRING
 おぼろげに存在する腕輪　このままでは装備できない
-> CONTEXT: Items/71/description/ < UNTRANSLATED
-
+> CONTEXT: Items/71/description/
+Vaguely existing gauntlets. Can't equip as is.
 > END STRING
 
 > BEGIN STRING
 おぼろげな袖飾り
-> CONTEXT: Items/72/name/ < UNTRANSLATED
-
+> CONTEXT: Items/72/name/
+Faint Sleeve Ornaments
 > END STRING
 
 > BEGIN STRING
 おぼろげに存在する袖飾り　このままでは装備できない
-> CONTEXT: Items/72/description/ < UNTRANSLATED
-
+> CONTEXT: Items/72/description/
+Vaguely existing sleeve ornaments. Can't equip as is.
 > END STRING
 
 > BEGIN STRING
@@ -585,38 +585,38 @@ Vaguely existing gloves. Can't equip as is.
 
 > BEGIN STRING
 おぼろげな飾り帯
-> CONTEXT: Items/74/name/ < UNTRANSLATED
-
+> CONTEXT: Items/74/name/
+Faint Decorative Belt
 > END STRING
 
 > BEGIN STRING
 おぼろげに存在する飾り帯　このままでは装備できない
-> CONTEXT: Items/74/description/ < UNTRANSLATED
-
+> CONTEXT: Items/74/description/
+Vaguely existing decorative belt. Can't equip as is.
 > END STRING
 
 > BEGIN STRING
 おぼろげな首飾り
-> CONTEXT: Items/75/name/ < UNTRANSLATED
-
+> CONTEXT: Items/75/name/
+Faint Necklace
 > END STRING
 
 > BEGIN STRING
 おぼろげに存在する首飾り　このままでは装備できない
-> CONTEXT: Items/75/description/ < UNTRANSLATED
-
+> CONTEXT: Items/75/description/
+Vaguely existing necklace. Can't equip as is.
 > END STRING
 
 > BEGIN STRING
 おぼろげな指輪
-> CONTEXT: Items/76/name/ < UNTRANSLATED
-
+> CONTEXT: Items/76/name/
+Faint Ring
 > END STRING
 
 > BEGIN STRING
 おぼろげに存在する指輪　このままでは装備できない
-> CONTEXT: Items/76/description/ < UNTRANSLATED
-
+> CONTEXT: Items/76/description/
+Vaguely existing ring. Can't equip as is.
 > END STRING
 
 > BEGIN STRING
@@ -865,8 +865,8 @@ Anjos Sea Map
 
 > BEGIN STRING
 ネルトゥプ島地図
-> CONTEXT: Items/113/name/ < UNTRANSLATED
-
+> CONTEXT: Items/113/name/
+Neltup Island Map
 > END STRING
 
 > BEGIN STRING
@@ -957,14 +957,14 @@ Succubus History 3
 
 > BEGIN STRING
 イタズラ日記
-> CONTEXT: Items/124/name/ < UNTRANSLATED
-
+> CONTEXT: Items/124/name/
+Prank Diary
 > END STRING
 
 > BEGIN STRING
 〔史書〕 小悪魔たちのイタズラ日記
-> CONTEXT: Items/124/description/ < UNTRANSLATED
-
+> CONTEXT: Items/124/description/
+[History] Diary of Little Devils' Pranks
 > END STRING
 
 > BEGIN STRING
@@ -1145,7 +1145,7 @@ Therianthropy History 2
 > BEGIN STRING
 マーメイド叙事詩
 > CONTEXT: Items/140/name/
-Mermaid Epic
+Mermaid Tale
 > END STRING
 
 > BEGIN STRING
@@ -1288,8 +1288,8 @@ Nine Tails Legend 3
 
 > BEGIN STRING
 スレイヴダイアリーⅠ
-> CONTEXT: Items/155/name/ < UNTRANSLATED
-
+> CONTEXT: Items/155/name/
+Slave Diary 1
 > END STRING
 
 > BEGIN STRING
@@ -1301,14 +1301,14 @@ Nine Tails Legend 3
 
 > BEGIN STRING
 スレイヴダイアリーⅡ
-> CONTEXT: Items/156/name/ < UNTRANSLATED
-
+> CONTEXT: Items/156/name/
+Slave Diary 2
 > END STRING
 
 > BEGIN STRING
 闇の血族Ⅰ
-> CONTEXT: Items/157/name/ < UNTRANSLATED
-
+> CONTEXT: Items/157/name/
+Dark Bloodline 1
 > END STRING
 
 > BEGIN STRING
@@ -1320,8 +1320,8 @@ Nine Tails Legend 3
 
 > BEGIN STRING
 闇の血族Ⅱ
-> CONTEXT: Items/158/name/ < UNTRANSLATED
-
+> CONTEXT: Items/158/name/
+Dark Bloodline 2
 > END STRING
 
 > BEGIN STRING
@@ -1442,8 +1442,8 @@ Nine Tails Legend 3
 
 > BEGIN STRING
 大ネルトゥプ記
-> CONTEXT: Items/171/name/ < UNTRANSLATED
-
+> CONTEXT: Items/171/name/
+Great Neltup History
 > END STRING
 
 > BEGIN STRING
@@ -1680,7 +1680,7 @@ Preemptiveness Manual
 
 > BEGIN STRING
 夢の深淵
-> CONTEXT: Items/194/name/ < UNTRANSLATED
+> CONTEXT: Items/194/name/
 The Abyss of Dreams
 > END STRING
 
@@ -2001,7 +2001,7 @@ Night Picture Book
 > BEGIN STRING
 一角獣の角
 > CONTEXT: Items/228/name/ < UNTRANSLATED
-
+Unicorn's Horn
 > END STRING
 
 > BEGIN STRING
@@ -2073,7 +2073,7 @@ Nightmare
 
 > BEGIN STRING
 アスモデ
-> CONTEXT: Items/402/name/ < UNTRANSLATED
+> CONTEXT: Items/402/name/
 Asmode
 > END STRING
 
@@ -2163,7 +2163,7 @@ Sphinx
 
 > BEGIN STRING
 ブラックキャット
-> CONTEXT: Items/423/name/ < UNTRANSLATED
+> CONTEXT: Items/423/name/
 Black Cat
 > END STRING
 
@@ -2175,7 +2175,7 @@ Werewolf
 
 > BEGIN STRING
 ケルベロス
-> CONTEXT: Items/427/name/ < UNTRANSLATED
+> CONTEXT: Items/427/name/
 Cerberus
 > END STRING
 
@@ -2223,7 +2223,7 @@ Mermaid
 
 > BEGIN STRING
 レヴィアタン
-> CONTEXT: Items/442/name/ < UNTRANSLATED
+> CONTEXT: Items/442/name/
 Leviathan
 > END STRING
 
@@ -2279,13 +2279,13 @@ Angel
 
 > BEGIN STRING
 ガブリエル
-> CONTEXT: Items/456/name/ < UNTRANSLATED
+> CONTEXT: Items/456/name/
 Gabriel
 > END STRING
 
 > BEGIN STRING
 ルシフェル
-> CONTEXT: Items/457/name/ < UNTRANSLATED
+> CONTEXT: Items/457/name/
 Lucifer
 > END STRING
 
@@ -2303,31 +2303,31 @@ Dakki
 
 > BEGIN STRING
 タマモ
-> CONTEXT: Items/462/name/ < UNTRANSLATED
+> CONTEXT: Items/462/name/
 Tamamo
 > END STRING
 
 > BEGIN STRING
 クノイチ
-> CONTEXT: Items/465/name/ < UNTRANSLATED
+> CONTEXT: Items/465/name/
 Kunoichi
 > END STRING
 
 > BEGIN STRING
 ハツメ
-> CONTEXT: Items/466/name/ < UNTRANSLATED
+> CONTEXT: Items/466/name/
 Hatsume
 > END STRING
 
 > BEGIN STRING
 ホワイトラビット
-> CONTEXT: Items/470/name/ < UNTRANSLATED
+> CONTEXT: Items/470/name/
 White Rabbit
 > END STRING
 
 > BEGIN STRING
 マーチヘア
-> CONTEXT: Items/471/name/ < UNTRANSLATED
+> CONTEXT: Items/471/name/
 March Hare
 > END STRING
 
@@ -2345,19 +2345,19 @@ Jubjub
 
 > BEGIN STRING
 サロメ
-> CONTEXT: Items/490/name/ < UNTRANSLATED
+> CONTEXT: Items/490/name/
 Salome
 > END STRING
 
 > BEGIN STRING
 ヴァンパイア
-> CONTEXT: Items/495/name/ < UNTRANSLATED
+> CONTEXT: Items/495/name/
 Vampire
 > END STRING
 
 > BEGIN STRING
 カーミラ
-> CONTEXT: Items/497/name/ < UNTRANSLATED
+> CONTEXT: Items/497/name/
 Carmilla
 > END STRING
 
@@ -2370,13 +2370,13 @@ Mimic
 
 > BEGIN STRING
 ミミック☆
-> CONTEXT: Items/501/name/ < UNTRANSLATED
+> CONTEXT: Items/501/name/
 Mimic☆
 > END STRING
 
 > BEGIN STRING
 マモン
-> CONTEXT: Items/502/name/ < UNTRANSLATED
+> CONTEXT: Items/502/name/
 Mammon
 > END STRING
 
@@ -2394,36 +2394,36 @@ Măiestre
 
 > BEGIN STRING
 ドラグーン
-> CONTEXT: Items/510/name/ < UNTRANSLATED
+> CONTEXT: Items/510/name/
 Dragoon
 > END STRING
 
 > BEGIN STRING
 プロフェテス
-> CONTEXT: Items/511/name/ < UNTRANSLATED
+> CONTEXT: Items/511/name/
 Prophetess
 > END STRING
 
 > BEGIN STRING
 ソルジャー
-> CONTEXT: Items/512/name/ < UNTRANSLATED
+> CONTEXT: Items/512/name/
 Soldier
 > END STRING
 
 > BEGIN STRING
 スライム
-> CONTEXT: Items/513/name/ < UNTRANSLATED
+> CONTEXT: Items/513/name/
 Slime
 > END STRING
 
 > BEGIN STRING
 ユニコーン
-> CONTEXT: Items/515/name/ < UNTRANSLATED
+> CONTEXT: Items/515/name/
 Unicorn
 > END STRING
 
 > BEGIN STRING
 ゴブリン
-> CONTEXT: Items/516/name/ < UNTRANSLATED
+> CONTEXT: Items/516/name/
 Goblin
 > END STRING
