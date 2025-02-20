@@ -2,61 +2,67 @@
 > BEGIN STRING
 「我々はドルヌスに攻め入るため、
 　この森に陣を張っている。
-> CONTEXT: Map026/events/20/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/20/pages/0/1/Dialogue
+「We are encamped in this forest 
+　to invade Dornus.
 > END STRING
 
 > BEGIN STRING
 「だが男手が足りなくて忙しいのだ。
 　子供は邪魔せんでくれ。
-> CONTEXT: Map026/events/20/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/20/pages/0/3/Dialogue
+「But we're short on men and we're busy. 
+　Please don't get in the way, kid.
 > END STRING
 
 > BEGIN STRING
 「あーあ、ヒマねぇ～っ
-> CONTEXT: Map026/events/21/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/21/pages/0/1/Dialogue
+「Oh, I'm bored～
 > END STRING
 
 > BEGIN STRING
 「隊長さんたら、あたしたちに仕事くれないのよ。
 　女のやることじゃないとか言って。
-> CONTEXT: Map026/events/21/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/21/pages/0/2/Dialogue
+「The captain won't give us any work. 
+　He says it's not something a woman should do.
 > END STRING
 
 > BEGIN STRING
 「男の人はみんな戦でいなくなっちゃって、
 　もうほとんど女しかいないってのにね。
-> CONTEXT: Map026/events/21/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/21/pages/0/4/Dialogue
+「All the men have left for the war,
+　and there are only women left.
 > END STRING
 
 > BEGIN STRING
 「あなたみたいなコドモが、
 　どうしてこんなところにいるの？
-> CONTEXT: Map026/events/22/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/22/pages/0/1/Dialogue
+「Why is a kid like you here?
 > END STRING
 
 > BEGIN STRING
 「まさかドルヌスのスパイ…
 　じゃないわよねぇ。
-> CONTEXT: Map026/events/22/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/22/pages/0/3/Dialogue
+「You're not a spy for Dornus, are you?
 > END STRING
 
 > BEGIN STRING
 「いつドルヌスの奴らと戦えるのかしら、
 　楽しみねえ。
-> CONTEXT: Map026/events/23/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/23/pages/0/1/Dialogue
+「I wonder when we'll get to fight 
+　the guys from Dornus. I'm looking forward to it.
 > END STRING
 
 > BEGIN STRING
 「あたし達のワザにかかれば、
 　きっと瞬殺よ。　フフッ
-> CONTEXT: Map026/events/23/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/23/pages/0/3/Dialogue
+「If we use our technique,
+　it'll be an instant win. Hehe.
 > END STRING

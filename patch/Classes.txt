@@ -51,8 +51,8 @@ Lars
 
 > BEGIN STRING
 ルゲイエ
-> CONTEXT: Classes/12/name/ < UNTRANSLATED
-
+> CONTEXT: Classes/12/name/
+Rugeiyu
 > END STRING
 
 > BEGIN STRING

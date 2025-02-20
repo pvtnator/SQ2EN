@@ -7,145 +7,156 @@
 
 > BEGIN STRING
 「ちゅっ\\e[0]
-> CONTEXT: Map447/events/41/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/41/Dialogue
+「*Kiss*\\e[0]
 > END STRING
 
 > BEGIN STRING
 「むわっ！
 　な、何じゃ！？
-> CONTEXT: Map447/events/41/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/44/Dialogue
+「Wah!
+　W-what!?
 > END STRING
 
 > BEGIN STRING
 「んふっ、ちゅぅしちゃったぁ～\\e[0]
-> CONTEXT: Map447/events/41/pages/0/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/122/Dialogue
+「Hm, just a little kiss～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「な…熱い……
 　頭が………
-> CONTEXT: Map447/events/41/pages/0/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/126/Dialogue
+「H-hot...
+　My head...
 > END STRING
 
 > BEGIN STRING
 「そのまま、トロトロに
 　溶かしてあげるぅ～～っ\\e[0]
-> CONTEXT: Map447/events/41/pages/0/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/129/Dialogue
+「Just like that, 
+　I'll melt you into a mess～～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ふにゃぁ～～
-> CONTEXT: Map447/events/41/pages/0/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/163/Dialogue
+「Uaaah～～
 > END STRING
 
 > BEGIN STRING
 「何じゃ、まだやるのか？
-> CONTEXT: Map447/events/41/pages/0/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/165/Dialogue
+「What, you're still going?
 > END STRING
 
 > BEGIN STRING
 「やぁん、おじいちゃん元気～～\\e[0]
-> CONTEXT: Map447/events/41/pages/0/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/167/Dialogue
+「Ah, what a lively grandpa～～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ねえねえ、おじいちゃん
 　こんなところで何してるの？
-> CONTEXT: Map447/events/41/pages/0/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/168/Dialogue
+「Hey grandpa,
+　what are you doing here?
 > END STRING
 
 > BEGIN STRING
 「こんなところも何も、
 　ここはわしの夢ではないのか。
-> CONTEXT: Map447/events/41/pages/0/171/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/171/Dialogue
+「This place is nothing,
+　it's just my dream.
 > END STRING
 
 > BEGIN STRING
 「へぇ、そうなの？
-> CONTEXT: Map447/events/41/pages/0/174/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/174/Dialogue
+「Ooh, really?
 > END STRING
 
 > BEGIN STRING
 「…違うのか？
-> CONTEXT: Map447/events/41/pages/0/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/176/Dialogue
+「...Is it not?
 > END STRING
 
 > BEGIN STRING
 「ん～、ここはあたしと友達の
 　\\dエサ\\d場だったんだけどぉ～～
-> CONTEXT: Map447/events/41/pages/0/178/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/178/Dialogue
+「Hmm, this was a \\dfood\\d luring spot 
+　for me and my friends, but～～
 > END STRING
 
 > BEGIN STRING
 「でもそうなのかもね？
 　あたしよくわかんない\\e[0]
-> CONTEXT: Map447/events/41/pages/0/181/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/181/Dialogue
+「But maybe you're right?
+　I don't really know\\e[0]
 > END STRING
 
 > BEGIN STRING
 「そういえば、お前は消えんのじゃな。
-> CONTEXT: Map447/events/41/pages/0/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/184/Dialogue
+「By the way, you're not disappearing.
 > END STRING
 
 > BEGIN STRING
 「う～ん、もしかしたら
 　あたしの夢なのかもね？
-> CONTEXT: Map447/events/41/pages/0/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/186/Dialogue
+「Hmm, maybe that's my dream?
 > END STRING
 
 > BEGIN STRING
 「ねえおじいちゃん、それじゃ
 　目が覚めるまで一緒にいようよ。
-> CONTEXT: Map447/events/41/pages/0/188/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/188/Dialogue
+「Hey grandpa, let's stay together 
+　until you wake up.
 > END STRING
 
 > BEGIN STRING
 「いいでしょう？
 　そう願ってくれれば、
 　それだけでいいの。
-> CONTEXT: Map447/events/41/pages/0/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/190/Dialogue
+「Isn't that okay?
+　If you want to,
+　we can do it.
 > END STRING
 
 > BEGIN STRING
 「いいでしょう？」
-> CONTEXT: Map447/events/41/pages/0/194/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/194/Dialogue
+「Isn't that okay?」
 > END STRING
 
 > BEGIN STRING
 「あたしメローナ、よろしくぅ\\e[0]
-> CONTEXT: Map447/events/41/pages/0/198/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/198/Dialogue
+「I'm Merona, nice to meet you\\e[0]
 > END STRING
 
 > BEGIN STRING
 
 メローナを呼べるようになった！
-> CONTEXT: Map447/events/41/pages/0/215/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/427/Dialogue < UNTRANSLATED
+> CONTEXT: Map447/events/41/pages/0/215/Dialogue
+> CONTEXT: Map452/events/9/pages/0/427/Dialogue
 
+Merona can now be summoned!
 > END STRING
 
 > BEGIN STRING
 「ふにゃ～、残念……
-> CONTEXT: Map447/events/41/pages/0/222/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map447/events/41/pages/0/222/Dialogue
+「Uah～, shame...
 > END STRING

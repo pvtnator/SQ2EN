@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 ブックシェルフ (夢を失った島、ネルトゥプ)
-> CONTEXT: Map018/events/1/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/2/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/1/pages/0/7/Dialogue
+> CONTEXT: Map015/events/9/pages/0/8/Dialogue
+> CONTEXT: Map015/events/9/pages/2/8/Dialogue
+Bookshelf (Neltup, the Island of Lost Dreams)
 > END STRING

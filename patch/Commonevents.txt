@@ -325,8 +325,8 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 
 > BEGIN STRING
 最高のムードのまま \\b10\\f ターンが経過した！
-> CONTEXT: Commonevents/35/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/16/Dialogue
+\\b10\\f turns passed with mood at maximum!
 > END STRING
 
 > BEGIN STRING
@@ -470,27 +470,29 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 \\a[\\v[104]]\\c[3]奴隷の鎖\\c[0]がひとりでに
 \\w[\\v[104]]\\n[1]の全身を拘束する！
 \\k
-> CONTEXT: Commonevents/35/235/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/235/Dialogue
+\\a[\\v[104]]\\c[3]Slave Chains\\c[0] automatically restrain
+\\w[\\v[104]]\\n[1]'s whole body!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]は身動きが取れなくなった！
-> CONTEXT: Commonevents/35/239/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/239/Dialogue
+\\a[\\v[105]]\\n[1] is stuck!
 > END STRING
 
 > BEGIN STRING
 \\n[1]は夢魔を \\b100\\f 回いかせた！
-> CONTEXT: Commonevents/36/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/36/29/Dialogue
+\\n[1] made succubi cum \\b100\\f times!
 > END STRING
 
 > BEGIN STRING
 
 \\i[300]\\c[4]あまねき愛を\\c[0] と願えるようになった！
-> CONTEXT: Commonevents/36/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/36/31/Dialogue
+\\i[300]\\c[4]All-Round Love\\c[0] can now be wished for!
 > END STRING
 
 > BEGIN STRING
@@ -585,15 +587,17 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 > BEGIN STRING
 トラップ！
 サキュバスの罠だ！
-> CONTEXT: Commonevents/44/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/23/Dialogue
+Trap!
+A succubus trap!
 > END STRING
 
 > BEGIN STRING
 \\n[1]は…
 …きもちよかった。
-> CONTEXT: Commonevents/44/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/45/Dialogue
+\\n[1]...
+...Felt good.
 > END STRING
 
 > BEGIN STRING
@@ -619,40 +623,42 @@ I'm being drawn to the depths.....
 > BEGIN STRING
 トラップ！
 アルカナの罠だ！
-> CONTEXT: Commonevents/44/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/82/Dialogue
+Trap!
+An Arcana trap!
 > END STRING
 
 > BEGIN STRING
 \\n[1]はひどく不器用になってしまった！
-> CONTEXT: Commonevents/44/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/91/Dialogue
+\\n[1] became extremely clumsy!
 > END STRING
 
 > BEGIN STRING
 \\n[1]のペニスが小さくなってしまった！
-> CONTEXT: Commonevents/44/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/97/Dialogue
+\\n[1]'s penis got smaller!
 > END STRING
 
 > BEGIN STRING
 トラップ！
 毒の罠だ！
-> CONTEXT: Commonevents/44/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/105/Dialogue
+Trap! 
+A poisonous trap!
 > END STRING
 
 > BEGIN STRING
 \\n[1]は感じやすくなってしまった！
-> CONTEXT: Commonevents/44/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/113/Dialogue
+\\n[1] became sensitive!
 > END STRING
 
 > BEGIN STRING
 トラップ？
 リャナンシーの罠だ！
 > CONTEXT: Commonevents/44/119/Dialogue
-A trap?
+Trap?
 Leanan Sídhe trap!
 > END STRING
 
@@ -665,21 +671,23 @@ Leanan Sídhe trap!
 > BEGIN STRING
 トラップ！
 ハーレムの罠だ！
-> CONTEXT: Commonevents/44/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/133/Dialogue
+Trap!
+Harem trap!
 > END STRING
 
 > BEGIN STRING
 夢魔が一斉に向かってくる！
-> CONTEXT: Commonevents/44/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/142/Dialogue
+The succubi are coming all at once!
 > END STRING
 
 > BEGIN STRING
 トラップ！
 宝箱はミミックだった！
-> CONTEXT: Commonevents/44/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/149/Dialogue
+Trap!
+The treasure chest was a mimic!
 > END STRING
 
 > BEGIN STRING
@@ -1442,8 +1450,8 @@ Leanan Sídhe trap!
 
 > BEGIN STRING
 \\a[\\v[105]]「ぷるっぷるにしちゃうよぉっ♪
-> CONTEXT: Commonevents/52/306/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/306/Dialogue
+\\a[\\v[105]]「I'm gonna make you all jiggly♪
 > END STRING
 
 > BEGIN STRING
@@ -1763,27 +1771,29 @@ Leanan Sídhe trap!
 > BEGIN STRING
 \\a[\\v[105]]「いけー！\\v[1]！
 \\w[\\v[105]]　ジャマな服、焼き払っちゃえ！！
-> CONTEXT: Commonevents/70/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/15/Dialogue
+\\a[\\v[105]]「Go! \\v[1]!
+\\w[\\v[105]]　Burn those annoying clothes!!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ガオオォンンッ！！
-> CONTEXT: Commonevents/70/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/18/Dialogue
+\\a[\\v[105]]「Gwaaaahhh!!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「え？えー！？
 \\w[\\v[105]]　違う！こっちじゃないよーっ！！
-> CONTEXT: Commonevents/70/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/22/Dialogue
+\\a[\\v[105]]「Eh? Eeh!?
+\\w[\\v[105]]　No! Not like that!!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「グオォン？
-> CONTEXT: Commonevents/70/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/25/Dialogue
+\\a[\\v[105]]「Gwaah?
 > END STRING
 
 > BEGIN STRING
@@ -1801,20 +1811,20 @@ Leanan Sídhe trap!
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[28]は二体に分裂した！
-> CONTEXT: Commonevents/71/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/71/16/Dialogue
+\\a[\\v[105]]\\n[28] split into two!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ぷるぷる2倍～～っ♪
-> CONTEXT: Commonevents/71/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/71/19/Dialogue
+\\a[\\v[105]]「Twice the jiggle～～♪
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「2人でやっちゃうよ～っ\\e[0]
-> CONTEXT: Commonevents/71/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/71/23/Dialogue
+\\a[\\v[105]]「We'll do it together～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -2000,34 +2010,37 @@ Leanan Sídhe trap!
 > BEGIN STRING
 \\a[\\v[104]]ロッコ･バロッコは\\n[27]をくすぐった！
 \\k
-> CONTEXT: Commonevents/79/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/79/5/Dialogue
+\\a[\\v[104]]Rocco-Barocco\\n[27] tickled!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]は笑っている！
-> CONTEXT: Commonevents/79/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/79/8/Dialogue
+\\a[\\v[105]]\\n[27] is laughing!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[104]]リズ・ラズは\\n[27]を撹乱した！
 \\k
-> CONTEXT: Commonevents/79/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/79/12/Dialogue
+\\a[\\v[104]]Riz-Raz disrupted \\n[27]!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]は驚いている！
-> CONTEXT: Commonevents/79/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/79/15/Dialogue
+\\a[\\v[105]]\\n[27] is shocked!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[104]]エスプラーナは隙を突いて
 \\w[\\v[104]]\\n[27]からアイテムを奪った！
-> CONTEXT: Commonevents/79/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/79/18/Dialogue
+\\a[\\v[104]]Esplana took advantage of the opportunity
+\\w[\\v[104]]and stole an item from \\n[27]!
 > END STRING
 
 > BEGIN STRING
@@ -2088,8 +2101,10 @@ Leanan Sídhe trap!
 \\a[\\v[105]]エスプラーナは妹たちを激励した！
 \\w[\\v[105]]リズ・ラズの全ての能力が上がった！
 \\w[\\v[104]]ロッコ･バロッコの全ての能力が上がった！
-> CONTEXT: Commonevents/84/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/84/1/Dialogue
+\\a[\\v[105]]Esplana encouraged her sisters!
+\\w[\\v[105]]All of Riz-Raz's abilities increased!
+\\w[\\v[104]]All of Rocco-Barocco's abilities increased!
 > END STRING
 
 > BEGIN STRING
@@ -2108,14 +2123,15 @@ Leanan Sídhe trap!
 > BEGIN STRING
 \\a[\\v[105]]「やっておしまい！
 　リズ・ラズ！
-> CONTEXT: Commonevents/87/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/87/2/Dialogue
+\\a[\\v[105]]「Do it!
+　Riz-Raz!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「任せて！姉さん！
-> CONTEXT: Commonevents/87/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/87/6/Dialogue
+\\a[\\v[105]]「Leave it to me, sis!
 > END STRING
 
 > BEGIN STRING
@@ -3667,8 +3683,8 @@ took off \\n[27]'s clothes off!
 
 > BEGIN STRING
 リュードゥフ
-> CONTEXT: Commonevents/150/184/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/150/184/Choice/1
+Reudf
 > END STRING
 
 > BEGIN STRING
@@ -4423,8 +4439,10 @@ Hachlobs Burns
 「あはははっ！
 　動けないのに必死でもがく奴を
 　ヤるのがいいんだよッ！
-> CONTEXT: Commonevents/170/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/116/Dialogue
+「Ahahahah!
+　I like a guy who struggles hard
+　without being able to move!
 > END STRING
 
 > BEGIN STRING
@@ -5444,14 +5462,14 @@ Donate an item
 
 > BEGIN STRING
 どうやら甘いものを欲しがっているようだ
-> CONTEXT: Commonevents/176/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/176/24/Dialogue
+Apparently she wants something sweet
 > END STRING
 
 > BEGIN STRING
 甘いものを渡しますか？
-> CONTEXT: Commonevents/176/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/176/29/Dialogue
+Give something sweet?
 > END STRING
 
 > BEGIN STRING
@@ -5468,8 +5486,8 @@ Give some meat?
 
 > BEGIN STRING
 しかし\\n[1]は甘いものを持っていなかった！
-> CONTEXT: Commonevents/176/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/176/47/Dialogue
+But \\n[1] had no sweets!
 > END STRING
 
 > BEGIN STRING
@@ -7542,8 +7560,8 @@ the poet began to play an amorous tune...
 
 > BEGIN STRING
 夢魔が一斉に襲ってくる！
-> CONTEXT: Commonevents/304/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/29/Dialogue
+The succubi are all coming at once!
 > END STRING
 
 > BEGIN STRING

@@ -1,112 +1,121 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "ラミエルの民"
-> CONTEXT: Map024/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map024/events/2/pages/0/0/InlineScript/1:4
+"Ramiel Citizen"
 > END STRING
 
 > BEGIN STRING
 「子供には、その望むもの全てを与えよ！
-> CONTEXT: Map024/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/2/pages/0/1/Dialogue
+「Give your children everything they want!
 > END STRING
 
 > BEGIN STRING
 「世界を先に進める、
 　最良の処方と言われておる。
-> CONTEXT: Map024/events/2/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/2/pages/0/2/Dialogue
+「It's said to be the best formula 
+　for moving the world forward.
 > END STRING
 
 > BEGIN STRING
 「薬を…くれないか……
-> CONTEXT: Map024/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/4/pages/0/1/Dialogue
+> CONTEXT: Map024/events/4/pages/1/1/Dialogue
+「Give me...medicine...
 > END STRING
 
 > BEGIN STRING
 「私は、戦で傷つき倒れた兵……
 　そういう歴史………
-> CONTEXT: Map024/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/4/pages/0/2/Dialogue
+「I am a soldier, wounded and killed in battle...
+　That is my history...
 > END STRING
 
 > BEGIN STRING
 「でも今、変われる気がしている……
 　だから、薬を………
-> CONTEXT: Map024/events/4/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/4/pages/0/4/Dialogue
+> CONTEXT: Map024/events/4/pages/1/4/Dialogue
+「But now, I feel like I can change...
+　So, medicine...
 > END STRING
 
 > BEGIN STRING
 \\i[228]\\c[3]一角獣の角\\c[0]を渡しますか？
-> CONTEXT: Map024/events/4/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/1/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/4/pages/0/9/Dialogue
+> CONTEXT: Map024/events/4/pages/1/9/Dialogue
+Give \\i[228]\\c[3]Unicorn's Horn\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「おお…それぞまさしく癒しの薬！
-> CONTEXT: Map024/events/4/pages/0/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/1/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/4/pages/0/15/Dialogue
+> CONTEXT: Map024/events/4/pages/1/14/Dialogue
+「Oh... that is truly healing medicine!
 > END STRING
 
 > BEGIN STRING
 「ありがとう！
 　これで…
-> CONTEXT: Map024/events/4/pages/0/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/1/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/4/pages/0/27/Dialogue
+> CONTEXT: Map024/events/4/pages/1/26/Dialogue
+「Thank you!
+　Now then...
 > END STRING
 
 > BEGIN STRING
 「歴史の外へ…
 　その先へ……
-> CONTEXT: Map024/events/4/pages/0/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/1/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/4/pages/0/29/Dialogue
+> CONTEXT: Map024/events/4/pages/1/28/Dialogue
+「Outside of history...
+　Beyond it...
 > END STRING
 
 > BEGIN STRING
 「私は、またも戦で傷つき倒れた兵……
 　そういう歴史………
-> CONTEXT: Map024/events/4/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/4/pages/1/2/Dialogue
+「I am another soldier, wounded and fallen in battle...
+　That is the history...
 > END STRING
 
 > BEGIN STRING
 \\n[1]のレベルが上がった！
-> CONTEXT: Map024/events/4/pages/1/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/4/pages/1/51/Dialogue
+\\n[1]'s level increased!
 > END STRING
 
 > BEGIN STRING
 "ドルヌスの民"
-> CONTEXT: Map024/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map024/events/5/pages/0/0/InlineScript/1:4
+"Dornus Citizen"
 > END STRING
 
 > BEGIN STRING
 「なぜわしらは、こうしておるのか。
 　なぜこの島は……
-> CONTEXT: Map024/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/5/pages/0/1/Dialogue
+「Why are we doing this? 
+　Why is this island...
 > END STRING
 
 > BEGIN STRING
 「わしらが間違っていたのか？
 　どこぞで処方を誤ったか？
-> CONTEXT: Map024/events/5/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/5/pages/0/3/Dialogue
+「What did we do wrong? 
+　Did we get the formula wrong somewhere?
 > END STRING
 
 > BEGIN STRING
 傷つき倒れている……
 返事が無い
-> CONTEXT: Map024/events/7/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/8/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/7/pages/0/0/Dialogue
+> CONTEXT: Map024/events/8/pages/0/0/Dialogue
+Injured and lying down...
+No response
 > END STRING

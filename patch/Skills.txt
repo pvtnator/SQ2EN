@@ -207,27 +207,27 @@ Increases all abilities except spirit
 
 > BEGIN STRING
 あまねき愛を/3/0/0
-> CONTEXT: Skills/27/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/27/name/
+All-Round Love/3/0/0
 > END STRING
 
 > BEGIN STRING
 相手全員をテクニックで攻める
-> CONTEXT: Skills/27/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/27/description/
+Attack all opponents with techniques
 > END STRING
 
 > BEGIN STRING
 忘れたくない
-> CONTEXT: Skills/28/name/ < UNTRANSLATED
-> CONTEXT: States/283/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/28/name/
+> CONTEXT: States/283/name/
+Don't Forget
 > END STRING
 
 > BEGIN STRING
 EXP2倍、アイテム100%入手
-> CONTEXT: Skills/28/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/28/description/
+Double EXP, 100% item acquisition
 > END STRING
 
 > BEGIN STRING
@@ -238,8 +238,8 @@ Stop Time/10/0/0
 
 > BEGIN STRING
 自分以外の動きを止める
-> CONTEXT: Skills/32/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/32/description/
+Stop other movements
 > END STRING
 
 > BEGIN STRING
@@ -690,65 +690,65 @@ Cure all status ailments
 
 > BEGIN STRING
 ペトラアイズ/3/0/0/0
-> CONTEXT: Skills/102/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/102/name/
+Petra Eyes/3/0/0/0
 > END STRING
 
 > BEGIN STRING
 相手一人を拘束し動けなくする
-> CONTEXT: Skills/102/description/ < UNTRANSLATED
-> CONTEXT: Skills/708/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/102/description/
+> CONTEXT: Skills/708/description/
+Restrain one opponent
 > END STRING
 
 > BEGIN STRING
 ハードスキン/5/0/0/0
-> CONTEXT: Skills/103/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/103/name/
+Hard Skin/5/0/0/0
 > END STRING
 
 > BEGIN STRING
 一定ターン受ける快感を少なくする
-> CONTEXT: Skills/103/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/103/description/
+Reduce pleasure received for a number of turns
 > END STRING
 
 > BEGIN STRING
 ダリッシュスキン/7/0/0/0
-> CONTEXT: Skills/104/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/104/name/
+Dalish Skin/7/0/0/0
 > END STRING
 
 > BEGIN STRING
 1度だけ快感を受けなくする
-> CONTEXT: Skills/104/description/ < UNTRANSLATED
-> CONTEXT: Skills/741/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/104/description/
+> CONTEXT: Skills/741/description/
+Negate pleasure once
 > END STRING
 
 > BEGIN STRING
 スティルアイズ
-> CONTEXT: Skills/105/name/ < UNTRANSLATED
-> CONTEXT: States/323/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/105/name/
+> CONTEXT: States/323/name/
+Still Eyes
 > END STRING
 
 > BEGIN STRING
 視覚に訴える誘惑を無効化する
-> CONTEXT: Skills/105/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/105/description/
+Neutralize visual seductions
 > END STRING
 
 > BEGIN STRING
 魔封じの壁/7/0/0/0
-> CONTEXT: Skills/106/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/106/name/
+Magic Wall/7/0/0/0
 > END STRING
 
 > BEGIN STRING
 一定ターン全ての魔法を無効化する
-> CONTEXT: Skills/106/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/106/description/
+Nullify all magic for a number of turns
 > END STRING
 
 > BEGIN STRING
@@ -759,50 +759,50 @@ Cure all status ailments
 
 > BEGIN STRING
 パッションフレイム/3/0/0/0
-> CONTEXT: Skills/112/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/112/name/
+Passion Flame/3/0/0/0
 > END STRING
 
 > BEGIN STRING
 テンション上昇率アップ
-> CONTEXT: Skills/112/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/112/description/
+Increased tension rise rate
 > END STRING
 
 > BEGIN STRING
 メルティキッス/3
-> CONTEXT: Skills/113/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/113/name/
+Melty Kiss/3
 > END STRING
 
 > BEGIN STRING
 相手一人を放心状態にし、さらに精神力ダウン
-> CONTEXT: Skills/113/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/113/description/
+Inflicts daze and spirit down to one opponent
 > END STRING
 
 > BEGIN STRING
 ソフティキッス
-> CONTEXT: Skills/114/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/114/name/
+Softy Kiss
 > END STRING
 
 > BEGIN STRING
 バインド解除し、さらにテンションアップ
-> CONTEXT: Skills/114/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/114/description/
+Unbind and increase tension
 > END STRING
 
 > BEGIN STRING
 魔焦がしの炎/1/0/0/0
-> CONTEXT: Skills/116/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/116/name/
+Scorching Flame/1/0/0/0
 > END STRING
 
 > BEGIN STRING
 一度だけ魔法を無効化する
-> CONTEXT: Skills/116/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/116/description/
+Nullify magic once
 > END STRING
 
 > BEGIN STRING
@@ -1404,26 +1404,26 @@ Call Secretary Merja
 
 > BEGIN STRING
 ストゥーナ/15/0/0
-> CONTEXT: Skills/192/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/192/name/
+Stona/15/0/0
 > END STRING
 
 > BEGIN STRING
 石竜ストゥーナを呼ぶ
-> CONTEXT: Skills/192/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/192/description/
+Summon the Stone Dragon Stona
 > END STRING
 
 > BEGIN STRING
 メローナ/15/0/0
-> CONTEXT: Skills/193/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/193/name/
+Merona/15/0/0
 > END STRING
 
 > BEGIN STRING
 火竜メローナを呼ぶ
-> CONTEXT: Skills/193/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/193/description/
+Summon the Fire Dragon Merona
 > END STRING
 
 > BEGIN STRING
@@ -1467,14 +1467,14 @@ Summon the bard Rosenil
 
 > BEGIN STRING
 ルゲイエ/15/0/0
-> CONTEXT: Skills/197/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/197/name/
+Rugeiyu/15/0/0
 > END STRING
 
 > BEGIN STRING
 気狂いコウモリ・ルゲイエを呼ぶ
-> CONTEXT: Skills/197/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/197/description/
+Summon the Crazy Bat Rugeiyu
 > END STRING
 
 > BEGIN STRING
@@ -1557,14 +1557,14 @@ Energy Drain
 
 > BEGIN STRING
 ワイルドスウィング/0/0/2
-> CONTEXT: Skills/213/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/213/name/
+Wild Swing/0/0/2
 > END STRING
 
 > BEGIN STRING
 ワイルドスウィング/0/0/3
-> CONTEXT: Skills/214/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/214/name/
+Wild Swing/0/0/3
 > END STRING
 
 > BEGIN STRING
@@ -1593,8 +1593,8 @@ Energy Drain
 
 > BEGIN STRING
 ボディローション/0/0/to222
-> CONTEXT: Skills/221/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/221/name/
+Body Lotion/0/0/to222
 > END STRING
 
 > BEGIN STRING
@@ -1629,9 +1629,9 @@ Energy Drain
 
 > BEGIN STRING
 ディヴェストフレイム
-> CONTEXT: Skills/224/name/ < UNTRANSLATED
-> CONTEXT: Skills/226/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/224/name/
+> CONTEXT: Skills/226/name/
+Divest Flame
 > END STRING
 
 > BEGIN STRING
@@ -2001,8 +2001,8 @@ Dalish Skin
 
 > BEGIN STRING
 嫉妬する
-> CONTEXT: Skills/259/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/259/name/
+Jealous
 > END STRING
 
 > BEGIN STRING
@@ -3525,20 +3525,20 @@ Invitation to Jealousy
 
 > BEGIN STRING
 ディスペルロア
-> CONTEXT: Skills/467/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/467/name/
+Dispel Roar
 > END STRING
 
 > BEGIN STRING
 フォースロア
-> CONTEXT: Skills/468/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/468/name/
+Force Roar
 > END STRING
 
 > BEGIN STRING
 テリブルロア
-> CONTEXT: Skills/469/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/469/name/
+Terrible Roar
 > END STRING
 
 > BEGIN STRING
@@ -3660,8 +3660,8 @@ Combination success
 
 > BEGIN STRING
 切り裂く
-> CONTEXT: Skills/580/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/580/name/
+Slice
 > END STRING
 
 > BEGIN STRING
@@ -3729,8 +3729,8 @@ Far-Rapture
 
 > BEGIN STRING
 癒しの歌
-> CONTEXT: Skills/593/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/593/name/
+Song of Healing
 > END STRING
 
 > BEGIN STRING

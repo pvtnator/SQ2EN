@@ -2,62 +2,70 @@
 > BEGIN STRING
 「うーん、分かりそうな気が
 　するんだけどなぁ。
-> CONTEXT: Map028/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/7/pages/0/1/Dialogue
+「Hmm, I think I understand.
 > END STRING
 
 > BEGIN STRING
 「姫が出したはずの命令が、
 　アタマにピーンと届きそうに思うのよ。
 　宣託ってやつぅ？
-> CONTEXT: Map028/events/7/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/7/pages/0/3/Dialogue
+「The orders supposedly issued by the Princess
+　seem to reach me right in the head.
+　Is this what's called a prophecy?
 > END STRING
 
 > BEGIN STRING
 「うーん、何なんだろうなぁ～～
-> CONTEXT: Map028/events/7/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/7/pages/0/6/Dialogue
+「Hmm, I wonder what it is～～
 > END STRING
 
 > BEGIN STRING
 「姫はどこだぁ！
-> CONTEXT: Map028/events/8/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/8/pages/0/1/Dialogue
+「Where is the princess?
 > END STRING
 
 > BEGIN STRING
 「ここにいるのはみな、
 　ラミエルの姫に仕える兵だ。
-> CONTEXT: Map028/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/9/pages/0/1/Dialogue
+「All present here are soldiers 
+　who serve Princess Ramiel.
 > END STRING
 
 > BEGIN STRING
 「だが困ったことに、
 　誰一人として姫のことを知らぬ。
 　おかげで我らは立ち往生だ。
-> CONTEXT: Map028/events/9/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/9/pages/0/3/Dialogue
+「But the problem is,
+　not a single person knows about the princess.
+　So we're stuck.
 > END STRING
 
 > BEGIN STRING
 「ああ誰か、姫の命令を
 　知る者はいないだろうか…
-> CONTEXT: Map028/events/9/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/9/pages/0/6/Dialogue
+「Oh, is there anyone 
+　who knows the princess's orders?
 > END STRING
 
 > BEGIN STRING
 「この対岸には、
 　憎きドルヌスの拠点がある。
-> CONTEXT: Map028/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/10/pages/0/1/Dialogue
+「On the opposite bank 
+　lies the base of the hated Dornus.
 > END STRING
 
 > BEGIN STRING
 「ここでこうして、姫君直属の兵である
 　我々が睨みをきかせているのだ。
-> CONTEXT: Map028/events/10/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/10/pages/0/3/Dialogue
+「Here, we, the Princess's direct soldiers, 
+　are keeping a watchful eye.
 > END STRING

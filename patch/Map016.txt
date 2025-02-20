@@ -1,103 +1,109 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 かわいらしいぬいぐるみだ
-> CONTEXT: Map016/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/14/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/16/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/19/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/20/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/24/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/25/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/26/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/27/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/31/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/32/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/37/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/0/1/Dialogue
+> CONTEXT: Map015/events/14/pages/0/1/Dialogue
+> CONTEXT: Map015/events/15/pages/0/1/Dialogue
+> CONTEXT: Map015/events/16/pages/0/1/Dialogue
+> CONTEXT: Map015/events/19/pages/0/1/Dialogue
+> CONTEXT: Map015/events/20/pages/0/1/Dialogue
+> CONTEXT: Map013/events/9/pages/0/1/Dialogue
+> CONTEXT: Map013/events/24/pages/0/1/Dialogue
+> CONTEXT: Map013/events/25/pages/0/1/Dialogue
+> CONTEXT: Map013/events/26/pages/0/1/Dialogue
+> CONTEXT: Map013/events/27/pages/0/1/Dialogue
+> CONTEXT: Map013/events/31/pages/0/1/Dialogue
+> CONTEXT: Map013/events/32/pages/0/1/Dialogue
+> CONTEXT: Map013/events/37/pages/0/1/Dialogue
+A lovely stuffed animal
 > END STRING
 
 > BEGIN STRING
 ……なぜこんなところにあるのだろう
-> CONTEXT: Map016/events/3/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/14/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/15/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/16/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/19/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/20/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/9/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/24/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/25/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/26/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/27/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/31/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/32/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/37/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/0/2/Dialogue
+> CONTEXT: Map015/events/14/pages/0/2/Dialogue
+> CONTEXT: Map015/events/15/pages/0/2/Dialogue
+> CONTEXT: Map015/events/16/pages/0/2/Dialogue
+> CONTEXT: Map015/events/19/pages/0/2/Dialogue
+> CONTEXT: Map015/events/20/pages/0/2/Dialogue
+> CONTEXT: Map013/events/9/pages/0/2/Dialogue
+> CONTEXT: Map013/events/24/pages/0/2/Dialogue
+> CONTEXT: Map013/events/25/pages/0/2/Dialogue
+> CONTEXT: Map013/events/26/pages/0/2/Dialogue
+> CONTEXT: Map013/events/27/pages/0/2/Dialogue
+> CONTEXT: Map013/events/31/pages/0/2/Dialogue
+> CONTEXT: Map013/events/32/pages/0/2/Dialogue
+> CONTEXT: Map013/events/37/pages/0/2/Dialogue
+...Why is it in a place like this?
 > END STRING
 
 > BEGIN STRING
 「しくしく…しくしく…
-> CONTEXT: Map016/events/3/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/1/1/Dialogue
+「*Sob sob*...
 > END STRING
 
 > BEGIN STRING
 「ボク捨てられちゃったんだ。
 　ステラに捨てられちゃったんだ。
-> CONTEXT: Map016/events/3/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/1/2/Dialogue
+「I was thrown away.
+　Stella threw me away.
 > END STRING
 
 > BEGIN STRING
 「ステラならこの先にいるよ。
-> CONTEXT: Map016/events/3/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/1/4/Dialogue
+「Stella is up ahead.
 > END STRING
 
 > BEGIN STRING
 「でももう、ボクもキミも、
 　この先に行ったりすることはできないよ。
-> CONTEXT: Map016/events/3/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/1/5/Dialogue
+「But neither you or I
+　can go any further.
 > END STRING
 
 > BEGIN STRING
 「だってここじゃ、誰も先に進めないから。
 　ステラのところには、もう誰も行けないよ。
-> CONTEXT: Map016/events/3/pages/1/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/1/7/Dialogue
+「Nobody can move through here.
+　Nobody can go to Stella anymore.
 > END STRING
 
 > BEGIN STRING
 「道を…つないでくれ……
-> CONTEXT: Map016/events/3/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/2/1/Dialogue
+「Please...connect the way...
 > END STRING
 
 > BEGIN STRING
 「歴史を…現実を……
 　ここ…に………
-> CONTEXT: Map016/events/3/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/2/2/Dialogue
+「History...reality...
+　Here...
 > END STRING
 
 > BEGIN STRING
 「道は…歪みながらも……
-> CONTEXT: Map016/events/3/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/3/1/Dialogue
+「The road is...distorted...
 > END STRING
 
 > BEGIN STRING
 「つながった……
 　夢の中に奪われた…現実…へ……
-> CONTEXT: Map016/events/3/pages/3/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/3/pages/3/2/Dialogue
+「We're connected...
+　To reality... 
+　that was stolen from us in our dreams...
 > END STRING
 
 > BEGIN STRING
 どこまでも、無限に光が続いているように見える……
-> CONTEXT: Map016/events/25/pages/1/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/25/pages/1/0/Dialogue
+The light seems to continue on forever...
 > END STRING

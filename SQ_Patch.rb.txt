@@ -37,13 +37,13 @@ Data/Map%03d.rxdata
 > BEGIN STRING
 隠密+1
 > CONTEXT: SQ_Patch.rb
-
+Stealth +1
 > END STRING
 
 > BEGIN STRING
 隠密+2
 > CONTEXT: SQ_Patch.rb
-
+Stealth +2
 > END STRING
 
 > BEGIN STRING
@@ -85,13 +85,13 @@ A
 > BEGIN STRING
 遠見+1
 > CONTEXT: SQ_Patch.rb
-
+Sight +1
 > END STRING
 
 > BEGIN STRING
 遠見+2
 > CONTEXT: SQ_Patch.rb
-
+Sight +2
 > END STRING
 
 > BEGIN STRING

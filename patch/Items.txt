@@ -163,14 +163,14 @@ Recover Clumsy / Mini / Vision
 
 > BEGIN STRING
 キュアエッセンス
-> CONTEXT: Items/18/name/ < UNTRANSLATED
-
+> CONTEXT: Items/18/name/
+Cure Essence
 > END STRING
 
 > BEGIN STRING
 パニック回復 / センシブ回復 / ナーバス回復
-> CONTEXT: Items/18/description/ < UNTRANSLATED
-
+> CONTEXT: Items/18/description/
+Panic / Sensitive / Nervous Recovery
 > END STRING
 
 > BEGIN STRING
@@ -219,8 +219,8 @@ Rose Tea
 
 > BEGIN STRING
 〔ティー〕　テンションアップ
-> CONTEXT: Items/26/description/ < UNTRANSLATED
-
+> CONTEXT: Items/26/description/
+[Tea] Tension Up
 > END STRING
 
 > BEGIN STRING
@@ -324,8 +324,8 @@ Charming Bouquet
 
 > BEGIN STRING
 〔ツール〕 相手一人を放心状態にする花束
-> CONTEXT: Items/40/description/ < UNTRANSLATED
-
+> CONTEXT: Items/40/description/
+[Tool] A bouquet that leaves one person in a daze
 > END STRING
 
 > BEGIN STRING
@@ -417,14 +417,14 @@ Stone that can increase level of equipment by 1.
 
 > BEGIN STRING
 思考焼きの炎
-> CONTEXT: Items/49/name/ < UNTRANSLATED
-
+> CONTEXT: Items/49/name/
+Thought-searing Flame
 > END STRING
 
 > BEGIN STRING
 装備の付加効果を1つだけ消す炎
-> CONTEXT: Items/49/description/ < UNTRANSLATED
-
+> CONTEXT: Items/49/description/
+Flame that removes 1 effect from equipment
 > END STRING
 
 > BEGIN STRING
@@ -471,8 +471,8 @@ Sleepdrop
 
 > BEGIN STRING
 いつのまにかバトルから離脱している魔法の薬
-> CONTEXT: Items/53/description/ < UNTRANSLATED
-
+> CONTEXT: Items/53/description/
+Magic potion that makes you disappear from battle
 > END STRING
 
 > BEGIN STRING
@@ -633,8 +633,8 @@ Fadul Sour
 
 > BEGIN STRING
 ファドゥル麦を発酵させて作った麦酒
-> CONTEXT: Items/86/description/ < UNTRANSLATED
-
+> CONTEXT: Items/86/description/
+Beer made by fermenting Fadul barley
 > END STRING
 
 > BEGIN STRING
@@ -648,14 +648,14 @@ SQ_Drink
 
 > BEGIN STRING
 スウィートミョッズ
-> CONTEXT: Items/87/name/ < UNTRANSLATED
-
+> CONTEXT: Items/87/name/
+Sweet Myths
 > END STRING
 
 > BEGIN STRING
 蜂蜜酒と果汁で作った甘いお酒　女性にも人気
-> CONTEXT: Items/87/description/ < UNTRANSLATED
-
+> CONTEXT: Items/87/description/
+A sweet drink from mead, popular with women
 > END STRING
 
 > BEGIN STRING
@@ -666,8 +666,8 @@ Kvalatte Milk
 
 > BEGIN STRING
 飲みやすい羊のミルク
-> CONTEXT: Items/88/description/ < UNTRANSLATED
-
+> CONTEXT: Items/88/description/
+Easy to drink sheep's milk
 > END STRING
 
 > BEGIN STRING
@@ -678,8 +678,8 @@ Mutton Jerky
 
 > BEGIN STRING
 塩漬けにした羊の肉を天日で干した料理
-> CONTEXT: Items/89/description/ < UNTRANSLATED
-
+> CONTEXT: Items/89/description/
+Salted lamb meat dried in the sun
 > END STRING
 
 > BEGIN STRING
@@ -697,8 +697,8 @@ Smoked Salmon
 
 > BEGIN STRING
 サケの切り身を樹木のチップで燻製にした料理
-> CONTEXT: Items/90/description/ < UNTRANSLATED
-
+> CONTEXT: Items/90/description/
+Salmon fillet smoked with wood chips
 > END STRING
 
 > BEGIN STRING
@@ -709,8 +709,8 @@ Baked Apple
 
 > BEGIN STRING
 シナモンとミレットシュガーを詰めたリンゴを焼いた料理
-> CONTEXT: Items/91/description/ < UNTRANSLATED
-
+> CONTEXT: Items/91/description/
+Baked apples stuffed with cinnamon and millet sugar
 > END STRING
 
 > BEGIN STRING
@@ -757,38 +757,38 @@ Library Floor Plan
 
 > BEGIN STRING
 『一角獣の角』見取り図
-> CONTEXT: Items/102/name/ < UNTRANSLATED
-
+> CONTEXT: Items/102/name/
+Unicorn's Horn Map
 > END STRING
 
 > BEGIN STRING
 〔地図帳〕 王都の酒場『一角獣の角』の見取り図
-> CONTEXT: Items/102/description/ < UNTRANSLATED
-
+> CONTEXT: Items/102/description/
+[Map] Floor plan of the Royal Capital's bar Unicorn's Horn
 > END STRING
 
 > BEGIN STRING
 リュードゥフ洞地図
-> CONTEXT: Items/103/name/ < UNTRANSLATED
-
+> CONTEXT: Items/103/name/
+Reudf Cavern Map
 > END STRING
 
 > BEGIN STRING
 〔地図帳〕 リュードゥフ洞の地図
-> CONTEXT: Items/103/description/ < UNTRANSLATED
-
+> CONTEXT: Items/103/description/
+[Map] Map of Reudf Cavern
 > END STRING
 
 > BEGIN STRING
 エルトゥム森林地図
-> CONTEXT: Items/104/name/ < UNTRANSLATED
-
+> CONTEXT: Items/104/name/
+Eltumb Forest Map
 > END STRING
 
 > BEGIN STRING
 〔地図帳〕 エルトゥム森林の地図
-> CONTEXT: Items/104/description/ < UNTRANSLATED
-
+> CONTEXT: Items/104/description/
+[Map] Map of Eltumb Forest
 > END STRING
 
 > BEGIN STRING
@@ -871,56 +871,56 @@ Neltup Island Map
 
 > BEGIN STRING
 〔地図帳〕 ネルトゥプ島の地図
-> CONTEXT: Items/113/description/ < UNTRANSLATED
-
+> CONTEXT: Items/113/description/
+[Map] Map of Neltup Island
 > END STRING
 
 > BEGIN STRING
 白の史書（妖精）
-> CONTEXT: Items/116/name/ < UNTRANSLATED
-
+> CONTEXT: Items/116/name/
+Blank Book (Fairy)
 > END STRING
 
 > BEGIN STRING
 〔史書〕 表紙にドルヌスの紋章と妖精が描かれた白紙の本
-> CONTEXT: Items/116/description/ < UNTRANSLATED
-
+> CONTEXT: Items/116/description/
+[History] Coat of arms and fairy of Dornus are on the cover
 > END STRING
 
 > BEGIN STRING
 白の史書（獣）
-> CONTEXT: Items/117/name/ < UNTRANSLATED
-
+> CONTEXT: Items/117/name/
+Blank Book (Beast)
 > END STRING
 
 > BEGIN STRING
 〔史書〕 表紙にドルヌスの紋章と獣が描かれた白紙の本
-> CONTEXT: Items/117/description/ < UNTRANSLATED
-
+> CONTEXT: Items/117/description/
+[History] Coat of arms and beast of Dornus are on the cover
 > END STRING
 
 > BEGIN STRING
 白の史書（少女）
-> CONTEXT: Items/118/name/ < UNTRANSLATED
-
+> CONTEXT: Items/118/name/
+Blank Book (Girl)
 > END STRING
 
 > BEGIN STRING
 〔史書〕 表紙にラミエルの紋章と少女が描かれた白紙の本
-> CONTEXT: Items/118/description/ < UNTRANSLATED
-
+> CONTEXT: Items/118/description/
+[History] Ramiel's crest and a girl are on the cover
 > END STRING
 
 > BEGIN STRING
 白の史書（トカゲ）
-> CONTEXT: Items/119/name/ < UNTRANSLATED
-
+> CONTEXT: Items/119/name/
+Blank Book (Lizard)
 > END STRING
 
 > BEGIN STRING
 〔史書〕 表紙にラミエルの紋章とトカゲが描かれた白紙の本
-> CONTEXT: Items/119/description/ < UNTRANSLATED
-
+> CONTEXT: Items/119/description/
+[History] Ramiel's crest and a lizard are on the cover.
 > END STRING
 
 > BEGIN STRING
@@ -969,14 +969,14 @@ Prank Diary
 
 > BEGIN STRING
 森の記憶
-> CONTEXT: Items/125/name/ < UNTRANSLATED
-
+> CONTEXT: Items/125/name/
+Forest Memory
 > END STRING
 
 > BEGIN STRING
 〔史書〕 妖精が綴ったある森の歴史
-> CONTEXT: Items/125/description/ < UNTRANSLATED
-
+> CONTEXT: Items/125/description/
+[History] The history of a certain forest written by a fairy
 > END STRING
 
 > BEGIN STRING
@@ -1084,50 +1084,50 @@ Therianthropy History 2
 
 > BEGIN STRING
 トカゲ窟探検記
-> CONTEXT: Items/135/name/ < UNTRANSLATED
-
+> CONTEXT: Items/135/name/
+Lizard Cave Expedition
 > END STRING
 
 > BEGIN STRING
 〔史書〕 調査隊によるトカゲ窟の探検記
-> CONTEXT: Items/135/description/ < UNTRANSLATED
-
+> CONTEXT: Items/135/description/
+[History] Expedition record of the Lizard Cave
 > END STRING
 
 > BEGIN STRING
 サーパントロマンス
-> CONTEXT: Items/136/name/ < UNTRANSLATED
-
+> CONTEXT: Items/136/name/
+Serpent Romance
 > END STRING
 
 > BEGIN STRING
 〔史書〕 半蛇の妖精と人間のロマンスを綴った本
-> CONTEXT: Items/136/description/ < UNTRANSLATED
-
+> CONTEXT: Items/136/description/
+[History] Romance between a half-snake fairy and a human.
 > END STRING
 
 > BEGIN STRING
 娼蛇伝
-> CONTEXT: Items/137/name/ < UNTRANSLATED
-
+> CONTEXT: Items/137/name/
+Whore Snake Legend
 > END STRING
 
 > BEGIN STRING
 〔史書〕 多くの神や魔物と交わった半蛇の魔物の伝説を綴った本
-> CONTEXT: Items/137/description/ < UNTRANSLATED
-
+> CONTEXT: Items/137/description/
+[History] Legend of a half-snake who mated with many gods and monsters.
 > END STRING
 
 > BEGIN STRING
 炎竜史伝
-> CONTEXT: Items/138/name/ < UNTRANSLATED
-
+> CONTEXT: Items/138/name/
+Flame Dragon Chronicles
 > END STRING
 
 > BEGIN STRING
 〔史書〕 炎をまとった竜の伝説を綴った本
-> CONTEXT: Items/138/description/ < UNTRANSLATED
-
+> CONTEXT: Items/138/description/
+[History] The legend of a dragon clad in fire.
 > END STRING
 
 > BEGIN STRING
@@ -1169,14 +1169,14 @@ Mermaid Tale
 
 > BEGIN STRING
 ある少女の日記
-> CONTEXT: Items/142/name/ < UNTRANSLATED
-
+> CONTEXT: Items/142/name/
+Girl's Diary
 > END STRING
 
 > BEGIN STRING
 〔史書〕 夢魔に襲われたある少女の日記
-> CONTEXT: Items/142/description/ < UNTRANSLATED
-
+> CONTEXT: Items/142/description/
+[History] Diary of a girl attacked by a succubus
 > END STRING
 
 > BEGIN STRING
@@ -1294,9 +1294,9 @@ Slave Diary 1
 
 > BEGIN STRING
 〔史書〕 女王に仕えるある奴隷の日記
-> CONTEXT: Items/155/description/ < UNTRANSLATED
-> CONTEXT: Items/156/description/ < UNTRANSLATED
-
+> CONTEXT: Items/155/description/
+> CONTEXT: Items/156/description/
+[History] Diary of a slave in the service of a queen
 > END STRING
 
 > BEGIN STRING
@@ -1313,9 +1313,9 @@ Dark Bloodline 1
 
 > BEGIN STRING
 〔史書〕 吸血鬼による闇の歴史が記された本
-> CONTEXT: Items/157/description/ < UNTRANSLATED
-> CONTEXT: Items/158/description/ < UNTRANSLATED
-
+> CONTEXT: Items/157/description/
+> CONTEXT: Items/158/description/
+[History] A book that records the dark history of vampires
 > END STRING
 
 > BEGIN STRING
@@ -1374,14 +1374,14 @@ Dark Bloodline 2
 
 > BEGIN STRING
 読書日記
-> CONTEXT: Items/163/name/ < UNTRANSLATED
-
+> CONTEXT: Items/163/name/
+Reading Diary
 > END STRING
 
 > BEGIN STRING
 〔史書〕 ある史書の読書日記
-> CONTEXT: Items/163/description/ < UNTRANSLATED
-
+> CONTEXT: Items/163/description/
+[History] A reading diary of a certain history book
 > END STRING
 
 > BEGIN STRING
@@ -1448,8 +1448,8 @@ Great Neltup History
 
 > BEGIN STRING
 〔史書〕 ネルトゥプ島の歴史を記した本
-> CONTEXT: Items/171/description/ < UNTRANSLATED
-
+> CONTEXT: Items/171/description/
+[History] A book that records the history of Neltup Island
 > END STRING
 
 > BEGIN STRING
@@ -1480,28 +1480,28 @@ Great Neltup History
 
 > BEGIN STRING
 ラミエル史Ⅰ
-> CONTEXT: Items/176/name/ < UNTRANSLATED
-
+> CONTEXT: Items/176/name/
+Ramiel's History 1
 > END STRING
 
 > BEGIN STRING
 〔史書〕 ラミエル王国の歴史を記した本
-> CONTEXT: Items/176/description/ < UNTRANSLATED
-> CONTEXT: Items/177/description/ < UNTRANSLATED
-> CONTEXT: Items/178/description/ < UNTRANSLATED
-
+> CONTEXT: Items/176/description/
+> CONTEXT: Items/177/description/
+> CONTEXT: Items/178/description/
+[History] A book that records the history of the Ramiel Kingdom.
 > END STRING
 
 > BEGIN STRING
 ラミエル史Ⅱ
-> CONTEXT: Items/177/name/ < UNTRANSLATED
-
+> CONTEXT: Items/177/name/
+Ramiel's History 2
 > END STRING
 
 > BEGIN STRING
 ラミエル史Ⅲ
-> CONTEXT: Items/178/name/ < UNTRANSLATED
-
+> CONTEXT: Items/178/name/
+Ramiel's History 3
 > END STRING
 
 > BEGIN STRING
@@ -1512,26 +1512,26 @@ Great Neltup History
 
 > BEGIN STRING
 ドラゴンロア
-> CONTEXT: Items/180/name/ < UNTRANSLATED
-
+> CONTEXT: Items/180/name/
+Dragon Roar
 > END STRING
 
 > BEGIN STRING
 〔指南書〕 竜の知識が書かれた指南書
-> CONTEXT: Items/180/description/ < UNTRANSLATED
-
+> CONTEXT: Items/180/description/
+[Manual] Contains knowledge about dragons
 > END STRING
 
 > BEGIN STRING
 初級トレジャーハント
-> CONTEXT: Items/181/name/ < UNTRANSLATED
-
+> CONTEXT: Items/181/name/
+Beginner Treasure Hunt
 > END STRING
 
 > BEGIN STRING
 〔指南書〕 より多く宝箱を手に入れるための指南書
-> CONTEXT: Items/181/description/ < UNTRANSLATED
-
+> CONTEXT: Items/181/description/
+[Manual] A manual for getting more treasure chests
 > END STRING
 
 > BEGIN STRING
@@ -1596,62 +1596,62 @@ Preemptiveness Manual
 
 > BEGIN STRING
 上級トレジャーハント
-> CONTEXT: Items/187/name/ < UNTRANSLATED
-
+> CONTEXT: Items/187/name/
+Advanced Treasure Hunt
 > END STRING
 
 > BEGIN STRING
 〔指南書〕 より良いお宝を手に入れるための指南書
-> CONTEXT: Items/187/description/ < UNTRANSLATED
-
+> CONTEXT: Items/187/description/
+[Manual] A manual for obtaining better treasures
 > END STRING
 
 > BEGIN STRING
 虫捕りガイド
-> CONTEXT: Items/188/name/ < UNTRANSLATED
-
+> CONTEXT: Items/188/name/
+Bug Catching Manual
 > END STRING
 
 > BEGIN STRING
 〔指南書〕 紋白蝶をちょっとだけ見つけやすくなる指南書
-> CONTEXT: Items/188/description/ < UNTRANSLATED
-
+> CONTEXT: Items/188/description/
+[Manual] Makes it a little easier to find the white butterfly
 > END STRING
 
 > BEGIN STRING
 経験の指南書
-> CONTEXT: Items/189/name/ < UNTRANSLATED
-
+> CONTEXT: Items/189/name/
+Experience Manual
 > END STRING
 
 > BEGIN STRING
 〔指南書〕 経験をより多く積むための指南書
-> CONTEXT: Items/189/description/ < UNTRANSLATED
-
+> CONTEXT: Items/189/description/
+[Manual] A manual for gaining more experience
 > END STRING
 
 > BEGIN STRING
 魔導構造解析
-> CONTEXT: Items/190/name/ < UNTRANSLATED
-
+> CONTEXT: Items/190/name/
+Magic Structure Analysis
 > END STRING
 
 > BEGIN STRING
 〔学術書〕 魔法をリアルにする学術書
-> CONTEXT: Items/190/description/ < UNTRANSLATED
-
+> CONTEXT: Items/190/description/
+[Academic] Academic book that makes magic real
 > END STRING
 
 > BEGIN STRING
 夢分析入門
-> CONTEXT: Items/191/name/ < UNTRANSLATED
-
+> CONTEXT: Items/191/name/
+Introduction to Dream Analysis
 > END STRING
 
 > BEGIN STRING
 〔学術書〕 「君を知りたい」をリアルにする学術書
-> CONTEXT: Items/191/description/ < UNTRANSLATED
-
+> CONTEXT: Items/191/description/
+[Academic] Academic book that makes "Get Acquainted" a reality
 > END STRING
 
 > BEGIN STRING
@@ -1668,14 +1668,14 @@ Art of Seduction
 
 > BEGIN STRING
 無意識の旅
-> CONTEXT: Items/193/name/ < UNTRANSLATED
-
+> CONTEXT: Items/193/name/
+Unconcious Journey
 > END STRING
 
 > BEGIN STRING
 〔学術書〕 「どこか遠くへ」をリアルにする学術書
-> CONTEXT: Items/193/description/ < UNTRANSLATED
-
+> CONTEXT: Items/193/description/
+[Academic] Academic book that makes "Far Away" a reality
 > END STRING
 
 > BEGIN STRING
@@ -1686,32 +1686,32 @@ The Abyss of Dreams
 
 > BEGIN STRING
 〔学術書〕 「夢と一つに」をリアルにする学術書
-> CONTEXT: Items/194/description/ < UNTRANSLATED
-
+> CONTEXT: Items/194/description/
+[Academic] Academic book that makes "One with the Dream" a reality
 > END STRING
 
 > BEGIN STRING
 快楽の彼岸
-> CONTEXT: Items/195/name/ < UNTRANSLATED
-
+> CONTEXT: Items/195/name/
+Other Shore of Pleasure
 > END STRING
 
 > BEGIN STRING
 〔学術書〕 「あまねき愛を」をリアルにする学術書
-> CONTEXT: Items/195/description/ < UNTRANSLATED
-
+> CONTEXT: Items/195/description/
+[Academic] Academic book that makes "All-Round Love" a reality
 > END STRING
 
 > BEGIN STRING
 記憶と物質
-> CONTEXT: Items/196/name/ < UNTRANSLATED
-
+> CONTEXT: Items/196/name/
+Memory and Matter
 > END STRING
 
 > BEGIN STRING
 〔学術書〕 「忘れたくない」をリアルにする学術書
-> CONTEXT: Items/196/description/ < UNTRANSLATED
-
+> CONTEXT: Items/196/description/
+[Academic] Academic book that makes "Don't Forget" a reality
 > END STRING
 
 > BEGIN STRING
@@ -1746,56 +1746,56 @@ Night Picture Book
 
 > BEGIN STRING
 小ネルトゥプ記
-> CONTEXT: Items/200/name/ < UNTRANSLATED
-
+> CONTEXT: Items/200/name/
+Small Neltup History
 > END STRING
 
 > BEGIN STRING
 〔キーアイテム〕 アイゼクトのネルトゥプ島での冒険の記録
-> CONTEXT: Items/200/description/ < UNTRANSLATED
-
+> CONTEXT: Items/200/description/
+[Key Item] Record of Ayxect's adventures on Neltup Island
 > END STRING
 
 > BEGIN STRING
 覇王樹の蜜水
-> CONTEXT: Items/201/name/ < UNTRANSLATED
-
+> CONTEXT: Items/201/name/
+Cactus Nectar
 > END STRING
 
 > BEGIN STRING
 〔キーアイテム〕 砂漠のサボテンから採れる珍しいお酒
-> CONTEXT: Items/201/description/ < UNTRANSLATED
-
+> CONTEXT: Items/201/description/
+[Key item] Rare liquor extracted from a desert cactus
 > END STRING
 
 > BEGIN STRING
 バックパック
-> CONTEXT: Items/202/name/ < UNTRANSLATED
-> CONTEXT: Items/203/name/ < UNTRANSLATED
-> CONTEXT: Items/204/name/ < UNTRANSLATED
-> CONTEXT: Items/205/name/ < UNTRANSLATED
-
+> CONTEXT: Items/202/name/
+> CONTEXT: Items/203/name/
+> CONTEXT: Items/204/name/
+> CONTEXT: Items/205/name/
+Backpack
 > END STRING
 
 > BEGIN STRING
 〔キーアイテム〕 持てるアイテムの上限+5
-> CONTEXT: Items/202/description/ < UNTRANSLATED
-> CONTEXT: Items/203/description/ < UNTRANSLATED
-> CONTEXT: Items/204/description/ < UNTRANSLATED
-> CONTEXT: Items/205/description/ < UNTRANSLATED
-
+> CONTEXT: Items/202/description/
+> CONTEXT: Items/203/description/
+> CONTEXT: Items/204/description/
+> CONTEXT: Items/205/description/
+[Key Item] Carrying limit +5
 > END STRING
 
 > BEGIN STRING
 サフィのリボン
-> CONTEXT: Items/206/name/ < UNTRANSLATED
-
+> CONTEXT: Items/206/name/
+Thafi's Ribbon
 > END STRING
 
 > BEGIN STRING
 〔キーアイテム〕 アイゼクトがサフィに贈ったリボン
-> CONTEXT: Items/206/description/ < UNTRANSLATED
-
+> CONTEXT: Items/206/description/
+[Key Item] The ribbon given to Thafi by Ayxect
 > END STRING
 
 > BEGIN STRING
@@ -1976,26 +1976,26 @@ Night Picture Book
 
 > BEGIN STRING
 姫のぬいぐるみ
-> CONTEXT: Items/225/name/ < UNTRANSLATED
-
+> CONTEXT: Items/225/name/
+Stuffed Princess Toy
 > END STRING
 
 > BEGIN STRING
 〔キーアイテム〕 ラミエルの姫に見立てられたぬいぐるみ
-> CONTEXT: Items/225/description/ < UNTRANSLATED
-
+> CONTEXT: Items/225/description/
+[Key Item] A stuffed toy modeled after Ramiel's Princess
 > END STRING
 
 > BEGIN STRING
 王子のぬいぐるみ
-> CONTEXT: Items/226/name/ < UNTRANSLATED
-
+> CONTEXT: Items/226/name/
+Stuffed Prince Toy
 > END STRING
 
 > BEGIN STRING
 〔キーアイテム〕 ドルヌスの王子に見立てられたぬいぐるみ
-> CONTEXT: Items/226/description/ < UNTRANSLATED
-
+> CONTEXT: Items/226/description/
+[Key Item] A stuffed toy modeled after Dornus' Prince
 > END STRING
 
 > BEGIN STRING
@@ -2006,8 +2006,8 @@ Unicorn's Horn
 
 > BEGIN STRING
 〔キーアイテム〕 ユニコーンの角を粉末にした、癒しの薬
-> CONTEXT: Items/228/description/ < UNTRANSLATED
-
+> CONTEXT: Items/228/description/
+[Key Item] A healing potion made from powdered unicorn horn.
 > END STRING
 
 > BEGIN STRING

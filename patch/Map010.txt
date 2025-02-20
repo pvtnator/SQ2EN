@@ -147,15 +147,17 @@
 > BEGIN STRING
 装備品の付加効果は最大五つです。
 五つ目以降の付加効果は無視されます。
-> CONTEXT: Map010/events/35/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/24/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/35/pages/0/17/Dialogue
+> CONTEXT: Commonevents/24/17/Dialogue
+Equipment can have a maximum of 5 additional effects.
+Additional effects beyond the 5th will be ignored.
 > END STRING
 
 > BEGIN STRING
 レベルは、「ベース」になった装備品のレベルに
 「追加」した装備品のレベルの半分が足されます。
-> CONTEXT: Map010/events/35/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/24/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/35/pages/0/19/Dialogue
+> CONTEXT: Commonevents/24/19/Dialogue
+The level of the "base" equipment will be added 
+with half the level of the "added" equipment.
 > END STRING

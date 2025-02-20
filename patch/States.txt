@@ -1368,26 +1368,26 @@ Night Incense
 
 > BEGIN STRING
 キッス強化
-> CONTEXT: States/252/name/ < UNTRANSLATED
-
+> CONTEXT: States/252/name/
+Kiss Strength+
 > END STRING
 
 > BEGIN STRING
 バスト強化
-> CONTEXT: States/253/name/ < UNTRANSLATED
-
+> CONTEXT: States/253/name/
+Bust Strength+
 > END STRING
 
 > BEGIN STRING
 ヒップ強化
-> CONTEXT: States/254/name/ < UNTRANSLATED
-
+> CONTEXT: States/254/name/
+Hip Strength+
 > END STRING
 
 > BEGIN STRING
 ヴァッジ強化
-> CONTEXT: States/255/name/ < UNTRANSLATED
-
+> CONTEXT: States/255/name/
+Vagina Strength+
 > END STRING
 
 > BEGIN STRING
@@ -1554,8 +1554,8 @@ One with the Dream/130/100/100
 
 > BEGIN STRING
 ハードスキン/100/100/100
-> CONTEXT: States/292/name/ < UNTRANSLATED
-
+> CONTEXT: States/292/name/
+Hard Skin/100/100/100
 > END STRING
 
 > BEGIN STRING
@@ -1929,14 +1929,14 @@ Command
 
 > BEGIN STRING
 魔封じの壁
-> CONTEXT: States/431/name/ < UNTRANSLATED
-
+> CONTEXT: States/431/name/
+Magic Wall
 > END STRING
 
 > BEGIN STRING
 魔焦がしの炎
-> CONTEXT: States/432/name/ < UNTRANSLATED
-
+> CONTEXT: States/432/name/
+Scorching Flame
 > END STRING
 
 > BEGIN STRING
@@ -1966,8 +1966,8 @@ Command
 
 > BEGIN STRING
 ドラゴンロア/105/100/100
-> CONTEXT: States/437/name/ < UNTRANSLATED
-
+> CONTEXT: States/437/name/
+Dragon Roar/105/100/100
 > END STRING
 
 > BEGIN STRING

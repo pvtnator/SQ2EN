@@ -8,30 +8,35 @@ SQT_Stella
 > BEGIN STRING
 「おお…姫はどこだ！？
 　姫を探せ！！
-> CONTEXT: Map013/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/0/1/Dialogue
+> CONTEXT: Map013/events/1/pages/1/8/Dialogue
+「Oh...where is the princess?! 
+　Find the princess!
 > END STRING
 
 > BEGIN STRING
 「目に入れても痛くない我が愛娘、
 　その評判千里に轟くラミエルの象徴、
 　そんな姫が、
-> CONTEXT: Map013/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/0/3/Dialogue
+「My beloved daughter, a precious treasure,
+　symbol of Ramiel whose reputation is known,
+　far and wide, such a princess...
 > END STRING
 
 > BEGIN STRING
 「お伽の国には必要なのだ！
 　姫を探せ！！
-> CONTEXT: Map013/events/1/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/0/6/Dialogue
+「Fairyland needs it! 
+　Find the princess!!
 > END STRING
 
 > BEGIN STRING
 「このぬいぐるみ、もしや『姫』かと思ったが。
-> CONTEXT: Map013/events/1/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/1/11/Dialogue
+「I thought this stuffed animal 
+　might be a 'princess'.
 > END STRING
 
 > BEGIN STRING
@@ -324,45 +329,48 @@ SQT_Stella
 > BEGIN STRING
 「憎き魔軍ドルヌスの討伐、
 　それも今では後回し。
-> CONTEXT: Map013/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/2/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/2/pages/0/1/Dialogue
+> CONTEXT: Map013/events/2/pages/1/1/Dialogue
+「The defeat of the hateful demon army, Dornus,
+　can be put off for now.
 > END STRING
 
 > BEGIN STRING
 「先ずは姫を捜さねば！
 　姫はどこだ！
-> CONTEXT: Map013/events/2/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/2/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/2/pages/0/3/Dialogue
+> CONTEXT: Map013/events/2/pages/1/3/Dialogue
+「We must find the princess first!
+　Where is the princess!
 > END STRING
 
 > BEGIN STRING
 返事が無い……
 やつれ果てて倒れている
-> CONTEXT: Map013/events/2/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/3/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/14/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/15/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/16/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/19/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/20/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/9/pages/3/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/14/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/15/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/16/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/17/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/18/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/19/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/22/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/24/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/25/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/26/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/27/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/31/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/32/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/37/pages/2/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/2/pages/2/0/Dialogue
+> CONTEXT: Map013/events/3/pages/2/0/Dialogue
+> CONTEXT: Map015/events/14/pages/2/0/Dialogue
+> CONTEXT: Map015/events/15/pages/2/0/Dialogue
+> CONTEXT: Map015/events/16/pages/2/0/Dialogue
+> CONTEXT: Map015/events/19/pages/2/0/Dialogue
+> CONTEXT: Map015/events/20/pages/2/0/Dialogue
+> CONTEXT: Map013/events/9/pages/3/0/Dialogue
+> CONTEXT: Map013/events/14/pages/2/0/Dialogue
+> CONTEXT: Map013/events/15/pages/2/0/Dialogue
+> CONTEXT: Map013/events/16/pages/2/0/Dialogue
+> CONTEXT: Map013/events/17/pages/2/0/Dialogue
+> CONTEXT: Map013/events/18/pages/2/0/Dialogue
+> CONTEXT: Map013/events/19/pages/2/0/Dialogue
+> CONTEXT: Map013/events/22/pages/2/0/Dialogue
+> CONTEXT: Map013/events/24/pages/2/0/Dialogue
+> CONTEXT: Map013/events/25/pages/2/0/Dialogue
+> CONTEXT: Map013/events/26/pages/2/0/Dialogue
+> CONTEXT: Map013/events/27/pages/2/0/Dialogue
+> CONTEXT: Map013/events/31/pages/2/0/Dialogue
+> CONTEXT: Map013/events/32/pages/2/0/Dialogue
+> CONTEXT: Map013/events/37/pages/2/0/Dialogue
+No response...
+Collapsed, from exhaustion
 > END STRING
 
 > BEGIN STRING
@@ -376,186 +384,204 @@ SQT_Stella
 > BEGIN STRING
 「どうした、隣のぬいぐるみが
 　そんなに気になるか。
-> CONTEXT: Map013/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/3/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/3/pages/0/1/Dialogue
+> CONTEXT: Map013/events/3/pages/1/1/Dialogue
+「What, are you really that interested 
+　in that stuffed toy next to me?
 > END STRING
 
 > BEGIN STRING
 「何だこれは。
 　何故こんなところにあるのだ。
-> CONTEXT: Map013/events/3/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/3/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/3/pages/0/6/Dialogue
+> CONTEXT: Map013/events/3/pages/1/6/Dialogue
+「What is it?
+　Why is it here?
 > END STRING
 
 > BEGIN STRING
 「姫はどこだ！
 　姫を捜せ！
-> CONTEXT: Map013/events/4/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/5/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/6/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/7/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/14/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/15/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/16/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/22/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/4/pages/1/1/Dialogue
+> CONTEXT: Map013/events/5/pages/1/1/Dialogue
+> CONTEXT: Map013/events/6/pages/1/1/Dialogue
+> CONTEXT: Map013/events/7/pages/1/1/Dialogue
+> CONTEXT: Map013/events/14/pages/1/1/Dialogue
+> CONTEXT: Map013/events/15/pages/1/1/Dialogue
+> CONTEXT: Map013/events/16/pages/1/1/Dialogue
+> CONTEXT: Map013/events/22/pages/1/1/Dialogue
+「Where is the princess? 
+　Find her!
 > END STRING
 
 > BEGIN STRING
 「姫を探せ！！
-> CONTEXT: Map013/events/8/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/14/Dialogue
+「Find the Princess!!
 > END STRING
 
 > BEGIN STRING
 「姫はどこだ！？
 　姫を探せ！
-> CONTEXT: Map013/events/8/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/33/Dialogue
+「Where is the Princess!?
+　Find her!
 > END STRING
 
 > BEGIN STRING
 「王の命だ！
 　姫を探せ！！
-> CONTEXT: Map013/events/8/pages/0/62/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/8/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/62/Dialogue
+> CONTEXT: Map013/events/8/pages/0/73/Dialogue
+「By the king's command!
+　Find the princess!
 > END STRING
 
 > BEGIN STRING
 「お前が姫か！？
-> CONTEXT: Map013/events/8/pages/0/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/121/Dialogue
+「Are you the princess!?
 > END STRING
 
 > BEGIN STRING
 「そう見えるのかの？
-> CONTEXT: Map013/events/8/pages/0/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/123/Dialogue
+「Do I look like it?
 > END STRING
 
 > BEGIN STRING
 「お前がそうだと言うならばそうなる。
-> CONTEXT: Map013/events/8/pages/0/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/125/Dialogue
+「If you say you are, so be it.
 > END STRING
 
 > BEGIN STRING
 「そうだと言っても構わんが、
 　それでは本物の姫が気の毒じゃな。
-> CONTEXT: Map013/events/8/pages/0/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/127/Dialogue
+「If it was fine for me to say so, 
+　it'd be regrettable for the real princess.
 > END STRING
 
 > BEGIN STRING
 「何を言っている？
 　本物の姫などいない！
-> CONTEXT: Map013/events/8/pages/0/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/130/Dialogue
+「What are you saying?
+　There's no such thing as a real princess!
 > END STRING
 
 > BEGIN STRING
 「ではお主らは誰を探しているのじゃ。
-> CONTEXT: Map013/events/8/pages/0/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/133/Dialogue
+「Then who are you guys looking for?
 > END STRING
 
 > BEGIN STRING
 「分からん奴だな、
 　姫はいないのだ！
-> CONTEXT: Map013/events/8/pages/0/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/135/Dialogue
+「You fool,
+　there is no princess!
 > END STRING
 
 > BEGIN STRING
 「だから探しているというのに！
 　姫はどこだ！！
-> CONTEXT: Map013/events/8/pages/0/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/137/Dialogue
+「That's why we're looking for her! 
+　Where is the princess?!
 > END STRING
 
 > BEGIN STRING
 「殿はどこじゃ！！
-> CONTEXT: Map013/events/8/pages/0/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/168/Dialogue
+「Where is your lord!!
 > END STRING
 
 > BEGIN STRING
 「みなの者、殿を探せ！
 　探しだせ！！
-> CONTEXT: Map013/events/8/pages/0/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/201/Dialogue
+「Everyone, find the lord!
+　Find him!!
 > END STRING
 
 > BEGIN STRING
 「宰相サンの言いつけだ！
 　殿を探せ！！
-> CONTEXT: Map013/events/8/pages/0/211/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/8/pages/0/221/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/211/Dialogue
+> CONTEXT: Map013/events/8/pages/0/221/Dialogue
+「Prime Minister's orders!
+　Find the lord!
 > END STRING
 
 > BEGIN STRING
 「アンタが殿か？
-> CONTEXT: Map013/events/8/pages/0/260/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/260/Dialogue
+「Are you the lord?
 > END STRING
 
 > BEGIN STRING
 「わしと見間違えるとは、
 　余程面相の良い
 　魔物なのであろうな。
-> CONTEXT: Map013/events/8/pages/0/262/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/262/Dialogue
+「He must be a rather
+　good looking demon
+　for you to mistake me as him.
 > END STRING
 
 > BEGIN STRING
 「見間違える？
 　誰とだ？
-> CONTEXT: Map013/events/8/pages/0/266/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/266/Dialogue
+「Mistake?
+　With whom?
 > END STRING
 
 > BEGIN STRING
 「お主らの殿とではないのか。
-> CONTEXT: Map013/events/8/pages/0/269/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/269/Dialogue
+「With your lord?
 > END STRING
 
 > BEGIN STRING
 「おっと、
 　そいつは見間違えるはずがない！
-> CONTEXT: Map013/events/8/pages/0/271/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/271/Dialogue
+「Oh,
+　there's no mistake to be made!
 > END STRING
 
 > BEGIN STRING
 「何せ俺たちゃ、
 　殿なんて全然知らないんだからな！
-> CONTEXT: Map013/events/8/pages/0/273/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/273/Dialogue
+「We don't know our lord at all!
 > END STRING
 
 > BEGIN STRING
 「何も知らずによく探せるものじゃな。
-> CONTEXT: Map013/events/8/pages/0/276/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/276/Dialogue
+「Would be difficult to find him 
+　if you don't know him.
 > END STRING
 
 > BEGIN STRING
 「わかってないな！
 　知るために探すんだ！
-> CONTEXT: Map013/events/8/pages/0/278/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/278/Dialogue
+「I don't know!
+　I'm looking around to find out!
 > END STRING
 
 > BEGIN STRING
 「アンタも探せ！
 　殿はどこだ！！
-> CONTEXT: Map013/events/8/pages/0/280/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/0/280/Dialogue
+「You search too!
+　Where is the lord!!
 > END STRING
 
 > BEGIN STRING
@@ -847,31 +873,36 @@ SQT_Stella
 > BEGIN STRING
 「ああ…殿はどこじゃ！
 　どこにおるのじゃ！
-> CONTEXT: Map013/events/23/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/23/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/23/pages/0/1/Dialogue
+> CONTEXT: Map013/events/23/pages/1/8/Dialogue
+「Oo...where's the lord?
+　Where are you!
 > END STRING
 
 > BEGIN STRING
 「我が使えるべき主君！
 　偉大なる魔王の血を引く、
 　我らの王子！
-> CONTEXT: Map013/events/23/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/23/pages/0/3/Dialogue
+「My master who I must serve!
+　Our prince, 
+　descended from the great Demon Lord!
 > END STRING
 
 > BEGIN STRING
 「そんな殿がドルヌスには必要なのに…
 　ええい、何故おらんのじゃ！
-> CONTEXT: Map013/events/23/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/23/pages/0/6/Dialogue
+「Dornus needs a lord like that...
+　Oh, why isn't he here?
 > END STRING
 
 > BEGIN STRING
 「殿はどこじゃ！
 　殿を捜せ！！
-> CONTEXT: Map013/events/23/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/23/pages/0/8/Dialogue
+「Where's the lord!
+　Find him!!
 > END STRING
 
 > BEGIN STRING

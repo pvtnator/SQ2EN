@@ -78,38 +78,41 @@ OFFにするには黒猫でセーブして下さい
 
 > BEGIN STRING
 "紋白蝶"
-> CONTEXT: Map008/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map010/events/35/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/24/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map008/events/9/pages/0/0/InlineScript/1:4
+> CONTEXT: Map010/events/35/pages/0/0/InlineScript/1:4
+> CONTEXT: Commonevents/24/0/InlineScript/1:4
+"White Butterfly"
 > END STRING
 
 > BEGIN STRING
 「わたしの羽根を、一枚あなたに。
 　わたしの羽根を、一枚夢に。
-> CONTEXT: Map008/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/35/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/24/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/9/pages/0/1/Dialogue
+> CONTEXT: Map010/events/35/pages/0/1/Dialogue
+> CONTEXT: Commonevents/24/1/Dialogue
+「One of my feathers to you.
+　One of my feathers for the dream.
 > END STRING
 
 > BEGIN STRING
 「ふたつをひとつに、
 　いたしましょう。
-> CONTEXT: Map008/events/9/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/35/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/24/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/9/pages/0/3/Dialogue
+> CONTEXT: Map010/events/35/pages/0/3/Dialogue
+> CONTEXT: Commonevents/24/3/Dialogue
+「Combine two into one.
 > END STRING
 
 > BEGIN STRING
 二つの装備品を一つに合わせることができます。
 まず「ベース」になる装備品を選び、
 そこに「追加」する装備品を選んで下さい。
-> CONTEXT: Map008/events/9/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/35/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/24/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/9/pages/0/10/Dialogue
+> CONTEXT: Map010/events/35/pages/0/10/Dialogue
+> CONTEXT: Commonevents/24/10/Dialogue
+You can combine two pieces of equipment into one.
+First, select the "base" piece of equipment,
+then select the what you want to "add" to it.
 > END STRING
 
 > BEGIN STRING
@@ -117,18 +120,23 @@ OFFにするには黒猫でセーブして下さい
 「追加」した装備品の付加効果が加わります。
 ただし、ユニーク効果（オレンジ色の効果）は
 追加できません。
-> CONTEXT: Map008/events/9/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/35/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/24/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/9/pages/0/13/Dialogue
+> CONTEXT: Map010/events/35/pages/0/13/Dialogue
+> CONTEXT: Commonevents/24/13/Dialogue
+The additional effects of the "added" equipment 
+will be added to the "base" equipment.
+However, unique effects (orange effects)
+cannot be added.
 > END STRING
 
 > BEGIN STRING
 装備品の付加効果は最大五つです。
 五つ目以降の付加効果は無視されます。
 装備品のレベルは二つの平均になります。
-> CONTEXT: Map008/events/9/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/9/pages/0/17/Dialogue
+Equipment can have a maximum of 5 additional effects.
+Additional effects beyond the 5th will be ignored.
+The level of the equipment will be the average of the two.
 > END STRING
 
 > BEGIN STRING

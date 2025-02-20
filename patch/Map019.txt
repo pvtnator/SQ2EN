@@ -2,15 +2,18 @@
 > BEGIN STRING
 「おめでたさまでございます！
 　まずは最初の！読破？踏破？
-> CONTEXT: Map019/events/1/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/1/pages/0/13/Dialogue
+「Congratulations!
+　First and first! 
+　Read it? Explore it?
 > END STRING
 
 > BEGIN STRING
 「これまた見事な夢の跡！
 　十進法であらわさば……
-> CONTEXT: Map019/events/1/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/1/pages/0/17/Dialogue
+「Another magnificent dream remnant!
+　If expressed in numbers...
 > END STRING
 
 > BEGIN STRING
@@ -29,30 +32,33 @@
 > BEGIN STRING
 「といったところでしょう！
 　ぱちぱちぱち！
-> CONTEXT: Map019/events/1/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/1/pages/0/34/Dialogue
+「That's about it!
+　Clap, clap, clap!
 > END STRING
 
 > BEGIN STRING
 
 \\i[200]\\c[3]小ネルトゥプ記\\c[0]に記録が書き込まれた！
-> CONTEXT: Map019/events/1/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/1/pages/0/39/Dialogue
 
+Records saved in \\i[200]\\c[3]Small Neltup History\\c[0]!
 > END STRING
 
 > BEGIN STRING
 王子に見立てたぬいぐるみが玉座に置かれている
-> CONTEXT: Map019/events/2/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/2/pages/0/0/Dialogue
+A stuffed toy resembling a prince 
+is placed on the throne.
 > END STRING
 
 > BEGIN STRING
 ぬいぐるみを取りますか？
-> CONTEXT: Map019/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/2/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/3/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/2/pages/0/1/Dialogue
+> CONTEXT: Map019/events/2/pages/2/1/Dialogue
+> CONTEXT: Map019/events/3/pages/0/1/Dialogue
+> CONTEXT: Map019/events/3/pages/2/1/Dialogue
+Take the stuffed toy?
 > END STRING
 
 > BEGIN STRING
@@ -71,24 +77,26 @@
 
 > BEGIN STRING
 姫に見立てたぬいぐるみが玉座に置かれている
-> CONTEXT: Map019/events/3/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/3/pages/0/0/Dialogue
+A stuffed toy resembling a princess 
+is placed on the throne.
 > END STRING
 
 > BEGIN STRING
 「初めて見る夢魔じゃな……
-> CONTEXT: Map019/events/4/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/4/pages/0/21/Dialogue
+「This is the first time 
+　I've seen these succubi...
 > END STRING
 
 > BEGIN STRING
 「無視して戻ることもできそうじゃが……
-> CONTEXT: Map019/events/4/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/4/pages/0/34/Dialogue
+「I could ignore them and go back...
 > END STRING
 
 > BEGIN STRING
 「さて、どうしたものか。
-> CONTEXT: Map019/events/4/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/4/pages/0/53/Dialogue
+「What to do?
 > END STRING

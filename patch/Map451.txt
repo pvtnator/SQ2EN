@@ -3,22 +3,27 @@
 「私は大工なのだが、その、実は、
 　この店の改装のため、
 　資金を集めているのだ。
-> CONTEXT: Map451/events/12/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map451/events/12/pages/0/3/Dialogue
+「I'm a carpenter, 
+　and I'm actually raising money 
+　to renovate this establishment.
 > END STRING
 
 > BEGIN STRING
 「ほら…仮にも王都の酒場なのだから、
 　もう少し大きくて、
 　賑やかな方がいいだろう？
-> CONTEXT: Map451/events/12/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map451/events/12/pages/0/6/Dialogue
+「Look...after all, this is a bar 
+　in the royal capital, it'd be better if it was 
+　a little bigger and more lively, right?
 > END STRING
 
 > BEGIN STRING
 「だから私が一肌脱ごうと……
 　思ったんだけど、
 　ここのマスターは取り合ってくれなくてね。
-> CONTEXT: Map451/events/12/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map451/events/12/pages/0/9/Dialogue
+「So I thought I'd lend a hand...
+　but the owner here wouldn't take me seriously.
 > END STRING

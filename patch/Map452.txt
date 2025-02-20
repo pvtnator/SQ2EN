@@ -1,63 +1,71 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "騎士リュードゥフ"
-> CONTEXT: Map452/events/2/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/24/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/34/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/4/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map425/events/4/pages/0/16/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map452/events/2/pages/1/0/InlineScript/1:4
+> CONTEXT: Map452/events/9/pages/0/24/InlineScript/1:4
+> CONTEXT: Map452/events/9/pages/0/34/InlineScript/1:4
+> CONTEXT: Map425/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map425/events/4/pages/0/9/InlineScript/1:4
+> CONTEXT: Map425/events/4/pages/0/16/InlineScript/1:4
+"Knight Reudf"
 > END STRING
 
 > BEGIN STRING
 「う…ぅ………
-> CONTEXT: Map452/events/2/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/2/pages/1/1/Dialogue
+「U...uh....
 > END STRING
 
 > BEGIN STRING
 「た…助かった……？
 　ありがとう……。
-> CONTEXT: Map452/events/2/pages/1/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/2/pages/1/9/Dialogue
+「I'm...saved...?
+　Thank you...
 > END STRING
 
 > BEGIN STRING
 「私はグルッペンの騎士リュードゥフ。
 　王の命でこの洞窟の調査に訪れたが、
 　魔物にやられこの様だ。
-> CONTEXT: Map452/events/2/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/2/pages/1/11/Dialogue
+「I am Reudf, a Gruppen Knight. 
+　I was ordered by the king to investigate 
+　this cave, but I was attacked by a demon.
 > END STRING
 
 > BEGIN STRING
 「帰ったらすぐに
 　この危険な洞窟を仔細報告せねば…
 　…地図も作らせよう。
-> CONTEXT: Map452/events/2/pages/1/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/2/pages/1/14/Dialogue
+「As soon as I get back, I'll have to give 
+　a detailed report on this dangerous cave... 
+　I'll also have a map made.
 > END STRING
 
 > BEGIN STRING
 「そうだ、後で君にお礼もしよう。
 　君の名前は……
-> CONTEXT: Map452/events/2/pages/1/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/2/pages/1/17/Dialogue
+「That's right, I'll thank you later.
+　Your name is...
 > END STRING
 
 > BEGIN STRING
 「騎士リュードゥフが
 　西の洞窟で魔物退治をしたのは
 　確か三百年以上前……
-> CONTEXT: Map452/events/2/pages/1/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/2/pages/1/61/Dialogue
+「It was over 300 years ago 
+　that the knight Reudf defeated the monsters 
+　in the western cave...
 > END STRING
 
 > BEGIN STRING
 「……奇妙な夢じゃ。
-> CONTEXT: Map452/events/2/pages/1/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/2/pages/1/64/Dialogue
+「...What a strange dream.
 > END STRING
 
 > BEGIN STRING
@@ -68,486 +76,531 @@
 
 > BEGIN STRING
 「う…くっ…！
-> CONTEXT: Map452/events/9/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/6/Dialogue
+「Ugh...!
 > END STRING
 
 > BEGIN STRING
 「石になっちまえっ！
-> CONTEXT: Map452/events/9/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/17/Dialogue
+「Turn to stone!
 > END STRING
 
 > BEGIN STRING
 「な…手足がっ…
-> CONTEXT: Map452/events/9/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/25/Dialogue
+「My... my limbs...
 > END STRING
 
 > BEGIN STRING
 「アハハハッ！どうだ？
 　動けないまま犯される気分はよ？
-> CONTEXT: Map452/events/9/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/27/Dialogue
+「Hahaha! How's it feel?
+　Getting raped while unable to move?
 > END STRING
 
 > BEGIN STRING
 「う…あ……ああぁっ…！
-> CONTEXT: Map452/events/9/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/35/Dialogue
+「U..a...aaaah...!
 > END STRING
 
 > BEGIN STRING
 「ハハッ！いい返事だな？
 　ハーッハッハーッ！
-> CONTEXT: Map452/events/9/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/37/Dialogue
+「Hahah! Good answer!
+　Hahhahhah!
 > END STRING
 
 > BEGIN STRING
 「うぅ…、ストゥーナこわ～い……
-> CONTEXT: Map452/events/9/pages/0/56/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/179/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/56/Dialogue
+> CONTEXT: Map452/events/9/pages/0/179/Dialogue
+「Uuh... Stona is scary...
 > END STRING
 
 > BEGIN STRING
 「アレがお前の友達か？
-> CONTEXT: Map452/events/9/pages/0/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/58/Dialogue
+「Is that your friend?
 > END STRING
 
 > BEGIN STRING
 「う、うん…。
-> CONTEXT: Map452/events/9/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/60/Dialogue
+「Y-yes...
 > END STRING
 
 > BEGIN STRING
 「アタシが帰るの遅いから、
 　心配してたかも……
-> CONTEXT: Map452/events/9/pages/0/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/61/Dialogue
+「Maybe she was worried 
+　because I was taking long to come back...
 > END STRING
 
 > BEGIN STRING
 「今回はいつも邪魔する
 　火トカゲもいねえし、
 　ずっと動けないままヤってやるぜ…
-> CONTEXT: Map452/events/9/pages/0/65/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/65/Dialogue
+> CONTEXT: Map452/events/9/pages/0/197/Dialogue
+「This time the fire lizard
+　isn't getting in the way
+　so you'll stay stuck...
 > END STRING
 
 > BEGIN STRING
 「嬉しいだろ？　あぁ？
 　ハハハハッ！
-> CONTEXT: Map452/events/9/pages/0/68/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/200/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/68/Dialogue
+> CONTEXT: Map452/events/9/pages/0/200/Dialogue
+「Aren't you happy? Aha?
+　Hahahah!
 > END STRING
 
 > BEGIN STRING
 「このまま帰ってこないこと
 　祈ってようぜッ！
-> CONTEXT: Map452/events/9/pages/0/70/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/202/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/70/Dialogue
+> CONTEXT: Map452/events/9/pages/0/202/Dialogue
+「Let's pray she doesn't return now!
 > END STRING
 
 > BEGIN STRING
 「…がーん……
-> CONTEXT: Map452/events/9/pages/0/73/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/205/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/73/Dialogue
+> CONTEXT: Map452/events/9/pages/0/205/Dialogue
+「...Gh....
 > END STRING
 
 > BEGIN STRING
 「いい友達じゃな？
-> CONTEXT: Map452/events/9/pages/0/75/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/207/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/75/Dialogue
+> CONTEXT: Map452/events/9/pages/0/207/Dialogue
+「You're good friends?
 > END STRING
 
 > BEGIN STRING
 「うう…、
 　ストゥーナのばかぁ～～
-> CONTEXT: Map452/events/9/pages/0/77/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/209/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/77/Dialogue
+> CONTEXT: Map452/events/9/pages/0/209/Dialogue
+「Well,
+　Stona's a fool～～
 > END STRING
 
 > BEGIN STRING
 「誰がバカだって？
-> CONTEXT: Map452/events/9/pages/0/83/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/215/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/83/Dialogue
+> CONTEXT: Map452/events/9/pages/0/215/Dialogue
+「Who's a fool?
 > END STRING
 
 > BEGIN STRING
 「気づいてねえとでも思ったか？
 　あぁ？
-> CONTEXT: Map452/events/9/pages/0/108/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/240/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/108/Dialogue
+> CONTEXT: Map452/events/9/pages/0/240/Dialogue
+「Did you want me to notice?
+　Huh?
 > END STRING
 
 > BEGIN STRING
 「そんな～～、
 　じゃ、いるの知ってて……
-> CONTEXT: Map452/events/9/pages/0/114/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/246/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/114/Dialogue
+> CONTEXT: Map452/events/9/pages/0/246/Dialogue
+「Oh no～～
+　Now you know...
 > END STRING
 
 > BEGIN STRING
 「ひどぉい～っ
-> CONTEXT: Map452/events/9/pages/0/116/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/248/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/116/Dialogue
+> CONTEXT: Map452/events/9/pages/0/248/Dialogue
+「How terrible～
 > END STRING
 
 > BEGIN STRING
 「ッるせえな！
 　勝手にいなくなりやがって！
-> CONTEXT: Map452/events/9/pages/0/121/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/253/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/121/Dialogue
+> CONTEXT: Map452/events/9/pages/0/253/Dialogue
+「Shut up!
+　You were gone without permission!
 > END STRING
 
 > BEGIN STRING
 「すぐイっちまうクセに、
 　一人でほっつき歩いてんじゃねえよっ！
-> CONTEXT: Map452/events/9/pages/0/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/123/Dialogue
+「You cum so easily,
+　don't wander around by yourself!
 > END STRING
 
 > BEGIN STRING
 「ぎくぅ～っ……
-> CONTEXT: Map452/events/9/pages/0/126/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/258/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/126/Dialogue
+> CONTEXT: Map452/events/9/pages/0/258/Dialogue
+「Shhhhh...
 > END STRING
 
 > BEGIN STRING
 「で、何だこの野郎は？
-> CONTEXT: Map452/events/9/pages/0/128/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/260/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/128/Dialogue
+> CONTEXT: Map452/events/9/pages/0/260/Dialogue
+「So, who's this guy?
 > END STRING
 
 > BEGIN STRING
 「ふぅん、\\dエサ\\dか？
 　ここまで連れてきたのか？
 　やるじゃねぇか。
-> CONTEXT: Map452/events/9/pages/0/129/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/261/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/129/Dialogue
+> CONTEXT: Map452/events/9/pages/0/261/Dialogue
+「Hm, is he \\dfood\\d?
+　You brought him?
+　Let's do this.
 > END STRING
 
 > BEGIN STRING
 「あの…ストゥーナ、
 　あのねぇ～、
-> CONTEXT: Map452/events/9/pages/0/133/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/265/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/133/Dialogue
+> CONTEXT: Map452/events/9/pages/0/265/Dialogue
+「Well... Stona,
+　you see～
 > END STRING
 
 > BEGIN STRING
 「アタシ、しばらくこの子と
 　一緒にいることにしたのぉ～。
-> CONTEXT: Map452/events/9/pages/0/135/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/9/pages/0/267/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/135/Dialogue
+> CONTEXT: Map452/events/9/pages/0/267/Dialogue
+「I decided to stay with him
+　for a while～.
 > END STRING
 
 > BEGIN STRING
 「だから、ストゥーナも、
 　一緒に行こぉ～？
-> CONTEXT: Map452/events/9/pages/0/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/137/Dialogue
+「So, Stona,
+　wanna come with～?
 > END STRING
 
 > BEGIN STRING
 「……………………
 　………………あ？
-> CONTEXT: Map452/events/9/pages/0/140/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/140/Dialogue
+「........
+　........Huh?
 > END STRING
 
 > BEGIN STRING
 「ぁぅ……
-> CONTEXT: Map452/events/9/pages/0/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/143/Dialogue
+「Yeah...
 > END STRING
 
 > BEGIN STRING
 「勝手にいなくなって、今度は
 　人間について行く…だ？
-> CONTEXT: Map452/events/9/pages/0/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/145/Dialogue
+「You disappear without permission
+　and start following someone...?
 > END STRING
 
 > BEGIN STRING
 「もういい！
 　コイツは俺が犯すッ！
-> CONTEXT: Map452/events/9/pages/0/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/147/Dialogue
+「That's enough!
+　I'm going to rape him!
 > END STRING
 
 > BEGIN STRING
 「メローナ！
 　テメエは後でお仕置きだッ！！
-> CONTEXT: Map452/events/9/pages/0/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/149/Dialogue
+「Merona! 
+　You'll get punished later!!
 > END STRING
 
 > BEGIN STRING
 「…お前、さっきの……
 　いつからそこに……
-> CONTEXT: Map452/events/9/pages/0/183/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/183/Dialogue
+「...You, from earlier...
+　How long have you been there...
 > END STRING
 
 > BEGIN STRING
 「ん～？
 　あたしずっとおじいちゃんと一緒よぉ\\e[0]
-> CONTEXT: Map452/events/9/pages/0/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/186/Dialogue
+「Hmm?
+　I've always been with grandpa\\e[0]
 > END STRING
 
 > BEGIN STRING
 「……………………
 　アレはお前の友達か？
-> CONTEXT: Map452/events/9/pages/0/189/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/189/Dialogue
+「...Is that your friend?
 > END STRING
 
 > BEGIN STRING
 「うん～。
-> CONTEXT: Map452/events/9/pages/0/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/192/Dialogue
+「Yeah～.
 > END STRING
 
 > BEGIN STRING
 「でもアタシが帰るの遅いから、
 　心配してたかも……
-> CONTEXT: Map452/events/9/pages/0/193/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/193/Dialogue
+「But I was coming back late,
+　so maybe she was worried...
 > END STRING
 
 > BEGIN STRING
 「すぐイっちまうクセに、一人で
 　ほっつき歩いてんじゃねえよっ！
-> CONTEXT: Map452/events/9/pages/0/255/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/255/Dialogue
+「You cum so easily, 
+　don't wander around by yourself!
 > END STRING
 
 > BEGIN STRING
 「ね？ おじいちゃん。
-> CONTEXT: Map452/events/9/pages/0/269/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/269/Dialogue
+「Right, grandpa?
 > END STRING
 
 > BEGIN STRING
 「ついて来て良いなど
 　一言も言ってないがの。
-> CONTEXT: Map452/events/9/pages/0/271/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/271/Dialogue
+「I never said anything 
+　about you coming along.
 > END STRING
 
 > BEGIN STRING
 「うぅ……………
-> CONTEXT: Map452/events/9/pages/0/274/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/274/Dialogue
+「Uuu......
 > END STRING
 
 > BEGIN STRING
 「もうばかばか、
 　みんなばかぁ～、
 　知らないっ！
-> CONTEXT: Map452/events/9/pages/0/275/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/275/Dialogue
+「So stupid,
+　you're all so stupid～,
+　I don't know!
 > END STRING
 
 > BEGIN STRING
 「ストゥーナ、そう、\\dエサ\\dだよ！
 　たべちゃおっ！
-> CONTEXT: Map452/events/9/pages/0/278/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/278/Dialogue
+「Stona, that's right, \\dfood\\d! 
+　Let's eat!
 > END STRING
 
 > BEGIN STRING
 「あ………あ…ン……
-> CONTEXT: Map452/events/9/pages/0/328/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/328/Dialogue
+「A....ah...
 > END STRING
 
 > BEGIN STRING
 「オレが…イかされるなんて……
-> CONTEXT: Map452/events/9/pages/0/329/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/329/Dialogue
+「I...can't believe I came...
 > END STRING
 
 > BEGIN STRING
 「凄いでしょぉ～\\e[0]
-> CONTEXT: Map452/events/9/pages/0/331/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/331/Dialogue
+「Isn't it amazing～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「何でテメエが得意気なんだよ！
-> CONTEXT: Map452/events/9/pages/0/333/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/333/Dialogue
+「Why are you acting so smug about it!?
 > END STRING
 
 > BEGIN STRING
 「……お前も元気じゃの。
-> CONTEXT: Map452/events/9/pages/0/335/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/335/Dialogue
+「...You're still lively too.
 > END STRING
 
 > BEGIN STRING
 「何だジジィ、
 　もっかいヤるかコラァ！
-> CONTEXT: Map452/events/9/pages/0/337/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/337/Dialogue
+「What is it, old man?
+　Wanna go again?
 > END STRING
 
 > BEGIN STRING
 「ストゥーナ～～、
 　それよりぃ………
-> CONTEXT: Map452/events/9/pages/0/340/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/340/Dialogue
+「Stona～～,
+　By the way...
 > END STRING
 
 > BEGIN STRING
 「あぁ！？
 　オレがこのジジィの夢？
-> CONTEXT: Map452/events/9/pages/0/348/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/348/Dialogue
+「Ah!?
+　I'm a dream of this old man?
 > END STRING
 
 > BEGIN STRING
 「フザけたこと言ってンなよ！
 　オレはオレだッ！
-> CONTEXT: Map452/events/9/pages/0/350/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/350/Dialogue
+「Don't be silly!
+　I am me!
 > END STRING
 
 > BEGIN STRING
 「ん～、でもぉ、
 　アタシたちそもそも夢だし～。
-> CONTEXT: Map452/events/9/pages/0/353/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/353/Dialogue
+「Mm～, but
+　this is a dream to begin with～.
 > END STRING
 
 > BEGIN STRING
 「どこかで、おじいちゃんの夢と
 　まざっちゃったんじゃないかな？
-> CONTEXT: Map452/events/9/pages/0/355/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/355/Dialogue
+「Maybe somewhere along the way,
+　we got mixed up in this old man's dream?
 > END STRING
 
 > BEGIN STRING
 「バカ言ってんじゃねぇよ！
 　そんな事……
-> CONTEXT: Map452/events/9/pages/0/358/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/358/Dialogue
+「Don't be silly!
+　Something like that...
 > END STRING
 
 > BEGIN STRING
 「……いや…まさか………
-> CONTEXT: Map452/events/9/pages/0/360/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/360/Dialogue
+「...No...no way...
 > END STRING
 
 > BEGIN STRING
 「…エストかなぁ？
-> CONTEXT: Map452/events/9/pages/0/362/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/362/Dialogue
+「...Est, perhaps?
 > END STRING
 
 > BEGIN STRING
 「ッたく、ついていけねぇぜ、
 　アイツの気紛れにもよ！
-> CONTEXT: Map452/events/9/pages/0/364/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/364/Dialogue
+「Ugh, I can't keep up with her,
+　it all depends on her whims!
 > END STRING
 
 > BEGIN STRING
 「アタシたちも気紛れなら
 　ヒトのこと言えないけどねぇ\\e[0]
-> CONTEXT: Map452/events/9/pages/0/367/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/367/Dialogue
+「Who are we to say when
+　we're so whimsical ourselves\\e[0]
 > END STRING
 
 > BEGIN STRING
 「いいや、それでもオレは！
 　認めねぇからな、オレがジジィの
 　夢だなんて！
-> CONTEXT: Map452/events/9/pages/0/370/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/370/Dialogue
+「Sure, but I still won't accept 
+　that I'm a dream of this old man!
 > END STRING
 
 > BEGIN STRING
 「そんなこと言ってもぉ……
-> CONTEXT: Map452/events/9/pages/0/374/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/374/Dialogue
+「Even if you say so...
 > END STRING
 
 > BEGIN STRING
 「……わかってるよ、
 　一緒に行って
 　確かめるしかねぇんだろ。
-> CONTEXT: Map452/events/9/pages/0/376/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/376/Dialogue
+「...I know,
+　we should go together
+　and find out.
 > END STRING
 
 > BEGIN STRING
 「さすがぁ～～\\e[0]
-> CONTEXT: Map452/events/9/pages/0/380/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/380/Dialogue
+「Just so～～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「おい、わしはついて来て良いなど
 　まだ一言も……
-> CONTEXT: Map452/events/9/pages/0/382/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/382/Dialogue
+「Oi, I haven't yet said 
+　if I'll let you follow me...
 > END STRING
 
 > BEGIN STRING
 「つべこべ言ってンじゃねぇ！
 　エストがテメェの夢にいるなら
 　それしかねぇんだよ！
-> CONTEXT: Map452/events/9/pages/0/385/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/385/Dialogue
+「Stop whining!
+　If Est is in your dream
+　then that's the only option!
 > END STRING
 
 > BEGIN STRING
 「たまには手助けしてやるから
 　ありがたく思いなッ！
-> CONTEXT: Map452/events/9/pages/0/388/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/388/Dialogue
+「I'll help you every now and then,
+　so be grateful!
 > END STRING
 
 > BEGIN STRING
 「よろしくねぇ～～\\e[0]
-> CONTEXT: Map452/events/9/pages/0/391/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/9/pages/0/391/Dialogue
+「Nice to meet you～～\\e[0]
 > END STRING
 
 > BEGIN STRING
 
 ストゥーナを呼べるようになった！
-> CONTEXT: Map452/events/9/pages/0/421/Dialogue < UNTRANSLATED
+> CONTEXT: Map452/events/9/pages/0/421/Dialogue
 
+Stone can now be summoned!
 > END STRING
 
 > BEGIN STRING
 精を吸われ、気を失っている……
-> CONTEXT: Map452/events/12/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map452/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map452/events/12/pages/0/1/Dialogue
+> CONTEXT: Map452/events/13/pages/0/1/Dialogue
+Semen sucked out and unconcious...
 > END STRING

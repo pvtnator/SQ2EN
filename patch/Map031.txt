@@ -15,64 +15,65 @@
 > BEGIN STRING
 
 \\n[1]のレベルが上がった！
-> CONTEXT: Map031/events/7/pages/0/79/Dialogue < UNTRANSLATED
-> CONTEXT: Map030/events/1/pages/0/28/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/218/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/0/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/218/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/219/Dialogue < UNTRANSLATED
+> CONTEXT: Map031/events/7/pages/0/79/Dialogue
+> CONTEXT: Map030/events/1/pages/0/28/Dialogue
+> CONTEXT: Map029/events/27/pages/0/218/Dialogue
+> CONTEXT: Map024/events/4/pages/0/52/Dialogue
+> CONTEXT: Map029/events/30/pages/0/218/Dialogue
+> CONTEXT: Map029/events/31/pages/0/219/Dialogue
 
+\\n[1]'s level increased!
 > END STRING
 
 > BEGIN STRING
 "ラミエル兵"
-> CONTEXT: Map031/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map031/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map026/events/20/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map031/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map028/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map028/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map028/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/0/14/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/0/26/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/1/13/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map024/events/4/pages/1/25/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map016/events/3/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map016/events/3/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/99/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/110/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/122/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/131/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/2/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/157/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/2/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/166/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/173/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/3/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/180/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/187/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/3/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/4/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/5/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/6/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/7/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/8/pages/0/61/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/8/pages/0/72/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/8/pages/0/120/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/8/pages/0/124/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/8/pages/0/129/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/8/pages/0/134/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/14/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/15/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/16/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/22/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map013/events/35/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map031/events/8/pages/0/0/InlineScript/1:4
+> CONTEXT: Map029/events/20/pages/0/0/InlineScript/1:4
+> CONTEXT: Map031/events/9/pages/0/0/InlineScript/1:4
+> CONTEXT: Map026/events/20/pages/0/0/InlineScript/1:4
+> CONTEXT: Map031/events/10/pages/0/0/InlineScript/1:4
+> CONTEXT: Map028/events/8/pages/0/0/InlineScript/1:4
+> CONTEXT: Map028/events/9/pages/0/0/InlineScript/1:4
+> CONTEXT: Map028/events/10/pages/0/0/InlineScript/1:4
+> CONTEXT: Map024/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map024/events/4/pages/0/14/InlineScript/1:4
+> CONTEXT: Map024/events/4/pages/0/26/InlineScript/1:4
+> CONTEXT: Map024/events/4/pages/1/0/InlineScript/1:4
+> CONTEXT: Map024/events/4/pages/1/13/InlineScript/1:4
+> CONTEXT: Map024/events/4/pages/1/25/InlineScript/1:4
+> CONTEXT: Map016/events/3/pages/2/0/InlineScript/1:4
+> CONTEXT: Map016/events/3/pages/3/0/InlineScript/1:4
+> CONTEXT: Map015/events/9/pages/0/99/InlineScript/1:4
+> CONTEXT: Map015/events/9/pages/0/110/InlineScript/1:4
+> CONTEXT: Map015/events/9/pages/0/122/InlineScript/1:4
+> CONTEXT: Map013/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map015/events/9/pages/0/131/InlineScript/1:4
+> CONTEXT: Map013/events/2/pages/1/0/InlineScript/1:4
+> CONTEXT: Map015/events/9/pages/0/157/InlineScript/1:4
+> CONTEXT: Map013/events/2/pages/3/0/InlineScript/1:4
+> CONTEXT: Map015/events/9/pages/0/166/InlineScript/1:4
+> CONTEXT: Map013/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map015/events/9/pages/0/173/InlineScript/1:4
+> CONTEXT: Map013/events/3/pages/1/0/InlineScript/1:4
+> CONTEXT: Map015/events/9/pages/0/180/InlineScript/1:4
+> CONTEXT: Map015/events/9/pages/0/187/InlineScript/1:4
+> CONTEXT: Map013/events/3/pages/3/0/InlineScript/1:4
+> CONTEXT: Map013/events/4/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/5/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/6/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/7/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/8/pages/0/61/InlineScript/1:4
+> CONTEXT: Map013/events/8/pages/0/72/InlineScript/1:4
+> CONTEXT: Map013/events/8/pages/0/120/InlineScript/1:4
+> CONTEXT: Map013/events/8/pages/0/124/InlineScript/1:4
+> CONTEXT: Map013/events/8/pages/0/129/InlineScript/1:4
+> CONTEXT: Map013/events/8/pages/0/134/InlineScript/1:4
+> CONTEXT: Map013/events/14/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/15/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/16/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/22/pages/1/0/InlineScript/1:4
+> CONTEXT: Map013/events/35/pages/0/0/InlineScript/1:4
+"Ramiel Soldier"
 > END STRING
 
 > BEGIN STRING

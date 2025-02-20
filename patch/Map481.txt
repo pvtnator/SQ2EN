@@ -86,11 +86,12 @@
 > BEGIN STRING
 
 持てるアイテムの上限が増えた！
-> CONTEXT: Map481/events/2/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map447/events/4/pages/1/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map453/events/4/pages/1/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/13/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map481/events/2/pages/0/17/Dialogue
+> CONTEXT: Map447/events/4/pages/1/9/Dialogue
+> CONTEXT: Map453/events/4/pages/1/8/Dialogue
+> CONTEXT: Map015/events/13/pages/0/29/Dialogue
 
+Item carrying capacity increased!
 > END STRING
 
 > BEGIN STRING

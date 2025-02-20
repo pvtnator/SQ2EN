@@ -3,463 +3,535 @@
 「やあ！
 　ルゲイエ君の言ったこと、
 　ちゃんと覚えてるかい？
-> CONTEXT: Map015/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/3/pages/0/1/Dialogue
+「Hey!
+　Remember what Rugeiyu said?
 > END STRING
 
 > BEGIN STRING
 ちゃんと覚えてるかい？
-> CONTEXT: Map015/events/3/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/3/pages/0/5/Dialogue
+Do you remember?
 > END STRING
 
 > BEGIN STRING
 「ならいいんだ！
 　がんばってね！
-> CONTEXT: Map015/events/3/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/3/pages/0/9/Dialogue
+「All right!
+　Good luck!
 > END STRING
 
 > BEGIN STRING
 「じゃあ、僕がもういちど話してあげるよ。
 　ルゲイエ君ほど説明が上手じゃないけどね。
-> CONTEXT: Map015/events/3/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/3/pages/0/14/Dialogue
+「Well, I'll explain it again. 
+　I'm not as good at explaining, though.
 > END STRING
 
 > BEGIN STRING
 「このネルトゥプの島は、
 　一人の女の子 ―きっと夢魔だね― のせいで
 　現実の歴史を全部失ってしまったんだ。
-> CONTEXT: Map015/events/3/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/3/pages/0/16/Dialogue
+「Neltup Island has lost all of its 
+　real history because of one girl, 
+　probably a succubus.
 > END STRING
 
 > BEGIN STRING
 「女の子は今も、奪った現実の世界で
 　それをオモチャにして遊んでいる。
-> CONTEXT: Map015/events/3/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/3/pages/0/19/Dialogue
+「That girl is still playing with it 
+　in the stolen real world.
 > END STRING
 
 > BEGIN STRING
 「この島を元に戻すにも、
 　女の子のところに行くにも、
-> CONTEXT: Map015/events/3/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/3/pages/0/21/Dialogue
+「To restore this island,
+　to get to the girl,
 > END STRING
 
 > BEGIN STRING
 「その四冊の\\c[2]白の史書\\c[0]を使って、
 　まずは島に歴史を与えるんだ！
-> CONTEXT: Map015/events/3/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/3/pages/0/23/Dialogue
+「Use those 4 \\c[2]Blank Books\\c[0]
+　to give history to this island first!
 > END STRING
 
 > BEGIN STRING
 「そうしないと、君もこの島も誰もかも
 　\\dなんでもない\\dままで、
 　いつまでも何も起きないからね。
-> CONTEXT: Map015/events/3/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/3/pages/0/25/Dialogue
+「If you don't, \\dnothing will happen\\d
+　to you, anyone else, or this island,
+　and everything will remain as they are.
 > END STRING
 
 > BEGIN STRING
 「さあ、そこの本棚から夢の奥へ！
 　夢の中で夢を失った島へ！
 　がんばってね！
-> CONTEXT: Map015/events/3/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/3/pages/0/28/Dialogue
+「Now, go from that bookshelf into the depths of dreams!
+　To the island of lost dreams within dreams!
+　Good luck!
 > END STRING
 
 > BEGIN STRING
 「お！おおおお？おお！
-> CONTEXT: Map015/events/7/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/44/Dialogue
+「Oo! Ooooo? Ooh!
 > END STRING
 
 > BEGIN STRING
 「おお！あなた！
 　あなた様？
-> CONTEXT: Map015/events/7/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/45/Dialogue
+「Ooh! You!
+　Mister?
 > END STRING
 
 > BEGIN STRING
 「あらこんにちわ！
-> CONTEXT: Map015/events/7/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/47/Dialogue
+「Oh hi!
 > END STRING
 
 > BEGIN STRING
 「今度はコウモリが喋るか。
-> CONTEXT: Map015/events/7/pages/0/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/49/Dialogue
+「So now bats can talk?
 > END STRING
 
 > BEGIN STRING
 「お聞きを！
 　そうですか？
 　その通り！
-> CONTEXT: Map015/events/7/pages/0/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/51/Dialogue
+「Listen!
+　Really?
+　Just so!
 > END STRING
 
 > BEGIN STRING
 「イエス！プリーズ？
 　お聞きになってくださいませ！
-> CONTEXT: Map015/events/7/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/54/Dialogue
+「Hai! Kudasai?
+　Please listen!
 > END STRING
 
 > BEGIN STRING
 「さてお立ち会い！
-> CONTEXT: Map015/events/7/pages/0/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/56/Dialogue
+「Well, see ya!
 > END STRING
 
 > BEGIN STRING
 「狂っておるのか。
-> CONTEXT: Map015/events/7/pages/0/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/58/Dialogue
+「Are you crazy?
 > END STRING
 
 > BEGIN STRING
 「ごらんになって！
 　これはオモチャ箱です！
-> CONTEXT: Map015/events/7/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/60/Dialogue
+「Look!
+　This is a toy box!
 > END STRING
 
 > BEGIN STRING
 「果たして！
 　オモチャ箱であるものでしょうか？
 　まさかね！
-> CONTEXT: Map015/events/7/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/62/Dialogue
+「Let's see!
+　Is it a toy box? 
+　No way!
 > END STRING
 
 > BEGIN STRING
 「ならば無い！
 　その通り？
 　まったくですとも！
-> CONTEXT: Map015/events/7/pages/0/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/65/Dialogue
+「Then there's no such thing!
+　Right?
+　Nothing!
 > END STRING
 
 > BEGIN STRING
 「なんてこと！
 　ここにあるのに？
 　ここにあるものは！
-> CONTEXT: Map015/events/7/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/68/Dialogue
+「What in the world!
+　It's here?
+　What's here!
 > END STRING
 
 > BEGIN STRING
 「ここには無い！
 　あらまあ！
-> CONTEXT: Map015/events/7/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/71/Dialogue
+「It's not here!
+　Oh dear!
 > END STRING
 
 > BEGIN STRING
 「哀れな畜生よ、
 　わしは知っているぞ。
-> CONTEXT: Map015/events/7/pages/0/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/74/Dialogue
+「Poor thing,
+　I understand.
 > END STRING
 
 > BEGIN STRING
 「真実は時に、
 　気違いの魂を代弁者に選ぶものじゃ。
 　その澄んだ魂を。
-> CONTEXT: Map015/events/7/pages/0/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/76/Dialogue
+「The truth sometimes chooses a mad soul 
+　to speak for it. 
+　A pure soul.
 > END STRING
 
 > BEGIN STRING
 「貴様も実は、その任を帯びておるな？
 　さあ続けよ。
-> CONTEXT: Map015/events/7/pages/0/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/79/Dialogue
+「You are in fact someone like that, aren't you?
+　Come on, continue.
 > END STRING
 
 > BEGIN STRING
 「誓いましょうとも！
 　\\r[紳士淑女の皆様方,レディース・エン・ジェントルメン]！
-> CONTEXT: Map015/events/7/pages/0/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/82/Dialogue
+「Make a vow!
+　Ladies and gentlemen!
 > END STRING
 
 > BEGIN STRING
 「午睡のうちに満たされて！
 　いっぱいいっぱい？
 　少女の手で！
-> CONTEXT: Map015/events/7/pages/0/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/84/Dialogue
+「Satisfied within a nap!
+　Overflowing?
+　By the hands of a young girl!
 > END STRING
 
 > BEGIN STRING
 「眠ってしまった！
 　目覚めた人は？
 　奪われた！
-> CONTEXT: Map015/events/7/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/87/Dialogue
+「Fell asleep!
+　Woke up?
+　Was robbed!
 > END STRING
 
 > BEGIN STRING
 「オモチャ箱の、その中に！
 　ここにいるのは？
 　もう飽きた！
-> CONTEXT: Map015/events/7/pages/0/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/90/Dialogue
+「In the toy box!
+　What's there?
+　Tired of it!
 > END STRING
 
 > BEGIN STRING
 「直してください！
 　元通り？
 　知るものですか！
-> CONTEXT: Map015/events/7/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/93/Dialogue
+「Fix it!
+　Back to normal?
+　Understand!
 > END STRING
 
 > BEGIN STRING
 「だけど必要！
 　ここにはね？
 　満たしていただかねば！
-> CONTEXT: Map015/events/7/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/96/Dialogue
+「But it's necessary!
+　Isn't it here?
+　Must be satisfied!
 > END STRING
 
 > BEGIN STRING
 「あなたの力で！
 　おおあなた！
-> CONTEXT: Map015/events/7/pages/0/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/99/Dialogue
+「Your help!
+　Oh you!
 > END STRING
 
 > BEGIN STRING
 「なるほど、ここにはあるべきものが無い。
 　それは姫か、殿か、
 　はたまたその記録か。
-> CONTEXT: Map015/events/7/pages/0/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/102/Dialogue
+「I see, something that should be here is missing.
+　Is it the princess, the lord,
+　or perhaps a record of either?
 > END STRING
 
 > BEGIN STRING
 「それは一人の少女が、
 　それらをオモチャにしてしまって
 　いるからなのじゃな。
-> CONTEXT: Map015/events/7/pages/0/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/105/Dialogue
+「That's because some girl 
+　has turned them into toys.
 > END STRING
 
 > BEGIN STRING
 「しかし貴様の言う通り、
 　ここにあるのは飽きられて捨てられた
 　オモチャのようなものばかり。
-> CONTEXT: Map015/events/7/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/108/Dialogue
+「But as you say,
+　everything here is like a toy 
+　that people got tired of and threw away.
 > END STRING
 
 > BEGIN STRING
 「これでわしに、
 　一体どうしろと言うのじゃ。
-> CONTEXT: Map015/events/7/pages/0/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/111/Dialogue
+「What on earth
+　am I supposed to do about all this?
 > END STRING
 
 > BEGIN STRING
 「無いならば？
 　書いてしまえばよいのです！
-> CONTEXT: Map015/events/7/pages/0/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/114/Dialogue
+「Don't have it?
+　Write it down!
 > END STRING
 
 > BEGIN STRING
 「これは………
-> CONTEXT: Map015/events/7/pages/0/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/133/Dialogue
+「This is...
 > END STRING
 
 > BEGIN STRING
 「ここの史書と同じで、
 　全て白紙ではないか。
-> CONTEXT: Map015/events/7/pages/0/156/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/156/Dialogue
+「Same as the other history books here,
+　it's all blank.
 > END STRING
 
 > BEGIN STRING
 「……わしにこれを埋めよと？
-> CONTEXT: Map015/events/7/pages/0/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/158/Dialogue
+「...You want me to fill these?
 > END STRING
 
 > BEGIN STRING
 「それは夢！
 　私の夢？
 　あなたの夢！
-> CONTEXT: Map015/events/7/pages/0/160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/160/Dialogue
+「That's the dream!
+　My dream?
+　Your dream!
 > END STRING
 
 > BEGIN STRING
 「何も無いところ！
 　書くべきものは？
 　夢がありましょう！
-> CONTEXT: Map015/events/7/pages/0/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/163/Dialogue
+「Where there's nothing!
+　What to write?
+　Try dreaming!
 > END STRING
 
 > BEGIN STRING
 「夢に奪われたものを、
 　夢で埋めよと言うのか？
-> CONTEXT: Map015/events/7/pages/0/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/167/Dialogue
+「Are you saying that we should make up 
+　for what has been stolen by dreams 
+　with dreams?
 > END STRING
 
 > BEGIN STRING
 「悲劇的にも！
 　いいえあなた？
 　私は泣く！
-> CONTEXT: Map015/events/7/pages/0/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/170/Dialogue
+「Tragically!
+　No you?
+　I cry!
 > END STRING
 
 > BEGIN STRING
 「あなたは泣かない！
 　喜劇の開幕！
-> CONTEXT: Map015/events/7/pages/0/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/173/Dialogue
+「You don't cry!
+　Comedy opening!
 > END STRING
 
 > BEGIN STRING
 「喜劇の開幕！
 　さあ！さあ！さあ！！
-> CONTEXT: Map015/events/7/pages/0/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/175/Dialogue
+「The comedy begins! 
+　Come on! Come on! Come on!!
 > END STRING
 
 > BEGIN STRING
 「歴史を再び、この島に！
 　お伴しましょう！
 　それまでわたくし！
-> CONTEXT: Map015/events/7/pages/0/199/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/7/pages/0/199/Dialogue
+「Return history, to this island!
+　I'll be your companion!
+　Until then!
 > END STRING
 
 > BEGIN STRING
 
 ルゲイエを呼べるようになった！
-> CONTEXT: Map015/events/7/pages/0/218/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/7/pages/0/218/Dialogue
 
+Rugeiyu can now be summoned!
 > END STRING
 
 > BEGIN STRING
 あたりの雰囲気が変わった……
-> CONTEXT: Map015/events/9/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/19/Dialogue
+The atmosphere around me has changed...
 > END STRING
 
 > BEGIN STRING
 「……はっ！
-> CONTEXT: Map015/events/9/pages/0/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/100/Dialogue
+「...Haa!
 > END STRING
 
 > BEGIN STRING
 「ここは？
 　いや、思い出した……
-> CONTEXT: Map015/events/9/pages/0/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/111/Dialogue
+「Where is this?
+　Oh, I remember now...
 > END STRING
 
 > BEGIN STRING
 「どうしたことだ。
 　なぜ我々は、あんなにも夢心地で、
 　なにもかも忘れて……
-> CONTEXT: Map015/events/9/pages/0/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/123/Dialogue
+「What's going on?
+　Why are we in such a dreamlike state,
+　forgetting everything...
 > END STRING
 
 > BEGIN STRING
 「そうだ、思い出したぞ……
 　あぁ……
-> CONTEXT: Map015/events/9/pages/0/132/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/132/Dialogue
+「That's right, I remember now...
+　Ah...
 > END STRING
 
 > BEGIN STRING
 「ふむ、奪われた全ての史書が揃い、
 　みな本来の歴史の姿に
 　戻りつつあるのじゃな。
-> CONTEXT: Map015/events/9/pages/0/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/148/Dialogue
+「Hmm, all the stolen historical records 
+　have been collected, and history is 
+　beginning to return to its original form.
 > END STRING
 
 > BEGIN STRING
 「これにて閉幕？
 　大団円！
-> CONTEXT: Map015/events/9/pages/0/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/152/Dialogue
+「Is this the end?
+　A grand finale!
 > END STRING
 
 > BEGIN STRING
 「あああぁああ！！
-> CONTEXT: Map015/events/9/pages/0/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/158/Dialogue
+「Aaaaaaaa!!
 > END STRING
 
 > BEGIN STRING
 「ああ！思い出した！
 　思い出してしまった！！
-> CONTEXT: Map015/events/9/pages/0/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/167/Dialogue
+「Ah! I remember! 
+　I remembered!!
 > END STRING
 
 > BEGIN STRING
 「俺たちは…この国は……
 　…この…島は………
-> CONTEXT: Map015/events/9/pages/0/174/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/174/Dialogue
+「We...in this land...
+　...this island...
 > END STRING
 
 > BEGIN STRING
 「ステラ…、もう一度……
-> CONTEXT: Map015/events/9/pages/0/181/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/181/Dialogue
+「Stella...one more time...
 > END STRING
 
 > BEGIN STRING
 「遊ん…で………
-> CONTEXT: Map015/events/9/pages/0/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/182/Dialogue
+「Let's play...
 > END STRING
 
 > BEGIN STRING
 「もう一度、夢を……
-> CONTEXT: Map015/events/9/pages/0/188/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/188/Dialogue
+「Once again, a dream...
 > END STRING
 
 > BEGIN STRING
 「あらまあ！
 　大変？
-> CONTEXT: Map015/events/9/pages/0/196/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/196/Dialogue
+「Oh my! 
+　Is something wrong?
 > END STRING
 
 > BEGIN STRING
 「…どういうことじゃ？
-> CONTEXT: Map015/events/9/pages/0/199/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/199/Dialogue
+「...What do you mean?
 > END STRING
 
 > BEGIN STRING
 「とりあえず、白の史書を
 　本棚に入れてみようよ！
-> CONTEXT: Map015/events/9/pages/0/234/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/234/Dialogue
+「For now, let's put the 
+　Blank Book on the bookshelf!
 > END STRING
 
 > BEGIN STRING
@@ -467,188 +539,216 @@
 夢のさらに奥に進もうとしています。
 装備と所持アイテムを全て失い、
 一時的にレベルが1に戻りますがよろしいですか？
-> CONTEXT: Map015/events/9/pages/0/245/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/2/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/245/Dialogue
+> CONTEXT: Map015/events/9/pages/2/16/Dialogue
+\\c[2]---Warning---\\c[0]
+You are about to enter deeper into the dream.
+You will lose all your equipment and items and
+your level will temporarily return to 1. Proceed?
 > END STRING
 
 > BEGIN STRING
 装備と所持アイテムを全て失い、
 一時的にレベルが1に戻りますがよろしいですか？
-> CONTEXT: Map015/events/9/pages/0/249/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/2/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/249/Dialogue
+> CONTEXT: Map015/events/9/pages/2/20/Dialogue
+You will lose all your equipment and items and
+your level will temporarily return to 1. Proceed?
 > END STRING
 
 > BEGIN STRING
 「お待ちになって！
 　お行きの前に！
-> CONTEXT: Map015/events/9/pages/0/301/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/301/Dialogue
+「Please wait!
+　Before you go!
 > END STRING
 
 > BEGIN STRING
 本棚は固く固定されている
-> CONTEXT: Map015/events/9/pages/1/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/1/0/Dialogue
+The bookshelf is firmly fixed
 > END STRING
 
 > BEGIN STRING
 
 宝箱は空っぽだった……
-> CONTEXT: Map015/events/10/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/11/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/12/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/13/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/3/Dialogue
+> CONTEXT: Map015/events/11/pages/0/3/Dialogue
+> CONTEXT: Map015/events/12/pages/0/3/Dialogue
+> CONTEXT: Map015/events/13/pages/0/2/Dialogue
 
+The treasure chest was empty...
 > END STRING
 
 > BEGIN STRING
 
 \\i[180]\\c[3]上級トレジャーハント\\c[0] をみつけた！
-> CONTEXT: Map015/events/10/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/28/Dialogue
 
+\\i[180]\\c[3]Advanced Treasure Hunt\\c[0] found!
 > END STRING
 
 > BEGIN STRING
 
 \\i[180]\\c[3]虫捕りガイド\\c[0] をみつけた！
-> CONTEXT: Map015/events/11/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/11/pages/0/28/Dialogue
 
+\\i[180]\\c[3]Bug Catching Manual\\c[0] found!
 > END STRING
 
 > BEGIN STRING
 
 \\i[180]\\c[3]経験の指南書\\c[0] をみつけた！
-> CONTEXT: Map015/events/12/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/12/pages/0/28/Dialogue
 
+\\i[180]\\c[3]Experience Manual\\c[0] found!
 > END STRING
 
 > BEGIN STRING
 「白の史書を夢で埋めるんだ。
 　夢魔の夢で埋めるんだ。
-> CONTEXT: Map015/events/14/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/14/pages/1/1/Dialogue
+「Fill the blank books with dreams.
+　Fill them with dreams of succubi.
 > END STRING
 
 > BEGIN STRING
 「白の史書を本棚に入れて。
 　何冊入れてもOKさ。
 　もちろん、夢魔もいなきゃ意味がないよ。
-> CONTEXT: Map015/events/14/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/14/pages/1/3/Dialogue
+「Put the blank books in the bookshelf.
+　As many as you want.
+　Of course, no point without a succubus.
 > END STRING
 
 > BEGIN STRING
 「ここの外に、ぎゃぁぎゃぁうるさい
 　ドラゴンのオッサンがいただろ。
 　ありゃオレの元上司さ。
-> CONTEXT: Map015/events/15/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/15/pages/1/2/Dialogue
+「There's that loud dragon guy outside. 
+　That's my ex-boss.
 > END STRING
 
 > BEGIN STRING
 「…あれ、おろおろうろたえてる
 　情けないオッサンの方だったかな？
 　まあどっちでもいいや。
-> CONTEXT: Map015/events/15/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/15/pages/1/5/Dialogue
+「...Oh, was it the pathetic old man 
+　who was panicking? 
+　Well, either way, it doesn't matter.
 > END STRING
 
 > BEGIN STRING
 「別にあいつらに会いたくないなら、
 　本棚から\\c[3]\\i[171]大ネルトゥプ記\\c[0]は
 　外しちゃってもいいと思うぜ。
-> CONTEXT: Map015/events/15/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/15/pages/1/8/Dialogue
+「If you don't care to see them,
+　you can take off the \\c[3]\\i[171]Great Neltup History\\c[0]
+　from the bookshelf.
 > END STRING
 
 > BEGIN STRING
 「万一にも後でまた会いたくなったら、
 　また入れればいいだけさ。
-> CONTEXT: Map015/events/15/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/15/pages/1/11/Dialogue
+「If you ever want to see them again,
+　you just have to put it back in.
 > END STRING
 
 > BEGIN STRING
 「白の史書を埋められるのは、
 　この夢のさらに奥、
 　そこの本棚の中だけだよ。
-> CONTEXT: Map015/events/16/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/16/pages/1/1/Dialogue
+「The only place you can fill the Blank Books 
+　is deep inside this dream, 
+　in that bookshelf.
 > END STRING
 
 > BEGIN STRING
 「他の夢では何も起こらないからね。
-> CONTEXT: Map015/events/16/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/16/pages/1/4/Dialogue
+「Nothing will happen in other dreams.
 > END STRING
 
 > BEGIN STRING
 「アイゼクト様が白の史書を完成させたのに、
 　\\c[3]大ネルトゥプ記\\c[0]はまだ白紙のままですね…
-> CONTEXT: Map015/events/17/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/17/pages/0/25/Dialogue
+「Though Mr. Ayxect completed the Blank Books,
+\\c[3]Great Neltup History\\c[0] is still blank...
 > END STRING
 
 > BEGIN STRING
 「いったいここに、どんな歴史が
 　書かれていたんでしょぉ？
-> CONTEXT: Map015/events/17/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/17/pages/0/27/Dialogue
+「What kind of history was written?
 > END STRING
 
 > BEGIN STRING
 「奥に進む前に、
 　持ち物はあたしにお預け下さいね。
-> CONTEXT: Map015/events/17/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/17/pages/0/33/Dialogue
+「Before you go further, 
+　please leave your belongings with me.
 > END STRING
 
 > BEGIN STRING
 「強い夢魔はより濃い夢を持ってるから、
 　白の史書のページもたくさん埋まるよ。
-> CONTEXT: Map015/events/19/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/19/pages/1/1/Dialogue
+「Stronger succubi have more intense dreams,
+　so the pages of the Blank Books will fill faster.
 > END STRING
 
 > BEGIN STRING
 「白の史書の表紙と似た夢魔は、
 　他の夢魔よりページをたくさん埋めてくれるよ。
-> CONTEXT: Map015/events/19/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/19/pages/1/3/Dialogue
+「A succubus that resembles the cover of the Blank Book
+　fills up more pages than other succubi.
 > END STRING
 
 > BEGIN STRING
 「たくさん本を手に入れたみたいだね。
 　さて、どんな本棚にしようかな？
-> CONTEXT: Map015/events/20/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/20/pages/1/1/Dialogue
+「Looks like you've acquired a lot of books. 
+　Now, what kind of bookshelf should you make?
 > END STRING
 
 > BEGIN STRING
 「\\c[3]白の史書\\c[0]はもちろん必要だ。
 　それを埋めるために、他の史書も要る。
-> CONTEXT: Map015/events/20/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/20/pages/1/3/Dialogue
+「\\c[3]Blank Books\\c[0] are of course necessary.
+　Other history books are needed to fill it up.
 > END STRING
 
 > BEGIN STRING
 「2冊以上の白の史書を一度に入れるのもいいけど、
 　楽に進むには指南書もたくさん入れたいし……
-> CONTEXT: Map015/events/20/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/20/pages/1/5/Dialogue
+「It's good to include more than 1 Blank Book,
+　but using manuals makes it easier...
 > END STRING
 
 > BEGIN STRING
 「他の史書を多く入れれば、
 　夢魔や宝箱の数も増えてくれるね。
-> CONTEXT: Map015/events/20/pages/1/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/20/pages/1/7/Dialogue
+「If you put in a bunch of other history books,
+　the amount of succubi and treasure will increase.
 > END STRING
 
 > BEGIN STRING
 「うふふ、さてさて、どうしようか？
-> CONTEXT: Map015/events/20/pages/1/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/20/pages/1/9/Dialogue
+「Ufufu, now then, what will you do?
 > END STRING

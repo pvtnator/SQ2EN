@@ -2223,8 +2223,8 @@
 
 > BEGIN STRING
 "リュードゥフ"
-> CONTEXT: Scripts/初期設定/49:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/初期設定/49:10
+"Reudf"
 > END STRING
 
 > BEGIN STRING
@@ -2492,17 +2492,17 @@
 
 > BEGIN STRING
 "あまねき愛を"
-> CONTEXT: Scripts/RPG::Skill/64:12 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/154:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill/64:12
+> CONTEXT: Scripts/RPG::Skill (message)/154:12
+"All-Round Love"
 > END STRING
 
 > BEGIN STRING
 "忘れたくない"
-> CONTEXT: Scripts/RPG::Skill/66:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 2/392:35 < UNTRANSLATED
-> CONTEXT: Scripts/Bookshelf/278:39 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill/66:12
+> CONTEXT: Scripts/Scene_Battle 2/392:35
+> CONTEXT: Scripts/Bookshelf/278:39
+"Don't Forget"
 > END STRING
 
 > BEGIN STRING
@@ -3544,23 +3544,23 @@
 
 > BEGIN STRING
 "ウルフ"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/47:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/53:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/72:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/73:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/31:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/32:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/172:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/183:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/191:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/158:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/47:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/53:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/72:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/73:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/31:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/32:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/172:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/183:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/191:10
+> CONTEXT: Scripts/Game_Enemy/158:12
+"Wolf"
 > END STRING
 
 > BEGIN STRING
 "「ガルルルルッ！"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/48:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/48:14
+"「Grrrrr!"
 > END STRING
 
 > BEGIN STRING
@@ -3582,8 +3582,8 @@
 
 > BEGIN STRING
 "「いい夢みせてあげるわ…\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/50:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/50:14
+"「I'll show you sweet dreams...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -3942,9 +3942,9 @@
 
 > BEGIN STRING
 "「じゃんっ☆"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/87:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/236:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/87:14
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/236:12
+"「Ta-da☆"
 > END STRING
 
 > BEGIN STRING
@@ -4455,8 +4455,8 @@
 
 > BEGIN STRING
 "小ネルトゥプ記"
-> CONTEXT: Scripts/RPG::Item(detail)/23:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/23:12
+"Small Neltup History"
 > END STRING
 
 > BEGIN STRING
@@ -4467,8 +4467,8 @@
 
 > BEGIN STRING
 "〔史書〕\#{$game_variables[156]} \\n"
-> CONTEXT: Scripts/RPG::Item(detail)/25:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/25:15
+"[History] \#{$game_variables[156]} \\n"
 > END STRING
 
 > BEGIN STRING
@@ -4496,8 +4496,8 @@
 
 > BEGIN STRING
 "アイゼクトのネルトゥプ島の冒険の記録"
-> CONTEXT: Scripts/RPG::Item(detail)/26:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/26:15
+"Record of Ayxect's adventures on Neltup Island"
 > END STRING
 
 > BEGIN STRING
@@ -4518,17 +4518,17 @@
 
 > BEGIN STRING
 "白の史書(妖精)"
-> CONTEXT: Scripts/RPG::Item(detail)/27:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/27:12
+"Blank Book (Fairy)"
 > END STRING
 
 > BEGIN STRING
 "〔史書〕年代不詳 \\n"
-> CONTEXT: Scripts/RPG::Item(detail)/28:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/31:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/34:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/37:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/28:15
+> CONTEXT: Scripts/RPG::Item(detail)/31:15
+> CONTEXT: Scripts/RPG::Item(detail)/34:15
+> CONTEXT: Scripts/RPG::Item(detail)/37:15
+"[History] Unknown date \\n"
 > END STRING
 
 > BEGIN STRING
@@ -4539,8 +4539,8 @@
 
 > BEGIN STRING
 "表紙にドルヌスの紋章と妖精が描かれた白紙の本"
-> CONTEXT: Scripts/RPG::Item(detail)/29:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/29:15
+"Coat of arms and fairy of Dornus are on the cover"
 > END STRING
 
 > BEGIN STRING
@@ -4556,44 +4556,44 @@
 
 > BEGIN STRING
 "白の史書(少女)"
-> CONTEXT: Scripts/RPG::Item(detail)/30:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/30:12
+"Blank Book (Girl)"
 > END STRING
 
 > BEGIN STRING
 "表紙にラミエルの紋章と少女が描かれた白紙の本"
-> CONTEXT: Scripts/RPG::Item(detail)/32:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/32:15
+"Ramiel's crest and a girl are on the cover"
 > END STRING
 
 > BEGIN STRING
 "白の史書(獣)"
-> CONTEXT: Scripts/RPG::Item(detail)/33:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/33:12
+"Blank Book (Beast)"
 > END STRING
 
 > BEGIN STRING
 "表紙にドルヌスの紋章と獣が描かれた白紙の本"
-> CONTEXT: Scripts/RPG::Item(detail)/35:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/35:15
+"Coat of arms and beast of Dornus are on the cover"
 > END STRING
 
 > BEGIN STRING
 "白の史書(トカゲ)"
-> CONTEXT: Scripts/RPG::Item(detail)/36:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/36:12
+"Blank Book (Lizard)"
 > END STRING
 
 > BEGIN STRING
 "表紙にラミエルの紋章とトカゲが描かれた白紙の本"
-> CONTEXT: Scripts/RPG::Item(detail)/38:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/38:15
+"Ramiel's crest and a lizard are on the cover."
 > END STRING
 
 > BEGIN STRING
 "ラミエル史Ⅰ"
-> CONTEXT: Scripts/RPG::Item(detail)/39:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/39:12
+"Ramiel's History 1"
 > END STRING
 
 > BEGIN STRING
@@ -4622,8 +4622,8 @@
 
 > BEGIN STRING
 "ラミエル史Ⅱ"
-> CONTEXT: Scripts/RPG::Item(detail)/44:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/44:12
+"Ramiel's History 2"
 > END STRING
 
 > BEGIN STRING
@@ -4658,8 +4658,8 @@
 
 > BEGIN STRING
 "ラミエル史Ⅲ"
-> CONTEXT: Scripts/RPG::Item(detail)/49:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/49:12
+"Ramiel's History 3"
 > END STRING
 
 > BEGIN STRING
@@ -4890,8 +4890,8 @@
 
 > BEGIN STRING
 "夢魔を引きつける効果が消えた！"
-> CONTEXT: Scripts/RPG::State (message)/50:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/50:19
+"Succubi attraction effect wore off!"
 > END STRING
 
 > BEGIN STRING
@@ -4910,11 +4910,11 @@
 
 > BEGIN STRING
 "ハードスキン"
-> CONTEXT: Scripts/RPG::State (message)/51:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/748:38 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/190:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 5/621:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/51:12
+> CONTEXT: Scripts/Game_Battler 3-1/748:38
+> CONTEXT: Scripts/RPG::Skill (message)/190:12
+> CONTEXT: Scripts/Scene_Battle 5/621:10
+"Hard Skin"
 > END STRING
 
 > BEGIN STRING
@@ -4979,21 +4979,21 @@
 
 > BEGIN STRING
 "ドラゴンロア"
-> CONTEXT: Scripts/RPG::Item(detail)/65:12 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BookShelfHelp/164:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/65:12
+> CONTEXT: Scripts/Window_BookShelfHelp/164:10
+"Dragon Roar"
 > END STRING
 
 > BEGIN STRING
 "\\n\\\\w[\\\\v[104]]\#{myname}のペニスがさらに硬くなった！"
-> CONTEXT: Scripts/RPG::State (message)/54:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/54:20
+"\\n\\\\w[\\\\v[104]]\#{myname}'s penis is even harder now!"
 > END STRING
 
 > BEGIN STRING
 "〔指南書〕 王国暦373年　著:宰相バンブルック\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/66:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/66:15
+"[Manual] Kingdom Year 373, Author: Prime Minister Barnbrook\\n"
 > END STRING
 
 > BEGIN STRING
@@ -5098,8 +5098,8 @@
 
 > BEGIN STRING
 "『一角獣の角』見取り図"
-> CONTEXT: Scripts/RPG::Item(detail)/76:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/76:12
+"Unicorn's Horn Map"
 > END STRING
 
 > BEGIN STRING
@@ -5110,8 +5110,8 @@
 
 > BEGIN STRING
 "〔地図帳〕 王国暦621年\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/77:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/77:15
+"[Map] Kingdom Year 621\\n"
 > END STRING
 
 > BEGIN STRING
@@ -5152,20 +5152,20 @@
 
 > BEGIN STRING
 "王都の大工が作った酒場『一角獣の角』の見取り図"
-> CONTEXT: Scripts/RPG::Item(detail)/78:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/78:15
+"Map of Unicorn's Horn, built by a carpenter"
 > END STRING
 
 > BEGIN STRING
 "リュードゥフ洞地図"
-> CONTEXT: Scripts/RPG::Item(detail)/79:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/79:12
+"Reudf Cavern Map"
 > END STRING
 
 > BEGIN STRING
 "〔地図帳〕 王国暦392年\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/80:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/80:15
+"[Map] Kingdom Year 392\\n"
 > END STRING
 
 > BEGIN STRING
@@ -5176,14 +5176,14 @@
 
 > BEGIN STRING
 "探検隊によって作られたリュードゥフ洞の地図"
-> CONTEXT: Scripts/RPG::Item(detail)/81:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/81:15
+"Map of the Reudf Cavern made by the expedition"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は\#{weak_point}が\\nさらに弱くなった！\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::State (message)/75:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/75:21
+"\#{myname}'s \#{weak_point}が\\n became weaker still！\\\\w[\\\\v[104]]　"
 > END STRING
 
 > BEGIN STRING
@@ -5201,8 +5201,8 @@
 
 > BEGIN STRING
 "エルトゥム森林地図"
-> CONTEXT: Scripts/RPG::Item(detail)/82:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/82:12
+"Eltumb Forest Map"
 > END STRING
 
 > BEGIN STRING
@@ -5260,8 +5260,8 @@
 
 > BEGIN STRING
 "妖精が作ったと伝えられるエルトゥム森林の地図"
-> CONTEXT: Scripts/RPG::Item(detail)/84:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/84:15
+"A map of Eltumb Forest, said to be made by fairies."
 > END STRING
 
 > BEGIN STRING
@@ -5749,9 +5749,9 @@
 
 > BEGIN STRING
 "スティルアイズ"
-> CONTEXT: Scripts/RPG::State (message)/99:12 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/196:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/99:12
+> CONTEXT: Scripts/RPG::Skill (message)/196:12
+"Still Eyes"
 > END STRING
 
 > BEGIN STRING
@@ -5921,12 +5921,12 @@
 
 > BEGIN STRING
 "魔封じの壁"
-> CONTEXT: Scripts/RPG::State (message)/105:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/402:29 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/41:38 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/199:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/988:40 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/105:12
+> CONTEXT: Scripts/Game_Battler 3-1/402:29
+> CONTEXT: Scripts/RPG::Skill (message)/41:38
+> CONTEXT: Scripts/RPG::Skill (message)/199:12
+> CONTEXT: Scripts/Scene_Battle 4/988:40
+"Magic Wall"
 > END STRING
 
 > BEGIN STRING
@@ -6016,12 +6016,12 @@
 
 > BEGIN STRING
 "魔焦がしの炎"
-> CONTEXT: Scripts/RPG::State (message)/108:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/402:64 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/37:35 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/176:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/984:37 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/108:12
+> CONTEXT: Scripts/Game_Battler 3-1/402:64
+> CONTEXT: Scripts/RPG::Skill (message)/37:35
+> CONTEXT: Scripts/RPG::Skill (message)/176:12
+> CONTEXT: Scripts/Scene_Battle 4/984:37
+"Scorching Flame"
 > END STRING
 
 > BEGIN STRING
@@ -6226,8 +6226,8 @@
 
 > BEGIN STRING
 "ハーピー姉妹は少し統率が取れるようになった！"
-> CONTEXT: Scripts/RPG::State (message)/118:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/118:17
+"The Harpy Sisters became a bit more organized!"
 > END STRING
 
 > BEGIN STRING
@@ -6293,8 +6293,8 @@
 
 > BEGIN STRING
 "しかし意味が無かった……"
-> CONTEXT: Scripts/RPG::State (message)/126:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/126:17
+"But it was pointless..."
 > END STRING
 
 > BEGIN STRING
@@ -6348,8 +6348,8 @@
 
 > BEGIN STRING
 "森の記憶"
-> CONTEXT: Scripts/RPG::Item(detail)/122:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/122:12
+"Forest Memory"
 > END STRING
 
 > BEGIN STRING
@@ -6366,14 +6366,14 @@
 
 > BEGIN STRING
 "\#{myname}は\#{username}に\\nちょっぴり恋をした！"
-> CONTEXT: Scripts/RPG::State (message)/134:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/134:17
+"\#{myname} has a little crush on \#{username}!"
 > END STRING
 
 > BEGIN STRING
 "〔史書〕 王国暦668年　著:エルトゥムのドライアド\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/123:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/123:15
+"[History] Kingdom Year 668, Author: Dryad of Eltumb\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6410,8 +6410,8 @@
 
 > BEGIN STRING
 "『ほら見て、今日も彼、あの子と一緒。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/124:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/124:15
+"'Look, he's with that girl again today.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6446,8 +6446,8 @@
 
 > BEGIN STRING
 "　私たちは知ってる。私たちは見える。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/125:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/125:15
+" We know. We can see.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6489,8 +6489,8 @@
 
 > BEGIN STRING
 "　可愛いあの子。秘密のあの子。"
-> CONTEXT: Scripts/RPG::Item(detail)/126:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/126:15
+" The cute kid. The secret kid."
 > END STRING
 
 > BEGIN STRING
@@ -6545,8 +6545,8 @@
 
 > BEGIN STRING
 "「やん、\#{self.name}キモチいいっ☆"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/92:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/92:16
+"「Ah, \#{self.name} is feeling good☆"
 > END STRING
 
 > BEGIN STRING
@@ -7135,8 +7135,8 @@
 
 > BEGIN STRING
 "「あぁッ…ぁ……あァンッ…！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/111:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/111:16
+"Ohhh...ahhh...ahhhh...!"
 > END STRING
 
 > BEGIN STRING
@@ -7500,8 +7500,8 @@
 
 > BEGIN STRING
 "\#{self.name.split(/\\//)[0]}全てのステータスが上がった！"
-> CONTEXT: Scripts/Game_Battler(message)/76:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/76:16
+"\#{self.name.split(/\\//)[0]}'s all attributes increased!"
 > END STRING
 
 > BEGIN STRING
@@ -7927,8 +7927,8 @@
 
 > BEGIN STRING
 "トカゲ窟探検記"
-> CONTEXT: Scripts/RPG::Item(detail)/166:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/166:12
+"Lizard Cave Expedition"
 > END STRING
 
 > BEGIN STRING
@@ -7942,14 +7942,14 @@
 
 > BEGIN STRING
 "〔史書〕 王国暦391年　著:騎士リュードゥフ\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/167:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/167:15
+"[History] Kingdom Year 391, Author: Knight Reudf\\n"
 > END STRING
 
 > BEGIN STRING
 "「ぷるぷるしちゃうよ～っ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/102:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/102:14
+"「Let's wiggle～\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -7972,15 +7972,15 @@
 
 > BEGIN STRING
 "「あうっ………"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/150:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/150:12
+"「Auuuhh..."
 > END STRING
 
 > BEGIN STRING
 "しかし今は効果が無かった！"
-> CONTEXT: Scripts/Game_Battler(message)/126:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(message)/130:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/126:14
+> CONTEXT: Scripts/Game_Battler(message)/130:14
+"But it didn't work now!"
 > END STRING
 
 > BEGIN STRING
@@ -7999,8 +7999,8 @@
 
 > BEGIN STRING
 "『これより我々は、トカゲ窟と呼ばれる\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/168:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/168:15
+"'We will now begin our investigation\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8068,8 +8068,8 @@
 
 > BEGIN STRING
 "　ダンジョンの調査に入る。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/169:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/169:15
+" into the dungeon known as the Lizard Cave.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8093,8 +8093,8 @@
 
 > BEGIN STRING
 "「や～んっ\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/142:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/142:16
+"「Aaah～\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -8105,9 +8105,9 @@
 
 > BEGIN STRING
 "「いくよー！"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/108:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/111:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/108:14
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/111:14
+"「Let's do this!"
 > END STRING
 
 > BEGIN STRING
@@ -8134,20 +8134,20 @@
 
 > BEGIN STRING
 "　ここでは多数の魔物の他、謎の二人組の女性も…"
-> CONTEXT: Scripts/RPG::Item(detail)/170:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/170:15
+" Aside from the many demons, there's 2 mysterious girls..."
 > END STRING
 
 > BEGIN STRING
 "　いっちゃう～～っ！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/143:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/143:16
+"　I'm coming～～!"
 > END STRING
 
 > BEGIN STRING
 "サーパントロマンス"
-> CONTEXT: Scripts/RPG::Item(detail)/171:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/171:12
+"Serpent Romance"
 > END STRING
 
 > BEGIN STRING
@@ -8183,8 +8183,8 @@
 
 > BEGIN STRING
 "〔史書〕 王国暦514年　著:領主フォルガルフ\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/172:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/172:15
+"[History] Kingdom Year 514, Author: Lord Forgulf\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8213,8 +8213,8 @@
 
 > BEGIN STRING
 "『ああ、なぜ行ってしまったのだ、我がこいびと、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/173:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/173:15
+"'Oh, why have you gone, my dear,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8259,8 +8259,8 @@
 
 > BEGIN STRING
 "　魔王の城などに！？　おお、蛇であることなど、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/174:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/174:15
+" to Demon Lord's Castle!? I didn't mind\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8296,14 +8296,14 @@
 
 > BEGIN STRING
 "\#{myname}は\\\\n[1]の\\n"
-> CONTEXT: Scripts/RPG::State (message)/255:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/255:19
+"\#{myname} copied\\n"
 > END STRING
 
 > BEGIN STRING
 "　全く構わなかったのに、いや、むしろ……"
-> CONTEXT: Scripts/RPG::Item(detail)/175:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/175:15
+" you being a snake, not at all..." 
 > END STRING
 
 > BEGIN STRING
@@ -8319,8 +8319,8 @@
 
 > BEGIN STRING
 "全てのステータスをコピーした！"
-> CONTEXT: Scripts/RPG::State (message)/256:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/256:19
+"all \\\\n[1]'s stats!"
 > END STRING
 
 > BEGIN STRING
@@ -8331,8 +8331,8 @@
 
 > BEGIN STRING
 "娼蛇伝"
-> CONTEXT: Scripts/RPG::Item(detail)/176:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/176:12
+"Whore Snake Legend"
 > END STRING
 
 > BEGIN STRING
@@ -8349,8 +8349,8 @@
 
 > BEGIN STRING
 "〔史書〕 王国暦109年　著:勇士グロッソ\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/177:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/177:15
+"[History] Kingdom Year 109, Author: Brave Grosso\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8389,14 +8389,14 @@
 
 > BEGIN STRING
 "「ぁ……あン………\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/150:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/150:16
+"「A...ah....\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "しかしなぜか何も起こらなかった！"
-> CONTEXT: Scripts/Game_Battler(message)/156:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/156:14
+"But for some reason nothing happened!"
 > END STRING
 
 > BEGIN STRING
@@ -8420,14 +8420,14 @@
 
 > BEGIN STRING
 "  や…ぁぁンッ！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/151:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/151:16
+"　A...aaaah!"
 > END STRING
 
 > BEGIN STRING
 "『いやね、とんでもないよ。あのひと。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/178:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/178:15
+"'No, not at all, that guy.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8447,8 +8447,8 @@
 
 > BEGIN STRING
 "　普通誘惑したりする？オレ退治しに行ったんだぜ。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/179:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/179:15
+" Why seduce him? I went to get rid of him.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8473,8 +8473,8 @@
 
 > BEGIN STRING
 "　え、いや、気持ちよかったけどさ…"
-> CONTEXT: Scripts/RPG::Item(detail)/180:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/180:15
+" Eh, no, it felt good though..."
 > END STRING
 
 > BEGIN STRING
@@ -8505,8 +8505,8 @@
 
 > BEGIN STRING
 "炎竜史伝"
-> CONTEXT: Scripts/RPG::Item(detail)/181:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/181:12
+"Flame Dragon Chronicles"
 > END STRING
 
 > BEGIN STRING
@@ -8543,8 +8543,8 @@
 
 > BEGIN STRING
 "〔史書〕 王国暦445年　著:竜学者ピッティ\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/182:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/182:15
+"[History] Kingdom Year 445, Author: Dragon Scholar Pitti\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8582,8 +8582,8 @@
 
 > BEGIN STRING
 "『報告によれば、この竜は火山に棲み、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/183:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/183:15
+"'Reports say that this dragon lives in a volcano,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8634,8 +8634,8 @@
 
 > BEGIN STRING
 "　炎を纏い溶岩を食べて生きている。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/184:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/184:15
+" and lives on fire and lava.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8662,8 +8662,8 @@
 
 > BEGIN STRING
 "　だが古い資料によれば、その一部は…"
-> CONTEXT: Scripts/RPG::Item(detail)/185:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/185:15
+" But according to older sources, some of them..."
 > END STRING
 
 > BEGIN STRING
@@ -8821,8 +8821,8 @@
 
 > BEGIN STRING
 "「もっと直に、ぷるぷるしようよっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/105:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/105:14
+"「More directly, with more jiggling\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -8990,8 +8990,8 @@
 
 > BEGIN STRING
 "「あら、もういきそうなの？\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/175:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/175:16
+"「Oh, are you cumming already?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -9008,8 +9008,8 @@
 
 > BEGIN STRING
 "　どうしちゃおうかしら……ふふっ"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/176:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/176:16
+"　What to do...hehe"
 > END STRING
 
 > BEGIN STRING
@@ -9318,14 +9318,14 @@
 
 > BEGIN STRING
 "ある少女の日記"
-> CONTEXT: Scripts/RPG::Item(detail)/211:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/211:12
+"Girl's Diary"
 > END STRING
 
 > BEGIN STRING
 "「あン……\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/190:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/190:12
+"「Ah...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -9362,8 +9362,8 @@
 
 > BEGIN STRING
 "〔史書〕 王国暦724年　著:シプリの少女\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/212:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/212:15
+"[History] Kingdom Year 724, Author: Girl from Sipuli"
 > END STRING
 
 > BEGIN STRING
@@ -9381,8 +9381,8 @@
 
 > BEGIN STRING
 "「あぁん……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/208:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/208:12
+"「Aaah..."
 > END STRING
 
 > BEGIN STRING
@@ -9393,8 +9393,8 @@
 
 > BEGIN STRING
 "『今日、森で天使さまに出会ったの！\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/213:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/213:15
+"'Today, I met an angel in the forest!\\n"
 > END STRING
 
 > BEGIN STRING
@@ -9430,8 +9430,8 @@
 
 > BEGIN STRING
 "　とってもステキなことを教えてもらったのよ。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/214:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/214:15
+" I learned something really wonderful.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -9454,8 +9454,8 @@
 
 > BEGIN STRING
 "　そう、あれはきっと…"
-> CONTEXT: Scripts/RPG::Item(detail)/215:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/215:15
+" Yes, that must be it..."
 > END STRING
 
 > BEGIN STRING
@@ -10606,8 +10606,8 @@
 
 > BEGIN STRING
 "「ふふっ、たっぷり搾り取ってやるぜッ！"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/248:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/248:12
+"「Heheh, I'll squeeze you dry!"
 > END STRING
 
 > BEGIN STRING
@@ -11223,8 +11223,8 @@
 
 > BEGIN STRING
 "「ほらほら～～\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/263:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/263:16
+"「Hora hora～～\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -11247,8 +11247,8 @@
 
 > BEGIN STRING
 "　いかせちゃうよぉ～～\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/264:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/264:16
+"　I'm gonna make you cum～～\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -11290,15 +11290,15 @@
 
 > BEGIN STRING
 "「フフッ\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/266:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/266:16
+"「Heheh\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "「むぅ！"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/297:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/305:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/297:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/305:12
+"「Hmph!"
 > END STRING
 
 > BEGIN STRING
@@ -11393,8 +11393,8 @@
 
 > BEGIN STRING
 "「弱ってるね！\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/272:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/272:16
+"「You look weak!\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -11405,8 +11405,8 @@
 
 > BEGIN STRING
 "  もう一息！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/273:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/273:16
+"　One more breath!"
 > END STRING
 
 > BEGIN STRING
@@ -11458,8 +11458,8 @@
 
 > BEGIN STRING
 "\#{myname}はペニスが小さくなっている！"
-> CONTEXT: Scripts/RPG::State (message)/518:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/518:18
+"\#{myname}'s penis is small!"
 > END STRING
 
 > BEGIN STRING
@@ -11570,8 +11570,8 @@
 
 > BEGIN STRING
 "「ぷるぷる～っ♪"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/295:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/295:12
+"「Wiggle wiggle～♪"
 > END STRING
 
 > BEGIN STRING
@@ -11853,14 +11853,14 @@
 
 > BEGIN STRING
 "読書日記"
-> CONTEXT: Scripts/RPG::Item(detail)/330:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/330:12
+"Reading Diary"
 > END STRING
 
 > BEGIN STRING
 "〔史書〕 王国暦723年　著:司書メルヤ\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/331:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/331:15
+"[History] Kingdom Year 723, Author: Librarian Merja\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11871,8 +11871,8 @@
 
 > BEGIN STRING
 "『蛇神の月 17日\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/332:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/332:15
+"'Snake God Month, 17th\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11885,8 +11885,8 @@
 
 > BEGIN STRING
 "　なんて恋のお話。ショッキング。でも憧れる。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/333:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/333:15
+" What a love story. Shocking. But I admire it.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11897,8 +11897,8 @@
 
 > BEGIN STRING
 "　アイゼクト様に見つかったら怒られるかな？"
-> CONTEXT: Scripts/RPG::Item(detail)/334:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/334:15
+" Will Ayxect get angry if he finds out?"
 > END STRING
 
 > BEGIN STRING
@@ -12007,8 +12007,8 @@
 
 > BEGIN STRING
 "初級トレジャーハント"
-> CONTEXT: Scripts/RPG::Item(detail)/348:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/348:12
+"Beginner Treasure Hunt"
 > END STRING
 
 > BEGIN STRING
@@ -12019,8 +12019,8 @@
 
 > BEGIN STRING
 "〔指南書〕 王国暦718年　著:街の盗賊ロッソ\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/349:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/349:15
+"[Manual] Kingdom Year 718, Author: City Thief Rosso\\n"
 > END STRING
 
 > BEGIN STRING
@@ -12055,15 +12055,15 @@
 
 > BEGIN STRING
 "夢分析入門"
-> CONTEXT: Scripts/RPG::Item(detail)/355:12 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BookShelfHelp/148:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/355:12
+> CONTEXT: Scripts/Window_BookShelfHelp/148:10
+"Introduction to Dream Analysis"
 > END STRING
 
 > BEGIN STRING
 "〔学術書〕 王国暦235年　著:夢術士ソレパ・ダバブ\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/356:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/356:15
+"[Academic] Kingdom Year 235, Author: Dream Master Solepa Dababu\\n"
 > END STRING
 
 > BEGIN STRING
@@ -12083,15 +12083,15 @@
 
 > BEGIN STRING
 "〔学術書〕"
-> CONTEXT: Scripts/RPG::Item(detail)/357:48 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/360:48 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/363:48 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/366:48 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/369:48 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/372:48 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/375:48 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/378:48 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/357:48
+> CONTEXT: Scripts/RPG::Item(detail)/360:48
+> CONTEXT: Scripts/RPG::Item(detail)/363:48
+> CONTEXT: Scripts/RPG::Item(detail)/366:48
+> CONTEXT: Scripts/RPG::Item(detail)/369:48
+> CONTEXT: Scripts/RPG::Item(detail)/372:48
+> CONTEXT: Scripts/RPG::Item(detail)/375:48
+> CONTEXT: Scripts/RPG::Item(detail)/378:48
+"[Academic]"
 > END STRING
 
 > BEGIN STRING
@@ -12137,9 +12137,9 @@
 
 > BEGIN STRING
 "快楽の彼岸"
-> CONTEXT: Scripts/RPG::Item(detail)/361:12 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BookShelfHelp/154:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/361:12
+> CONTEXT: Scripts/Window_BookShelfHelp/154:10
+"Other Shore of Pleasure"
 > END STRING
 
 > BEGIN STRING
@@ -12150,8 +12150,8 @@
 
 > BEGIN STRING
 "〔学術書〕 王国暦638年　著:呪い士ダグスジャルタ\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/362:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/362:15
+"[Academic] Kingdom Year 638, Author: Enchanter Dagsjarta\\n"
 > END STRING
 
 > BEGIN STRING
@@ -12174,9 +12174,9 @@
 
 > BEGIN STRING
 "無意識の旅"
-> CONTEXT: Scripts/RPG::Item(detail)/364:12 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BookShelfHelp/152:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/364:12
+> CONTEXT: Scripts/Window_BookShelfHelp/152:10
+"Unconcious Journey"
 > END STRING
 
 > BEGIN STRING
@@ -12250,15 +12250,15 @@
 
 > BEGIN STRING
 "記憶と物質"
-> CONTEXT: Scripts/RPG::Item(detail)/373:12 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BookShelfHelp/158:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/373:12
+> CONTEXT: Scripts/Window_BookShelfHelp/158:10
+"Memory and Matter"
 > END STRING
 
 > BEGIN STRING
 "〔学術書〕 王国暦701年　著:夢想家リノムス\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/374:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/374:15
+"[Academic] Kingdom Year 701, Author: Dreamer Linomus\\n"
 > END STRING
 
 > BEGIN STRING
@@ -12275,15 +12275,15 @@
 
 > BEGIN STRING
 "魔導構造解析"
-> CONTEXT: Scripts/RPG::Item(detail)/376:12 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BookShelfHelp/146:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/376:12
+> CONTEXT: Scripts/Window_BookShelfHelp/146:10
+"Magic Structure Analysis"
 > END STRING
 
 > BEGIN STRING
 "〔学術書〕 王国暦711年　著:魔導士ハグロフス\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/377:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/377:15
+"[Academic] Kingdom Year 711, Author: Mage Haglofs\\n"
 > END STRING
 
 > BEGIN STRING
@@ -12866,8 +12866,8 @@
 
 > BEGIN STRING
 "キュアエッセンス"
-> CONTEXT: Scripts/RPG::Item(detail)/429:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/429:20
+"Cure Essence"
 > END STRING
 
 > BEGIN STRING
@@ -13544,32 +13544,32 @@
 
 > BEGIN STRING
 "覇王樹の蜜水"
-> CONTEXT: Scripts/RPG::Item(detail)/487:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/487:12
+"Cactus Nectar"
 > END STRING
 
 > BEGIN STRING
 "砂漠に咲く珍しいサボテンの内部にたまる蜜水。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/488:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/488:15
+"Nectar that accumulates inside a rare cactus that blooms\\n"
 > END STRING
 
 > BEGIN STRING
 "高級酒の原料になる。"
-> CONTEXT: Scripts/RPG::Item(detail)/489:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/489:15
+"in the desert. Ingredient for high-quality alcohol."
 > END STRING
 
 > BEGIN STRING
 "バックパック"
-> CONTEXT: Scripts/RPG::Item(detail)/490:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/490:12
+"Backpack"
 > END STRING
 
 > BEGIN STRING
 "アイテムがたくさん入るバックパック"
-> CONTEXT: Scripts/RPG::Item(detail)/491:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/491:15
+"A backpack that can hold many items"
 > END STRING
 
 > BEGIN STRING
@@ -14000,20 +14000,20 @@
 
 > BEGIN STRING
 "スウィートミョッズ"
-> CONTEXT: Scripts/RPG::Item(detail)/577:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/577:12
+"Sweet Myths"
 > END STRING
 
 > BEGIN STRING
 "蜂蜜酒にシトラスの果汁を加えた甘いお酒。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/578:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/578:15
+"Made by adding citrus juice to honey wine.\\n"
 > END STRING
 
 > BEGIN STRING
 "女性に人気で、プレゼントとしても使える。"
-> CONTEXT: Scripts/RPG::Item(detail)/579:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/579:15
+"Popular with women and works well as a gift."
 > END STRING
 
 > BEGIN STRING
@@ -15723,26 +15723,26 @@
 
 > BEGIN STRING
 "\\\\c[3]白の史書（妖精）\\\\c[0]に少し文字が書き加えられた！"
-> CONTEXT: Scripts/Game_Battler 3-1/945:33 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/945:33
+"Some words were added to \\\\c[3]Blank Book (Fairy)\\\\c[0]!"
 > END STRING
 
 > BEGIN STRING
 "\\\\c[3]白の史書（獣）\\\\c[0]に少し文字が書き加えられた！"
-> CONTEXT: Scripts/Game_Battler 3-1/952:33 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/952:33
+"Some words were added to \\\\c[3]Blank Book (Beast)\\\\c[0]!"
 > END STRING
 
 > BEGIN STRING
 "\\\\c[3]白の史書（少女）\\\\c[0]に少し文字が書き加えられた！"
-> CONTEXT: Scripts/Game_Battler 3-1/959:33 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/959:33
+"Some words were added to \\\\c[3]Blank Book (Girl)\\\\c[0]!"
 > END STRING
 
 > BEGIN STRING
 "\\\\c[3]白の史書（トカゲ）\\\\c[0]に少し文字が書き加えられた！"
-> CONTEXT: Scripts/Game_Battler 3-1/966:33 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/966:33
+"Some words were added to \\\\c[3]Blank Book (Lizard)\\\\c[0]!"
 > END STRING
 
 > BEGIN STRING
@@ -16321,8 +16321,8 @@
 
 > BEGIN STRING
 "ソフティキッス"
-> CONTEXT: Scripts/RPG::Skill (message)/170:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/170:12
+"Softy Kiss"
 > END STRING
 
 > BEGIN STRING
@@ -16378,8 +16378,8 @@
 
 > BEGIN STRING
 "\#{target}は硬くなった！"
-> CONTEXT: Scripts/RPG::Skill (message)/182:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/182:18
+"\#{target} is now hard!"
 > END STRING
 
 > BEGIN STRING
@@ -16495,8 +16495,8 @@
 
 > BEGIN STRING
 "妹たちに気合を入れた！"
-> CONTEXT: Scripts/RPG::Skill (message)/233:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/233:24
+" got her sisters fired up!"
 > END STRING
 
 > BEGIN STRING
@@ -16513,8 +16513,8 @@
 
 > BEGIN STRING
 "エスプラーナは\#{target}に狙いを定めた！"
-> CONTEXT: Scripts/RPG::Skill (message)/236:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/236:18
+"Esplana set sights on \#{target}!"
 > END STRING
 
 > BEGIN STRING
@@ -16544,14 +16544,14 @@
 
 > BEGIN STRING
 "切り裂く"
-> CONTEXT: Scripts/RPG::Skill (message)/243:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/243:12
+"Slice"
 > END STRING
 
 > BEGIN STRING
 "\#{target}を\\n鋭い爪でひっかいた！"
-> CONTEXT: Scripts/RPG::Skill (message)/244:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/244:24
+" scratched \#{target} with sharp claws!"
 > END STRING
 
 > BEGIN STRING
@@ -16574,26 +16574,26 @@
 
 > BEGIN STRING
 "いきなり歌いはじめた！"
-> CONTEXT: Scripts/RPG::Skill (message)/248:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/248:24
+" suddenly started singing!"
 > END STRING
 
 > BEGIN STRING
 "癒しの歌"
-> CONTEXT: Scripts/RPG::Skill (message)/249:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/249:12
+"Song of Healing"
 > END STRING
 
 > BEGIN STRING
 "いきなり歌いはじめた！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/250:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/250:24
+" suddenly started singing!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
 "気の抜けたメロディになんとなく和まされる…"
-> CONTEXT: Scripts/RPG::Skill (message)/251:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/251:24
+"The laid back melody is somehow soothing..."
 > END STRING
 
 > BEGIN STRING
@@ -16618,8 +16618,8 @@
 
 > BEGIN STRING
 "\#{target}を\\n羽根でくすぐった！"
-> CONTEXT: Scripts/RPG::Skill (message)/256:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/256:26
+" tickled \#{target}\\nwith a feather!"
 > END STRING
 
 > BEGIN STRING
@@ -16650,8 +16650,8 @@
 
 > BEGIN STRING
 "たちは素早く飛び回り、\\n\\\\w[\\\\v[104]]\#{target}たちを撹乱した！"
-> CONTEXT: Scripts/RPG::Skill (message)/264:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/264:24
+" and others flew around quickly, \\n\\\\w[\\\\v[104]]confusing \#{target} and others!"
 > END STRING
 
 > BEGIN STRING
@@ -17686,8 +17686,8 @@
 
 > BEGIN STRING
 "思考焼きの炎"
-> CONTEXT: Scripts/Game_Party/400:34 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Party/400:34
+"Thought-searing Flame"
 > END STRING
 
 > BEGIN STRING
@@ -17899,8 +17899,8 @@
 
 > BEGIN STRING
 "ぷるぷるしている……\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/436:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/436:24
+" is jiggling...\\\\w[\\\\v[104]]　"
 > END STRING
 
 > BEGIN STRING
@@ -17911,8 +17911,8 @@
 
 > BEGIN STRING
 "ボディローション"
-> CONTEXT: Scripts/RPG::Skill (message)/438:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/438:12
+"Body Lotion"
 > END STRING
 
 > BEGIN STRING
@@ -17923,8 +17923,8 @@
 
 > BEGIN STRING
 "体にまとった粘液を\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/RPG::Skill (message)/439:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/439:24
+" threw her own mucus \\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -17935,8 +17935,8 @@
 
 > BEGIN STRING
 "\\\\n[1]に投げつけてきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/440:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/440:24
+"on \\\\n[1]!"
 > END STRING
 
 > BEGIN STRING
@@ -17966,8 +17966,8 @@
 
 > BEGIN STRING
 "桃色の粘液が\#{target}の肌にまとわりつく！"
-> CONTEXT: Scripts/RPG::Skill (message)/443:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/443:18
+"Pink mucus clings to \#{target}'s skin!"
 > END STRING
 
 > BEGIN STRING
@@ -17996,14 +17996,14 @@
 
 > BEGIN STRING
 "\#{myname}は再び桃色の液体を身にまとった！\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/446:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/446:18
+"\#{myname} is once again covered in pink liquid!\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
 "ディヴェストフレイム"
-> CONTEXT: Scripts/RPG::Skill (message)/447:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/447:12
+"Divest Flame"
 > END STRING
 
 > BEGIN STRING
@@ -18020,8 +18020,8 @@
 
 > BEGIN STRING
 "ドラゴンは激しく炎を吐いた！"
-> CONTEXT: Scripts/RPG::Skill (message)/448:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/448:18
+"The dragon breathed fire fiercly!"
 > END STRING
 
 > BEGIN STRING
@@ -18154,38 +18154,38 @@
 
 > BEGIN STRING
 "ディスペルロア"
-> CONTEXT: Scripts/RPG::Skill (message)/460:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/460:12
+"Dispel Roar"
 > END STRING
 
 > BEGIN STRING
 "ドラゴンは解呪のおたけびをあげた！"
-> CONTEXT: Scripts/RPG::Skill (message)/461:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/461:18
+"The dragon let out a dispelling roar!"
 > END STRING
 
 > BEGIN STRING
 "テリブルロア"
-> CONTEXT: Scripts/RPG::Skill (message)/463:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/463:12
+"Terrible Roar"
 > END STRING
 
 > BEGIN STRING
 "ドラゴンは恐ろしいおたけびをあげた！"
-> CONTEXT: Scripts/RPG::Skill (message)/464:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/464:18
+"The dragon let out a terrifying roar!"
 > END STRING
 
 > BEGIN STRING
 "フォースロア"
-> CONTEXT: Scripts/RPG::Skill (message)/466:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/466:12
+"Force Roar"
 > END STRING
 
 > BEGIN STRING
 "ドラゴンは魔力を込めておたけびをあげた！"
-> CONTEXT: Scripts/RPG::Skill (message)/467:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/467:18
+"The dragon roared with magical power!"
 > END STRING
 
 > BEGIN STRING
@@ -18196,14 +18196,14 @@
 
 > BEGIN STRING
 "ドラゴンは静かにうなっている……\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/469:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/469:18
+"The dragon is growling quietly...\\\\w[\\\\v[104]]　"
 > END STRING
 
 > BEGIN STRING
 "嫉妬する"
-> CONTEXT: Scripts/RPG::Skill (message)/471:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/471:12
+"Jealous"
 > END STRING
 
 > BEGIN STRING
@@ -19514,9 +19514,9 @@
 
 > BEGIN STRING
 "リュードゥフ洞"
-> CONTEXT: Scripts/Window_SaveFile/121:14 < UNTRANSLATED
-> CONTEXT: Scripts/Bookshelf/56:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/121:14
+> CONTEXT: Scripts/Bookshelf/56:14
+"Reudf Cavern"
 > END STRING
 
 > BEGIN STRING
@@ -19539,9 +19539,9 @@
 
 > BEGIN STRING
 "エルトゥム森林"
-> CONTEXT: Scripts/Window_SaveFile/123:14 < UNTRANSLATED
-> CONTEXT: Scripts/Bookshelf/58:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/123:14
+> CONTEXT: Scripts/Bookshelf/58:14
+"Eltumb Forest"
 > END STRING
 
 > BEGIN STRING
@@ -19878,8 +19878,8 @@
 
 > BEGIN STRING
 "夢を失った島、ネルトゥプ"
-> CONTEXT: Scripts/Window_SaveFile/145:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/145:14
+"Neltup, Island of Lost Dreams"
 > END STRING
 
 > BEGIN STRING
@@ -22640,19 +22640,19 @@
 
 > BEGIN STRING
 "全ステータス"
-> CONTEXT: Scripts/Window_LowerHelp/57:44 < UNTRANSLATED
-> CONTEXT: Scripts/Window_LowerHelp/58:32 < UNTRANSLATED
-> CONTEXT: Scripts/Window_IdentifydResult/106:46 < UNTRANSLATED
-> CONTEXT: Scripts/Window_IdentifydResult/107:34 < UNTRANSLATED
-> CONTEXT: Scripts/Window_CompoundHelp2/38:46 < UNTRANSLATED
-> CONTEXT: Scripts/Window_CompoundHelp2/39:34 < UNTRANSLATED
-> CONTEXT: Scripts/Window_CompoundResult/46:46 < UNTRANSLATED
-> CONTEXT: Scripts/Window_CompoundResult/47:34 < UNTRANSLATED
-> CONTEXT: Scripts/Window_EquipRight(2)/55:48 < UNTRANSLATED
-> CONTEXT: Scripts/Window_EquipRight(2)/56:36 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Ending/72:50 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Ending/73:38 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_LowerHelp/57:44
+> CONTEXT: Scripts/Window_LowerHelp/58:32
+> CONTEXT: Scripts/Window_IdentifydResult/106:46
+> CONTEXT: Scripts/Window_IdentifydResult/107:34
+> CONTEXT: Scripts/Window_CompoundHelp2/38:46
+> CONTEXT: Scripts/Window_CompoundHelp2/39:34
+> CONTEXT: Scripts/Window_CompoundResult/46:46
+> CONTEXT: Scripts/Window_CompoundResult/47:34
+> CONTEXT: Scripts/Window_EquipRight(2)/55:48
+> CONTEXT: Scripts/Window_EquipRight(2)/56:36
+> CONTEXT: Scripts/Window_Ending/72:50
+> CONTEXT: Scripts/Window_Ending/73:38
+"All Status"
 > END STRING
 
 > BEGIN STRING
@@ -22865,13 +22865,13 @@
 
 > BEGIN STRING
 "ルゲイエ"
-> CONTEXT: Scripts/Window_AddSkill/102:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Skill/157:10 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BattleCommand/214:39 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BattleCommand/261:14 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 1/220:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 5/550:52 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_AddSkill/102:10
+> CONTEXT: Scripts/Scene_Skill/157:10
+> CONTEXT: Scripts/Window_BattleCommand/214:39
+> CONTEXT: Scripts/Window_BattleCommand/261:14
+> CONTEXT: Scripts/Scene_Battle 1/220:10
+> CONTEXT: Scripts/Scene_Battle 5/550:52
+"Rugeiyu"
 > END STRING
 
 > BEGIN STRING
@@ -23181,9 +23181,9 @@
 
 > BEGIN STRING
 "買う"
-> CONTEXT: Scripts/Window_ShopCommand/17:20 < UNTRANSLATED
-> CONTEXT: Scripts/Window_ShopCommand/21:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_ShopCommand/17:20
+> CONTEXT: Scripts/Window_ShopCommand/21:20
+"Buy"
 > END STRING
 
 > BEGIN STRING
@@ -23703,20 +23703,20 @@
 
 > BEGIN STRING
 "サラマンダーの魔法でサポートする"
-> CONTEXT: Scripts/Window_BattleCommand/250:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BattleCommand/250:18
+"Support with Salamander magic"
 > END STRING
 
 > BEGIN STRING
 "バジリスクの魔法でサポートする"
-> CONTEXT: Scripts/Window_BattleCommand/252:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BattleCommand/252:18
+"Support with Basilisk magic"
 > END STRING
 
 > BEGIN STRING
 "ハーピー姉妹のコンビネーションでサポートする"
-> CONTEXT: Scripts/Window_BattleCommand/254:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BattleCommand/254:18
+"Support with the Harpy Sisters combination"
 > END STRING
 
 > BEGIN STRING
@@ -24293,14 +24293,14 @@
 
 > BEGIN STRING
 "合成しますか？"
-> CONTEXT: Scripts/Window_CompoundDecide/36:41 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_CompoundDecide/36:41
+"Synthesize?"
 > END STRING
 
 > BEGIN STRING
 "(ベースになるアイテムを選択して下さい)"
-> CONTEXT: Scripts/Window_CompoundHelp/34:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_CompoundHelp/34:13
+"(Choose a base item)"
 > END STRING
 
 > BEGIN STRING
@@ -24311,14 +24311,14 @@
 
 > BEGIN STRING
 "(合成するアイテムを選択して下さい)"
-> CONTEXT: Scripts/Window_CompoundHelp/44:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_CompoundHelp/44:15
+"(Select the item to add)"
 > END STRING
 
 > BEGIN STRING
 "アイテムを合成した！"
-> CONTEXT: Scripts/Window_CompoundResult/33:38 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_CompoundResult/33:38
+"The items have been combined!"
 > END STRING
 
 > BEGIN STRING
@@ -24595,9 +24595,9 @@
 
 > BEGIN STRING
 "\\\\m[\#{self.id}]\\\\c[3]\#{self_name}\\\\c[0] から\\n"
-> CONTEXT: Scripts/防具付加効果関係/232:14 < UNTRANSLATED
-> CONTEXT: Scripts/防具付加効果関係/265:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/防具付加効果関係/232:14
+> CONTEXT: Scripts/防具付加効果関係/265:14
+"\\\\c[\#{fcolor}]\#{state_name}\\\\c[0] was removed\\n"
 > END STRING
 
 > BEGIN STRING
@@ -24615,8 +24615,8 @@
 
 > BEGIN STRING
 "\\\\c[\#{fcolor}]\#{state_name}\\\\c[0]の効果を取り除いた！"
-> CONTEXT: Scripts/防具付加効果関係/266:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/防具付加効果関係/266:7
+"from \\\\m[\#{self.id}]\\\\c[3]\#{self_name}\\\\c[0]!"
 > END STRING
 
 > BEGIN STRING
@@ -24835,111 +24835,111 @@
 
 > BEGIN STRING
 /白の史書/
-> CONTEXT: Scripts/Window_BookShelfHelp/80:20 < UNTRANSLATED
-> CONTEXT: Scripts/Bookshelf/223:35 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/80:20
+> CONTEXT: Scripts/Bookshelf/223:35
+/Blank Book/
 > END STRING
 
 > BEGIN STRING
 "夢によって書かれる史書"
-> CONTEXT: Scripts/Window_BookShelfHelp/82:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/82:16
+"History written by dreams"
 > END STRING
 
 > BEGIN STRING
 "白の史書（妖精）"
-> CONTEXT: Scripts/Window_BookShelfHelp/84:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/84:14
+"Blank Book (Fairy)"
 > END STRING
 
 > BEGIN STRING
 "特に妖精の夢で多くのページが埋められる"
-> CONTEXT: Scripts/Window_BookShelfHelp/85:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/85:18
+"Dreams of fairies in particular fill many pages"
 > END STRING
 
 > BEGIN STRING
 "白の史書（獣）"
-> CONTEXT: Scripts/Window_BookShelfHelp/86:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/86:14
+"Blank Book (Beast)"
 > END STRING
 
 > BEGIN STRING
 "特に獣の夢で多くのページが埋められる"
-> CONTEXT: Scripts/Window_BookShelfHelp/87:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/87:18
+"Dreams of beasts in particular fill many pages"
 > END STRING
 
 > BEGIN STRING
 "白の史書（少女）"
-> CONTEXT: Scripts/Window_BookShelfHelp/88:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/88:14
+"Blank Book (Girl)"
 > END STRING
 
 > BEGIN STRING
 "特に少女の夢で多くのページが埋められる"
-> CONTEXT: Scripts/Window_BookShelfHelp/89:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/89:18
+"Dreams of young girls in particular fill many pages"
 > END STRING
 
 > BEGIN STRING
 "白の史書（トカゲ）"
-> CONTEXT: Scripts/Window_BookShelfHelp/90:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/90:14
+"Blank Book (Lizard)"
 > END STRING
 
 > BEGIN STRING
 "特にトカゲの夢で多くのページが埋められる"
-> CONTEXT: Scripts/Window_BookShelfHelp/91:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/91:18
+"Dreams of lizards in particular fill many pages"
 > END STRING
 
 > BEGIN STRING
 "まだ真っ白だ"
-> CONTEXT: Scripts/Window_BookShelfHelp/95:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/95:18
+"It's still blank"
 > END STRING
 
 > BEGIN STRING
 "まばらに文字が見えはじめた"
-> CONTEXT: Scripts/Window_BookShelfHelp/97:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/97:19
+"Scattered letters are starting to show"
 > END STRING
 
 > BEGIN STRING
 "文字が文として意味をなしはじめた"
-> CONTEXT: Scripts/Window_BookShelfHelp/99:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/99:19
+"Letters are finding meaning as sentences"
 > END STRING
 
 > BEGIN STRING
 "幾つかの出来事が読み取れるようになってきた"
-> CONTEXT: Scripts/Window_BookShelfHelp/101:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/101:19
+"It's getting easier to read some events"
 > END STRING
 
 > BEGIN STRING
 "半分ほど埋まったようだ"
-> CONTEXT: Scripts/Window_BookShelfHelp/103:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/103:19
+"It's about half filled"
 > END STRING
 
 > BEGIN STRING
 "全体の流れが見えてきた"
-> CONTEXT: Scripts/Window_BookShelfHelp/105:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/105:19
+"The full picture is becoming clearer"
 > END STRING
 
 > BEGIN STRING
 "面白くなってきた"
-> CONTEXT: Scripts/Window_BookShelfHelp/107:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/107:19
+"It's getting interesting"
 > END STRING
 
 > BEGIN STRING
 "あと少しで完成だ！"
-> CONTEXT: Scripts/Window_BookShelfHelp/109:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/109:19
+"Almost done!"
 > END STRING
 
 > BEGIN STRING
@@ -24981,7 +24981,7 @@
 > BEGIN STRING
 "「あまねき愛を」をリアルにする"
 > CONTEXT: Scripts/Window_BookShelfHelp/155:13
-"[Far Away] becomes reality"
+"[All-Round Love] becomes reality"
 > END STRING
 
 > BEGIN STRING
@@ -25004,8 +25004,8 @@
 
 > BEGIN STRING
 "上級トレジャーハント"
-> CONTEXT: Scripts/Window_BookShelfHelp/162:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/162:10
+"Advanced Treasure Hunt"
 > END STRING
 
 > BEGIN STRING
@@ -25016,14 +25016,14 @@
 
 > BEGIN STRING
 "全ステータス+5%"
-> CONTEXT: Scripts/Window_BookShelfHelp/165:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/165:13
+"All Status +5%"
 > END STRING
 
 > BEGIN STRING
 "虫捕りガイド"
-> CONTEXT: Scripts/Window_BookShelfHelp/166:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/166:10
+"Bug Catching Manual"
 > END STRING
 
 > BEGIN STRING
@@ -25034,8 +25034,8 @@
 
 > BEGIN STRING
 "経験の指南書"
-> CONTEXT: Scripts/Window_BookShelfHelp/168:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BookShelfHelp/168:10
+"Experience Manual"
 > END STRING
 
 > BEGIN STRING
@@ -25300,8 +25300,8 @@
 
 > BEGIN STRING
 "西暦\#{date.year}年 \#{month} \#{date.mday}日\#{date.hour}時\#{date.min}分"
-> CONTEXT: Scripts/ネルトゥプ関係/54:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/54:26
+"Year \#{date.year} Month \#{month} Day \#{date.mday}, \#{date.hour}:\#{date.min}"
 > END STRING
 
 > BEGIN STRING
@@ -25331,14 +25331,14 @@
 
 > BEGIN STRING
 "イかせた人数 \#{$game_variables[147]} 人"
-> CONTEXT: Scripts/ネルトゥプ関係/69:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/69:14
+"Made \#{$game_variables[147]} climax"
 > END STRING
 
 > BEGIN STRING
 "イかされた回数 \#{$game_variables[148]} 回"
-> CONTEXT: Scripts/ネルトゥプ関係/76:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/76:14
+"Climaxed \#{$game_variables[148]} times"
 > END STRING
 
 > BEGIN STRING
@@ -25361,51 +25361,51 @@
 
 > BEGIN STRING
 "リアリティ \#{$game_party.rp / 100 / 10.0}%"
-> CONTEXT: Scripts/ネルトゥプ関係/142:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/142:14
+"Reality \#{$game_party.rp / 100 / 10.0}%"
 > END STRING
 
 > BEGIN STRING
 "ボーナス! **精力100↑**"
-> CONTEXT: Scripts/ネルトゥプ関係/148:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/148:16
+"Bonus! **Energy 100↑**"
 > END STRING
 
 > BEGIN STRING
 "ボーナス! **技巧100↑**"
-> CONTEXT: Scripts/ネルトゥプ関係/154:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/154:16
+"Bonus! **Skill 100↑**"
 > END STRING
 
 > BEGIN STRING
 "ボーナス! **素早さ100↑**"
-> CONTEXT: Scripts/ネルトゥプ関係/160:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/160:16
+"Bonus! **Agility 100↑**"
 > END STRING
 
 > BEGIN STRING
 "ボーナス! **精神力100↑**"
-> CONTEXT: Scripts/ネルトゥプ関係/166:16 < UNTRANSLATED
-> CONTEXT: Scripts/ネルトゥプ関係/172:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/166:16
+> CONTEXT: Scripts/ネルトゥプ関係/172:16
+"Bonus! **Spirit 100↑**"
 > END STRING
 
 > BEGIN STRING
 "ボーナス! **ドラグーン攻略**"
-> CONTEXT: Scripts/ネルトゥプ関係/178:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/178:16
+"Bonus! **Defeat Dragoon**"
 > END STRING
 
 > BEGIN STRING
 "ボーナス! **スライム攻略**"
-> CONTEXT: Scripts/ネルトゥプ関係/184:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/184:16
+"Bonus! **Defeat Slime**"
 > END STRING
 
 > BEGIN STRING
 "合計 \\\\b\#{total_score}\\\\f ポイント！"
-> CONTEXT: Scripts/ネルトゥプ関係/190:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/190:14
+"Total \\\\b\#{total_score}\\\\f Points!"
 > END STRING
 
 > BEGIN STRING
@@ -25454,20 +25454,20 @@
 
 > BEGIN STRING
 "画布は2冊以上入れられない"
-> CONTEXT: Scripts/Scene_Bookshelf/189:35 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Bookshelf/189:35
+"You put in more than 1 canvas"
 > END STRING
 
 > BEGIN STRING
 "楽譜は2冊以上入れられない"
-> CONTEXT: Scripts/Scene_Bookshelf/194:35 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Bookshelf/194:35
+"You put in more than 1 music sheet"
 > END STRING
 
 > BEGIN STRING
 "自分は今、この本の一部だ"
-> CONTEXT: Scripts/Scene_Bookshelf/238:35 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Bookshelf/238:35
+"Currently inside this book"
 > END STRING
 
 > BEGIN STRING

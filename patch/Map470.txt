@@ -7,151 +7,167 @@ SQ_Town02
 
 > BEGIN STRING
 "技士"
-> CONTEXT: Map470/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/8/pages/0/11/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/8/pages/0/31/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/11/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/31/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/11/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/31/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/0/InlineScript/1:4
+> CONTEXT: Map470/events/8/pages/0/11/InlineScript/1:4
+> CONTEXT: Map470/events/8/pages/0/31/InlineScript/1:4
+> CONTEXT: Map451/events/17/pages/0/0/InlineScript/1:4
+> CONTEXT: Map451/events/17/pages/0/11/InlineScript/1:4
+> CONTEXT: Map451/events/17/pages/0/31/InlineScript/1:4
+> CONTEXT: Map460/events/31/pages/0/0/InlineScript/1:4
+> CONTEXT: Map460/events/31/pages/0/11/InlineScript/1:4
+> CONTEXT: Map460/events/31/pages/0/31/InlineScript/1:4
+"Technician"
 > END STRING
 
 > BEGIN STRING
 「や、どう？
 　うん、ほら、\\c[2]テクニック\\c[0]、
 　ちゃんと使えてる？
-> CONTEXT: Map470/events/8/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/1/Dialogue
+> CONTEXT: Map451/events/17/pages/0/1/Dialogue
+> CONTEXT: Map460/events/31/pages/0/1/Dialogue
+「Well, how's it going?
+　Hm, look, are you using 
+　\\c[2]techniques\\c[0] properly?
 > END STRING
 
 > BEGIN STRING
 「[EX]とか[RECHARGE]とか、
 　ほら、何のことか分からなくて、
 　困ったりとかしてない？
-> CONTEXT: Map470/events/8/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/4/Dialogue
+> CONTEXT: Map451/events/17/pages/0/4/Dialogue
+> CONTEXT: Map460/events/31/pages/0/4/Dialogue
+「You know, things like [EX] and [RECHARGE],
+　don't you have any trouble understanding 
+　what they mean?
 > END STRING
 
 > BEGIN STRING
 「困ったりとかしてない？」
-> CONTEXT: Map470/events/8/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/8/Dialogue
+> CONTEXT: Map451/events/17/pages/0/8/Dialogue
+> CONTEXT: Map460/events/31/pages/0/8/Dialogue
+「Are you having any trouble?」
 > END STRING
 
 > BEGIN STRING
 「あ、そう？
 　じゃ、少し教えてあげるね。
-> CONTEXT: Map470/events/8/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/12/Dialogue
+> CONTEXT: Map451/events/17/pages/0/12/Dialogue
+> CONTEXT: Map460/events/31/pages/0/12/Dialogue
+「Oh, really? 
+　Then I'll tell you a little bit.
 > END STRING
 
 > BEGIN STRING
 「[EX]がついてるテクニックは、ね、
 　ターンを消費しないですぐ使えるの。
 　使い勝手はすごくいいね。
-> CONTEXT: Map470/events/8/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/14/Dialogue
+> CONTEXT: Map451/events/17/pages/0/14/Dialogue
+> CONTEXT: Map460/events/31/pages/0/14/Dialogue
+「Techniques with [EX] can be used right away 
+　without consuming a turn. 
+　They're very easy to use.
 > END STRING
 
 > BEGIN STRING
 「[RECHARGE:X]は、使用後Xターン
 　待たないと再使用できないわ。
 　使うタイミング、よく考えなきゃね。
-> CONTEXT: Map470/events/8/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/17/Dialogue
+> CONTEXT: Map451/events/17/pages/0/17/Dialogue
+> CONTEXT: Map460/events/31/pages/0/17/Dialogue
+「After using [RECHARGE:X], you have to wait 
+　X turns before you can use it again. 
+　Think carefully about when to use it.
 > END STRING
 
 > BEGIN STRING
 「[REQ.TP:X]は、テンションがX%ないと
 　使えないって意味。コストじゃないから、
 　テンションが下がったりはしないからね。
-> CONTEXT: Map470/events/8/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/20/Dialogue
+> CONTEXT: Map451/events/17/pages/0/20/Dialogue
+> CONTEXT: Map460/events/31/pages/0/20/Dialogue
+「[REQ.TP:X] means that you can't use it 
+　unless your tension is at X%. 
+　It's not a cost, so your tension won't go down.
 > END STRING
 
 > BEGIN STRING
 「[REQ.CAST:X]は、ね、一番大変。
 　使うのにXターン詠唱で潰さなきゃいけないから。
 　でもその分、効果は強力。
-> CONTEXT: Map470/events/8/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/23/Dialogue
+> CONTEXT: Map451/events/17/pages/0/23/Dialogue
+> CONTEXT: Map460/events/31/pages/0/23/Dialogue
+「[REQ.CAST:X] is the most difficult, you see.
+　Because it takes X turns to cast it.
+　But in return, the effect is powerful.
 > END STRING
 
 > BEGIN STRING
 「今説明したのは、テクニックだけじゃなくて、
 　あなたのパートナーが使う魔法や技でも
 　同じだから、ね。
-> CONTEXT: Map470/events/8/pages/0/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/26/Dialogue
+> CONTEXT: Map451/events/17/pages/0/26/Dialogue
+> CONTEXT: Map460/events/31/pages/0/26/Dialogue
+「What I just explained doesn't just apply to techniques,
+　but also to the magic 
+　and skills your partners use, you see.
 > END STRING
 
 > BEGIN STRING
 「あ、そう？
 　ん、ならいいんだ。
-> CONTEXT: Map470/events/8/pages/0/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/17/pages/0/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/31/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/8/pages/0/32/Dialogue
+> CONTEXT: Map451/events/17/pages/0/32/Dialogue
+> CONTEXT: Map460/events/31/pages/0/32/Dialogue
+「Oh, really?
+　Hmm, that's fine then.
 > END STRING
 
 > BEGIN STRING
 "にわとり"
-> CONTEXT: Map470/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/12/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/0/13/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/0/23/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/0/33/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/0/38/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/0/47/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/10/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/25/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/20/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/35/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/30/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/40/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/35/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/49/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/44/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/10/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/20/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/30/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/35/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/44/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map470/events/12/pages/0/0/InlineScript/1:4
+> CONTEXT: Map470/events/12/pages/1/0/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/0/1/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/0/13/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/0/23/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/0/33/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/0/38/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/0/47/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/0/1/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/1/1/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/1/10/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/0/25/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/1/20/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/0/35/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/1/30/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/0/40/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/1/35/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/0/49/InlineScript/1:4
+> CONTEXT: Map460/events/12/pages/1/44/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/1/1/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/1/10/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/1/20/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/1/30/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/1/35/InlineScript/1:4
+> CONTEXT: Map451/events/12/pages/1/44/InlineScript/1:4
+"Chicken"
 > END STRING
 
 > BEGIN STRING
 「やぁ…こんにちわ。
-> CONTEXT: Map470/events/12/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/12/pages/0/1/Dialogue
+> CONTEXT: Map451/events/12/pages/0/2/Dialogue
+> CONTEXT: Map460/events/12/pages/1/2/Dialogue
+> CONTEXT: Map451/events/12/pages/1/2/Dialogue
+「Hi...hello.
 > END STRING
 
 > BEGIN STRING
@@ -203,29 +219,30 @@ SQ_Town02
 > BEGIN STRING
 「おヤ、\\n[1]さンじゃない。
 　相変わらず若いねェ。
-> CONTEXT: Map470/events/13/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/13/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/5/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/13/pages/0/1/Dialogue
+> CONTEXT: Map470/events/13/pages/1/1/Dialogue
+> CONTEXT: Map460/events/5/pages/0/1/Dialogue
+> CONTEXT: Map451/events/5/pages/0/1/Dialogue
+「Hey, isn't it \\n[1]?
+　You're still as young as ever.
 > END STRING
 
 > BEGIN STRING
 「何か飲ンでく？
-> CONTEXT: Map470/events/13/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/13/pages/1/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/5/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/5/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/13/pages/0/4/Dialogue
+> CONTEXT: Map470/events/13/pages/1/3/Dialogue
+> CONTEXT: Map460/events/5/pages/0/3/Dialogue
+> CONTEXT: Map451/events/5/pages/0/3/Dialogue
+「Want something to drink?
 > END STRING
 
 > BEGIN STRING
 「また来てよネ。
-> CONTEXT: Map470/events/13/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/13/pages/1/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/5/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/5/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/13/pages/0/14/Dialogue
+> CONTEXT: Map470/events/13/pages/1/13/Dialogue
+> CONTEXT: Map460/events/5/pages/0/13/Dialogue
+> CONTEXT: Map451/events/5/pages/0/13/Dialogue
+「Please come again.
 > END STRING
 
 > BEGIN STRING
@@ -489,19 +506,21 @@ SQ_Town02
 > BEGIN STRING
 「楽しんでるかい？
 　夢の思い出、作ってるかい？
-> CONTEXT: Map470/events/22/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/11/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/19/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/22/pages/0/1/Dialogue
+> CONTEXT: Map451/events/11/pages/0/1/Dialogue
+> CONTEXT: Map460/events/19/pages/0/1/Dialogue
+「Are you having fun? 
+　Are you making memories of your dreams?
 > END STRING
 
 > BEGIN STRING
 「でも思い出は一度きり。
 　簡単に捨てたり、しないようにね。
-> CONTEXT: Map470/events/22/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/11/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/19/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/22/pages/0/3/Dialogue
+> CONTEXT: Map451/events/11/pages/0/3/Dialogue
+> CONTEXT: Map460/events/19/pages/0/3/Dialogue
+「But memories are only made once.
+　Don't throw them away so easily.
 > END STRING
 
 > BEGIN STRING

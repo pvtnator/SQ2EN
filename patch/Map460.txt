@@ -10,309 +10,344 @@
 > BEGIN STRING
 「んー、どうした少年。
 　テンション低いねー。
-> CONTEXT: Map460/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/25/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/7/pages/0/1/Dialogue
+> CONTEXT: Map451/events/7/pages/0/1/Dialogue
+> CONTEXT: Map470/events/25/pages/0/1/Dialogue
+「Hm, what's wrong, boy?
+　Your tension seems low.
 > END STRING
 
 > BEGIN STRING
 「\\c[2]テンションは高く保たなきゃ\\c[0]ダメだよー。
 　ほら、ハッスルハッスル！
-> CONTEXT: Map460/events/7/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/7/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/25/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/7/pages/0/3/Dialogue
+> CONTEXT: Map451/events/7/pages/0/3/Dialogue
+> CONTEXT: Map470/events/25/pages/0/3/Dialogue
+「\\c[2]You have to keep your tension high\\c[0].
+　Come on, hustle, hustle!
 > END STRING
 
 > BEGIN STRING
 「テンションが低いと攻めが鈍るし、
 　テンションが高くなきゃ
 　使えないワザもあるからねー。
-> CONTEXT: Map460/events/7/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/7/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/25/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/7/pages/0/5/Dialogue
+> CONTEXT: Map451/events/7/pages/0/5/Dialogue
+> CONTEXT: Map470/events/25/pages/0/5/Dialogue
+「If your tension is low, your attacks will be dull, 
+　and if your tension isn't high, 
+　there are some techniques you can't use.
 > END STRING
 
 > BEGIN STRING
 「どんどん積極的な行動して、
 　テンションを高めていくといいよー。
-> CONTEXT: Map460/events/7/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/7/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/25/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/7/pages/0/8/Dialogue
+> CONTEXT: Map451/events/7/pages/0/8/Dialogue
+> CONTEXT: Map470/events/25/pages/0/8/Dialogue
+「Continue to take positive action 
+　and increase your tension.
 > END STRING
 
 > BEGIN STRING
 「んー、何顔赤めてんだい少年。
-> CONTEXT: Map460/events/7/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/7/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/25/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/7/pages/0/10/Dialogue
+> CONTEXT: Map451/events/7/pages/0/10/Dialogue
+> CONTEXT: Map470/events/25/pages/0/10/Dialogue
+「Hmm, why are you blushing, boy?
 > END STRING
 
 > BEGIN STRING
 "優男"
-> CONTEXT: Map460/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/27/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map460/events/9/pages/0/0/InlineScript/1:4
+> CONTEXT: Map451/events/9/pages/0/0/InlineScript/1:4
+> CONTEXT: Map470/events/27/pages/0/0/InlineScript/1:4
+"Gentleman"
 > END STRING
 
 > BEGIN STRING
 「やれやれ、隣の騎士様には閉口するね。
 　魔物もいなくなったのに、
 　誰と戦うつもりなのやら。
-> CONTEXT: Map460/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/27/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/9/pages/0/1/Dialogue
+> CONTEXT: Map451/events/9/pages/0/1/Dialogue
+> CONTEXT: Map470/events/27/pages/0/1/Dialogue
+「My goodness, that knight beside me is really annoying.
+　The monsters are gone now, 
+　so I wonder who he's planning to fight.
 > END STRING
 
 > BEGIN STRING
 「今はそれより、女の子の悦ばせ方でも
 　知ってた方が\\dため\\dになるってもんさ。
 　どれ、一つ教えてやろう。
-> CONTEXT: Map460/events/9/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/9/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/27/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/9/pages/0/4/Dialogue
+> CONTEXT: Map451/events/9/pages/0/4/Dialogue
+> CONTEXT: Map470/events/27/pages/0/4/Dialogue
+「Right now, it would be \\dbetter\\d for you to know 
+　how to please a girl. 
+　Let me teach you one thing.
 > END STRING
 
 > BEGIN STRING
 「いいかい、本当に相手を悦ばそうと思うなら、
 　\\c[2]ムードを大事に\\c[0]することだ。
-> CONTEXT: Map460/events/9/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/9/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/27/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/9/pages/0/7/Dialogue
+> CONTEXT: Map451/events/9/pages/0/7/Dialogue
+> CONTEXT: Map470/events/27/pages/0/7/Dialogue
+「Look, if you really want to please your partner,
+　it's important to \\c[2]set the right mood\\c[0].
 > END STRING
 
 > BEGIN STRING
 「ウデやナニにどんなに自信があってもな。
 　ムードへの気配りが欠けちゃダメだ。
 　ムードが無いと感じてくれない相手もいるぜ。
-> CONTEXT: Map460/events/9/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/9/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/27/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/9/pages/0/9/Dialogue
+> CONTEXT: Map451/events/9/pages/0/9/Dialogue
+> CONTEXT: Map470/events/27/pages/0/9/Dialogue
+「No matter how confident you are, 
+　pay attention to the mood.
+　Some people won’t be bothered if the mood isn't right.
 > END STRING
 
 > BEGIN STRING
 「ムードが高まれば、
 　自然とテンションも上がっていくしな。
-> CONTEXT: Map460/events/9/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/9/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/27/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/9/pages/0/12/Dialogue
+> CONTEXT: Map451/events/9/pages/0/12/Dialogue
+> CONTEXT: Map470/events/27/pages/0/12/Dialogue
+「When the mood gets better,
+　tension naturally rises too.
 > END STRING
 
 > BEGIN STRING
 「ムードを高めたいなら、
 　最初に\\c[3]テンダーキッス\\c[0]、
 　そして\\c[3]トーク\\c[0]だ。覚えておきな。
-> CONTEXT: Map460/events/9/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/9/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/27/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/9/pages/0/14/Dialogue
+> CONTEXT: Map451/events/9/pages/0/14/Dialogue
+> CONTEXT: Map470/events/27/pages/0/14/Dialogue
+「If you want to set the mood,
+　first try some \\c[3]tender kiss\\c[0],
+　then \\c[3]talk\\c[0]. Remember that.
 > END STRING
 
 > BEGIN STRING
 「ムードを最高に高めてやれば、
 　何かいいことがあるかも、な。
-> CONTEXT: Map460/events/9/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/9/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/27/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/9/pages/0/17/Dialogue
+> CONTEXT: Map451/events/9/pages/0/17/Dialogue
+> CONTEXT: Map470/events/27/pages/0/17/Dialogue
+「If you get the mood to its peak,
+　something good might happen.
 > END STRING
 
 > BEGIN STRING
 "王国騎士"
-> CONTEXT: Map460/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map451/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/26/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map460/events/10/pages/0/0/InlineScript/1:4
+> CONTEXT: Map451/events/10/pages/0/0/InlineScript/1:4
+> CONTEXT: Map470/events/26/pages/0/0/InlineScript/1:4
+"Kingdom Knight"
 > END STRING
 
 > BEGIN STRING
 「騎士心得ぇ～、その一ッ！
-> CONTEXT: Map460/events/10/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/10/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/26/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/10/pages/0/1/Dialogue
+> CONTEXT: Map451/events/10/pages/0/1/Dialogue
+> CONTEXT: Map470/events/26/pages/0/1/Dialogue
+「Knightly knowledge, number one!
 > END STRING
 
 > BEGIN STRING
 「\\c[2]レベルの高い相手と積極的に戦うべし\\c[0]ッ！
 　弱い相手とばかり戦っていると
 　いつまでも成長できんぞォ！
-> CONTEXT: Map460/events/10/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/10/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/26/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/10/pages/0/2/Dialogue
+> CONTEXT: Map451/events/10/pages/0/2/Dialogue
+> CONTEXT: Map470/events/26/pages/0/2/Dialogue
+「\\c[2]You should actively fight high-level opponents\\c[0]!
+　If you only fight weak opponents
+　you'll never grow stronger!
 > END STRING
 
 > BEGIN STRING
 「その二！
 　\\c[2]多勢にひるむべからず\\c[0]ッ！
-> CONTEXT: Map460/events/10/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/10/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/26/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/10/pages/0/5/Dialogue
+> CONTEXT: Map451/events/10/pages/0/5/Dialogue
+> CONTEXT: Map470/events/26/pages/0/5/Dialogue
+「Number two!
+\\c[2]You must not be intimidated by large numbers\\c[0]!
 > END STRING
 
 > BEGIN STRING
 「多くの敵を一度に相手にすれば、
 　個別に戦うより多くの経験を積めるだろう！
-> CONTEXT: Map460/events/10/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/10/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/26/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/10/pages/0/7/Dialogue
+> CONTEXT: Map451/events/10/pages/0/7/Dialogue
+> CONTEXT: Map470/events/26/pages/0/7/Dialogue
+「Fighting many enemies at once 
+　will give you more experience 
+　than fighting them individually!
 > END STRING
 
 > BEGIN STRING
 「そしてその三！
 　\\c[2]背後を取られるなかれ\\c[0]ッ！
-> CONTEXT: Map460/events/10/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/10/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/26/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/10/pages/0/9/Dialogue
+> CONTEXT: Map451/events/10/pages/0/9/Dialogue
+> CONTEXT: Map470/events/26/pages/0/9/Dialogue
+「And number three!
+\\c[2]Don't let yourself be approached from behind\\c[0]!
 > END STRING
 
 > BEGIN STRING
 「それは騎士として恥ずべきこと！
 　だがそれ以前に、相手の先制を許すという
 　圧倒的不利を避けるためだッ！
-> CONTEXT: Map460/events/10/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/10/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/26/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/10/pages/0/11/Dialogue
+> CONTEXT: Map451/events/10/pages/0/11/Dialogue
+> CONTEXT: Map470/events/26/pages/0/11/Dialogue
+「That would be shameful as a knight! But more importantly, 
+　don't allow your opponents to strike first, 
+　which would put you at an overwhelming disadvantage!
 > END STRING
 
 > BEGIN STRING
 「ゆめゆめェ、忘れるでないぞォ！
-> CONTEXT: Map460/events/10/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/10/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/26/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/10/pages/0/14/Dialogue
+> CONTEXT: Map451/events/10/pages/0/14/Dialogue
+> CONTEXT: Map470/events/26/pages/0/14/Dialogue
+「Don't ever forget!
 > END STRING
 
 > BEGIN STRING
 「おや坊や、いらっしゃい。
-> CONTEXT: Map460/events/11/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/11/pages/0/1/Dialogue
+「Hey boy, come in.
 > END STRING
 
 > BEGIN STRING
 「僕、最近ここで働き始めたんだ。
 　よろしくね。
-> CONTEXT: Map460/events/11/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/11/pages/0/2/Dialogue
+「I just started working here. 
+　Nice to meet you.
 > END STRING
 
 > BEGIN STRING
 「さて、何にする？クヴァラットミルクに、
 　ミレットシュガーでもつけようか。
-> CONTEXT: Map460/events/11/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/11/pages/0/4/Dialogue
+「Well, what shall we have? 
+Maybe some Kvalatte milk with some millet sugar?
 > END STRING
 
 > BEGIN STRING
 「やぁ…どうだい？
 　ちょっとしたものになっただろう。
-> CONTEXT: Map460/events/12/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/12/pages/0/2/Dialogue
+「Hey...how is it?
+　It's a nice little place.
 > END STRING
 
 > BEGIN STRING
 「でもまだ、こんなものじゃないんだ。
 　私が作りたい店は…もっと……
-> CONTEXT: Map460/events/12/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/12/pages/0/4/Dialogue
+「But I won't leave it like this. 
+　The place I want is something more...
 > END STRING
 
 > BEGIN STRING
 「…よければもう少し、
 　資金集めに協力してくれないか？
 　少しでいいんだが…
-> CONTEXT: Map460/events/12/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/12/pages/0/6/Dialogue
+「...If you don't mind,
+　could you help me raise funds?
+　Even a little would be fine...
 > END STRING
 
 > BEGIN STRING
 「協力してくれないか？」
-> CONTEXT: Map460/events/12/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/12/pages/0/10/Dialogue
+> CONTEXT: Map460/events/12/pages/1/7/Dialogue
+> CONTEXT: Map451/events/12/pages/0/16/Dialogue
+> CONTEXT: Map451/events/12/pages/1/7/Dialogue
+「Could you help me?」
 > END STRING
 
 > BEGIN STRING
 「今君からは、
 　合計\\v[40]G預かってるみたいだ。
 　いくら協力してくれるかな？
-> CONTEXT: Map460/events/12/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/12/pages/0/14/Dialogue
+> CONTEXT: Map460/events/12/pages/1/11/Dialogue
+> CONTEXT: Map451/events/12/pages/1/11/Dialogue
+「Right now, I've got a total of \\v[40]G from you.
+　How much will you be willing to help me?
 > END STRING
 
 > BEGIN STRING
 いくら渡しますか？（所持金\\v[3]G）
-> CONTEXT: Map460/events/12/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/12/pages/0/19/Dialogue
+> CONTEXT: Map451/events/12/pages/0/21/Dialogue
+> CONTEXT: Map460/events/12/pages/1/16/Dialogue
+> CONTEXT: Map451/events/12/pages/1/16/Dialogue
+Give how much? (Current balance \\v[3]G)
 > END STRING
 
 > BEGIN STRING
 「そんなに持っていないようだが…？
-> CONTEXT: Map460/events/12/pages/0/24/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/12/pages/0/24/Dialogue
+> CONTEXT: Map451/events/12/pages/0/26/Dialogue
+> CONTEXT: Map460/events/12/pages/1/21/Dialogue
+> CONTEXT: Map451/events/12/pages/1/21/Dialogue
+「Seems like you don't have that much...
 > END STRING
 
 > BEGIN STRING
 「ああ、いや…いいんだ。
 　無理しないでくれたまえ。
-> CONTEXT: Map460/events/12/pages/0/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/0/39/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/0/48/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/41/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/50/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/45/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/12/pages/0/25/Dialogue
+> CONTEXT: Map460/events/12/pages/0/39/Dialogue
+> CONTEXT: Map460/events/12/pages/0/48/Dialogue
+> CONTEXT: Map451/events/12/pages/0/27/Dialogue
+> CONTEXT: Map460/events/12/pages/1/22/Dialogue
+> CONTEXT: Map451/events/12/pages/0/41/Dialogue
+> CONTEXT: Map460/events/12/pages/1/36/Dialogue
+> CONTEXT: Map451/events/12/pages/0/50/Dialogue
+> CONTEXT: Map460/events/12/pages/1/45/Dialogue
+> CONTEXT: Map451/events/12/pages/1/22/Dialogue
+> CONTEXT: Map451/events/12/pages/1/36/Dialogue
+> CONTEXT: Map451/events/12/pages/1/45/Dialogue
+「Ah, no...it's okay.
+　Please don't push yourself.
 > END STRING
 
 > BEGIN STRING
 「おお、ありがとう！
 　きっと役に立てるよ。
-> CONTEXT: Map460/events/12/pages/0/34/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/12/pages/1/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/12/pages/0/34/Dialogue
+> CONTEXT: Map451/events/12/pages/0/36/Dialogue
+> CONTEXT: Map460/events/12/pages/1/31/Dialogue
+> CONTEXT: Map451/events/12/pages/1/31/Dialogue
+「Oh, thank you! 
+　I'm sure it will be useful.
 > END STRING
 
 > BEGIN STRING
 「よければ君も、
 　資金集めに協力してくれないか？
 　少しでいいんだが…
-> CONTEXT: Map460/events/12/pages/1/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map451/events/12/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/12/pages/1/3/Dialogue
+> CONTEXT: Map451/events/12/pages/0/12/Dialogue
+> CONTEXT: Map451/events/12/pages/1/3/Dialogue
+「If you don't mind,
+　could you help me raise funds?
+　Even a little would be fine...
 > END STRING
 
 > BEGIN STRING
@@ -324,13 +359,14 @@
 > BEGIN STRING
 「このお店、ちょっとイイ感じに
 　なったじゃな～い？
-> CONTEXT: Map460/events/21/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/21/pages/0/1/Dialogue
+「This place looks pretty good, doesn't it?
 > END STRING
 
 > BEGIN STRING
 「これでひろ～いステージでもあれば、
 　もっといいのにねぇ\\e[0]
-> CONTEXT: Map460/events/21/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map460/events/21/pages/0/3/Dialogue
+「If there was a bigger stage,
+　it would be even better\\e[0]
 > END STRING

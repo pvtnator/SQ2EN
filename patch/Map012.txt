@@ -2,20 +2,23 @@
 > BEGIN STRING
 本棚に入れた白の史書に、
 文字が少し書き足されている……
-> CONTEXT: Map012/events/4/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/4/pages/0/55/Dialogue
+The Blank Book in the bookshelf
+has a few additional letters...
 > END STRING
 
 > BEGIN STRING
 「ほらおめでとう！
 　歴史の奪還！
-> CONTEXT: Map012/events/4/pages/0/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/4/pages/0/58/Dialogue
+「Congratulations! 
+　Reclaiming history!
 > END STRING
 
 > BEGIN STRING
 「まだまだよ？
 　でも大きな一歩！
-> CONTEXT: Map012/events/4/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/4/pages/0/60/Dialogue
+「Not there yet?
+　But big step forward!
 > END STRING
