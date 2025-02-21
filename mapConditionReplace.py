@@ -74,6 +74,14 @@ def replace_strings_in_files(folder_path, mod_path, replace_dict):
             #    content = newContent
             #    replaced = True
             #    print("special case: "+filename)
+
+            for key in replace_dict:
+                if key.decode()[-1] == ';':
+                    #print(key.decode())
+                    matches = content.count(key)
+                    if matches > 0:
+                        print(str(matches)+" matches for "+key[2:-1].decode()+" in "+filename)
+                        content = content.replace(key, replace_dict[key])
                 
             if replaced:
                 with open(os.path.join(mod_path, "Q_"+filename), 'wb') as modified_file:
@@ -103,7 +111,10 @@ if __name__ == "__main__":
         lines = trans_file.readlines()
     with open("patch/Armors.txt", 'r', encoding='utf-8') as trans_file:
         lines += trans_file.readlines()
+    with open("patch/Classes.txt", 'r', encoding='utf-8') as trans_file:
+        lines += trans_file.readlines()
     i = 0
+    binary_replacements = {}
     while i < len(lines):
         if lines[i].strip() == "> BEGIN STRING":
             i += 1
@@ -114,19 +125,33 @@ if __name__ == "__main__":
             if lines[i].strip():
                 noquotes = lines[i].strip().replace('"', '')
 
-                if lines[i].count("/") > 1:
+                if lines[i].count("/") > 1 and not "\\" in lines[i]:
                     replacements[string] = lines[i].strip()
                 else:
                     rep = "(\""+noquotes+"\")"
                     replacements["(\""+string+"\")"] = rep
                     rep = "== \""+noquotes+"\""
                     replacements["== \""+string+"\""] = rep
+
+                if len(lines[i].strip()) < 30 and not "(" in lines[i] and not "\\" in lines[i]:
+                    #a = string.split("/")[0].strip()
+                    a = string.strip()
+                    a = '"'.encode()+bytes([len(a.encode())+5])+a.encode()+';'.encode()
+                    #b = lines[i].split("/")[0].strip()
+                    b = lines[i].strip()
+                    b = '"'.encode()+bytes([len(b.encode())+5])+b.encode()+';'.encode()
+                    binary_replacements[a] = b
+                    
+                    a = string.strip().replace('"','')
+                    a = '"'.encode()+bytes([len(a.encode())+5])+a.encode()+';'.encode()
+                    b = lines[i].strip().replace('"','')
+                    b = '"'.encode()+bytes([len(b.encode())+5])+b.encode()+';'.encode()
+                    binary_replacements[a] = b
             i += 2
         else:
             i += 1
 
     
-    binary_replacements = {}
     for key in replacements.keys():
         binary_replacements[key.encode('utf-8')] = replacements[key].encode('utf-8')
     replace_strings_in_files(folder_path, mod_path, binary_replacements)
