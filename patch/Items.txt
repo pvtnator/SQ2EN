@@ -393,14 +393,14 @@ A page from a book on your bookshelf - Enhance reality
 
 > BEGIN STRING
 万象の辞書
-> CONTEXT: Items/47/name/ < UNTRANSLATED
-
+> CONTEXT: Items/47/name/
+Universal Dictionary
 > END STRING
 
 > BEGIN STRING
 おぼろげなアイテムを鑑定する辞書
-> CONTEXT: Items/47/description/ < UNTRANSLATED
-
+> CONTEXT: Items/47/description/
+A dictionary that identifies vague items
 > END STRING
 
 > BEGIN STRING
@@ -1156,15 +1156,15 @@ Mermaid Tale
 
 > BEGIN STRING
 海峡奇伝Ⅰ
-> CONTEXT: Items/141/name/ < UNTRANSLATED
-
+> CONTEXT: Items/141/name/
+Straits Mystery 1
 > END STRING
 
 > BEGIN STRING
 〔史書〕 海に現れる奇妙な魔物の伝説が綴られた本
-> CONTEXT: Items/141/description/ < UNTRANSLATED
-> CONTEXT: Items/169/description/ < UNTRANSLATED
-
+> CONTEXT: Items/141/description/
+> CONTEXT: Items/169/description/
+[History] Tells legends of strange sea monsters
 > END STRING
 
 > BEGIN STRING
@@ -1436,8 +1436,8 @@ Reading Diary
 
 > BEGIN STRING
 海峡奇伝Ⅱ
-> CONTEXT: Items/169/name/ < UNTRANSLATED
-
+> CONTEXT: Items/169/name/
+Straits Mystery 2
 > END STRING
 
 > BEGIN STRING

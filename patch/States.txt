@@ -1820,38 +1820,38 @@ Appraised item probability+
 
 > BEGIN STRING
 クライシス時能力アップ
-> CONTEXT: States/405/name/ < UNTRANSLATED
-
+> CONTEXT: States/405/name/
+Crisis Attributes Up
 > END STRING
 
 > BEGIN STRING
 レベルアップボーナス(精力)
-> CONTEXT: States/406/name/ < UNTRANSLATED
-
+> CONTEXT: States/406/name/
+Level-Up Bonus (Energy)
 > END STRING
 
 > BEGIN STRING
 レベルアップボーナス(技巧)
-> CONTEXT: States/407/name/ < UNTRANSLATED
-
+> CONTEXT: States/407/name/
+Level-Up Bonus (Skill)
 > END STRING
 
 > BEGIN STRING
 レベルアップボーナス(素早さ)
-> CONTEXT: States/408/name/ < UNTRANSLATED
-
+> CONTEXT: States/408/name/
+Level-Up Bonus (Agility)
 > END STRING
 
 > BEGIN STRING
 レベルアップボーナス(精神力)
-> CONTEXT: States/409/name/ < UNTRANSLATED
-
+> CONTEXT: States/409/name/
+Level-Up Bonus (Spirit)
 > END STRING
 
 > BEGIN STRING
 レベルアップボーナス(魅力)
-> CONTEXT: States/410/name/ < UNTRANSLATED
-
+> CONTEXT: States/410/name/
+Level-Up Bonus (Charm)
 > END STRING
 
 > BEGIN STRING
@@ -1972,26 +1972,26 @@ Dragon Roar/105/100/100
 
 > BEGIN STRING
 運命加速/120/100/100
-> CONTEXT: States/438/name/ < UNTRANSLATED
-
+> CONTEXT: States/438/name/
+Accelerated Fate/120/100/100
 > END STRING
 
 > BEGIN STRING
 宿命転置
-> CONTEXT: States/439/name/ < UNTRANSLATED
-
+> CONTEXT: States/439/name/
+Fate Transposition
 > END STRING
 
 > BEGIN STRING
 運命凝縮/150/100/100
-> CONTEXT: States/440/name/ < UNTRANSLATED
-
+> CONTEXT: States/440/name/
+Condensed Fate/150/100/100
 > END STRING
 
 > BEGIN STRING
 自由意志
-> CONTEXT: States/441/name/ < UNTRANSLATED
-
+> CONTEXT: States/441/name/
+Free Will
 > END STRING
 
 > BEGIN STRING

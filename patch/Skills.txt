@@ -520,14 +520,14 @@ Attack randomly and fiercly
 
 > BEGIN STRING
 ラッシュ/0/120/0
-> CONTEXT: Skills/77/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/77/name/
+Rush/0/120/0
 > END STRING
 
 > BEGIN STRING
 ランダムに連続してせめる
-> CONTEXT: Skills/77/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/77/description/
+Attack randomly and continuously
 > END STRING
 
 > BEGIN STRING
@@ -986,58 +986,58 @@ Neutralize auditory temptations
 
 > BEGIN STRING
 グングニル/2/0/0/0
-> CONTEXT: Skills/142/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/142/name/
+Gungnir/2/0/0/0
 > END STRING
 
 > BEGIN STRING
 魔法の槍で快感を与え、さらに心を奪う
-> CONTEXT: Skills/142/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/142/description/
+The magic spear gives pleasure and charms.
 > END STRING
 
 > BEGIN STRING
 ワールウィンド
-> CONTEXT: Skills/143/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/143/name/
+Whirlwind
 > END STRING
 
 > BEGIN STRING
 アイゼクトを素早く行動させる
-> CONTEXT: Skills/143/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/143/description/
+Make Ayxect act quickly
 > END STRING
 
 > BEGIN STRING
 クラウドスロウト/5/0/0/0
-> CONTEXT: Skills/144/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/144/name/
+Cloud Throat/5/0/0/0
 > END STRING
 
 > BEGIN STRING
 相手全員の動きを止める
-> CONTEXT: Skills/144/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/144/description/
+Stop all opponents from moving
 > END STRING
 
 > BEGIN STRING
 ヘヴィレイン/5/0/to146
-> CONTEXT: Skills/145/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/145/name/
+Heavy Rain/5/0/to146
 > END STRING
 
 > BEGIN STRING
 グングニルによる連続攻撃
-> CONTEXT: Skills/145/description/ < UNTRANSLATED
-> CONTEXT: Skills/146/description/ < UNTRANSLATED
-> CONTEXT: Skills/147/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/145/description/
+> CONTEXT: Skills/146/description/
+> CONTEXT: Skills/147/description/
+Continuous attacks with Gungnir
 > END STRING
 
 > BEGIN STRING
 ヘヴィレイン/0/0/to147
-> CONTEXT: Skills/146/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/146/name/
+Heavy Rain/0/0/to147
 > END STRING
 
 > BEGIN STRING
@@ -1060,14 +1060,14 @@ Cross-blade
 
 > BEGIN STRING
 十字を切り、特定の相手を弱体化する
-> CONTEXT: Skills/152/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/152/description/
+Draw the cross to weaken an opponent
 > END STRING
 
 > BEGIN STRING
 エミネントフォース/2
-> CONTEXT: Skills/153/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/153/name/
+Eminent Force/2
 > END STRING
 
 > BEGIN STRING
@@ -1079,20 +1079,20 @@ All abilities up
 
 > BEGIN STRING
 ハンドオブマイト/5/0/0/0
-> CONTEXT: Skills/154/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/154/name/
+Hand of Might/5/0/0/0
 > END STRING
 
 > BEGIN STRING
 ラグジャラスヒット率アップ
-> CONTEXT: Skills/154/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/154/description/
+Luxurious hit rate up
 > END STRING
 
 > BEGIN STRING
 シャードフォース/2
-> CONTEXT: Skills/155/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/155/name/
+Shard Force/2
 > END STRING
 
 > BEGIN STRING
@@ -1196,8 +1196,8 @@ Charm up
 
 > BEGIN STRING
 ペルスグン/0/0/0/3
-> CONTEXT: Skills/166/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/166/name/
+Persgun/0/0/0/3
 > END STRING
 
 > BEGIN STRING
@@ -1208,38 +1208,38 @@ Luck up
 
 > BEGIN STRING
 ファル・ウルズグン/0/0/0/1
-> CONTEXT: Skills/168/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/168/name/
+Far-Uruzgun/0/0/0/1
 > END STRING
 
 > BEGIN STRING
 ファル・ラグズグン/0/0/0/1
-> CONTEXT: Skills/169/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/169/name/
+Far-Ragsgun/0/0/0/1
 > END STRING
 
 > BEGIN STRING
 ファル・ハガルグン/0/0/0/1
-> CONTEXT: Skills/170/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/170/name/
+Far-Hagalgun/0/0/0/1
 > END STRING
 
 > BEGIN STRING
 ファル・エオルグン/0/0/0/1
-> CONTEXT: Skills/171/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/171/name/
+Far-Eorgun/0/0/0/1
 > END STRING
 
 > BEGIN STRING
 ファル・シギルグン/0/0/0/1
-> CONTEXT: Skills/172/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/172/name/
+Far-Sigilgun/0/0/0/1
 > END STRING
 
 > BEGIN STRING
 アルスグン/0/0/0/1
-> CONTEXT: Skills/173/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/173/name/
+Arsgun/0/0/0/1
 > END STRING
 
 > BEGIN STRING
@@ -1321,8 +1321,8 @@ Opponents' charm down
 
 > BEGIN STRING
 アルスフニ/0/0/0/1
-> CONTEXT: Skills/179/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/179/name/
+Arsfuni/0/0/0/1
 > END STRING
 
 > BEGIN STRING
@@ -1361,27 +1361,27 @@ Rogin
 
 > BEGIN STRING
 ファル・ロギン/0/0/0/2
-> CONTEXT: Skills/183/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/183/name/
+Far-Rogin/0/0/0/2
 > END STRING
 
 > BEGIN STRING
 EP回復(大)
-> CONTEXT: Skills/183/description/ < UNTRANSLATED
-> CONTEXT: Skills/317/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/183/description/
+> CONTEXT: Skills/317/description/
+EP Recovery (Large)
 > END STRING
 
 > BEGIN STRING
 エスケプ
-> CONTEXT: Skills/186/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/186/name/
+Escape
 > END STRING
 
 > BEGIN STRING
 バトルから逃げる
-> CONTEXT: Skills/186/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/186/description/
+Flee from battle
 > END STRING
 
 > BEGIN STRING
@@ -1455,14 +1455,14 @@ Summon the bard Rosenil
 
 > BEGIN STRING
 エルヴィン/15/0/0
-> CONTEXT: Skills/196/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/196/name/
+Elvin/15/0/0
 > END STRING
 
 > BEGIN STRING
 戦士エルヴィンを呼ぶ
-> CONTEXT: Skills/196/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/196/description/
+Summon the warrior Elvin
 > END STRING
 
 > BEGIN STRING
@@ -1479,26 +1479,26 @@ Summon the Crazy Bat Rugeiyu
 
 > BEGIN STRING
 ラルス/15/0/0
-> CONTEXT: Skills/198/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/198/name/
+Lars/15/0/0
 > END STRING
 
 > BEGIN STRING
 勇者ラルスを呼ぶ
-> CONTEXT: Skills/198/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/198/description/
+Summon the hero Lars
 > END STRING
 
 > BEGIN STRING
 ステラ/15/0/0
-> CONTEXT: Skills/199/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/199/name/
+Stella/15/0/0
 > END STRING
 
 > BEGIN STRING
 夢魔ステラを呼ぶ
-> CONTEXT: Skills/199/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/199/description/
+Summon the succubus Stella
 > END STRING
 
 > BEGIN STRING
@@ -3382,8 +3382,8 @@ Invitation to Jealousy
 
 > BEGIN STRING
 エンジェルアロー
-> CONTEXT: Skills/448/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/448/name/
+Angel Arrow
 > END STRING
 
 > BEGIN STRING
@@ -4362,194 +4362,188 @@ Prevents all opponents from using magic
 
 > BEGIN STRING
 ■ルゲイエ
-> CONTEXT: Skills/720/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/720/name/
+■Rugeiyu
 > END STRING
 
 > BEGIN STRING
 ウィアドグン
-> CONTEXT: Skills/721/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/721/name/
+Weirdgun
 > END STRING
 
 > BEGIN STRING
 ランダムに2回ステータスアップ
-> CONTEXT: Skills/721/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/721/description/
+Randomly increase an attribute twice
 > END STRING
 
 > BEGIN STRING
 ウィアドグン(VIG)
-> CONTEXT: Skills/722/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/722/name/
+Weirdgun(VIG)
 > END STRING
 
 > BEGIN STRING
 ウィアドグン(DEX)
-> CONTEXT: Skills/723/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/723/name/
+Weirdgun(DEX)
 > END STRING
 
 > BEGIN STRING
 ウィアドグン(AGI)
-> CONTEXT: Skills/724/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/724/name/
+Weirdgun(AGI)
 > END STRING
 
 > BEGIN STRING
 ウィアドグン(MND)
-> CONTEXT: Skills/725/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/725/name/
+Weirdgun(MND)
 > END STRING
 
 > BEGIN STRING
 ウィアドグン(CHR)
-> CONTEXT: Skills/726/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/726/name/
+Weirdgun(CHR)
 > END STRING
 
 > BEGIN STRING
 ウィアドフニ
-> CONTEXT: Skills/727/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/727/name/
+Weirdfuni
 > END STRING
 
 > BEGIN STRING
 ランダムに2回ステータスダウン
-> CONTEXT: Skills/727/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/727/description/
+Randomly reduce an attribute twice
 > END STRING
 
 > BEGIN STRING
 ウィアドフニ(VIG)
-> CONTEXT: Skills/728/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/728/name/
+Weirdfuni(VIG)
 > END STRING
 
 > BEGIN STRING
 ウィアドフニ(DEX)
-> CONTEXT: Skills/729/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/729/name/
+Weirdfuni(DEX)
 > END STRING
 
 > BEGIN STRING
 ウィアドフニ(AGI)
-> CONTEXT: Skills/730/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/730/name/
+Weirdfuni(AGI)
 > END STRING
 
 > BEGIN STRING
 ウィアドフニ(MND)
-> CONTEXT: Skills/731/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/731/name/
+Weirdfuni(MND)
 > END STRING
 
 > BEGIN STRING
 ウィアドフニ(CHR)
-> CONTEXT: Skills/732/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/732/name/
+Weirdfuni(CHR)
 > END STRING
 
 > BEGIN STRING
 命運加速/6/0/0/3
-> CONTEXT: Skills/733/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/733/name/
+Accelerated Fate/6/0/0/3
 > END STRING
 
 > BEGIN STRING
 1ターンだけ全能力アップ
-> CONTEXT: Skills/733/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/733/description/
+Increase all attributes for 1 turn
 > END STRING
 
 > BEGIN STRING
 宿命転置/6
-> CONTEXT: Skills/734/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/734/name/
+Fate Transposition/6
 > END STRING
 
 > BEGIN STRING
 自分よりレベルが高い相手の全能力ダウン
-> CONTEXT: Skills/734/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/734/description/
+Reduce all attributes of opponents of a higher level
 > END STRING
 
 > BEGIN STRING
 宿命転置（発動用）
-> CONTEXT: Skills/735/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/735/name/
+Fate Transposition (for activation)
 > END STRING
 
 > BEGIN STRING
 コモンイベント内から呼び出し
-> CONTEXT: Skills/735/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/735/description/
+Call from within a common event
 > END STRING
 
 > BEGIN STRING
 天命反転
-> CONTEXT: Skills/736/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/736/name/
+Reversal of Destiny
 > END STRING
 
 > BEGIN STRING
 バッドステートの効果を逆転する
-> CONTEXT: Skills/736/description/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-天命反転(恍惚/暴走/パニック)
-> CONTEXT: None < UNUSED
-
+> CONTEXT: Skills/736/description/
+Reverse bad status effects
 > END STRING
 
 > BEGIN STRING
 天命反転(バインド)
-> CONTEXT: Skills/738/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/738/name/
+Reversal of Destiny(Bind)
 > END STRING
 
 > BEGIN STRING
 天命反転(ミニマム)
-> CONTEXT: Skills/739/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/739/name/
+Reversal of Destiny(Mini)
 > END STRING
 
 > BEGIN STRING
 天命反転(クラムジ)
-> CONTEXT: Skills/740/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/740/name/
+Reversal of Destiny(Clumsy)
 > END STRING
 
 > BEGIN STRING
 天命反転(センシブ)
-> CONTEXT: Skills/741/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/741/name/
+Reversal of Destiny(Sensitive)
 > END STRING
 
 > BEGIN STRING
 命運凝縮/9/0/0/3
-> CONTEXT: Skills/742/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/742/name/
+Fate Condensed/9/0/0/3
 > END STRING
 
 > BEGIN STRING
 1ターンだけ全能力アップ(大)
-> CONTEXT: Skills/742/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/742/description/
+Increase all attributes for one turn (large)
 > END STRING
 
 > BEGIN STRING
 自由意志/-1
-> CONTEXT: Skills/743/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/743/name/
+Free Will/-1
 > END STRING
 
 > BEGIN STRING
 少しの間好きなだけ全能力アップ、その3倍のリアリティを失う
-> CONTEXT: Skills/743/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/743/description/
+Increase all attributes a lot for 3 times larger Reality cost
 > END STRING
 
 > BEGIN STRING
@@ -4596,18 +4590,18 @@ Prevents all opponents from using magic
 
 > BEGIN STRING
 ディヴェスト
-> CONTEXT: Skills/755/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/755/name/
+Divest
 > END STRING
 
 > BEGIN STRING
 全員の服を脱がせる
-> CONTEXT: Skills/755/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/755/description/
+Remove everyone's clothes
 > END STRING
 
 > BEGIN STRING
 天命反転(恍惚)
-> CONTEXT: Skills/737/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/737/name/
+Reversal of Destiny(Ecstasy)
 > END STRING

@@ -544,56 +544,64 @@ Deposit/Withdraw Items
 「テメェが今までイった回数を
 　教えてやろうか？
 　…へへっ、ちゃんと数えてるんだぜ。
-> CONTEXT: Map426/events/17/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/17/pages/0/1/Dialogue
+「Wanna know how many times
+　you've come so far?
+　...Hehe, I'm keeping count.
 > END STRING
 
 > BEGIN STRING
 「じゃん！
 　なんと \\b\\v[26]\\f 回だ！
-> CONTEXT: Map426/events/17/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/17/pages/0/4/Dialogue
+「Now then!
+　\\b\\v[26]\\f times!
 > END STRING
 
 > BEGIN STRING
 「……チッ、つまんねえな。
-> CONTEXT: Map426/events/17/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/17/pages/0/7/Dialogue
+「...Tch, that's boring.
 > END STRING
 
 > BEGIN STRING
 「ハハッ！
 　だらしねぇなぁ？
-> CONTEXT: Map426/events/17/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/17/pages/0/11/Dialogue
+「Haha!
+　Aren't you sloppy?
 > END STRING
 
 > BEGIN STRING
 「おじいちゃんが今まで
 　いかせた人の数、
 　教えてあげよっか～？
-> CONTEXT: Map426/events/18/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/18/pages/0/1/Dialogue
+「Hey grandpa, 
+　wanna know how many people
+　you've made climax so far～?
 > END STRING
 
 > BEGIN STRING
 「じゃん！
 　なんと \\b\\v[27]\\f 人～～っ\\e[0]
-> CONTEXT: Map426/events/18/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/18/pages/0/4/Dialogue
+「Right then!
+　\\b\\v[27]\\f people～～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「え、もっと多いはず？
-> CONTEXT: Map426/events/18/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/18/pages/0/6/Dialogue
+「Eh, shouldn't it be more?
 > END STRING
 
 > BEGIN STRING
 「やん、この夢に来てからの数よぉ？
 　おじいちゃんのえっちぃ\\e[0]
-> CONTEXT: Map426/events/18/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/18/pages/0/7/Dialogue
+「Heh, how many times have you had this dream?
+　Naughty grandpa\\e[0]
 > END STRING
 
 > BEGIN STRING

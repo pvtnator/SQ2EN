@@ -19,24 +19,24 @@
 
 > BEGIN STRING
 "ステラ/Stella"
-> CONTEXT: Map023/events/1/pages/0/160/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/101/166/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/34/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/48/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/62/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/73/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/84/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/100/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/106/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/165/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/171/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/203/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/210/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/461/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/465/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/739/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/745/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map023/events/1/pages/0/160/InlineScript/1:4
+> CONTEXT: Commonevents/101/166/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/34/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/48/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/62/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/73/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/84/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/100/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/106/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/165/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/171/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/203/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/210/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/461/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/465/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/739/InlineScript/1:4
+> CONTEXT: Map023/events/1/pages/0/745/InlineScript/1:4
+"Stella/Stella"
 > END STRING
 
 > BEGIN STRING

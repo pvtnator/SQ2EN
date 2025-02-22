@@ -911,21 +911,21 @@ Lv.3ランダムトレジャー
 
 > BEGIN STRING
 宝箱+1
-> CONTEXT: System/elements/145/ < UNTRANSLATED
-> CONTEXT: States/482/name/ < UNTRANSLATED
-
+> CONTEXT: System/elements/145/
+> CONTEXT: States/482/name/
+Treasure +1
 > END STRING
 
 > BEGIN STRING
 宝箱+2
-> CONTEXT: System/elements/146/ < UNTRANSLATED
-
+> CONTEXT: System/elements/146/
+Treasure +2
 > END STRING
 
 > BEGIN STRING
 宝箱+3
-> CONTEXT: System/elements/147/ < UNTRANSLATED
-
+> CONTEXT: System/elements/147/
+Treasure +3
 > END STRING
 
 > BEGIN STRING

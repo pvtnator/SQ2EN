@@ -975,7 +975,7 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「やぁん、いっぱぁ～いっ♪
 > CONTEXT: Commonevents/52/54/Dialogue
-\\a[\\v[105]]「Aaah, I'm full!♪
+\\a[\\v[105]]「Aaah, so much～♪
 > END STRING
 
 > BEGIN STRING
@@ -2002,16 +2002,16 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[28]の魅力が上がった！
-> CONTEXT: Commonevents/78/8/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/80/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/78/8/Dialogue
+> CONTEXT: Commonevents/80/4/Dialogue
+\\a[\\v[105]]\\n[28]'s charm increased!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[104]]ロッコ･バロッコは\\n[27]をくすぐった！
 \\k
 > CONTEXT: Commonevents/79/5/Dialogue
-\\a[\\v[104]]Rocco-Barocco\\n[27] tickled!
+\\a[\\v[104]]Rocco-Barocco tickled \\n[27]!
 \\k
 > END STRING
 
@@ -2110,14 +2110,15 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「お行き！
 　ロッコ・バロッコ！
-> CONTEXT: Commonevents/86/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/86/2/Dialogue
+\\a[\\v[105]]「Go!
+　Rocco-Barocco!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「おまかせぇ～っ♪
-> CONTEXT: Commonevents/86/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/86/6/Dialogue
+\\a[\\v[105]]「Leave it to me～♪
 > END STRING
 
 > BEGIN STRING
@@ -2365,26 +2366,26 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「ヤってやるぜっ！
-> CONTEXT: Commonevents/101/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/101/33/Dialogue
+\\a[\\v[105]]「Let's do it!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ストゥーナのわからずや～っ！
-> CONTEXT: Commonevents/101/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/101/39/Dialogue
+\\a[\\v[105]]「You don't understand, Stona～!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「これって、誰の夢ぇ？
-> CONTEXT: Commonevents/101/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/101/45/Dialogue
+\\a[\\v[105]]「Whose dream is this?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「溶かしちゃうわよぉ～\\e[0]
-> CONTEXT: Commonevents/101/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/101/52/Dialogue
+\\a[\\v[105]]「I'll melt them～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -2411,8 +2412,9 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「行くわよ！ リズ・ラズ！
 \\w[\\v[104]]　ロッコ・バロッコ！
-> CONTEXT: Commonevents/101/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/101/74/Dialogue
+\\a[\\v[105]]「Let's go! Riz-Raz!
+\\w[\\v[104]]　Rocco-Barocco!
 > END STRING
 
 > BEGIN STRING
@@ -3450,8 +3452,9 @@ took off \\n[27]'s clothes off!
 > BEGIN STRING
 \\a[\\v[105]]「やだ…こんな……
 \\w[\\v[104]]　罰が下りますよっ！
-> CONTEXT: Commonevents/146/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/146/49/Dialogue
+\\a[\\v[105]]「What...from this...
+\\w[\\v[104]]　I'll punish you!
 > END STRING
 
 > BEGIN STRING
@@ -6113,46 +6116,48 @@ Sing a song
 
 > BEGIN STRING
 「あたしを愛してくれるんですかぁ？
-> CONTEXT: Commonevents/183/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/183/19/Dialogue
+「Will you love me?
 > END STRING
 
 > BEGIN STRING
 「あたしを愛してくれるんですかぁ？」
-> CONTEXT: Commonevents/183/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/183/21/Dialogue
+「Will you love me?」
 > END STRING
 
 > BEGIN STRING
 「神サマも愛してくれますかぁ？
-> CONTEXT: Commonevents/183/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/183/25/Dialogue
+「Do you love God too?
 > END STRING
 
 > BEGIN STRING
 「神サマも愛してくれますかぁ？」
-> CONTEXT: Commonevents/183/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/183/27/Dialogue
+「Do you love God too?」
 > END STRING
 
 > BEGIN STRING
 「それじゃあなたは、
 　あたしが守ってあげますぅ\\e[0]
-> CONTEXT: Commonevents/183/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/183/31/Dialogue
+「In that case,
+　I'll protect you\\e[0]
 > END STRING
 
 > BEGIN STRING
 「だめですよぉ、
 　愛はみんなに与えなきゃ。
-> CONTEXT: Commonevents/183/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/183/37/Dialogue
+「That's not right, 
+　you have to give love to everyone.
 > END STRING
 
 > BEGIN STRING
 「う…うぅ………
-> CONTEXT: Commonevents/183/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/183/46/Dialogue
+「U..uuu....
 > END STRING
 
 > BEGIN STRING
