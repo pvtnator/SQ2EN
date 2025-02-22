@@ -1741,20 +1741,20 @@ Aqua Cross
 > BEGIN STRING
 守りアップ
 > CONTEXT: Skills/235/description/
-Defense up
+Defense Up
 > END STRING
 
 > BEGIN STRING
 インセンス打消し+特殊インセンス付加
 > CONTEXT: Skills/236/description/ < UNTRANSLATED
 > CONTEXT: Skills/260/description/ < UNTRANSLATED
-
+Incense Cancellation + Special Incense Addition
 > END STRING
 
 > BEGIN STRING
 森の守り
 > CONTEXT: Skills/237/name/ < UNTRANSLATED
-
+Guardian of the Forest
 > END STRING
 
 > BEGIN STRING
@@ -1812,7 +1812,7 @@ Dorumba
 相手一人の気をそらす
 > CONTEXT: Skills/241/description/ < UNTRANSLATED
 > CONTEXT: Skills/703/description/ < UNTRANSLATED
-
+Distract one opponent
 > END STRING
 
 > BEGIN STRING
@@ -1862,7 +1862,7 @@ Dispel Song
 フニ系打消し
 > CONTEXT: Skills/246/description/ < UNTRANSLATED
 > CONTEXT: Skills/314/description/ < UNTRANSLATED
-
+Funi-type cancellation
 > END STRING
 
 > BEGIN STRING
@@ -4255,7 +4255,7 @@ Put all opponents in a sensitive state
 > BEGIN STRING
 バインド/7
 > CONTEXT: Skills/708/name/ < UNTRANSLATED
-
+Bind/7
 > END STRING
 
 > BEGIN STRING
@@ -4267,7 +4267,7 @@ Root
 > BEGIN STRING
 相手一人の足を拘束し逃げられなくする
 > CONTEXT: Skills/709/description/ < UNTRANSLATED
-
+Restrain legs of opponent to prevent escape
 > END STRING
 
 > BEGIN STRING

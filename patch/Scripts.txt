@@ -15151,8 +15151,8 @@
 
 > BEGIN STRING
 "清楚"
-> CONTEXT: Scripts/Game_Enemy/245:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/245:12
+"Pure"
 > END STRING
 
 > BEGIN STRING
@@ -19689,8 +19689,8 @@
 
 > BEGIN STRING
 "不思議の国"
-> CONTEXT: Scripts/Window_SaveFile/133:14 < UNTRANSLATED
-> CONTEXT: Scripts/Bookshelf/66:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_SaveFile/133:14
+> CONTEXT: Scripts/Bookshelf/66:14
 "Wonderland"
 > END STRING
 
@@ -22479,8 +22479,9 @@
 
 > BEGIN STRING
 /./
+> CONTEXT: Scripts/☆図鑑用詳細データ/25:31
+/[A-Za-z .,0-9]{3}|./
 > CONTEXT: Scripts/Window_Message/257:31 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/25:31 < UNTRANSLATED
 > CONTEXT: Commonevents/500/567/InlineScript/2:31 < UNTRANSLATED
 
 > END STRING
@@ -25478,32 +25479,32 @@
 
 > BEGIN STRING
 "** ネルトゥプの記録 **"
-> CONTEXT: Scripts/記録/86:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/86:11
+"** Neltup Records **"
 > END STRING
 
 > BEGIN STRING
 "まだ記録がありません"
-> CONTEXT: Scripts/記録/92:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/92:13
+"No records yet"
 > END STRING
 
 > BEGIN STRING
 "冒険した回数 : "
-> CONTEXT: Scripts/記録/141:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/141:16
+"Adventures: "
 > END STRING
 
 > BEGIN STRING
 "イかせた回数 : "
-> CONTEXT: Scripts/記録/143:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/143:16
+"Enemy climaxes: "
 > END STRING
 
 > BEGIN STRING
 "イかされた回数 : "
-> CONTEXT: Scripts/記録/144:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/144:16
+"Own climaxes: "
 > END STRING
 
 > BEGIN STRING
@@ -25515,8 +25516,8 @@
 
 > BEGIN STRING
 "リアリティ : "
-> CONTEXT: Scripts/記録/147:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/147:16
+"Reality: "
 > END STRING
 
 > BEGIN STRING
@@ -25527,56 +25528,56 @@
 
 > BEGIN STRING
 "最高レベルの装備 : "
-> CONTEXT: Scripts/記録/153:36 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/153:36
+"Top level gear: "
 > END STRING
 
 > BEGIN STRING
 "前回の得点 : "
-> CONTEXT: Scripts/記録/155:36 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/155:36
+"Last score: "
 > END STRING
 
 > BEGIN STRING
 "最高得点 : "
-> CONTEXT: Scripts/記録/157:36 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/157:36
+"Highest score: "
 > END STRING
 
 > BEGIN STRING
 "合計 \#{$game_variables[138].to_s} 回"
-> CONTEXT: Scripts/記録/164:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/164:16
+"Total \#{$game_variables[138].to_s}"
 > END STRING
 
 > BEGIN STRING
 "最大 \#{slay_record[0]} 回 / 最小 \#{slay_record[slay_record.size-1]} 回 / 合計 \#{slay_total} 回"
-> CONTEXT: Scripts/記録/165:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/165:16
+"Max \#{slay_record[0]} / Min \#{slay_record[slay_record.size-1]} / Total \#{slay_total}"
 > END STRING
 
 > BEGIN STRING
 "最大 \#{dead_record[0]} 回 / 最小 \#{dead_record[dead_record.size-1]} 回 / 合計 \#{dead_total} 回"
-> CONTEXT: Scripts/記録/166:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/166:16
+"Max \#{dead_record[0]} / Min \#{dead_record[dead_record.size-1]} / Total \#{dead_total}"
 > END STRING
 
 > BEGIN STRING
 "最大 Lv.\#{level_record[0]} / 最小 Lv.\#{level_record[level_record.size-1]}"
-> CONTEXT: Scripts/記録/168:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/168:16
+"Max Lv.\#{level_record[0]} / Min Lv.\#{level_record[level_record.size-1]}"
 > END STRING
 
 > BEGIN STRING
 "最大 \#{reality_record[0]}% / 最小 \#{reality_record[reality_record.size-1]}%"
-> CONTEXT: Scripts/記録/169:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/169:16
+"Max \#{reality_record[0]}% / Min \#{reality_record[reality_record.size-1]}%"
 > END STRING
 
 > BEGIN STRING
 "最大 \#{memory_record[0]} 個 / 最小 \#{memory_record[slay_record.size-1]} 個 / 合計 \#{memory_total} 個"
-> CONTEXT: Scripts/記録/170:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/170:16
+"Max \#{memory_record[0]} / Min \#{memory_record[slay_record.size-1]} / Total \#{memory_total}"
 > END STRING
 
 > BEGIN STRING
@@ -25925,17 +25926,17 @@
 
 > BEGIN STRING
 "オリジナル\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/68:14 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/106:14 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/117:14 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/129:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/68:14
+> CONTEXT: Scripts/☆図鑑用詳細データ/106:14
+> CONTEXT: Scripts/☆図鑑用詳細データ/117:14
+> CONTEXT: Scripts/☆図鑑用詳細データ/129:14
+"Original\\n"
 > END STRING
 
 > BEGIN STRING
 "ステラ・モルン\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/69:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/69:7
+"Stella Morn\\n"
 > END STRING
 
 > BEGIN STRING
@@ -26037,44 +26038,44 @@
 
 > BEGIN STRING
 "ファンタジー一般\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/96:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/96:14
+"General Fantasy\\n"
 > END STRING
 
 > BEGIN STRING
 "粘液状の身体を持つ不定形の怪物。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/97:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/97:7
+"A formless monster with a slimy body.\\n"
 > END STRING
 
 > BEGIN STRING
 "二十世紀になってから生まれた新しい怪物であり、名前も"
-> CONTEXT: Scripts/☆図鑑用詳細データ/98:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/98:7
+"A new monster from the twentieth century\\n"
 > END STRING
 
 > BEGIN STRING
 "「ねばねばぬるぬるしたもの」の意味を持つ"
-> CONTEXT: Scripts/☆図鑑用詳細データ/99:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/99:7
+""
 > END STRING
 
 > BEGIN STRING
 "英語\\"slime\\"から取られている。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/100:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/100:7
+"They have almost no intelligence, but their bodies\\n"
 > END STRING
 
 > BEGIN STRING
 "知性はほぼ持たないが、その身体は一切の打撃を受け付けず、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/101:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/101:7
+"are impervious to any blows,\\n"
 > END STRING
 
 > BEGIN STRING
 "またしばしば再生能力を持つ。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/102:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/102:7
+"and they often have the ability to regenerate."
 > END STRING
 
 > BEGIN STRING
@@ -26169,44 +26170,44 @@
 
 > BEGIN STRING
 "Dragoon. 竜騎兵。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/130:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/130:7
+"A dragon knight from the fairyland\\n"
 > END STRING
 
 > BEGIN STRING
 "ドラゴンを自在に駆る、お伽の国ラミエルの竜騎士。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/131:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/131:7
+"Ramiel who rides dragons with ease.\\n"
 > END STRING
 
 > BEGIN STRING
 "ネルトゥプ島のドラゴンは基本的にドルヌス軍に属しているため、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/132:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/132:7
+"The dragons of Neltup Island are primarily\\n"
 > END STRING
 
 > BEGIN STRING
 "人間が飼いならすには特別な才能を必要とする。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/133:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/133:7
+"Dornus military, so humans need special talent to tame them.\\n"
 > END STRING
 
 > BEGIN STRING
 "そのためか、一風変わった性格の者が多い。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/134:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/134:7
+"And so, many of them have eccentric personalities.\\n"
 > END STRING
 
 > BEGIN STRING
 "その戦闘能力は群を抜き、ラミエルの新兵たちの憧れになっている。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/135:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/135:7
+"Envied by new recruits due to her outstanding combat abilities.\\n"
 > END STRING
 
 > BEGIN STRING
 "夢魔になった今、何と戦っているのだろうか。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/136:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/136:7
+"What is she fighting now, as a succubus?"
 > END STRING
 
 > BEGIN STRING
@@ -26518,56 +26519,56 @@
 
 > BEGIN STRING
 "北欧伝承"
-> CONTEXT: Scripts/☆図鑑用詳細データ/186:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/186:12
+"Nordic Legend"
 > END STRING
 
 > BEGIN STRING
 "スウェーデンの森の精。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/187:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/187:12
+"Swedish forest spirit."
 > END STRING
 
 > BEGIN STRING
 "前面は美しい女性だが、長い髪で隠れた"
-> CONTEXT: Scripts/☆図鑑用詳細データ/188:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/188:12
+"A beautiful woman on the front, but her back,"
 > END STRING
 
 > BEGIN STRING
 "背中はうろになった樹木となっている。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/189:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/189:12
+"hidden by her long hair, is a hollow tree."
 > END STRING
 
 > BEGIN STRING
 "狩人に親切にし、その代償として"
-> CONTEXT: Scripts/☆図鑑用詳細データ/190:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/190:12
+"Treats hunters kindly and expects love in return,"
 > END STRING
 
 > BEGIN STRING
 "愛を求めるが、ほとんどの相手は"
-> CONTEXT: Scripts/☆図鑑用詳細データ/191:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/191:12
+"but most of her hunters run away"
 > END STRING
 
 > BEGIN STRING
 "背中のうろをみて逃げてしまう。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/192:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/192:12
+"when they see the hidden side of her back."
 > END STRING
 
 > BEGIN STRING
 "彼女の愛を裏切ると後で復讐される"
-> CONTEXT: Scripts/☆図鑑用詳細データ/193:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/193:12
+"It is said that if you betray her love,"
 > END STRING
 
 > BEGIN STRING
 "とも言われる。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/194:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/194:12
+"she will take revenge later."
 > END STRING
 
 > BEGIN STRING
@@ -26778,38 +26779,38 @@
 
 > BEGIN STRING
 "夢にあらわれた「不運」のイメージ。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/238:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/238:12
+"Image of bad luck in a dream."
 > END STRING
 
 > BEGIN STRING
 "リスヴェグ魔導院とエーランドの解呪士の"
-> CONTEXT: Scripts/☆図鑑用詳細データ/239:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/239:12
+"Research by the Lisveg Academy and the"
 > END STRING
 
 > BEGIN STRING
 "研究により、黒猫に呪いや不幸を与えるような"
-> CONTEXT: Scripts/☆図鑑用詳細データ/240:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/240:12
+"exorcists of Ehland has revealed that black cats"
 > END STRING
 
 > BEGIN STRING
 "特別な魔力が無いことは明らかにされているが、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/241:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/241:12
+"have no special magical powers that would cause"
 > END STRING
 
 > BEGIN STRING
 "今なおそれらのイメージを"
-> CONTEXT: Scripts/☆図鑑用詳細データ/242:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/242:12
+"curses or misfortune, but even today there are"
 > END STRING
 
 > BEGIN STRING
 "黒猫に投影する者は少なくない。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/243:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/243:12
+"still many who project these images onto black cats."
 > END STRING
 
 > BEGIN STRING
@@ -29060,8 +29061,8 @@
 
 > BEGIN STRING
 "知能派を気取っているが、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/694:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/694:12
+"she pretends to be intelligent,"
 > END STRING
 
 > BEGIN STRING

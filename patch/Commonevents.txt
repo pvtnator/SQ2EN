@@ -2347,7 +2347,7 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「お手伝いしまぁす\\e[0]
 > CONTEXT: Commonevents/101/16/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]「I'll help you\\e[0]
 > END STRING
 
 > BEGIN STRING
