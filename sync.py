@@ -22,7 +22,11 @@ def sync(files, update, txstrdir=0):
                     while(lines[i][0] == ">"):
                         i += 1
                     trans = update.get(string)
-                    if not trans:
+                    if not trans and "/" in string and "サック" in string:
+                        print(string[0:string.find("/")])
+                    if not trans and "/" in string and update.get(string[0:string.find("/")]):
+                        trans = update.get(string.split("/")[0].strip())+string[string.find("/"):]
+                    elif not trans and False:
                         for t in update.keys():
                             if string.strip() in t and len(t)-len(string) < 10:
                                 string = t
@@ -30,7 +34,7 @@ def sync(files, update, txstrdir=0):
                         trans = update.get(string)
                         if trans:
                             trans = trans.replace('"',"").replace("「","")
-                    if not trans and "/" in string and len(string)>3 and False:
+                    elif not trans and "/" in string and len(string)>3 and False:
                         for t in update.keys():
                             if t.strip() in string and len(t)>3:
                                 trans = string.replace(t.strip(), update[t].strip())
@@ -63,11 +67,11 @@ if __name__ == "__main__":
     current_dir = Path.cwd()
     translations = {}
 
-    #main_files = [current_dir / "patch" / "Scripts.txt"]
-    main_files = []
-    for file in (current_dir / "patch").rglob("*.txt"):
-        if not "Unused" in str(file):
-            main_files.append(file)
+    main_files = [current_dir / "patch" / "Scripts.txt"]
+    #main_files = []
+    #for file in (current_dir / "patch").rglob("*.txt"):
+    #    if not "Unused" in str(file):
+    #        main_files.append(file)
 
     print("===Reading current translations===")
     for translations_file in main_files:
@@ -79,7 +83,7 @@ if __name__ == "__main__":
         while i < len(lines):
             if lines[i].strip() == "> BEGIN STRING":
                 i += 1
-                string = lines[i]
+                string = lines[i].strip()
                 i += 1
                 while(lines[i][0] != ">"):
                     string += lines[i]
@@ -87,18 +91,18 @@ if __name__ == "__main__":
                 while(lines[i][0] == ">"):
                     i += 1
                 if lines[i].strip():
-                    multiline = lines[i]
+                    multiline = lines[i].strip()
                     while not lines[i+1][0]==">":
                         i+=1
                         multiline += lines[i]
                     #stripped = multiline
                     stripped = multiline.split("/")[0]+"\n" if "/" in multiline else multiline
                     string = string.split("/")[0]+"\n" if "/" in string else string
-                    #string = string.replace("\"","")
-                    #stripped = stripped.replace("\"","")
+                    string = string.replace('"','')
+                    stripped = stripped.replace('"','')
                     #string = string.replace("\\\\", "\\")
                     #stripped = stripped.replace("\\\\", "\\")
-                    if "バンシー" in string:
+                    if "サック" in string:
                         print(string)
                         print(stripped)
                     translations[string] = stripped
@@ -111,7 +115,7 @@ if __name__ == "__main__":
     print("===Updating mod translations===")
     #main_files = [current_dir / "patch" / "Scripts.txt"]
     #main_files = [current_dir / "patch" / "States.txt"]
-    main_files = [current_dir / "patch" / "Items.txt", current_dir / "patch" / "Scripts.txt"]
+    main_files = [current_dir / "patch" / "States.txt", current_dir / "patch" / "Skills.txt"]
     #for file in (current_dir / "patch").rglob("*.txt"):
     #    main_files.append(file)
         

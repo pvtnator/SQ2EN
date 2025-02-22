@@ -3768,7 +3768,7 @@ Journey to Heaven
 徹底調査/0/0/0/0
 > CONTEXT: Skills/601/name/ < UNTRANSLATED
 > CONTEXT: Skills/602/name/ < UNTRANSLATED
-
+Thorough Analysis/0/0/0/0
 > END STRING
 
 > BEGIN STRING
@@ -3791,33 +3791,33 @@ Journey to Heaven
 ダブルキッス/0/0/0/0
 > CONTEXT: Skills/603/name/ < UNTRANSLATED
 > CONTEXT: Skills/604/name/ < UNTRANSLATED
-
+Double Kiss/0/0/0/0
 > END STRING
 
 > BEGIN STRING
 ハードピストン
 > CONTEXT: Skills/605/name/ < UNTRANSLATED
 > CONTEXT: Skills/606/name/ < UNTRANSLATED
-
+Hard Piston
 > END STRING
 
 > BEGIN STRING
 ドレインキッス
 > CONTEXT: Skills/607/name/ < UNTRANSLATED
 > CONTEXT: Skills/608/name/ < UNTRANSLATED
-
+Drain Kiss
 > END STRING
 
 > BEGIN STRING
 テンタクルラッシュ
 > CONTEXT: Skills/609/name/ < UNTRANSLATED
-
+Tentacle Rush
 > END STRING
 
 > BEGIN STRING
 テンタクルラッシュ/0/0/3
 > CONTEXT: Skills/610/name/ < UNTRANSLATED
-
+Tentacle Rush/0/0/3
 > END STRING
 
 > BEGIN STRING
@@ -3836,7 +3836,7 @@ Triple Piston/0/0/2
 ファシネイション
 > CONTEXT: Skills/613/name/ < UNTRANSLATED
 > CONTEXT: Skills/614/name/ < UNTRANSLATED
-
+Fascination
 > END STRING
 
 > BEGIN STRING
@@ -4207,7 +4207,7 @@ Far-Ristil
 > BEGIN STRING
 ドルンバ/3
 > CONTEXT: Skills/703/name/ < UNTRANSLATED
-
+Dorumba/3
 > END STRING
 
 > BEGIN STRING
@@ -4273,7 +4273,7 @@ Restrain legs of opponent to prevent escape
 > BEGIN STRING
 クワイエト
 > CONTEXT: Skills/710/name/ < UNTRANSLATED
-
+Quiet
 > END STRING
 
 > BEGIN STRING
@@ -4285,7 +4285,7 @@ Prevents all opponents from using magic
 > BEGIN STRING
 サック/5
 > CONTEXT: Skills/711/name/ < UNTRANSLATED
-
+Suck/5
 > END STRING
 
 > BEGIN STRING

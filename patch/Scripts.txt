@@ -4962,7 +4962,7 @@
 > CONTEXT: Scripts/RPG::State (message)/53:26 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/329:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/623:21 < UNTRANSLATED
-
+"Hard Piston"
 > END STRING
 
 > BEGIN STRING
@@ -12766,7 +12766,7 @@
 > BEGIN STRING
 "\#{username}は\#{myname}を斬り裂いた！"
 > CONTEXT: Scripts/RPG::State (message)/702:17
-"\#{username} slashed \#{myname}!"
+"\#{username} tore \#{myname} apart!"
 > END STRING
 
 > BEGIN STRING
@@ -16409,7 +16409,7 @@
 > CONTEXT: Scripts/RPG::Skill (message)/188:20 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/194:20 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/331:20 < UNTRANSLATED
-
+"\#{myname} made Ayxect\\n\\\\w[\\\\v[104]]as hard as stone!"
 > END STRING
 
 > BEGIN STRING
@@ -17059,13 +17059,13 @@
 "徹底調査"
 > CONTEXT: Scripts/RPG::Skill (message)/315:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/613:21 < UNTRANSLATED
-
+"Thorough Analysis"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}たちは\#{target}を\\n\\\\w[\\\\v[104]]徹底的に調べあげた！\\n\\n\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/317:20 < UNTRANSLATED
-
+"\#{myname} analyzed \#{target}\\n\\\\w[\\\\v[104]]together in a team!\\n\\n\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -17097,7 +17097,7 @@
 > BEGIN STRING
 "\#{myname}は\#{target}のことを調べた！"
 > CONTEXT: Scripts/RPG::Skill (message)/318:20 < UNTRANSLATED
-
+"\#{myname} analyzed \#{target}!"
 > END STRING
 
 > BEGIN STRING
@@ -17115,7 +17115,7 @@
 > BEGIN STRING
 "\#{target}の弱点を\\n\\\\w[\\\\v[104]]さらに詳しく調べた！"
 > CONTEXT: Scripts/RPG::Skill (message)/320:26 < UNTRANSLATED
-
+" analyzed \#{target}\\n\\\\w[\\\\v[104]]in more detail!"
 > END STRING
 
 > BEGIN STRING
@@ -17141,7 +17141,7 @@
 "ダブルキッス"
 > CONTEXT: Scripts/RPG::Skill (message)/322:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/618:21 < UNTRANSLATED
-
+"Double Kiss"
 > END STRING
 
 > BEGIN STRING
@@ -17153,7 +17153,7 @@
 > BEGIN STRING
 "\#{myname}たちは\#{target}に絡みつき、\\n\\\\w[\\\\v[104]]交互にキスで攻めた！\\n\\n\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/324:20 < UNTRANSLATED
-
+"\#{myname}'s party entwined with \#{target},\\n\\\\w[\\\\v[104]]and took turns kissing!\\n\\n\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -17197,7 +17197,7 @@
 > BEGIN STRING
 "\#{myname}の優しい口づけ！"
 > CONTEXT: Scripts/RPG::Skill (message)/327:20 < UNTRANSLATED
-
+"\#{myname}'s sweet kiss!"
 > END STRING
 
 > BEGIN STRING
@@ -17242,13 +17242,13 @@
 "ドレインキッス"
 > CONTEXT: Scripts/RPG::Skill (message)/335:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/628:21 < UNTRANSLATED
-
+"Drain Kiss"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}はサックを唱えた！\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/337:20 < UNTRANSLATED
-
+"\#{myname} cast Suck!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -17260,7 +17260,7 @@
 > BEGIN STRING
 "アイゼクトの唇に魔力が宿る！"
 > CONTEXT: Scripts/RPG::Skill (message)/338:20 < UNTRANSLATED
-
+"Ayxect's lips are enchanted with magic!"
 > END STRING
 
 > BEGIN STRING
@@ -17272,7 +17272,7 @@
 > BEGIN STRING
 "\#{myname}は\#{target}の\\n\\\\w[\\\\v[104]]首筋に口づけし、精気を奪った！"
 > CONTEXT: Scripts/RPG::Skill (message)/340:20 < UNTRANSLATED
-
+"\#{myname} kissed \#{target}'s neck\\n\\\\w[\\\\v[104]]and stole life!"
 > END STRING
 
 > BEGIN STRING
@@ -17291,13 +17291,13 @@
 "テンタクルラッシュ"
 > CONTEXT: Scripts/RPG::Skill (message)/342:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/633:21 < UNTRANSLATED
-
+"Tentacle Rush"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}はテンタクを唱えた！\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/344:20 < UNTRANSLATED
-
+"\#{myname} cast Tentacle!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -17315,7 +17315,7 @@
 > BEGIN STRING
 "アイゼクトの手から無数の触手が現れる！"
 > CONTEXT: Scripts/RPG::Skill (message)/345:20 < UNTRANSLATED
-
+"Countless tentacles emerge from Ayxect's hands!"
 > END STRING
 
 > BEGIN STRING
@@ -17327,7 +17327,7 @@
 > BEGIN STRING
 "\#{myname}は\#{target}の全身を\\n\\\\w[\\\\v[104]]無数の触手で攻めた！"
 > CONTEXT: Scripts/RPG::Skill (message)/347:20 < UNTRANSLATED
-
+"\#{myname} attacked \#{target}'s \\n\\\\w[\\\\v[104]]entire body with countless tentacles!"
 > END STRING
 
 > BEGIN STRING
@@ -17340,44 +17340,44 @@
 > BEGIN STRING
 "\#{myname}は\#{target}の\\n\\\\w[\\\\v[104]]"
 > CONTEXT: Scripts/RPG::Skill (message)/351:20 < UNTRANSLATED
-
+"\#{myname} poked \#{target}'s\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "空いてる箇所を突いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/352:20 < UNTRANSLATED
-
+"empty hole!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は腰を振っている！"
 > CONTEXT: Scripts/RPG::Skill (message)/354:20 < UNTRANSLATED
-
+"\#{myname} is shaking hips!"
 > END STRING
 
 > BEGIN STRING
 "ファシネイション"
 > CONTEXT: Scripts/RPG::Skill (message)/356:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/643:21 < UNTRANSLATED
-
+"Fascination"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は愛の旋律を響かせた！\\\\w[\\\\v[104]]　"
 > CONTEXT: Scripts/RPG::Skill (message)/358:20 < UNTRANSLATED
-
+"\#{myname} sang the melody of love!\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は『君をとりこに』と願った！\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/360:20 < UNTRANSLATED
-
+"\#{myname} wished to Captivate!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
 "願いが曲に乗ってあたりに満ちる！"
 > CONTEXT: Scripts/RPG::Skill (message)/361:20 < UNTRANSLATED
-
+"The music fills the air with wishes!"
 > END STRING
 
 > BEGIN STRING
@@ -17389,13 +17389,13 @@
 > BEGIN STRING
 "しかし、ラルスの持つ魔王の力が夢の侵入を拒んでいる！\\n\\\\w[\\\\v[104]]"
 > CONTEXT: Scripts/RPG::Skill (message)/366:19 < UNTRANSLATED
-
+"But Lars' Demon Lord power blocks the dream!\n\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}はこれ以上\\n\\\\n[1]の夢に入れなかった！"
 > CONTEXT: Scripts/RPG::Skill (message)/367:19 < UNTRANSLATED
-
+"\#{myname} could not enter into\\n\\\\n[1]'s dream any more!"
 > END STRING
 
 > BEGIN STRING
