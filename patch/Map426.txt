@@ -511,21 +511,24 @@ Deposit/Withdraw Items
 「入り口に、たまにお客さんが
 　いらっしゃってるみたいですよ。
 > CONTEXT: Map426/events/13/pages/0/83/Dialogue < UNTRANSLATED
-
+「It seems like there are 
+　occasional visitors at the entrance.
 > END STRING
 
 > BEGIN STRING
 「この、\\c[3]エストの部屋\\c[0]……
 　なんだかとても不安な気持ちになります。
 > CONTEXT: Map426/events/13/pages/0/89/Dialogue < UNTRANSLATED
-
+「This \\c[3]Est's Room\\c[0]... 
+　I'm feeling very uneasy.
 > END STRING
 
 > BEGIN STRING
 「アイゼクト様、行くなら準備を整えて……
 　……とても気をつけてくださいね。
 > CONTEXT: Map426/events/13/pages/0/91/Dialogue < UNTRANSLATED
-
+「Mr. Ayxect, if you intend to go...
+　...Be very careful.
 > END STRING
 
 > BEGIN STRING

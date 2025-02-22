@@ -1856,9 +1856,9 @@ Level-Up Bonus (Charm)
 
 > BEGIN STRING
 願いの空洞
-> CONTEXT: States/411/name/ < UNTRANSLATED
-> CONTEXT: Skills/425/name/ < UNTRANSLATED
-
+> CONTEXT: States/411/name/
+> CONTEXT: Skills/425/name/
+Void of Wishes
 > END STRING
 
 > BEGIN STRING

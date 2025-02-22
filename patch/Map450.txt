@@ -1,15 +1,16 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「うむ……？
-> CONTEXT: Map450/events/6/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map450/events/6/pages/0/5/Dialogue
+「Hm...?
 > END STRING
 
 > BEGIN STRING
 「…この森は………
 　たしか…………
-> CONTEXT: Map450/events/6/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map450/events/6/pages/0/6/Dialogue
+「...This forest.....
+　I'm sure.....
 > END STRING
 
 > BEGIN STRING
@@ -23,8 +24,9 @@
 > BEGIN STRING
 「いいの？
 　こんなところまで来ちゃって。
-> CONTEXT: Map450/events/6/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map450/events/6/pages/0/9/Dialogue
+「You okay?
+　You've come all the way here.
 > END STRING
 
 > BEGIN STRING
@@ -36,42 +38,47 @@
 > BEGIN STRING
 「いいのさ、僕の仕事なんて
 　そんな大したものじゃないし。
-> CONTEXT: Map450/events/6/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map450/events/6/pages/0/67/Dialogue
+「I'm okay, my job isn't 
+　that big of a deal.
 > END STRING
 
 > BEGIN STRING
 「古い本の置き場所をちょっと変えたり、
 　たまに虫干ししたりしてるだけだよ。
 　ただ、僕も最近ずっとそんな部屋にいたから
-> CONTEXT: Map450/events/6/pages/0/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map450/events/6/pages/0/69/Dialogue
+「I just change the placement of old books 
+　and air them out every now and then. 
+　I've been in a room like that a lot lately,
 > END STRING
 
 > BEGIN STRING
 「虫に喰われてなければいいんだけど。
 　今日はサフィを連れ出せてよかった。
-> CONTEXT: Map450/events/6/pages/0/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map450/events/6/pages/0/72/Dialogue
+「So I hope I haven't been eaten by insects.
+　I'm glad I could take you out today, Thafi.
 > END STRING
 
 > BEGIN STRING
 「うれしいわ。
 　誘ってくれて。
-> CONTEXT: Map450/events/6/pages/0/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map450/events/6/pages/0/75/Dialogue
+「I'm happy.
+　Thank you for inviting me.
 > END STRING
 
 > BEGIN STRING
 「ほんとに？
-> CONTEXT: Map450/events/6/pages/0/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map450/events/6/pages/0/78/Dialogue
+「Really?
 > END STRING
 
 > BEGIN STRING
 「ほんとよ。
-> CONTEXT: Map450/events/6/pages/0/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map450/events/6/pages/0/80/Dialogue
+「Really.
 > END STRING
 
 > BEGIN STRING

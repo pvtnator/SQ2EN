@@ -829,26 +829,26 @@ Anjos Sea Map
 
 > BEGIN STRING
 不思議の地図
-> CONTEXT: Items/109/name/ < UNTRANSLATED
-
+> CONTEXT: Items/109/name/
+Mysterious Map
 > END STRING
 
 > BEGIN STRING
 〔地図帳〕 見たことも無い地形が広がる奇妙な地図
-> CONTEXT: Items/109/description/ < UNTRANSLATED
-
+> CONTEXT: Items/109/description/
+[Map] A strange map with a never-before-seen topography
 > END STRING
 
 > BEGIN STRING
 理想郷への地図
-> CONTEXT: Items/110/name/ < UNTRANSLATED
-
+> CONTEXT: Items/110/name/
+Utopia Map
 > END STRING
 
 > BEGIN STRING
 〔地図帳〕 理想郷クヴァラットへ続く道を示したという地図
-> CONTEXT: Items/110/description/ < UNTRANSLATED
-
+> CONTEXT: Items/110/description/
+[Map] A map showing the road to the utopia of Kvalatte
 > END STRING
 
 > BEGIN STRING
@@ -981,14 +981,14 @@ Forest Memory
 
 > BEGIN STRING
 妖精詩学史
-> CONTEXT: Items/126/name/ < UNTRANSLATED
-
+> CONTEXT: Items/126/name/
+Fairy Poetry History
 > END STRING
 
 > BEGIN STRING
 〔史書〕 詩人と妖精の歴史を綴った本
-> CONTEXT: Items/126/description/ < UNTRANSLATED
-
+> CONTEXT: Items/126/description/
+[History] A book about the history of poets and fairies.
 > END STRING
 
 > BEGIN STRING
@@ -1005,26 +1005,26 @@ Forest Memory
 
 > BEGIN STRING
 執行人の日誌
-> CONTEXT: Items/128/name/ < UNTRANSLATED
-
+> CONTEXT: Items/128/name/
+Executioner's Journal
 > END STRING
 
 > BEGIN STRING
 〔史書〕 ある死刑執行人の綴った日誌
-> CONTEXT: Items/128/description/ < UNTRANSLATED
-
+> CONTEXT: Items/128/description/
+[History] An Executioner's Journal
 > END STRING
 
 > BEGIN STRING
 フォレ・ヒストリエ
-> CONTEXT: Items/129/name/ < UNTRANSLATED
-
+> CONTEXT: Items/129/name/
+Foret Historié
 > END STRING
 
 > BEGIN STRING
 〔史書〕 騎士と森の精のロマンスを綴った本
-> CONTEXT: Items/129/description/ < UNTRANSLATED
-
+> CONTEXT: Items/129/description/
+[History] Romance between a knight and a forest spirit.
 > END STRING
 
 > BEGIN STRING
@@ -1386,21 +1386,21 @@ Reading Diary
 
 > BEGIN STRING
 白兎冒険記Ⅰ
-> CONTEXT: Items/164/name/ < UNTRANSLATED
-
+> CONTEXT: Items/164/name/
+White Rabbit Adventure 1
 > END STRING
 
 > BEGIN STRING
 〔史書〕 不思議の国に迷い込んだ少女の物語
-> CONTEXT: Items/164/description/ < UNTRANSLATED
-> CONTEXT: Items/165/description/ < UNTRANSLATED
-
+> CONTEXT: Items/164/description/
+> CONTEXT: Items/165/description/
+[History] The story of a girl lost in a wonderland
 > END STRING
 
 > BEGIN STRING
 白兎冒険記Ⅱ
-> CONTEXT: Items/165/name/ < UNTRANSLATED
-
+> CONTEXT: Items/165/name/
+White Rabbit Adventure 2
 > END STRING
 
 > BEGIN STRING

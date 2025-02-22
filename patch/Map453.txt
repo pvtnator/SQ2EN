@@ -1,87 +1,94 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「どうしたの？
-> CONTEXT: Map453/events/3/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/27/Dialogue
+「What's wrong?
 > END STRING
 
 > BEGIN STRING
 「ずいぶん奥まで来たわ。
-> CONTEXT: Map453/events/3/pages/0/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/29/Dialogue
+「We've gone a long way.
 > END STRING
 
 > BEGIN STRING
 「この先に、花畑があるんだ。
-> CONTEXT: Map453/events/3/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/31/Dialogue
+「There's a flower garden ahead.
 > END STRING
 
 > BEGIN STRING
 「とてもきれいだよ。
 　サフィもきっと…
-> CONTEXT: Map453/events/3/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/32/Dialogue
+「It's really pretty.
+　I'm sure you'll...
 > END STRING
 
 > BEGIN STRING
 「でも、もう遅いわよ。
 　帰る頃には暗くなっちゃう。
-> CONTEXT: Map453/events/3/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/35/Dialogue
+「But it's late now. 
+　It'll be dark by the time we head back.
 > END STRING
 
 > BEGIN STRING
 「ん……でも………
-> CONTEXT: Map453/events/3/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/38/Dialogue
+「Yeah...but....
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、
 　また追いかけっこしようか？
-> CONTEXT: Map453/events/3/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/40/Dialogue
+「\\n[1],
+　Wanna play tag again?
 > END STRING
 
 > BEGIN STRING
 「え、あっ…
-> CONTEXT: Map453/events/3/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/53/Dialogue
+「Eh, well...
 > END STRING
 
 > BEGIN STRING
 「つかまえて。
 　一緒に帰りましょ。
-> CONTEXT: Map453/events/3/pages/0/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/57/Dialogue
+「Catch me. 
+　Let's go home together.
 > END STRING
 
 > BEGIN STRING
 「暗く…なっても………
-> CONTEXT: Map453/events/3/pages/0/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/98/Dialogue
+「Even if it gets dark....
 > END STRING
 
 > BEGIN STRING
 「ふふ。
-> CONTEXT: Map453/events/3/pages/0/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/119/Dialogue
+「Hehe.
 > END STRING
 
 > BEGIN STRING
 「ふふ、うふふふ、あふ、
 　あふぁふぁはっひゃっひゃははは
-> CONTEXT: Map453/events/3/pages/0/120/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/120/Dialogue
+「Hehe, ehehehe, aha,
+　ahhahhahhihhihhaha
 > END STRING
 
 > BEGIN STRING
 「はひゃははははははははは、
 　はは、あふ、ふへふぁはっひゃひゃは、
 　は、ひゃはははははっはっは
-> CONTEXT: Map453/events/3/pages/0/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/122/Dialogue
+「Hahihahahahahaha,
+　Haha, aha, ahehehahihiha,
+　ha, hyahahahahhahhah
 > END STRING
 
 > BEGIN STRING
@@ -94,14 +101,17 @@
 > BEGIN STRING
 「カワイソウ。
 　カワイソウナ、オジイチャン。
-> CONTEXT: Map453/events/3/pages/0/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/137/Dialogue
+「Poor thing.
+　Poor grandpa.
 > END STRING
 
 > BEGIN STRING
 「ネエモット、
 　タノシイユメ、
 　ミナイ？
-> CONTEXT: Map453/events/3/pages/0/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map453/events/3/pages/0/139/Dialogue
+「Hey,
+　got any more
+　pleasant dreams?
 > END STRING

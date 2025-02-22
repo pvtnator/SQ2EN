@@ -3278,12 +3278,12 @@ Summersolstice Magic
 
 > BEGIN STRING
 にゃお～ん
-> CONTEXT: Skills/431/name/ < UNTRANSLATED
-> CONTEXT: Skills/432/name/ < UNTRANSLATED
-> CONTEXT: Skills/433/name/ < UNTRANSLATED
-> CONTEXT: Skills/434/name/ < UNTRANSLATED
-> CONTEXT: Skills/435/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/431/name/
+> CONTEXT: Skills/432/name/
+> CONTEXT: Skills/433/name/
+> CONTEXT: Skills/434/name/
+> CONTEXT: Skills/435/name/
+Nya～h
 > END STRING
 
 > BEGIN STRING
