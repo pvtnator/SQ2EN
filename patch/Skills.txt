@@ -245,37 +245,37 @@ Stop other movements
 > BEGIN STRING
 時よ戻れ
 > CONTEXT: Skills/33/name/ < UNTRANSLATED
-
+Turn Back Time
 > END STRING
 
 > BEGIN STRING
 リアリティ以外の全ての状態を巻き戻す
 > CONTEXT: Skills/33/description/ < UNTRANSLATED
-
+Rewind all states except reality
 > END STRING
 
 > BEGIN STRING
 夢よ覚めろ
 > CONTEXT: Skills/37/name/ < UNTRANSLATED
-
+Wake from Dream
 > END STRING
 
 > BEGIN STRING
 夢から覚める
 > CONTEXT: Skills/37/description/ < UNTRANSLATED
-
+Wake up from the dream
 > END STRING
 
 > BEGIN STRING
 夢よ覚めるな
 > CONTEXT: Skills/38/name/ < UNTRANSLATED
-
+Stay in Dream
 > END STRING
 
 > BEGIN STRING
 夢から覚めない
 > CONTEXT: Skills/38/description/ < UNTRANSLATED
-
+Do not wake up from the dream
 > END STRING
 
 > BEGIN STRING
@@ -1546,7 +1546,7 @@ Summon the succubus Stella
 > BEGIN STRING
 グラインド
 > CONTEXT: Skills/211/name/ < UNTRANSLATED
-
+Grind
 > END STRING
 
 > BEGIN STRING
@@ -1643,7 +1643,7 @@ Divest Flame
 > BEGIN STRING
 リジェネレイト
 > CONTEXT: Skills/225/name/ < UNTRANSLATED
-
+Regenerate
 > END STRING
 
 > BEGIN STRING
@@ -1661,7 +1661,7 @@ Divest Flame
 > BEGIN STRING
 プロフェシー/6
 > CONTEXT: Skills/227/name/ < UNTRANSLATED
-
+Prophecy/6
 > END STRING
 
 > BEGIN STRING
@@ -1673,7 +1673,7 @@ Divest Flame
 > BEGIN STRING
 パワーバインド
 > CONTEXT: Skills/228/name/ < UNTRANSLATED
-
+Power Bind
 > END STRING
 
 > BEGIN STRING
@@ -1702,7 +1702,7 @@ Petra Eyes
 > BEGIN STRING
 視線 / 中確率全身バインド
 > CONTEXT: Skills/232/description/ < UNTRANSLATED
-
+Sight / Medium Chance Full Body Bind
 > END STRING
 
 > BEGIN STRING
@@ -1721,7 +1721,7 @@ Melty Kiss
 > BEGIN STRING
 イヴィルアイズ
 > CONTEXT: Skills/234/name/ < UNTRANSLATED
-
+Evil Eyes
 > END STRING
 
 > BEGIN STRING
@@ -1766,7 +1766,7 @@ EP回復+精神力回復
 > BEGIN STRING
 センシャルエレクト
 > CONTEXT: Skills/238/name/ < UNTRANSLATED
-
+Sensual Erect
 > END STRING
 
 > BEGIN STRING
@@ -2144,7 +2144,7 @@ Song of Peace
 > BEGIN STRING
 高笑い
 > CONTEXT: Skills/278/name/ < UNTRANSLATED
-
+Laughter
 > END STRING
 
 > BEGIN STRING
@@ -2316,7 +2316,7 @@ Arsgun
 > BEGIN STRING
 ファル・アルスグン
 > CONTEXT: Skills/307/name/ < UNTRANSLATED
-
+Far-Arsgun
 > END STRING
 
 > BEGIN STRING
@@ -2328,7 +2328,7 @@ Hold
 > BEGIN STRING
 全身バインド
 > CONTEXT: Skills/308/description/ < UNTRANSLATED
-
+Full Body Bind
 > END STRING
 
 > BEGIN STRING
@@ -2363,7 +2363,7 @@ Feeble
 EP回復(個別)
 > CONTEXT: Skills/315/description/ < UNTRANSLATED
 > CONTEXT: Skills/447/description/ < UNTRANSLATED
-
+EP recovery (Single)
 > END STRING
 
 > BEGIN STRING
@@ -2375,7 +2375,7 @@ Far-Rogin
 > BEGIN STRING
 EP回復(全体)
 > CONTEXT: Skills/316/description/ < UNTRANSLATED
-
+EP recovery (All)
 > END STRING
 
 > BEGIN STRING
@@ -2393,7 +2393,7 @@ Hapapi
 > BEGIN STRING
 中確率混乱
 > CONTEXT: Skills/318/description/ < UNTRANSLATED
-
+Medium chance of confusion
 > END STRING
 
 > BEGIN STRING
@@ -2502,7 +2502,7 @@ Ars-Rogin
 > BEGIN STRING
 冷ややかに見つめる
 > CONTEXT: Skills/331/name/ < UNTRANSLATED
-
+Cold Stare
 > END STRING
 
 > BEGIN STRING
@@ -2514,26 +2514,26 @@ Windweb
 > BEGIN STRING
 ムーンリットダンス
 > CONTEXT: Skills/333/name/ < UNTRANSLATED
-
+Moonlit Dance
 > END STRING
 
 > BEGIN STRING
 浄化の炎
 > CONTEXT: Skills/334/name/ < UNTRANSLATED
-
+Purifying Flame
 > END STRING
 
 > BEGIN STRING
 バッドステート治療
 > CONTEXT: Skills/334/description/ < UNTRANSLATED
 > CONTEXT: Skills/349/description/ < UNTRANSLATED
-
+Bad state cancellation
 > END STRING
 
 > BEGIN STRING
 怨みの炎
 > CONTEXT: Skills/335/name/ < UNTRANSLATED
-
+Flames of Hatred
 > END STRING
 
 > BEGIN STRING
@@ -2543,7 +2543,7 @@ Windweb
 > CONTEXT: Skills/355/description/ < UNTRANSLATED
 > CONTEXT: Skills/436/description/ < UNTRANSLATED
 > CONTEXT: Skills/467/description/ < UNTRANSLATED
-
+Good state cancellation
 > END STRING
 
 > BEGIN STRING
@@ -2555,7 +2555,7 @@ Sexy Pose
 > BEGIN STRING
 中確率暴走
 > CONTEXT: Skills/336/description/ < UNTRANSLATED
-
+Medium probability of berserk
 > END STRING
 
 > BEGIN STRING
@@ -2689,7 +2689,7 @@ Gently Weep
 > CONTEXT: Skills/357/description/ < UNTRANSLATED
 > CONTEXT: Skills/430/description/ < UNTRANSLATED
 > CONTEXT: Skills/433/description/ < UNTRANSLATED
-
+Tension Down
 > END STRING
 
 > BEGIN STRING
@@ -4038,7 +4038,7 @@ Fox arrival
 > BEGIN STRING
 オモチャになっちゃえ
 > CONTEXT: Skills/675/name/ < UNTRANSLATED
-
+Turn to Toy
 > END STRING
 
 > BEGIN STRING
@@ -4555,37 +4555,37 @@ Increase all attributes a lot for 3 times larger Reality cost
 > BEGIN STRING
 オモチャになっちゃえ/3
 > CONTEXT: Skills/746/name/ < UNTRANSLATED
-
+Turn to Toy/3
 > END STRING
 
 > BEGIN STRING
 相手一人をアイテムに変える
 > CONTEXT: Skills/746/description/ < UNTRANSLATED
-
+Transform one opponent into an item
 > END STRING
 
 > BEGIN STRING
 ウル・ブースト/6/0/0/3
 > CONTEXT: Skills/750/name/ < UNTRANSLATED
-
+Ur-Boost/6/0/0/3
 > END STRING
 
 > BEGIN STRING
 1ターンだけ精力大幅アップ
 > CONTEXT: Skills/750/description/ < UNTRANSLATED
-
+Greatly increase energy for 1 turn
 > END STRING
 
 > BEGIN STRING
 ラグ・ブースト/6/0/0/3
 > CONTEXT: Skills/751/name/ < UNTRANSLATED
-
+Ragu-Boost/6/0/0/3
 > END STRING
 
 > BEGIN STRING
 1ターンだけ技巧大幅アップ
 > CONTEXT: Skills/751/description/ < UNTRANSLATED
-
+Greatly increase skill for 1 turn
 > END STRING
 
 > BEGIN STRING

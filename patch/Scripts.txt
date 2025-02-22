@@ -14896,7 +14896,7 @@
 "オモチャになっちゃえ"
 > CONTEXT: Scripts/Game_Battler 3-1/62:23 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/451:12 < UNTRANSLATED
-
+"Turn to Toy"
 > END STRING
 
 > BEGIN STRING
@@ -14943,7 +14943,7 @@
 "時よ戻れ"
 > CONTEXT: Scripts/Game_Battler 3-1/71:19 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler 3-1/78:49 < UNTRANSLATED
-
+"Turn Back Time"
 > END STRING
 
 > BEGIN STRING
@@ -17985,13 +17985,13 @@
 > BEGIN STRING
 "リジェネレイト"
 > CONTEXT: Scripts/RPG::Skill (message)/445:12 < UNTRANSLATED
-
+"Regenerate"
 > END STRING
 
 > BEGIN STRING
 "ここでは使えない！"
 > CONTEXT: Scripts/Game_Party/570:26 < UNTRANSLATED
-
+"It doesn't work here!"
 > END STRING
 
 > BEGIN STRING
@@ -18047,7 +18047,7 @@
 > BEGIN STRING
 "パワーバインド"
 > CONTEXT: Scripts/RPG::Skill (message)/455:12 < UNTRANSLATED
-
+"Power Bind"
 > END STRING
 
 > BEGIN STRING
@@ -18121,7 +18121,7 @@
 > BEGIN STRING
 "プロフェシー"
 > CONTEXT: Scripts/RPG::Skill (message)/458:12 < UNTRANSLATED
-
+"Prophecy"
 > END STRING
 
 > BEGIN STRING
@@ -19082,7 +19082,7 @@
 > BEGIN STRING
 "\#{myname}は怨みの炎を吐いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/819:18
-"\#{myname} spat flames of hatred!"
+"\#{myname} breathed out Flames of Hatred!"
 > END STRING
 
 > BEGIN STRING

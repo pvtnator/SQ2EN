@@ -5,6 +5,7 @@
 > CONTEXT: Map479/events/3/pages/0/21/Dialogue < UNTRANSLATED
 > CONTEXT: Map479/events/6/pages/0/21/Dialogue < UNTRANSLATED
 
+\\i[300]\\c[4]Stay in Dream\\c[0] can now be wished for
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +13,7 @@
 \\i[300]\\c[4]夢よ覚めろ\\c[0] と願えるようになった！
 > CONTEXT: Map479/events/3/pages/0/26/Dialogue < UNTRANSLATED
 > CONTEXT: Map479/events/6/pages/0/26/Dialogue < UNTRANSLATED
-
+\\i[300]\\c[4]Wake from Dream\\c[0] can now be wished for
 > END STRING
 
 > BEGIN STRING
