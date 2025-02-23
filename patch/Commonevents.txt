@@ -2346,7 +2346,7 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「お手伝いしまぁす\\e[0]
-> CONTEXT: Commonevents/101/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/101/16/Dialogue
 \\a[\\v[105]]「I'll help you\\e[0]
 > END STRING
 
@@ -7246,8 +7246,9 @@ slightly moved \\n[27]'s heart!
 > BEGIN STRING
 \\a[\\v[105]]神の怒りで願いがかき消されてしまった！
 \\w[\\v[105]]これ以上願いは叶わない！
-> CONTEXT: Commonevents/231/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/231/1/Dialogue
+\\a[\\v[105]]The wish was wiped out by God's Wrath!
+\\w[\\v[105]]No more wishes will be granted!
 > END STRING
 
 > BEGIN STRING

@@ -166,9 +166,9 @@
 
 > BEGIN STRING
 パニック
-> CONTEXT: States/28/name/ < UNTRANSLATED
-> CONTEXT: Skills/465/description/ < UNTRANSLATED
-
+> CONTEXT: States/28/name/
+> CONTEXT: Skills/465/description/
+Panic
 > END STRING
 
 > BEGIN STRING
@@ -1542,14 +1542,14 @@ One with the Dream/130/100/100
 
 > BEGIN STRING
 リスティル/130/100/100
-> CONTEXT: States/290/name/ < UNTRANSLATED
-
+> CONTEXT: States/290/name/
+Ristil/130/100/100
 > END STRING
 
 > BEGIN STRING
 ファル・リスティル/150/100/100
-> CONTEXT: States/291/name/ < UNTRANSLATED
-
+> CONTEXT: States/291/name/
+Far-Ristil/150/100/100
 > END STRING
 
 > BEGIN STRING
@@ -1567,9 +1567,9 @@ Forcible
 
 > BEGIN STRING
 プレジャー
-> CONTEXT: States/294/name/ < UNTRANSLATED
-> CONTEXT: Skills/696/name/ < UNTRANSLATED
-
+> CONTEXT: States/294/name/
+> CONTEXT: Skills/696/name/
+Pleasure
 > END STRING
 
 > BEGIN STRING
@@ -1670,39 +1670,39 @@ Forcible
 
 > BEGIN STRING
 ヴァニティ/100/100/100
-> CONTEXT: States/315/name/ < UNTRANSLATED
-
+> CONTEXT: States/315/name/
+Vanity/100/100/100
 > END STRING
 
 > BEGIN STRING
 グリード/100/100/100
-> CONTEXT: States/316/name/ < UNTRANSLATED
-
+> CONTEXT: States/316/name/
+Greed/100/100/100
 > END STRING
 
 > BEGIN STRING
 ラスト/100/100/100
-> CONTEXT: States/317/name/ < UNTRANSLATED
-
+> CONTEXT: States/317/name/
+Lust/100/100/100
 > END STRING
 
 > BEGIN STRING
 エンヴィ/100/100/100
-> CONTEXT: States/318/name/ < UNTRANSLATED
-
+> CONTEXT: States/318/name/
+Envy/100/100/100
 > END STRING
 
 > BEGIN STRING
 スロス/100/100/100
-> CONTEXT: States/319/name/ < UNTRANSLATED
-
+> CONTEXT: States/319/name/
+Sloth/100/100/100
 > END STRING
 
 > BEGIN STRING
 スティルイアーズ
-> CONTEXT: States/324/name/ < UNTRANSLATED
-> CONTEXT: Skills/139/name/ < UNTRANSLATED
-
+> CONTEXT: States/324/name/
+> CONTEXT: Skills/139/name/
+Still Ears
 > END STRING
 
 > BEGIN STRING
@@ -1741,9 +1741,9 @@ Body Mimic
 
 > BEGIN STRING
 レベルダウン
-> CONTEXT: States/355/name/ < UNTRANSLATED
-> CONTEXT: Skills/434/description/ < UNTRANSLATED
-
+> CONTEXT: States/355/name/
+> CONTEXT: Skills/434/description/
+Level Down
 > END STRING
 
 > BEGIN STRING
@@ -1953,9 +1953,9 @@ Scorching Flame
 
 > BEGIN STRING
 神の怒り
-> CONTEXT: States/435/name/ < UNTRANSLATED
-> CONTEXT: Skills/681/name/ < UNTRANSLATED
-
+> CONTEXT: States/435/name/
+> CONTEXT: Skills/681/name/
+God's Wrath
 > END STRING
 
 > BEGIN STRING
@@ -1996,13 +1996,13 @@ Free Will
 
 > BEGIN STRING
 ウル・ブースト/120/100/100
-> CONTEXT: States/442/name/ < UNTRANSLATED
+> CONTEXT: States/442/name/
 Ur-Boost/120/100/100
 > END STRING
 
 > BEGIN STRING
 ラグ・ブースト/120/100/100
-> CONTEXT: States/443/name/ < UNTRANSLATED
+> CONTEXT: States/443/name/
 Ragu-Boost/120/100/100
 > END STRING
 

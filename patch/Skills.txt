@@ -244,37 +244,37 @@ Stop other movements
 
 > BEGIN STRING
 時よ戻れ
-> CONTEXT: Skills/33/name/ < UNTRANSLATED
+> CONTEXT: Skills/33/name/
 Turn Back Time
 > END STRING
 
 > BEGIN STRING
 リアリティ以外の全ての状態を巻き戻す
-> CONTEXT: Skills/33/description/ < UNTRANSLATED
+> CONTEXT: Skills/33/description/
 Rewind all states except reality
 > END STRING
 
 > BEGIN STRING
 夢よ覚めろ
-> CONTEXT: Skills/37/name/ < UNTRANSLATED
+> CONTEXT: Skills/37/name/
 Wake from Dream
 > END STRING
 
 > BEGIN STRING
 夢から覚める
-> CONTEXT: Skills/37/description/ < UNTRANSLATED
+> CONTEXT: Skills/37/description/
 Wake up from the dream
 > END STRING
 
 > BEGIN STRING
 夢よ覚めるな
-> CONTEXT: Skills/38/name/ < UNTRANSLATED
+> CONTEXT: Skills/38/name/
 Stay in Dream
 > END STRING
 
 > BEGIN STRING
 夢から覚めない
-> CONTEXT: Skills/38/description/ < UNTRANSLATED
+> CONTEXT: Skills/38/description/
 Do not wake up from the dream
 > END STRING
 
@@ -1545,7 +1545,7 @@ Summon the succubus Stella
 
 > BEGIN STRING
 グラインド
-> CONTEXT: Skills/211/name/ < UNTRANSLATED
+> CONTEXT: Skills/211/name/
 Grind
 > END STRING
 
@@ -1642,7 +1642,7 @@ Divest Flame
 
 > BEGIN STRING
 リジェネレイト
-> CONTEXT: Skills/225/name/ < UNTRANSLATED
+> CONTEXT: Skills/225/name/
 Regenerate
 > END STRING
 
@@ -1660,7 +1660,7 @@ Regenerate
 
 > BEGIN STRING
 プロフェシー/6
-> CONTEXT: Skills/227/name/ < UNTRANSLATED
+> CONTEXT: Skills/227/name/
 Prophecy/6
 > END STRING
 
@@ -1672,7 +1672,7 @@ Prophecy/6
 
 > BEGIN STRING
 パワーバインド
-> CONTEXT: Skills/228/name/ < UNTRANSLATED
+> CONTEXT: Skills/228/name/
 Power Bind
 > END STRING
 
@@ -1701,7 +1701,7 @@ Petra Eyes
 
 > BEGIN STRING
 視線 / 中確率全身バインド
-> CONTEXT: Skills/232/description/ < UNTRANSLATED
+> CONTEXT: Skills/232/description/
 Sight / Medium Chance Full Body Bind
 > END STRING
 
@@ -1720,7 +1720,7 @@ Melty Kiss
 
 > BEGIN STRING
 イヴィルアイズ
-> CONTEXT: Skills/234/name/ < UNTRANSLATED
+> CONTEXT: Skills/234/name/
 Evil Eyes
 > END STRING
 
@@ -1746,14 +1746,14 @@ Defense Up
 
 > BEGIN STRING
 インセンス打消し+特殊インセンス付加
-> CONTEXT: Skills/236/description/ < UNTRANSLATED
-> CONTEXT: Skills/260/description/ < UNTRANSLATED
+> CONTEXT: Skills/236/description/
+> CONTEXT: Skills/260/description/
 Incense Cancellation + Special Incense Addition
 > END STRING
 
 > BEGIN STRING
 森の守り
-> CONTEXT: Skills/237/name/ < UNTRANSLATED
+> CONTEXT: Skills/237/name/
 Guardian of the Forest
 > END STRING
 
@@ -1765,7 +1765,7 @@ EP回復+精神力回復
 
 > BEGIN STRING
 センシャルエレクト
-> CONTEXT: Skills/238/name/ < UNTRANSLATED
+> CONTEXT: Skills/238/name/
 Sensual Erect
 > END STRING
 
@@ -1810,8 +1810,8 @@ Dorumba
 
 > BEGIN STRING
 相手一人の気をそらす
-> CONTEXT: Skills/241/description/ < UNTRANSLATED
-> CONTEXT: Skills/703/description/ < UNTRANSLATED
+> CONTEXT: Skills/241/description/
+> CONTEXT: Skills/703/description/
 Distract one opponent
 > END STRING
 
@@ -1860,8 +1860,8 @@ Dispel Song
 
 > BEGIN STRING
 フニ系打消し
-> CONTEXT: Skills/246/description/ < UNTRANSLATED
-> CONTEXT: Skills/314/description/ < UNTRANSLATED
+> CONTEXT: Skills/246/description/
+> CONTEXT: Skills/314/description/
 Funi-type cancellation
 > END STRING
 
@@ -2143,7 +2143,7 @@ Song of Peace
 
 > BEGIN STRING
 高笑い
-> CONTEXT: Skills/278/name/ < UNTRANSLATED
+> CONTEXT: Skills/278/name/
 Laughter
 > END STRING
 
@@ -2315,7 +2315,7 @@ Arsgun
 
 > BEGIN STRING
 ファル・アルスグン
-> CONTEXT: Skills/307/name/ < UNTRANSLATED
+> CONTEXT: Skills/307/name/
 Far-Arsgun
 > END STRING
 
@@ -2327,7 +2327,7 @@ Hold
 
 > BEGIN STRING
 全身バインド
-> CONTEXT: Skills/308/description/ < UNTRANSLATED
+> CONTEXT: Skills/308/description/
 Full Body Bind
 > END STRING
 
@@ -2361,8 +2361,8 @@ Feeble
 
 > BEGIN STRING
 EP回復(個別)
-> CONTEXT: Skills/315/description/ < UNTRANSLATED
-> CONTEXT: Skills/447/description/ < UNTRANSLATED
+> CONTEXT: Skills/315/description/
+> CONTEXT: Skills/447/description/
 EP recovery (Single)
 > END STRING
 
@@ -2374,7 +2374,7 @@ Far-Rogin
 
 > BEGIN STRING
 EP回復(全体)
-> CONTEXT: Skills/316/description/ < UNTRANSLATED
+> CONTEXT: Skills/316/description/
 EP recovery (All)
 > END STRING
 
@@ -2392,7 +2392,7 @@ Hapapi
 
 > BEGIN STRING
 中確率混乱
-> CONTEXT: Skills/318/description/ < UNTRANSLATED
+> CONTEXT: Skills/318/description/
 Medium chance of confusion
 > END STRING
 
@@ -2501,7 +2501,7 @@ Ars-Rogin
 
 > BEGIN STRING
 冷ややかに見つめる
-> CONTEXT: Skills/331/name/ < UNTRANSLATED
+> CONTEXT: Skills/331/name/
 Cold Stare
 > END STRING
 
@@ -2513,36 +2513,36 @@ Windweb
 
 > BEGIN STRING
 ムーンリットダンス
-> CONTEXT: Skills/333/name/ < UNTRANSLATED
+> CONTEXT: Skills/333/name/
 Moonlit Dance
 > END STRING
 
 > BEGIN STRING
 浄化の炎
-> CONTEXT: Skills/334/name/ < UNTRANSLATED
+> CONTEXT: Skills/334/name/
 Purifying Flame
 > END STRING
 
 > BEGIN STRING
 バッドステート治療
-> CONTEXT: Skills/334/description/ < UNTRANSLATED
-> CONTEXT: Skills/349/description/ < UNTRANSLATED
+> CONTEXT: Skills/334/description/
+> CONTEXT: Skills/349/description/
 Bad state cancellation
 > END STRING
 
 > BEGIN STRING
 怨みの炎
-> CONTEXT: Skills/335/name/ < UNTRANSLATED
+> CONTEXT: Skills/335/name/
 Flames of Hatred
 > END STRING
 
 > BEGIN STRING
 グッドステート打消し
-> CONTEXT: Skills/335/description/ < UNTRANSLATED
-> CONTEXT: Skills/342/description/ < UNTRANSLATED
-> CONTEXT: Skills/355/description/ < UNTRANSLATED
-> CONTEXT: Skills/436/description/ < UNTRANSLATED
-> CONTEXT: Skills/467/description/ < UNTRANSLATED
+> CONTEXT: Skills/335/description/
+> CONTEXT: Skills/342/description/
+> CONTEXT: Skills/355/description/
+> CONTEXT: Skills/436/description/
+> CONTEXT: Skills/467/description/
 Good state cancellation
 > END STRING
 
@@ -2554,7 +2554,7 @@ Sexy Pose
 
 > BEGIN STRING
 中確率暴走
-> CONTEXT: Skills/336/description/ < UNTRANSLATED
+> CONTEXT: Skills/336/description/
 Medium probability of berserk
 > END STRING
 
@@ -2685,10 +2685,10 @@ Gently Weep
 
 > BEGIN STRING
 テンションダウン
-> CONTEXT: Skills/354/description/ < UNTRANSLATED
-> CONTEXT: Skills/357/description/ < UNTRANSLATED
-> CONTEXT: Skills/430/description/ < UNTRANSLATED
-> CONTEXT: Skills/433/description/ < UNTRANSLATED
+> CONTEXT: Skills/354/description/
+> CONTEXT: Skills/357/description/
+> CONTEXT: Skills/430/description/
+> CONTEXT: Skills/433/description/
 Tension Down
 > END STRING
 
@@ -3442,8 +3442,8 @@ Angel Arrow
 
 > BEGIN STRING
 スロスブラスト
-> CONTEXT: Skills/456/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/456/name/
+Sloth Blast
 > END STRING
 
 > BEGIN STRING
@@ -3766,8 +3766,8 @@ Journey to Heaven
 
 > BEGIN STRING
 徹底調査/0/0/0/0
-> CONTEXT: Skills/601/name/ < UNTRANSLATED
-> CONTEXT: Skills/602/name/ < UNTRANSLATED
+> CONTEXT: Skills/601/name/
+> CONTEXT: Skills/602/name/
 Thorough Analysis/0/0/0/0
 > END STRING
 
@@ -3789,34 +3789,34 @@ Thorough Analysis/0/0/0/0
 
 > BEGIN STRING
 ダブルキッス/0/0/0/0
-> CONTEXT: Skills/603/name/ < UNTRANSLATED
-> CONTEXT: Skills/604/name/ < UNTRANSLATED
+> CONTEXT: Skills/603/name/
+> CONTEXT: Skills/604/name/
 Double Kiss/0/0/0/0
 > END STRING
 
 > BEGIN STRING
 ハードピストン
-> CONTEXT: Skills/605/name/ < UNTRANSLATED
-> CONTEXT: Skills/606/name/ < UNTRANSLATED
+> CONTEXT: Skills/605/name/
+> CONTEXT: Skills/606/name/
 Hard Piston
 > END STRING
 
 > BEGIN STRING
 ドレインキッス
-> CONTEXT: Skills/607/name/ < UNTRANSLATED
-> CONTEXT: Skills/608/name/ < UNTRANSLATED
+> CONTEXT: Skills/607/name/
+> CONTEXT: Skills/608/name/
 Drain Kiss
 > END STRING
 
 > BEGIN STRING
 テンタクルラッシュ
-> CONTEXT: Skills/609/name/ < UNTRANSLATED
+> CONTEXT: Skills/609/name/
 Tentacle Rush
 > END STRING
 
 > BEGIN STRING
 テンタクルラッシュ/0/0/3
-> CONTEXT: Skills/610/name/ < UNTRANSLATED
+> CONTEXT: Skills/610/name/
 Tentacle Rush/0/0/3
 > END STRING
 
@@ -3834,8 +3834,8 @@ Triple Piston/0/0/2
 
 > BEGIN STRING
 ファシネイション
-> CONTEXT: Skills/613/name/ < UNTRANSLATED
-> CONTEXT: Skills/614/name/ < UNTRANSLATED
+> CONTEXT: Skills/613/name/
+> CONTEXT: Skills/614/name/
 Fascination
 > END STRING
 
@@ -4037,7 +4037,7 @@ Fox arrival
 
 > BEGIN STRING
 オモチャになっちゃえ
-> CONTEXT: Skills/675/name/ < UNTRANSLATED
+> CONTEXT: Skills/675/name/
 Turn to Toy
 > END STRING
 
@@ -4169,20 +4169,20 @@ Increase tension gain
 
 > BEGIN STRING
 ヴァニティ/0/0/0/1
-> CONTEXT: Skills/697/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/697/name/
+Vanity/0/0/0/1
 > END STRING
 
 > BEGIN STRING
 精力・技巧アップ / 精神力ダウン
-> CONTEXT: Skills/697/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/697/description/
+Energy and Skill Up / Spirit Down
 > END STRING
 
 > BEGIN STRING
 グリード/0/0/0/3
-> CONTEXT: Skills/698/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/698/name/
+Greed/0/0/0/3
 > END STRING
 
 > BEGIN STRING
@@ -4206,7 +4206,7 @@ Far-Ristil
 
 > BEGIN STRING
 ドルンバ/3
-> CONTEXT: Skills/703/name/ < UNTRANSLATED
+> CONTEXT: Skills/703/name/
 Dorumba/3
 > END STRING
 
@@ -4254,7 +4254,7 @@ Put all opponents in a sensitive state
 
 > BEGIN STRING
 バインド/7
-> CONTEXT: Skills/708/name/ < UNTRANSLATED
+> CONTEXT: Skills/708/name/
 Bind/7
 > END STRING
 
@@ -4266,13 +4266,13 @@ Root
 
 > BEGIN STRING
 相手一人の足を拘束し逃げられなくする
-> CONTEXT: Skills/709/description/ < UNTRANSLATED
+> CONTEXT: Skills/709/description/
 Restrain legs of opponent to prevent escape
 > END STRING
 
 > BEGIN STRING
 クワイエト
-> CONTEXT: Skills/710/name/ < UNTRANSLATED
+> CONTEXT: Skills/710/name/
 Quiet
 > END STRING
 
@@ -4284,56 +4284,56 @@ Prevents all opponents from using magic
 
 > BEGIN STRING
 サック/5
-> CONTEXT: Skills/711/name/ < UNTRANSLATED
+> CONTEXT: Skills/711/name/
 Suck/5
 > END STRING
 
 > BEGIN STRING
 相手一人の精気を奪い、テンションを下げる
-> CONTEXT: Skills/711/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/711/description/
+Steal energy and reduce tension
 > END STRING
 
 > BEGIN STRING
 テンタク
-> CONTEXT: Skills/712/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/712/name/
+Tentacle
 > END STRING
 
 > BEGIN STRING
 触手を召喚し、相手一人に快感を与える
-> CONTEXT: Skills/712/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/712/description/
+Summon tentacles to give pleasure to one opponent
 > END STRING
 
 > BEGIN STRING
 ラスト/2
-> CONTEXT: Skills/713/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/713/name/
+Lust/2
 > END STRING
 
 > BEGIN STRING
 相手一人の攻め以外の行動を封じ、さらに精神力ダウン
-> CONTEXT: Skills/713/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/713/description/
+Force opponent to attack and reduce spirit
 > END STRING
 
 > BEGIN STRING
 エンヴィ/7/0/0/1
-> CONTEXT: Skills/714/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/714/name/
+Envy/7/0/0/1
 > END STRING
 
 > BEGIN STRING
 相手全員をお互いに嫉妬して行動できなくし、さらに精神力ダウン
-> CONTEXT: Skills/714/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/714/description/
+Prevent opponents from taking action and reduce spirit
 > END STRING
 
 > BEGIN STRING
 トリック/5/0/0
-> CONTEXT: Skills/716/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/716/name/
+Trick/5/0/0
 > END STRING
 
 > BEGIN STRING
@@ -4554,37 +4554,37 @@ Increase all attributes a lot for 3 times larger Reality cost
 
 > BEGIN STRING
 オモチャになっちゃえ/3
-> CONTEXT: Skills/746/name/ < UNTRANSLATED
+> CONTEXT: Skills/746/name/
 Turn to Toy/3
 > END STRING
 
 > BEGIN STRING
 相手一人をアイテムに変える
-> CONTEXT: Skills/746/description/ < UNTRANSLATED
+> CONTEXT: Skills/746/description/
 Transform one opponent into an item
 > END STRING
 
 > BEGIN STRING
 ウル・ブースト/6/0/0/3
-> CONTEXT: Skills/750/name/ < UNTRANSLATED
+> CONTEXT: Skills/750/name/
 Ur-Boost/6/0/0/3
 > END STRING
 
 > BEGIN STRING
 1ターンだけ精力大幅アップ
-> CONTEXT: Skills/750/description/ < UNTRANSLATED
+> CONTEXT: Skills/750/description/
 Greatly increase energy for 1 turn
 > END STRING
 
 > BEGIN STRING
 ラグ・ブースト/6/0/0/3
-> CONTEXT: Skills/751/name/ < UNTRANSLATED
+> CONTEXT: Skills/751/name/
 Ragu-Boost/6/0/0/3
 > END STRING
 
 > BEGIN STRING
 1ターンだけ技巧大幅アップ
-> CONTEXT: Skills/751/description/ < UNTRANSLATED
+> CONTEXT: Skills/751/description/
 Greatly increase skill for 1 turn
 > END STRING
 

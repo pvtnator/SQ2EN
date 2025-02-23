@@ -67,7 +67,7 @@ if __name__ == "__main__":
     current_dir = Path.cwd()
     translations = {}
 
-    main_files = [current_dir / "patch" / "Scripts.txt"]
+    main_files = [current_dir / "patch" / "Scripts.txt", current_dir / "patch" / "Skills.txt"]
     #main_files = []
     #for file in (current_dir / "patch").rglob("*.txt"):
     #    if not "Unused" in str(file):
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     print("===Updating mod translations===")
     #main_files = [current_dir / "patch" / "Scripts.txt"]
     #main_files = [current_dir / "patch" / "States.txt"]
-    main_files = [current_dir / "patch" / "States.txt", current_dir / "patch" / "Skills.txt"]
+    main_files = [current_dir / "patch" / "States.txt"]
     #for file in (current_dir / "patch").rglob("*.txt"):
     #    main_files.append(file)
         
