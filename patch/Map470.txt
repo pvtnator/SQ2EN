@@ -365,134 +365,152 @@ SQ_Town02
 
 > BEGIN STRING
 "熟達の戦士"
-> CONTEXT: Map470/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/24/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map470/events/16/pages/0/0/InlineScript/1:4
+> CONTEXT: Map460/events/24/pages/0/0/InlineScript/1:4
+"Skilled Warrior"
 > END STRING
 
 > BEGIN STRING
 「せっかく鍛えた装備を、
 　せっかく集めたアイテムを、
 　一瞬にして全て無くしてしまった……
-> CONTEXT: Map470/events/16/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/24/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/16/pages/0/1/Dialogue
+> CONTEXT: Map460/events/24/pages/0/1/Dialogue
+「All the equipment I worked so hard to make,
+　all the items I worked so hard to collect,
+　I lost it all in an instant...
 > END STRING
 
 > BEGIN STRING
 「それは我々冒険者にとって、
 　しばしば避けがたく起こってしまうことだ。
-> CONTEXT: Map470/events/16/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/24/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/16/pages/0/4/Dialogue
+> CONTEXT: Map460/events/24/pages/0/4/Dialogue
+「That is something that often 
+　inevitably happens to us adventurers.
 > END STRING
 
 > BEGIN STRING
 「だが挫けてはいけない。
 　世界は広く、夢は無限だ。
-> CONTEXT: Map470/events/16/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/24/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/16/pages/0/6/Dialogue
+> CONTEXT: Map460/events/24/pages/0/6/Dialogue
+「But you must not give up. 
+　The world is vast and dreams are limitless.
 > END STRING
 
 > BEGIN STRING
 「君の知らないアイテムが、
 　想像もしなかった装備が、
 　次の冒険で君を待ってるだろう。
-> CONTEXT: Map470/events/16/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/24/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/16/pages/0/8/Dialogue
+> CONTEXT: Map460/events/24/pages/0/8/Dialogue
+「Items you've never seen before, 
+　equipment you never imagined, 
+　will be waiting for you on your next adventure.
 > END STRING
 
 > BEGIN STRING
 "レンジャー"
-> CONTEXT: Map470/events/17/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map470/events/17/pages/0/0/InlineScript/1:4
+> CONTEXT: Map460/events/23/pages/0/0/InlineScript/1:4
+"Ranger"
 > END STRING
 
 > BEGIN STRING
 「もう君は知ってると思うが、
 　夢の中での危機を避けるには
 　まず精神力が必要だ。
-> CONTEXT: Map470/events/17/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/23/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/17/pages/0/1/Dialogue
+> CONTEXT: Map460/events/23/pages/0/1/Dialogue
+「As you probably already know, 
+　to avoid danger in your dreams 
+　you first need spirit.
 > END STRING
 
 > BEGIN STRING
 「だが時に、素早さがそれより
 　重要なこともある。
-> CONTEXT: Map470/events/17/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/23/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/17/pages/0/4/Dialogue
+> CONTEXT: Map460/events/23/pages/0/4/Dialogue
+「But sometimes agility is more important.
 > END STRING
 
 > BEGIN STRING
 「たとえば毒の花粉や、尻尾の巻きつきは
 　素早さで避けることができる。
 　覚えておいて損は無いだろう。
-> CONTEXT: Map470/events/17/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/23/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/17/pages/0/6/Dialogue
+> CONTEXT: Map460/events/23/pages/0/6/Dialogue
+「For example, you can avoid poisonous pollen 
+　and tail wraps by being quick. 
+　It's good to remember that.
 > END STRING
 
 > BEGIN STRING
 "街の盗賊"
-> CONTEXT: Map470/events/18/pages/0/6/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/18/pages/0/21/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/25/pages/0/6/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map460/events/25/pages/0/21/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map470/events/18/pages/0/6/InlineScript/1:4
+> CONTEXT: Map470/events/18/pages/0/21/InlineScript/1:4
+> CONTEXT: Map460/events/25/pages/0/6/InlineScript/1:4
+> CONTEXT: Map460/events/25/pages/0/21/InlineScript/1:4
+"Street Thief"
 > END STRING
 
 > BEGIN STRING
 「何かマズい事が起こってから
 　それに対処する…ってのは、
 　いいかい、素人のやることだ。
-> CONTEXT: Map470/events/18/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/25/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/18/pages/0/7/Dialogue
+> CONTEXT: Map460/events/25/pages/0/7/Dialogue
+「Dealing with it after something bad 
+　has happened is, you see, 
+　the sort of thing amateurs do.
 > END STRING
 
 > BEGIN STRING
 「先にマズい事を防ぐ努力をするのさ。
 　バッドステートをもらう前に耐性を高める、
 　攻撃される前に防御を固める、
-> CONTEXT: Map470/events/18/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/25/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/18/pages/0/10/Dialogue
+> CONTEXT: Map460/events/25/pages/0/10/Dialogue
+「Try to prevent bad things from happening.
+　Increase resistance before you get a status ailment,
+　strengthen defenses before you get attacked,
 > END STRING
 
 > BEGIN STRING
 「盗まれる前に財布のヒモを固める、とかな。
 　へへっ
-> CONTEXT: Map470/events/18/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/25/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/18/pages/0/14/Dialogue
+> CONTEXT: Map460/events/25/pages/0/14/Dialogue
+「Like tightening the strings 
+　on your wallet before it gets stolen.
+　Heheh
 > END STRING
 
 > BEGIN STRING
 盗まれた \\b\\v[201]G\\f を返してもらった！
-> CONTEXT: Map470/events/18/pages/0/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/25/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/18/pages/0/18/Dialogue
+> CONTEXT: Map460/events/25/pages/0/18/Dialogue
+Got the stolen \\b\\v[201]G\\f back!
 > END STRING
 
 > BEGIN STRING
 「ま、次から気をつけな。
-> CONTEXT: Map470/events/18/pages/0/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/25/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/18/pages/0/22/Dialogue
+> CONTEXT: Map460/events/25/pages/0/22/Dialogue
+「Well, be careful next time.
 > END STRING
 
 > BEGIN STRING
 「盗まれる前に金を持ち歩かない、
 　ってのもまあ、立派な防ぎ方だな。
 　ははっ
-> CONTEXT: Map470/events/18/pages/0/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/25/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/18/pages/0/25/Dialogue
+> CONTEXT: Map460/events/25/pages/0/25/Dialogue
+「Not carrying money around before it 
+　gets stolen is a good way to prevent it. 
+　Haha.
 > END STRING
 
 > BEGIN STRING
@@ -536,66 +554,76 @@ SQ_Town02
 「魔法を使うときのコツは、
 　地味な補助魔法を
 　上手く使いこなすことです。
-> CONTEXT: Map470/events/23/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/17/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/23/pages/0/1/Dialogue
+> CONTEXT: Map460/events/17/pages/0/1/Dialogue
+「The trick to using magic 
+　is to make good use of 
+　simple support magic.
 > END STRING
 
 > BEGIN STRING
 「特にグン系、フニ系の魔法は
 　同じ魔法を重ねがけすることで
 　より高い効果が期待できるでしょう。
-> CONTEXT: Map470/events/23/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/17/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/23/pages/0/4/Dialogue
+> CONTEXT: Map460/events/17/pages/0/4/Dialogue
+「In particular, with Gun and Funi type magic, 
+　you can expect even greater effects 
+　by stacking the same magic.
 > END STRING
 
 > BEGIN STRING
 「重ねがけはそれぞれ３回までできますが、
 　イーサの魔法はそれら全てを
 　いっぺんに打ち消してしまいます。
-> CONTEXT: Map470/events/23/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/17/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/23/pages/0/7/Dialogue
+> CONTEXT: Map460/events/17/pages/0/7/Dialogue
+「Each effect can be stacked up to 3 times, 
+　but Ether magic will cancel them all at once.
 > END STRING
 
 > BEGIN STRING
 「調子に乗りすぎず、
 　バランスよく魔法を使うといいでしょう。
-> CONTEXT: Map470/events/23/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/17/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/23/pages/0/10/Dialogue
+> CONTEXT: Map460/events/17/pages/0/10/Dialogue
+「It's best to use magic in a balanced way, 
+　without getting too carried away.
 > END STRING
 
 > BEGIN STRING
 「あらあなた、たくさん連れがいるのね。
 　それもステキな人ばかり\\e[0]
-> CONTEXT: Map470/events/24/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/18/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/24/pages/0/1/Dialogue
+> CONTEXT: Map460/events/18/pages/0/1/Dialogue
+「Oh dear, you have a lot of friends.
+　And they're all wonderful people.
 > END STRING
 
 > BEGIN STRING
 「その人たちの使う魔法や技と、
 　あなたのテクニックを組み合わせれば、
 　もっとステキなことができるかもね。
-> CONTEXT: Map470/events/24/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/18/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/24/pages/0/3/Dialogue
+> CONTEXT: Map460/events/18/pages/0/3/Dialogue
+「If you combine the magic and skills 
+　that these people use with your techniques, 
+　you might be able to do even more amazing things.
 > END STRING
 
 > BEGIN STRING
 「色々試してみるといいわよ。
 　色々と、ね\\e[0]
-> CONTEXT: Map470/events/24/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map460/events/18/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/24/pages/0/6/Dialogue
+> CONTEXT: Map460/events/18/pages/0/6/Dialogue
+「You should try different things.
+　Various things\\e[0]
 > END STRING
 
 > BEGIN STRING
 "笑顔の騎士"
-> CONTEXT: Map470/events/28/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map470/events/28/pages/0/0/InlineScript/1:4
+"Smiling Knight"
 > END STRING
 
 > BEGIN STRING

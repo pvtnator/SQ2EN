@@ -154,72 +154,82 @@ SQT_EntranceOfDream
 > BEGIN STRING
 「でも一度手に入れたら、
 　もっと欲しくなるわ。
-> CONTEXT: Map471/events/1/pages/0/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/117/Dialogue
+「But once you get it, 
+　you'll want more.
 > END STRING
 
 > BEGIN STRING
 「誰もかもが欲しくなるわ。
 　もっと先が欲しくなるわ。
-> CONTEXT: Map471/events/1/pages/0/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/119/Dialogue
+「You'll want everything. 
+　You'll want more.
 > END STRING
 
 > BEGIN STRING
 「わしはそろそろこの夢から覚めたい。
 　それだけじゃ。
-> CONTEXT: Map471/events/1/pages/0/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/122/Dialogue
+「I just want to wake up from this dream.
+　That's all.
 > END STRING
 
 > BEGIN STRING
 「後ろの扉よ、
 　そろそろ大人しくそこを開けい。
-> CONTEXT: Map471/events/1/pages/0/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/162/Dialogue
+「Now, door,
+　time to open obediently.
 > END STRING
 
 > BEGIN STRING
 「最初に言ったことを思い出して。
 　この先にあるのは、恐ろしいものよ。
-> CONTEXT: Map471/events/1/pages/0/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/165/Dialogue
+「Remember what I said at the beginning: 
+　what lies ahead is terrifying.
 > END STRING
 
 > BEGIN STRING
 「どうして恐れないの？
 　どうして引き返さないの？
-> CONTEXT: Map471/events/1/pages/0/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/167/Dialogue
+「Why aren't you afraid? 
+　Why don't you turn back?
 > END STRING
 
 > BEGIN STRING
 「ここはわしの夢。
 　どうして自分の夢を
 　恐れることがあろうか。
-> CONTEXT: Map471/events/1/pages/0/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/170/Dialogue
+「This is my dream. 
+　Why should I be afraid of my dream?
 > END STRING
 
 > BEGIN STRING
 「ああ、なんてひと。
 　夢を恐れないなんて。
 　夢を信じないなんて。
-> CONTEXT: Map471/events/1/pages/0/174/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/174/Dialogue
+「Oh, what a man.
+　To have no fear of dreams.
+　To not believe in dreams.
 > END STRING
 
 > BEGIN STRING
 「もうあなたは救えない。
 　あなたには罰しかない。
-> CONTEXT: Map471/events/1/pages/0/177/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/177/Dialogue
+「You can no longer be saved.
+　All you have left is punishment.
 > END STRING
 
 > BEGIN STRING
 扉など最初から無かったようだ……
-> CONTEXT: Map471/events/1/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/1/1/Dialogue
+It seems there was never a door to begin with...
 > END STRING
 
 > BEGIN STRING

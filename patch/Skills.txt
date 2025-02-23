@@ -2598,8 +2598,8 @@ Riddle
 
 > BEGIN STRING
 ディスペルバーク
-> CONTEXT: Skills/342/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/342/name/
+Dispel Bark
 > END STRING
 
 > BEGIN STRING
@@ -3327,26 +3327,26 @@ High probability of berserk
 
 > BEGIN STRING
 強欲の誘い
-> CONTEXT: Skills/440/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/440/name/
+Temptation of Greed
 > END STRING
 
 > BEGIN STRING
 嫉妬の誘い
 > CONTEXT: Skills/441/name/
-Invitation to Jealousy
+Temptation of Jealousy
 > END STRING
 
 > BEGIN STRING
 傲慢の誘い
-> CONTEXT: Skills/442/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/442/name/
+Temptation of Arrogance
 > END STRING
 
 > BEGIN STRING
 愛の狂気
-> CONTEXT: Skills/443/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/443/name/
+Love Madness
 > END STRING
 
 > BEGIN STRING
@@ -4471,7 +4471,7 @@ Fate Transposition/6
 > BEGIN STRING
 自分よりレベルが高い相手の全能力ダウン
 > CONTEXT: Skills/734/description/
-Reduce all attributes of opponents of a higher level
+Reduce all attributes of an opponent of higher level
 > END STRING
 
 > BEGIN STRING
@@ -4531,7 +4531,7 @@ Fate Condensed/9/0/0/3
 > BEGIN STRING
 1ターンだけ全能力アップ(大)
 > CONTEXT: Skills/742/description/
-Increase all attributes for one turn (large)
+Increase all attributes for 1 turn (large)
 > END STRING
 
 > BEGIN STRING

@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 メルヤに本を預けた！
-> CONTEXT: Commonevents/6/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/6/28/Dialogue
+Left the books with Merja!
 > END STRING
 
 > BEGIN STRING
@@ -1701,9 +1701,9 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]しかし\\n[1]には効果がなかった！
-> CONTEXT: Commonevents/66/67/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/66/67/Dialogue
+> CONTEXT: Commonevents/75/93/Dialogue
+\\a[\\v[105]]But \\n[1] was unaffected!
 > END STRING
 
 > BEGIN STRING
@@ -1714,8 +1714,8 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 "しかし\#{$t.name}には効果がなかった！"
-> CONTEXT: Commonevents/67/5/InlineScript/2:9 < UNTRANSLATED
-
+> CONTEXT: Commonevents/67/5/InlineScript/2:9
+"But \#{$t.name} was unaffected!"
 > END STRING
 
 > BEGIN STRING
@@ -1969,21 +1969,21 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]持っていた \\c[3]\\v[22]\\c[0] を
 箱に食べられてしまった！\\w[\\v[104]]
-> CONTEXT: Commonevents/75/9/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/16/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/23/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/30/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/37/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/44/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/51/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/58/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/65/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/72/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/79/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/86/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/96/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/75/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/75/9/Dialogue
+> CONTEXT: Commonevents/75/16/Dialogue
+> CONTEXT: Commonevents/75/23/Dialogue
+> CONTEXT: Commonevents/75/30/Dialogue
+> CONTEXT: Commonevents/75/37/Dialogue
+> CONTEXT: Commonevents/75/44/Dialogue
+> CONTEXT: Commonevents/75/51/Dialogue
+> CONTEXT: Commonevents/75/58/Dialogue
+> CONTEXT: Commonevents/75/65/Dialogue
+> CONTEXT: Commonevents/75/72/Dialogue
+> CONTEXT: Commonevents/75/79/Dialogue
+> CONTEXT: Commonevents/75/86/Dialogue
+> CONTEXT: Commonevents/75/96/Dialogue
+> CONTEXT: Commonevents/75/103/Dialogue
+\\a[\\v[105]]\\c[3]\\v[22]\\c[0] got eaten by the box!\\w[\\v[104]]
 > END STRING
 
 > BEGIN STRING
@@ -2497,8 +2497,8 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「あらこんにちわ！
-> CONTEXT: Commonevents/101/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/101/162/Dialogue
+\\a[\\v[105]]「Oh hi!
 > END STRING
 
 > BEGIN STRING

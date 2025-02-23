@@ -537,8 +537,8 @@ Mermaid's tears drive the poet mad
 
 > BEGIN STRING
 使うといつのまにか読書室に戻っている魔法の薬
-> CONTEXT: Items/62/description/ < UNTRANSLATED
-
+> CONTEXT: Items/62/description/
+Returns you to the reading room when used
 > END STRING
 
 > BEGIN STRING
@@ -733,14 +733,14 @@ Barley berries with hangover-relief properties
 
 > BEGIN STRING
 交換日記
-> CONTEXT: Items/100/name/ < UNTRANSLATED
-
+> CONTEXT: Items/100/name/
+Exchange Diary
 > END STRING
 
 > BEGIN STRING
 アイゼクトとサフィの交換日記
-> CONTEXT: Items/100/description/ < UNTRANSLATED
-
+> CONTEXT: Items/100/description/
+Ayxect's and Thafi's exchange diary
 > END STRING
 
 > BEGIN STRING
@@ -1326,50 +1326,50 @@ Dark Bloodline 2
 
 > BEGIN STRING
 罪業史-色欲
-> CONTEXT: Items/159/name/ < UNTRANSLATED
-
+> CONTEXT: Items/159/name/
+History of Sin - Lust
 > END STRING
 
 > BEGIN STRING
 〔史書〕 色欲の大罪を司る悪魔の所業が綴られた本
-> CONTEXT: Items/159/description/ < UNTRANSLATED
-
+> CONTEXT: Items/159/description/
+[History] Deeds of the devil who controls the deadly sin of lust
 > END STRING
 
 > BEGIN STRING
 罪業史-嫉妬
-> CONTEXT: Items/160/name/ < UNTRANSLATED
-
+> CONTEXT: Items/160/name/
+History of Sin - Jealousy
 > END STRING
 
 > BEGIN STRING
 〔史書〕 嫉妬の大罪を司る悪魔の所業が綴られた本
-> CONTEXT: Items/160/description/ < UNTRANSLATED
-
+> CONTEXT: Items/160/description/
+[History] Deeds of the devil who controls the deadly sin of jealousy
 > END STRING
 
 > BEGIN STRING
 罪業史-強欲
-> CONTEXT: Items/161/name/ < UNTRANSLATED
-
+> CONTEXT: Items/161/name/
+History of Sin - Greed
 > END STRING
 
 > BEGIN STRING
 〔史書〕 強欲の大罪を司る悪魔の所業が綴られた本
-> CONTEXT: Items/161/description/ < UNTRANSLATED
-
+> CONTEXT: Items/161/description/
+[History] Deeds of the devil who controls the deadly sin of greed
 > END STRING
 
 > BEGIN STRING
 罪業史-傲慢
-> CONTEXT: Items/162/name/ < UNTRANSLATED
-
+> CONTEXT: Items/162/name/
+History of Sin - Pride
 > END STRING
 
 > BEGIN STRING
 〔史書〕 傲慢の大罪を司る悪魔の所業が綴られた本
-> CONTEXT: Items/162/description/ < UNTRANSLATED
-
+> CONTEXT: Items/162/description/
+[History] Deeds of the devil who controls the deadly sin of pride
 > END STRING
 
 > BEGIN STRING
@@ -1405,21 +1405,21 @@ White Rabbit Adventure 2
 
 > BEGIN STRING
 ジャバウォッキーⅠ
-> CONTEXT: Items/166/name/ < UNTRANSLATED
-
+> CONTEXT: Items/166/name/
+Jabberwocky 1
 > END STRING
 
 > BEGIN STRING
 〔史書〕 鏡文字で書かれた奇妙な詩
-> CONTEXT: Items/166/description/ < UNTRANSLATED
-> CONTEXT: Items/167/description/ < UNTRANSLATED
-
+> CONTEXT: Items/166/description/
+> CONTEXT: Items/167/description/
+[History] A strange poem written in mirror writing
 > END STRING
 
 > BEGIN STRING
 ジャバウォッキーⅡ
-> CONTEXT: Items/167/name/ < UNTRANSLATED
-
+> CONTEXT: Items/167/name/
+Jabberwocky 2
 > END STRING
 
 > BEGIN STRING

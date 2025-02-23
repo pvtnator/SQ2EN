@@ -533,14 +533,14 @@ Deposit/Withdraw Items
 
 > BEGIN STRING
 「アイゼクト様の、夢の原形……
-> CONTEXT: Map426/events/13/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/96/Dialogue
+「The original form of Mr. Ayxect's dreams...
 > END STRING
 
 > BEGIN STRING
 「何処に、誰に繋がっているんでしょぉ…？
-> CONTEXT: Map426/events/13/pages/0/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map426/events/13/pages/0/97/Dialogue
+「Where and to whom is it connected?
 > END STRING
 
 > BEGIN STRING

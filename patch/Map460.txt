@@ -241,7 +241,7 @@
 　ミレットシュガーでもつけようか。
 > CONTEXT: Map460/events/11/pages/0/4/Dialogue
 「Well, what shall we have? 
-Maybe some Kvalatte milk with some millet sugar?
+　Maybe some Kvalatte milk with some millet sugar?
 > END STRING
 
 > BEGIN STRING

@@ -5019,8 +5019,8 @@
 
 > BEGIN STRING
 "交換日記"
-> CONTEXT: Scripts/RPG::Item(detail)/69:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/69:12
+"Exchange Diary"
 > END STRING
 
 > BEGIN STRING
@@ -5031,14 +5031,14 @@
 
 > BEGIN STRING
 "〔？？？〕 王国暦668年\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/70:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/70:15
+"[???] Kingdom Year 668\\n"
 > END STRING
 
 > BEGIN STRING
 "ところどころ甘い言葉が綴られた、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/71:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/71:15
+"Sweet words are spelt out here and there\\n"
 > END STRING
 
 > BEGIN STRING
@@ -5049,14 +5049,14 @@
 
 > BEGIN STRING
 "サフィとアイゼクトの交換日記"
-> CONTEXT: Scripts/RPG::Item(detail)/72:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/72:15
+"in this exchange diary between Thafi and Ayxect"
 > END STRING
 
 > BEGIN STRING
 "「夢と一つに」の効果が切れた！"
 > CONTEXT: Scripts/RPG::State (message)/62:19
-"「One with the Dream」 has run out!"
+"One with the Dream has run out!"
 > END STRING
 
 > BEGIN STRING
@@ -6335,8 +6335,8 @@
 
 > BEGIN STRING
 "「あんっ、イかせてえっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/84:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/84:16
+"「Aah, let me cum\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -6692,8 +6692,8 @@
 
 > BEGIN STRING
 "いれちゃうわよぉ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/55:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/55:14
+"Put it in\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -6996,8 +6996,8 @@
 
 > BEGIN STRING
 "　ふふ、お前も気持ちよくなれよ……\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/107:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/107:16
+"　Hehe, you're feeling good too...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -7129,8 +7129,8 @@
 
 > BEGIN STRING
 "\#{self.name.split(/\\//)[0]}のステータスアップの効果が切れた！"
-> CONTEXT: Scripts/Game_Battler(message)/72:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/72:16
+"The stat boost from \#{self.name.split(/\\//)[0]} has worn off!"
 > END STRING
 
 > BEGIN STRING
@@ -9354,10 +9354,10 @@
 
 > BEGIN STRING
 "「あら、嫌なの……？"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/191:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/196:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/199:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/191:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/196:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/199:12
+"「Oho, you don't like it?"
 > END STRING
 
 > BEGIN STRING
@@ -9976,8 +9976,8 @@
 
 > BEGIN STRING
 "「あはっ、いれちゃったぁ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/217:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/217:12
+"「Ahh, it's in\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -10319,11 +10319,11 @@
 
 > BEGIN STRING
 "「このっ……"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/234:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/243:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/244:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/253:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/234:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/243:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/244:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/253:12
+"「Hey..."
 > END STRING
 
 > BEGIN STRING
@@ -10586,8 +10586,8 @@
 
 > BEGIN STRING
 "「くくく………\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/225:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/225:16
+"「Kukuku...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -10612,8 +10612,8 @@
 
 > BEGIN STRING
 "　さあ、おとしてやるよ……\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/226:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/226:16
+"　Come on, pour it out...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -10742,8 +10742,8 @@
 
 > BEGIN STRING
 "「きゃっ、おいしそぉっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/227:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/227:12
+"「Kyah, looks delicious\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -11411,8 +11411,8 @@
 
 > BEGIN STRING
 "罪業史-色欲"
-> CONTEXT: Scripts/RPG::Item(detail)/289:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/289:12
+"History of Sin - Lust"
 > END STRING
 
 > BEGIN STRING
@@ -11429,13 +11429,13 @@
 
 > BEGIN STRING
 "〔史書〕 年代不詳　著者不明\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/290:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/294:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/298:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/302:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/321:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/326:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/290:15
+> CONTEXT: Scripts/RPG::Item(detail)/294:15
+> CONTEXT: Scripts/RPG::Item(detail)/298:15
+> CONTEXT: Scripts/RPG::Item(detail)/302:15
+> CONTEXT: Scripts/RPG::Item(detail)/321:15
+> CONTEXT: Scripts/RPG::Item(detail)/326:15
+"[History] Date unknown, author unknown\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11446,14 +11446,14 @@
 
 > BEGIN STRING
 "　ステラがずっと遊んであげるぅ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/276:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/276:16
+"　Stella will play with you forever\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "色欲が起こした罪の数々が無数につらつらと\\n書き連ねられている。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/291:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/291:15
+"The countless sins of lust \\nare written down one after another.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11476,29 +11476,29 @@
 
 > BEGIN STRING
 "気のせいか、手に取った時少し頁が増えた気がする。"
-> CONTEXT: Scripts/RPG::Item(detail)/292:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/296:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/300:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/304:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/292:15
+> CONTEXT: Scripts/RPG::Item(detail)/296:15
+> CONTEXT: Scripts/RPG::Item(detail)/300:15
+> CONTEXT: Scripts/RPG::Item(detail)/304:15
+"It felt like there should've been a few more pages."
 > END STRING
 
 > BEGIN STRING
 "　ほら、早く使いたいでしょ？"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/282:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/282:12
+"　Now, you want to put it to use right away, right?"
 > END STRING
 
 > BEGIN STRING
 "罪業史-嫉妬"
-> CONTEXT: Scripts/RPG::Item(detail)/293:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/293:12
+"History of Sin - Jealousy"
 > END STRING
 
 > BEGIN STRING
 "「ふふ、抵抗するのね？"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/283:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/283:12
+"「Hmm, you're going to resist?"
 > END STRING
 
 > BEGIN STRING
@@ -11515,8 +11515,8 @@
 
 > BEGIN STRING
 "嫉妬が起こした罪の数々が無数につらつらと\\n書き連ねられている。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/295:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/295:15
+"The countless sins of jealousy \\nare written down one after another.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11533,20 +11533,20 @@
 
 > BEGIN STRING
 "「わぁ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/289:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/289:12
+"「Wah\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "罪業史-強欲"
-> CONTEXT: Scripts/RPG::Item(detail)/297:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/297:12
+"History of Sin - Greed"
 > END STRING
 
 > BEGIN STRING
 "「……くす\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/292:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/292:12
+"「...Ksh\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -11557,8 +11557,8 @@
 
 > BEGIN STRING
 "強欲が起こした罪の数々が無数につらつらと\\n書き連ねられている。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/299:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/299:15
+"The countless sins of greed \\nare written down one after another.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11582,14 +11582,14 @@
 
 > BEGIN STRING
 "罪業史-傲慢"
-> CONTEXT: Scripts/RPG::Item(detail)/301:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/301:12
+"History of Sin - Pride"
 > END STRING
 
 > BEGIN STRING
 "「フッ、悪くないモノ持ってるじゃない。"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/298:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/298:12
+"「Hmm, you've got some good stuff."
 > END STRING
 
 > BEGIN STRING
@@ -11600,8 +11600,8 @@
 
 > BEGIN STRING
 "傲慢が起こした罪の数々が無数につらつらと\\n書き連ねられている。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/303:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/303:15
+"The countless sins of pride \\nare written down one after another.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -11642,8 +11642,8 @@
 
 > BEGIN STRING
 "「よぉし、ガンガンやっちゃうよー！"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/304:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/304:12
+"「Okay, let's do it!"
 > END STRING
 
 > BEGIN STRING
@@ -11762,8 +11762,8 @@
 
 > BEGIN STRING
 "ジャバウォッキーⅠ"
-> CONTEXT: Scripts/RPG::Item(detail)/320:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/320:12
+"Jabberwocky 1"
 > END STRING
 
 > BEGIN STRING
@@ -11804,15 +11804,15 @@
 
 > BEGIN STRING
 "　（文字化けしていて読めない）"
-> CONTEXT: Scripts/RPG::Item(detail)/324:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/329:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/324:15
+> CONTEXT: Scripts/RPG::Item(detail)/329:15
+" (The characters are garbled and unreadable)"
 > END STRING
 
 > BEGIN STRING
 "ジャバウォッキーⅡ"
-> CONTEXT: Scripts/RPG::Item(detail)/325:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/325:12
+"Jabberwocky 2"
 > END STRING
 
 > BEGIN STRING
@@ -16340,20 +16340,20 @@
 
 > BEGIN STRING
 "\#{myname}の\#{skill_name}！"
-> CONTEXT: Scripts/RPG::Skill (message)/177:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/197:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/200:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/229:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/280:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/282:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/289:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/296:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/300:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/303:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/306:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/309:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/312:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/177:18
+> CONTEXT: Scripts/RPG::Skill (message)/197:18
+> CONTEXT: Scripts/RPG::Skill (message)/200:18
+> CONTEXT: Scripts/RPG::Skill (message)/229:18
+> CONTEXT: Scripts/RPG::Skill (message)/280:18
+> CONTEXT: Scripts/RPG::Skill (message)/282:18
+> CONTEXT: Scripts/RPG::Skill (message)/289:18
+> CONTEXT: Scripts/RPG::Skill (message)/296:18
+> CONTEXT: Scripts/RPG::Skill (message)/300:18
+> CONTEXT: Scripts/RPG::Skill (message)/303:18
+> CONTEXT: Scripts/RPG::Skill (message)/306:18
+> CONTEXT: Scripts/RPG::Skill (message)/309:18
+> CONTEXT: Scripts/RPG::Skill (message)/312:18
+"\#{myname}'s \#{skill_name}!"
 > END STRING
 
 > BEGIN STRING
@@ -17504,14 +17504,14 @@
 
 > BEGIN STRING
 "愛の狂気"
-> CONTEXT: Scripts/RPG::Skill (message)/390:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/390:12
+"Love Madness"
 > END STRING
 
 > BEGIN STRING
 "愛の狂気に包まれた！"
-> CONTEXT: Scripts/RPG::Skill (message)/391:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/391:24
+" is in a love frenzy!"
 > END STRING
 
 > BEGIN STRING
@@ -17553,14 +17553,14 @@
 
 > BEGIN STRING
 "嫉妬の誘い"
-> CONTEXT: Scripts/RPG::Skill (message)/399:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/399:12
+"Temptation of Jealousy"
 > END STRING
 
 > BEGIN STRING
 "\#{target}にいちゃつき、\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/400:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/400:24
+" flirted with \#{target},\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -17572,13 +17572,13 @@
 > BEGIN STRING
 "強欲の誘い"
 > CONTEXT: Scripts/RPG::Skill (message)/402:12
-"Invitation to Jealousy"
+"Temptation of Greed"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の強欲を煽った！\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/403:24
-" incited \#{target}'s greed!\#{target}!\\n\\\\w[\\\\v[105]]"
+" incited \#{target}'s greed!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -17589,20 +17589,20 @@
 
 > BEGIN STRING
 "傲慢の誘い"
-> CONTEXT: Scripts/RPG::Skill (message)/405:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/405:12
+"Temptation of Arrogance"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の傲慢を煽った！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/406:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/406:24
+" encouraged \#{target}'s arrogance!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
 "根拠の無い自信が\#{target}を包む！"
-> CONTEXT: Scripts/RPG::Skill (message)/407:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/407:24
+"Unfounded confidence envelopes \#{target}!"
 > END STRING
 
 > BEGIN STRING
@@ -17770,8 +17770,8 @@
 
 > BEGIN STRING
 "乗っていた箱をけしかけてきた！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/425:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/425:24
+" kicked the box she was riding on!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -17789,7 +17789,7 @@
 > BEGIN STRING
 "暴食の箱が\\\\n[1]を襲う！"
 > CONTEXT: Scripts/RPG::Skill (message)/426:24
-"Gluttony's box attacks\\\\n[1]!"
+"Gluttony's box attacked \\\\n[1]!"
 > END STRING
 
 > BEGIN STRING
@@ -17807,7 +17807,7 @@
 > BEGIN STRING
 "箱の目から光線を放った！\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/428:24
-"A beam of light shot from the box's eye!\\n\\\\w[\\\\v[105]]"
+" shot a beam of light from the box's eye!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -20664,8 +20664,8 @@
 
 > BEGIN STRING
 "\#{target}のアソコに\\n\\\\w[\\\\v[104]]指を入れて愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/964:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/964:26
+" fingered \#{target}'s vagina\\n\\\\w[\\\\v[104]]and caressed her!"
 > END STRING
 
 > BEGIN STRING
@@ -20735,8 +20735,8 @@
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]舌で愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/974:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/974:26
+" caressed \#{target}'s vagina\\n\\\\w[\\\\v[104]]with her tongue!"
 > END STRING
 
 > BEGIN STRING
@@ -20786,9 +20786,9 @@
 
 > BEGIN STRING
 "\#{target}のアソコに\\n\\\\w[\\\\v[104]]舌を入れて愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/983:26 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/988:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/983:26
+> CONTEXT: Scripts/RPG::Skill (message)/988:26
+" licked and caressed\\n\\\\w[\\\\v[104]]\#{target}'s vagina!"
 > END STRING
 
 > BEGIN STRING
@@ -23734,20 +23734,20 @@
 
 > BEGIN STRING
 "勇者の技でサポートする"
-> CONTEXT: Scripts/Window_BattleCommand/260:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BattleCommand/260:18
+"Support with the skills of the hero"
 > END STRING
 
 > BEGIN STRING
 "狂気で世界の法則を乱す"
-> CONTEXT: Scripts/Window_BattleCommand/262:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BattleCommand/262:18
+"Disrupt the laws of the world with madness"
 > END STRING
 
 > BEGIN STRING
 "イタズラしちゃうよ☆"
-> CONTEXT: Scripts/Window_BattleCommand/264:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BattleCommand/264:18
+"Play pranks☆"
 > END STRING
 
 > BEGIN STRING

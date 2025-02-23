@@ -14,7 +14,7 @@ SQT_Dungeon_Kvalatte
 > BEGIN STRING
 「お前、酒場の看板の言葉を信じるか？
 > CONTEXT: Map480/events/4/pages/0/1/Dialogue
-"Do you believe what the bar sign says?
+「Do you believe what the bar sign says?
 > END STRING
 
 > BEGIN STRING
