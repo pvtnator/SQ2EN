@@ -47,15 +47,16 @@
 
 > BEGIN STRING
 「きゃーーーっ！
-> CONTEXT: Map433/events/7/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map433/events/7/pages/0/7/Dialogue
+「Kyaaah!
 > END STRING
 
 > BEGIN STRING
 「夢魔…そしてさっきの……
 　襲われとるのか？
-> CONTEXT: Map433/events/7/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map433/events/7/pages/0/40/Dialogue
+「Succubi, and the one from before...
+　Is it an attack?
 > END STRING
 
 > BEGIN STRING
@@ -71,14 +72,14 @@
 
 > BEGIN STRING
 「助けてっ！
-> CONTEXT: Map433/events/7/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map433/events/7/pages/0/43/Dialogue
+「Help!
 > END STRING
 
 > BEGIN STRING
 「大丈夫か？
-> CONTEXT: Map433/events/7/pages/0/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map433/events/7/pages/0/136/Dialogue
+「You okay?
 > END STRING
 
 > BEGIN STRING

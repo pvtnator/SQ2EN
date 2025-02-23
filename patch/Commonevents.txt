@@ -567,21 +567,22 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 
 > BEGIN STRING
 思い出をたくさん手に入れた！
-> CONTEXT: Commonevents/38/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/38/75/Dialogue
+Acquired lots of memories!
 > END STRING
 
 > BEGIN STRING
 
 \\i[300]\\c[4]忘れたくない\\c[0] と願えるようになった！
-> CONTEXT: Commonevents/38/77/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/38/77/Dialogue
 
+\\i[300]\\c[4]Don't Forget\\c[0] can now be wished for!
 > END STRING
 
 > BEGIN STRING
 どこかから黒猫の鳴き声が聞こえた気がした……
-> CONTEXT: Commonevents/44/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/44/11/Dialogue
+Sounded like a black cat somewhere...
 > END STRING
 
 > BEGIN STRING
@@ -1167,21 +1168,22 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「やぁん、いっぱぁいっ\\e[0]
-> CONTEXT: Commonevents/52/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/149/Dialogue
+\\a[\\v[105]]「Ooh, so much\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ほらほら、
 \\w[\\v[104]]　もっともっと出してぇ～～っ\\e[0]\\w[\\v[105]]
-> CONTEXT: Commonevents/52/150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/150/Dialogue
+\\a[\\v[105]]「Hora hora,
+\\w[\\v[104]]　I want much more～～\\e[0]\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あはははっ\\e[0]
-> CONTEXT: Commonevents/52/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/152/Dialogue
+\\a[\\v[105]]「Ahahahah\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1249,15 +1251,17 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「さあ行こう！
 \\w[\\v[105]]　夢の果てでまざりあおうっ\\e[0]
-> CONTEXT: Commonevents/52/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/190/Dialogue
+\\a[\\v[105]]「Now!
+\\w[\\v[105]]　Let's have sex to the end of dream\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ははははっ
 \\w[\\v[105]]　さあ、堕ちようよ……
-> CONTEXT: Commonevents/52/195/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/195/Dialogue
+\\a[\\v[105]]「Hahahah
+\\w[\\v[105]]　Now, let's fall to depravity
 > END STRING
 
 > BEGIN STRING
@@ -1984,20 +1988,20 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]全てのスキルのRECHARGEが1ターン戻った！
-> CONTEXT: Commonevents/76/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/76/9/Dialogue
+\\a[\\v[105]]RECHARGE of all skills went back by 1 turn!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]全てのスキルのRECHARGEが1ターン進んだ！
-> CONTEXT: Commonevents/77/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/77/9/Dialogue
+\\a[\\v[105]]RECHARGE of all skills advanced by 1 turn!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]しかし\#\\n[1]には効かなかった！
-> CONTEXT: Commonevents/78/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/78/2/Dialogue
+\\a[\\v[105]]But it didn't work on \#\\n[1]!
 > END STRING
 
 > BEGIN STRING
@@ -2161,8 +2165,8 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「きゃあっ……
-> CONTEXT: Commonevents/94/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/23/Dialogue
+\\a[\\v[105]]「Kyaah...
 > END STRING
 
 > BEGIN STRING
@@ -2433,9 +2437,9 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「ふっ………
-> CONTEXT: Commonevents/101/97/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/101/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/101/97/Dialogue
+> CONTEXT: Commonevents/101/108/Dialogue
+\\a[\\v[105]]「Hmm....
 > END STRING
 
 > BEGIN STRING
@@ -2479,8 +2483,9 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「行くぜ！
 　グングニルッ！！
-> CONTEXT: Commonevents/101/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/101/143/Dialogue
+\\a[\\v[105]]「Let's do it!
+　Gungnir!!
 > END STRING
 
 > BEGIN STRING
@@ -2688,8 +2693,8 @@ became a plaything!\\w[\\v[104]]
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]のリアリティが失われた！
-> CONTEXT: Commonevents/127/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/127/4/Dialogue
+\\a[\\v[105]]\\n[1] lost reality!
 > END STRING
 
 > BEGIN STRING
@@ -4362,14 +4367,15 @@ Hachlobs Burns
 > BEGIN STRING
 「ああ…\\n[1]様から
 　そんな言葉かけていただけるなんて…
-> CONTEXT: Commonevents/170/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/44/Dialogue
+「Ooh, I'm so happy to hear such words 
+　from you, Mr. \\n[1]...
 > END STRING
 
 > BEGIN STRING
 「夢なら、覚めたくないですぅ……
-> CONTEXT: Commonevents/170/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/46/Dialogue
+「If it's a dream, I don't want to wake up...
 > END STRING
 
 > BEGIN STRING
@@ -6552,61 +6558,65 @@ Use more words
 > BEGIN STRING
 「うふふ……
 　くすくす………
-> CONTEXT: Commonevents/191/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/191/12/Dialogue
+「Ehehe...
+　Ksks...
 > END STRING
 
 > BEGIN STRING
 「あなたのすべてを、
 　あたしにくれる……？
-> CONTEXT: Commonevents/191/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/191/19/Dialogue
+「Will you give me,
+　all of your...?
 > END STRING
 
 > BEGIN STRING
 「あたしにくれる……？」
-> CONTEXT: Commonevents/191/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/191/22/Dialogue
+「Will you give me...?」
 > END STRING
 
 > BEGIN STRING
 「きっとうそよ……
 　くすくす………
-> CONTEXT: Commonevents/191/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/191/28/Dialogue
+「Surely a lie...
+　Hehe...
 > END STRING
 
 > BEGIN STRING
 「ありがとう……
 　いっしょにいきましょおっ！
-> CONTEXT: Commonevents/191/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/191/35/Dialogue
+「Thanks...
+　Let's do it together!
 > END STRING
 
 > BEGIN STRING
 「その\\c[3]\\v[2]\\c[0]も……？
-> CONTEXT: Commonevents/191/53/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/191/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/191/53/Dialogue
+> CONTEXT: Commonevents/191/90/Dialogue
+「And your \\c[3]\\v[2]\\c[0] too...?
 > END STRING
 
 > BEGIN STRING
 「その\\c[3]\\v[2]\\c[0]も……？」
-> CONTEXT: Commonevents/191/55/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/191/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/191/55/Dialogue
+> CONTEXT: Commonevents/191/92/Dialogue
+「And your \\c[3]\\v[2]\\c[0] too...?」
 > END STRING
 
 > BEGIN STRING
 「うふふ……\\e[0]
-> CONTEXT: Commonevents/191/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/191/65/Dialogue
+「Ehehe...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「そう…じゃあ………
-> CONTEXT: Commonevents/191/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/191/114/Dialogue
+「Right...then...
 > END STRING
 
 > BEGIN STRING
@@ -6618,20 +6628,20 @@ Use more words
 
 > BEGIN STRING
 「あ…ああっ……
-> CONTEXT: Commonevents/193/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/193/3/Dialogue
+「A-aaah...
 > END STRING
 
 > BEGIN STRING
 「しね！
-> CONTEXT: Commonevents/193/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/193/11/Dialogue
+「Die!
 > END STRING
 
 > BEGIN STRING
 「しね！」
-> CONTEXT: Commonevents/193/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/193/13/Dialogue
+「Die!」
 > END STRING
 
 > BEGIN STRING
@@ -6746,151 +6756,156 @@ Use more words
 
 > BEGIN STRING
 「あ…、もしかして、君、
-> CONTEXT: Commonevents/194/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/79/Dialogue
+「Oh...maybe, you,
 > END STRING
 
 > BEGIN STRING
 「僕のなくしものを
 　返してくれるのかな？
-> CONTEXT: Commonevents/194/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/80/Dialogue
+「will give me back 
+　what I lost?
 > END STRING
 
 > BEGIN STRING
 「なくしものを返してくれるのかな？」
-> CONTEXT: Commonevents/194/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/84/Dialogue
+「Will you give me back what I lost?」
 > END STRING
 
 > BEGIN STRING
 「何も持ってないじゃないか！
-> CONTEXT: Commonevents/194/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/90/Dialogue
+「You don't have anything!
 > END STRING
 
 > BEGIN STRING
 「ありがとう！
 　\\c[3]\\v[2]\\c[0]を返してくれるんだね！
-> CONTEXT: Commonevents/194/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/95/Dialogue
+「Thank you!
+　Give \\c[3]\\v[2]\\c[0] back!
 > END STRING
 
 > BEGIN STRING
 「\\c[3]\\v[2]\\c[0]を返してくれるんだね！」
-> CONTEXT: Commonevents/194/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/98/Dialogue
+「Give \\c[3]\\v[2]\\c[0] back！」
 > END STRING
 
 > BEGIN STRING
 「ありがとう！
-> CONTEXT: Commonevents/194/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/107/Dialogue
+「Thanks!
 > END STRING
 
 > BEGIN STRING
 「どろぼう！
-> CONTEXT: Commonevents/194/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/124/Dialogue
+「Thief!
 > END STRING
 
 > BEGIN STRING
 「……素敵だ！
-> CONTEXT: Commonevents/194/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/143/Dialogue
+「...Lovely!
 > END STRING
 
 > BEGIN STRING
 「むつかしい言葉、わかんない！
-> CONTEXT: Commonevents/195/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/14/Dialogue
+「Difficult words, I don't understand!
 > END STRING
 
 > BEGIN STRING
 「お兄さん、キモチよくなりたいの？
-> CONTEXT: Commonevents/195/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/19/Dialogue
+「Wanna feel good big man?
 > END STRING
 
 > BEGIN STRING
 「お兄さん、キモチよくなりたいの？」
-> CONTEXT: Commonevents/195/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/21/Dialogue
+「Wanna feel good big man?」
 > END STRING
 
 > BEGIN STRING
 「じゃあヤっちゃうよぅ！
-> CONTEXT: Commonevents/195/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/26/Dialogue
+「Then let's do it!
 > END STRING
 
 > BEGIN STRING
 「お兄さん、変態さん？
-> CONTEXT: Commonevents/195/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/32/Dialogue
+「Are you a pervert, big man?
 > END STRING
 
 > BEGIN STRING
 「お兄さん、変態さん？」
-> CONTEXT: Commonevents/195/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/34/Dialogue
+「Are you a pervert, big man?」
 > END STRING
 
 > BEGIN STRING
 「いっしょにおかしくなろっかぁ！
-> CONTEXT: Commonevents/195/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/39/Dialogue
+「Let's get crazy together!
 > END STRING
 
 > BEGIN STRING
 「\\n[27]、ちょっとおなかすいたなぁ。
-> CONTEXT: Commonevents/195/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/76/Dialogue
+「\\n[27], I'm a little hungry.
 > END STRING
 
 > BEGIN STRING
 「何か甘いモノちょうだい！
-> CONTEXT: Commonevents/195/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/77/Dialogue
+「Give me something sweet!
 > END STRING
 
 > BEGIN STRING
 「何か甘いモノちょうだい！」
-> CONTEXT: Commonevents/195/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/82/Dialogue
+「Give me something sweet!」
 > END STRING
 
 > BEGIN STRING
 「何も持ってないじゃん！
 　うそつき！
-> CONTEXT: Commonevents/195/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/88/Dialogue
+「You don't have anything!
+　You're lying!
 > END STRING
 
 > BEGIN STRING
 「悪い子してると、
 　おしおきされちゃうよ！？
-> CONTEXT: Commonevents/195/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/91/Dialogue
+「If you're a bad boy,
+　you'll get punished!
 > END STRING
 
 > BEGIN STRING
 「\\n[27]、その
 　\\c[3]\\v[2]\\c[0]が食べたいな\\e[0]
-> CONTEXT: Commonevents/195/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/102/Dialogue
+「\\n[27], I want to eat that
+\\c[3]\\v[2]\\c[0]\\e[0]
 > END STRING
 
 > BEGIN STRING
 「\\c[3]\\v[2]\\c[0]が食べたいな\\e[0]」
-> CONTEXT: Commonevents/195/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/105/Dialogue
+「I want to eat \\c[3]\\v[2]\\c[0]\\e[0]」
 > END STRING
 
 > BEGIN STRING
 「わぁ、ありがと！！
-> CONTEXT: Commonevents/195/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/110/Dialogue
+「Wah, thanks!!
 > END STRING
 
 > BEGIN STRING

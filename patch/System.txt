@@ -820,8 +820,8 @@ Lv.3ランダムトレジャー
 
 > BEGIN STRING
 〔指南書〕
-> CONTEXT: System/elements/123/ < UNTRANSLATED
-
+> CONTEXT: System/elements/123/
+[Manual]
 > END STRING
 
 > BEGIN STRING

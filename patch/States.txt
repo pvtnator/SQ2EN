@@ -13,8 +13,8 @@
 
 > BEGIN STRING
 衰弱
-> CONTEXT: States/3/name/ < UNTRANSLATED
-
+> CONTEXT: States/3/name/
+Weak
 > END STRING
 
 > BEGIN STRING

@@ -30,96 +30,105 @@ Can't go any further now
 > BEGIN STRING
 「どこへ行きたい？
 　どこへ行きたい？
-> CONTEXT: Map472/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/2/pages/0/1/Dialogue
+「Where will you go?
+　Where do you want to go?
 > END STRING
 
 > BEGIN STRING
 「どこへ行くの？
 　どこへ行きたい？
-> CONTEXT: Map472/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map472/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/3/pages/0/1/Dialogue
+> CONTEXT: Map472/events/7/pages/0/1/Dialogue
+「Where are you going?
+　Where do you want to go?
 > END STRING
 
 > BEGIN STRING
 「どこまで行くの？
 　どこへ行きたい？
-> CONTEXT: Map472/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map472/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/4/pages/0/1/Dialogue
+> CONTEXT: Map472/events/6/pages/0/1/Dialogue
+「How far are you going?
+　Where do you want to go?
 > END STRING
 
 > BEGIN STRING
 「どこから行こう？
 　どこへ行きたい？
-> CONTEXT: Map472/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/5/pages/0/1/Dialogue
+「Where will you start?
+　Where do you want to go?
 > END STRING
 
 > BEGIN STRING
 「どこから来たの？
 　どこへ行きたい？
-> CONTEXT: Map472/events/8/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/8/pages/0/1/Dialogue
+「Where are you from? 
+　Where do you want to go?
 > END STRING
 
 > BEGIN STRING
 "カッチュウ"
-> CONTEXT: Map472/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map472/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map472/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map472/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map472/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map472/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map472/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map472/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map472/events/9/pages/0/0/InlineScript/1:4
+> CONTEXT: Map472/events/10/pages/0/0/InlineScript/1:4
+> CONTEXT: Map472/events/11/pages/0/0/InlineScript/1:4
+> CONTEXT: Map472/events/12/pages/0/0/InlineScript/1:4
+> CONTEXT: Map472/events/13/pages/0/0/InlineScript/1:4
+> CONTEXT: Map472/events/14/pages/0/0/InlineScript/1:4
+> CONTEXT: Map472/events/15/pages/0/0/InlineScript/1:4
+> CONTEXT: Map472/events/16/pages/0/0/InlineScript/1:4
+"Armor"
 > END STRING
 
 > BEGIN STRING
 「ガシャン！ガシャン！
-> CONTEXT: Map472/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map472/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/9/pages/0/1/Dialogue
+> CONTEXT: Map472/events/10/pages/0/1/Dialogue
+「Clang! Clang!
 > END STRING
 
 > BEGIN STRING
 「ドカ！バキ！
 　ガスッ！
-> CONTEXT: Map472/events/11/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/11/pages/0/1/Dialogue
+「Thud! Crack!
+　Smack!
 > END STRING
 
 > BEGIN STRING
 「シーン………
-> CONTEXT: Map472/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/12/pages/0/1/Dialogue
+「*Pause*...
 > END STRING
 
 > BEGIN STRING
 「ガシャ！
 　ガシャシャシャシャ！
-> CONTEXT: Map472/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/13/pages/0/1/Dialogue
+「Clang!
+　Clang-clang-clang-clang!
 > END STRING
 
 > BEGIN STRING
 「ガシャン！
 　ウィー……………
 　ガシャン！
-> CONTEXT: Map472/events/14/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/14/pages/0/1/Dialogue
+「Clang!
+　*Creak*......
+　Clang!
 > END STRING
 
 > BEGIN STRING
 「ガシャガシャ！
-> CONTEXT: Map472/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/15/pages/0/1/Dialogue
+「Clang-clang!
 > END STRING
 
 > BEGIN STRING
 「チャキィィィン！
-> CONTEXT: Map472/events/16/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/16/pages/0/1/Dialogue
+「Shiiing!
 > END STRING

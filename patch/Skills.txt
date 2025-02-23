@@ -2225,10 +2225,10 @@ Destined Kiss
 
 > BEGIN STRING
 魅力アップ(エネミー用)
-> CONTEXT: Skills/289/description/ < UNTRANSLATED
-> CONTEXT: Skills/305/description/ < UNTRANSLATED
-> CONTEXT: Skills/310/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/289/description/
+> CONTEXT: Skills/305/description/
+> CONTEXT: Skills/310/description/
+Charm Up
 > END STRING
 
 > BEGIN STRING
@@ -3394,8 +3394,8 @@ Angel Arrow
 
 > BEGIN STRING
 クィーンズボンデージ
-> CONTEXT: Skills/449/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/449/name/
+Queens Bondage
 > END STRING
 
 > BEGIN STRING
@@ -3418,26 +3418,26 @@ Angel Arrow
 
 > BEGIN STRING
 ロマンスキッス
-> CONTEXT: Skills/452/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/452/name/
+Romance Kiss
 > END STRING
 
 > BEGIN STRING
 時進め
-> CONTEXT: Skills/453/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/453/name/
+Advance Time
 > END STRING
 
 > BEGIN STRING
 時戻し
-> CONTEXT: Skills/454/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/454/name/
+Turn Back Time
 > END STRING
 
 > BEGIN STRING
 グラトニーボックス
-> CONTEXT: Skills/455/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/455/name/
+Gluttony Box
 > END STRING
 
 > BEGIN STRING
@@ -4115,8 +4115,8 @@ Sense Ether
 
 > BEGIN STRING
 センシブ解除 / ナーバス解除
-> CONTEXT: Skills/689/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/689/description/
+Sensitive / Nervous Recovery
 > END STRING
 
 > BEGIN STRING

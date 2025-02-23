@@ -2,11 +2,12 @@
 > BEGIN STRING
 
 \\i[62]\\c[3]デイドリーマー\\c[0] をみつけた！
-> CONTEXT: Map465/events/8/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map465/events/8/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/9/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/9/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/4/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/4/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map465/events/8/pages/0/3/Dialogue
+> CONTEXT: Map465/events/8/pages/0/20/Dialogue
+> CONTEXT: Map432/events/9/pages/0/3/Dialogue
+> CONTEXT: Map432/events/9/pages/0/20/Dialogue
+> CONTEXT: Map009/events/4/pages/0/3/Dialogue
+> CONTEXT: Map009/events/4/pages/0/20/Dialogue
 
+\\i[62]\\c[3]Daydreamer\\c[0] found!
 > END STRING

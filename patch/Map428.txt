@@ -40,7 +40,7 @@
 「アイゼクト・ヴィルノイズ、
 　王都生まれ。
 > CONTEXT: Map428/events/3/pages/0/132/Dialogue
-「Ayxect Vilnoise,
+「Ayxect Vilnoiz,
 　From the Royal Capital.
 > END STRING
 

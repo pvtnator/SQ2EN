@@ -498,29 +498,33 @@ EV_メルヤ
 > BEGIN STRING
 「アイゼクト様、これって普通のこと？
 　恋人同士のひとがやるみたいに？
-> CONTEXT: Troops/9/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/9/pages/0/14/Dialogue
+「Mr. Ayxect, is this normal? 
+　Like what lovers do?
 > END STRING
 
 > BEGIN STRING
 「それともあたし、
 　もっと\\dいけない\\dこと
 　してるんですか？
-> CONTEXT: Troops/9/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/9/pages/0/16/Dialogue
+「Or am I...
+　doing something
+　even more \\naughty\\?
 > END STRING
 
 > BEGIN STRING
 「んん、答えないでください。
-> CONTEXT: Troops/9/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/9/pages/0/22/Dialogue
+「No, don't tell me.
 > END STRING
 
 > BEGIN STRING
 「今だけ、もっと、
 　夢の中に……
-> CONTEXT: Troops/9/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/9/pages/0/23/Dialogue
+「Fow now, more,
+　in the dream...
 > END STRING
 
 > BEGIN STRING

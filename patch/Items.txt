@@ -381,7 +381,7 @@ Book Page
 > BEGIN STRING
 今ブックシェルフに入っている本の一頁　リアリティを高める
 > CONTEXT: Items/46/description/
-A page from a book on your bookshelf - Enhance reality
+A page from a book on your bookshelf - Increase reality
 > END STRING
 
 > BEGIN STRING
@@ -429,8 +429,8 @@ Flame that removes 1 effect from equipment
 
 > BEGIN STRING
 精神の浄火
-> CONTEXT: Items/50/name/ < UNTRANSLATED
-
+> CONTEXT: Items/50/name/
+Mind Purifying Fire
 > END STRING
 
 > BEGIN STRING
@@ -1424,14 +1424,14 @@ White Rabbit Adventure 2
 
 > BEGIN STRING
 門番日誌
-> CONTEXT: Items/168/name/ < UNTRANSLATED
-
+> CONTEXT: Items/168/name/
+Gatekeeper's Journal
 > END STRING
 
 > BEGIN STRING
 〔史書〕 地獄の門番のつけた日誌
-> CONTEXT: Items/168/description/ < UNTRANSLATED
-
+> CONTEXT: Items/168/description/
+[History] The Diary of the Guardian of Hell
 > END STRING
 
 > BEGIN STRING

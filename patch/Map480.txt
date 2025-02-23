@@ -7,35 +7,38 @@ SQT_Dungeon_Kvalatte
 
 > BEGIN STRING
 "酒場の看板"
-> CONTEXT: Map480/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map480/events/4/pages/0/0/InlineScript/1:4
+"Bar Sign"
 > END STRING
 
 > BEGIN STRING
 「お前、酒場の看板の言葉を信じるか？
-> CONTEXT: Map480/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map480/events/4/pages/0/1/Dialogue
+"Do you believe what the bar sign says?
 > END STRING
 
 > BEGIN STRING
 「こんなところにぶら下がってる……
 　酒場の看板なんかの言葉を……
-> CONTEXT: Map480/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map480/events/4/pages/0/2/Dialogue
+「Hanging in a place like this...
+　The words on a bar sign...
 > END STRING
 
 > BEGIN STRING
 「もし信じるのなら、いいか、
 　必要なのは百の夢の力だ。
-> CONTEXT: Map480/events/4/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map480/events/4/pages/0/4/Dialogue
+「If you believe, then remember,
+　all you need is the power of a hundred dreams.
 > END STRING
 
 > BEGIN STRING
 「信じる信じないは……
 　お前の自由だぜ……
-> CONTEXT: Map480/events/4/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map480/events/4/pages/0/6/Dialogue
+「Whether you believe it or not...
+　is up to you...
 > END STRING
 
 > BEGIN STRING
@@ -61,10 +64,10 @@ SQT_Dungeon_Kvalatte
 
 > BEGIN STRING
 扉は硬く閉ざされ、開きそうにない……
-> CONTEXT: Map480/events/6/pages/0/24/Dialogue < UNTRANSLATED
-> CONTEXT: Map480/events/7/pages/0/24/Dialogue < UNTRANSLATED
-> CONTEXT: Map480/events/8/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map480/events/6/pages/0/24/Dialogue
+> CONTEXT: Map480/events/7/pages/0/24/Dialogue
+> CONTEXT: Map480/events/8/pages/0/24/Dialogue
+The door is firmly shut and unlikely to open...
 > END STRING
 
 > BEGIN STRING

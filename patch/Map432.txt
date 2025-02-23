@@ -1,38 +1,38 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "胸像"
-> CONTEXT: Map432/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map432/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map432/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map432/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map432/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map432/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map432/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map432/events/1/pages/0/0/InlineScript/1:4
+> CONTEXT: Map432/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map432/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map432/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map432/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map432/events/6/pages/0/0/InlineScript/1:4
+> CONTEXT: Map432/events/7/pages/0/0/InlineScript/1:4
+"Bust"
 > END STRING
 
 > BEGIN STRING
 「んふっ
-> CONTEXT: Map432/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map432/events/1/pages/0/1/Dialogue
+「Mhm
 > END STRING
 
 > BEGIN STRING
 「うほっ
-> CONTEXT: Map432/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map432/events/2/pages/0/1/Dialogue
+「Uhoh
 > END STRING
 
 > BEGIN STRING
 「くすくす……
-> CONTEXT: Map432/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map432/events/3/pages/0/1/Dialogue
+「Ksks...
 > END STRING
 
 > BEGIN STRING
 「えへへへへへへへへ
-> CONTEXT: Map432/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map432/events/4/pages/0/1/Dialogue
+「Ehehehehehehe
 > END STRING
 
 > BEGIN STRING
@@ -43,14 +43,14 @@
 
 > BEGIN STRING
 「あうっ
-> CONTEXT: Map432/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map432/events/6/pages/0/1/Dialogue
+「Auu
 > END STRING
 
 > BEGIN STRING
 「いやん
-> CONTEXT: Map432/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map432/events/7/pages/0/1/Dialogue
+「Yahh
 > END STRING
 
 > BEGIN STRING
@@ -66,25 +66,26 @@
 
 > BEGIN STRING
 「サフィ……？
-> CONTEXT: Map432/events/21/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/22/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/23/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map432/events/21/pages/0/19/Dialogue
+> CONTEXT: Map432/events/22/pages/0/19/Dialogue
+> CONTEXT: Map432/events/23/pages/0/19/Dialogue
+「Thafi...?
 > END STRING
 
 > BEGIN STRING
 「いや……
 　似とる…が……
-> CONTEXT: Map432/events/21/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/22/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/23/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map432/events/21/pages/0/20/Dialogue
+> CONTEXT: Map432/events/22/pages/0/20/Dialogue
+> CONTEXT: Map432/events/23/pages/0/20/Dialogue
+「No...
+　Similar...but...
 > END STRING
 
 > BEGIN STRING
 「む、おい……
-> CONTEXT: Map432/events/21/pages/0/46/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/22/pages/0/46/Dialogue < UNTRANSLATED
-> CONTEXT: Map432/events/23/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map432/events/21/pages/0/46/Dialogue
+> CONTEXT: Map432/events/22/pages/0/46/Dialogue
+> CONTEXT: Map432/events/23/pages/0/47/Dialogue
+「Hm, hey...
 > END STRING

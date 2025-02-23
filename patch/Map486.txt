@@ -31,15 +31,16 @@ But I'm too full to carry any more...
 
 > BEGIN STRING
 「メルヤ…？
-> CONTEXT: Map486/events/20/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/10/Dialogue
+「Merja...?
 > END STRING
 
 > BEGIN STRING
 「何じゃ？
 　いつの間にそこにおる？
-> CONTEXT: Map486/events/20/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/14/Dialogue
+「What?
+　When did you get there?
 > END STRING
 
 > BEGIN STRING
@@ -100,72 +101,78 @@ But I'm too full to carry any more...
 
 > BEGIN STRING
 「\\n[1]様………
-> CONTEXT: Map486/events/20/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/24/Dialogue
+「Mr. \\n[1].....
 > END STRING
 
 > BEGIN STRING
 「……メルヤ？
-> CONTEXT: Map486/events/20/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/26/Dialogue
+「...Merja?
 > END STRING
 
 > BEGIN STRING
 「あたしね、大好きなんです。
 　\\dいけない\\d恋のお話。
-> CONTEXT: Map486/events/20/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/28/Dialogue
+「You know, I'm in love.
+　A story of \\dforbidden\\d love.
 > END STRING
 
 > BEGIN STRING
 「歪んだ恋のお話……
 　結ばれない恋のお話……
-> CONTEXT: Map486/events/20/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/30/Dialogue
+「A story of twisted love...
+　A story of unrequited love...
 > END STRING
 
 > BEGIN STRING
 「そしてあたしもそんな、
 　いけないヒロインの一人……
 　…でもそれで満足してた。
-> CONTEXT: Map486/events/20/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/32/Dialogue
+「And I'm like that, too.
+　One of the naughty heroines...
+　...But I was satisfied with that.
 > END STRING
 
 > BEGIN STRING
 「満足してた………
 　……はずなのに…
-> CONTEXT: Map486/events/20/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/44/Dialogue
+「I was satisfied...
+　...but I should have been...
 > END STRING
 
 > BEGIN STRING
 「\\n[1]…様ぁ……っ！
-> CONTEXT: Map486/events/20/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/53/Dialogue
+「Mr. \\n[1]...!
 > END STRING
 
 > BEGIN STRING
 「……メルヤ、おるのか？
-> CONTEXT: Map486/events/20/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/71/Dialogue
+「...Merja, are you there?
 > END STRING
 
 > BEGIN STRING
 「はぁい？
-> CONTEXT: Map486/events/20/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/91/Dialogue
+「Yees?
 > END STRING
 
 > BEGIN STRING
 「……………………
 　…いや、何でもない。
-> CONTEXT: Map486/events/20/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/93/Dialogue
+「........
+　..No, nothing.
 > END STRING
 
 > BEGIN STRING
 「はぁい\\e[0]
-> CONTEXT: Map486/events/20/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map486/events/20/pages/0/96/Dialogue
+「Yees\\e[0]
 > END STRING
