@@ -53,8 +53,8 @@
 
 > BEGIN STRING
 「お……思い出し……た………
-> CONTEXT: Map030/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map030/events/15/pages/0/1/Dialogue
+"Dornus Soldier"
 > END STRING
 
 > BEGIN STRING

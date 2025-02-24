@@ -398,39 +398,41 @@ No
 > BEGIN STRING
 「おひとつ、いかが？
 > CONTEXT: Map483/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+「Would you like one?
 > END STRING
 
 > BEGIN STRING
 「あら、持ち物がいっぱいね。
 > CONTEXT: Map483/events/7/pages/0/3/Dialogue < UNTRANSLATED
-
+「Oh, you carry too much.
 > END STRING
 
 > BEGIN STRING
 「おいしいわよ\\e[0]
 > CONTEXT: Map483/events/7/pages/0/10/Dialogue < UNTRANSLATED
-
+「It's delicious\\e[0]
 > END STRING
 
 > BEGIN STRING
 "混乱する男"
 > CONTEXT: Map483/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Confused Man"
 > END STRING
 
 > BEGIN STRING
 「クヴァラットミルクは、実は
 　クヴァラットで作ってるわけじゃない。
 > CONTEXT: Map483/events/8/pages/0/1/Dialogue < UNTRANSLATED
-
+「Kvalatte Milk is not actually
+　made in Kvalatte.
 > END STRING
 
 > BEGIN STRING
 「そもそも、実際に
 　クヴァラットなんて町は無い……
 > CONTEXT: Map483/events/8/pages/0/3/Dialogue < UNTRANSLATED
-
+「First of all, 
+　there is no town called Kvalatte...
 > END STRING
 
 > BEGIN STRING
@@ -438,14 +440,16 @@ No
 　少し大人になれたような
 　気がしたもんさ。
 > CONTEXT: Map483/events/8/pages/0/5/Dialogue < UNTRANSLATED
-
+「...When I found that out, 
+　I felt like I'd grown up a little.
 > END STRING
 
 > BEGIN STRING
 「俺今、どこにいるんだ？
 　俺、どうなっちまってるんだ？
 > CONTEXT: Map483/events/8/pages/0/8/Dialogue < UNTRANSLATED
-
+「Where am I now? 
+　What's happening to me?
 > END STRING
 
 > BEGIN STRING
@@ -471,13 +475,13 @@ No
 > BEGIN STRING
 「おいしいよ！
 > CONTEXT: Map483/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+「Delicious!
 > END STRING
 
 > BEGIN STRING
 「ンメェ～～ッ
 > CONTEXT: Map483/events/9/pages/0/3/Dialogue < UNTRANSLATED
-
+「Baa～～
 > END STRING
 
 > BEGIN STRING
@@ -490,14 +494,16 @@ No
 「ここは蜜と乳流れる地、
 　理想郷クヴァラット。
 > CONTEXT: Map483/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+「This is Kvalatte, 
+　a land flowing with honey and milk.
 > END STRING
 
 > BEGIN STRING
 「有名じゃよ。
 　おぬしもやっと来れたのう。
 > CONTEXT: Map483/events/10/pages/0/3/Dialogue < UNTRANSLATED
-
+「It’s famous.
+　You’ve finally made it here too.
 > END STRING
 
 > BEGIN STRING
@@ -510,40 +516,43 @@ No
 「そこは蜜と乳流れる地、
 　理想郷クヴァラット。
 > CONTEXT: Map483/events/11/pages/0/1/Dialogue < UNTRANSLATED
-
+「There's a place flowing with honey and milk, 
+　the utopia of Kvalatte.
 > END STRING
 
 > BEGIN STRING
 「有名じゃよ。
 　おぬしもいつか行けるかのう。
 > CONTEXT: Map483/events/11/pages/0/3/Dialogue < UNTRANSLATED
-
+「It's famous. 
+　Maybe you can go someday too.
 > END STRING
 
 > BEGIN STRING
 「クヴァラットの町へようこそ！
 > CONTEXT: Map483/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+「Welcome to the town of Kvalatte!
 > END STRING
 
 > BEGIN STRING
 「ンメェェェ～ッ
 > CONTEXT: Map483/events/12/pages/0/3/Dialogue < UNTRANSLATED
-
+「Baah～
 > END STRING
 
 > BEGIN STRING
 "釣りをする悪魔"
 > CONTEXT: Map483/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map483/events/24/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Fishing Devil"
 > END STRING
 
 > BEGIN STRING
 「……ん？
 　オマエも釣り、するか？
 > CONTEXT: Map483/events/15/pages/0/5/Dialogue < UNTRANSLATED
-
+「...Hm?
+　You want to fish too?
 > END STRING
 
 > BEGIN STRING
@@ -551,13 +560,15 @@ No
 　オマエそういうの、
 　あんまりスキそうじゃないな。
 > CONTEXT: Map483/events/15/pages/0/7/Dialogue < UNTRANSLATED
-
+「...Well, I guess 
+　you don't really like 
+　that sort of thing.
 > END STRING
 
 > BEGIN STRING
 「おっと違った！
 > CONTEXT: Map483/events/16/pages/0/15/Dialogue < UNTRANSLATED
-
+「Oops my bad!
 > END STRING
 
 > BEGIN STRING
@@ -566,35 +577,39 @@ No
 > CONTEXT: Map483/events/18/pages/0/6/Dialogue < UNTRANSLATED
 > CONTEXT: Map483/events/19/pages/0/7/Dialogue < UNTRANSLATED
 > CONTEXT: Map483/events/20/pages/0/4/Dialogue < UNTRANSLATED
-
+「Baa～～
 > END STRING
 
 > BEGIN STRING
 「蜜と乳流れる地、
 　理想郷クヴァラット！
 > CONTEXT: Map483/events/17/pages/0/1/Dialogue < UNTRANSLATED
-
+「Kvalatte, 
+　the land flowing with honey and milk!
 > END STRING
 
 > BEGIN STRING
 「…って、ミルクの広告じゃない。
 　へんなの！
 > CONTEXT: Map483/events/17/pages/0/3/Dialogue < UNTRANSLATED
-
+「...But there's no advertisements for milk.
+　That's weird!
 > END STRING
 
 > BEGIN STRING
 「よく来たね！
 　ほんとうに！
 > CONTEXT: Map483/events/18/pages/0/1/Dialogue < UNTRANSLATED
-
+「Nice to meet you!
+　Really!
 > END STRING
 
 > BEGIN STRING
 「苦難の果てには、理想郷！
 　当たり前さ！
 > CONTEXT: Map483/events/18/pages/0/3/Dialogue < UNTRANSLATED
-
+「At the end of all hardships 
+　lies a utopia! Of course!
 > END STRING
 
 > BEGIN STRING
@@ -615,13 +630,13 @@ No
 > BEGIN STRING
 「ここはクヴァラット、全ての人の理想郷。
 > CONTEXT: Map483/events/20/pages/0/1/Dialogue < UNTRANSLATED
-
+「This is Kvalatte, a utopia for everyone.
 > END STRING
 
 > BEGIN STRING
 「君はここに、何が見える？
 > CONTEXT: Map483/events/20/pages/0/2/Dialogue < UNTRANSLATED
-
+「What do you see here?
 > END STRING
 
 > BEGIN STRING
@@ -633,69 +648,72 @@ No
 > BEGIN STRING
 「何だね、君は…？
 > CONTEXT: Map483/events/22/pages/0/1/Dialogue < UNTRANSLATED
-
+「Huh, you...?
 > END STRING
 
 > BEGIN STRING
 「ジャマしないでくれたまえ、
 　私と彼女の、おお！
 > CONTEXT: Map483/events/22/pages/0/2/Dialogue < UNTRANSLATED
-
+「Please don't get in the way 
+　of me and her, oh!
 > END STRING
 
 > BEGIN STRING
 「この甘いひととき…！
 > CONTEXT: Map483/events/22/pages/0/4/Dialogue < UNTRANSLATED
-
+「This sweet moment...!
 > END STRING
 
 > BEGIN STRING
 「メェ～～～\\e[0]
 > CONTEXT: Map483/events/23/pages/0/2/Dialogue < UNTRANSLATED
-
+「Baa～～～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「……何釣ってんだ、って？
 > CONTEXT: Map483/events/24/pages/0/5/Dialogue < UNTRANSLATED
-
+「...What am I fishing for?
 > END STRING
 
 > BEGIN STRING
 「魚さ。決まってるだろう。
 　何だと思った？
 > CONTEXT: Map483/events/24/pages/0/6/Dialogue < UNTRANSLATED
-
+「Fish, obviously. 
+　What did you think?
 > END STRING
 
 > BEGIN STRING
 「こういうの、
 　やりたかったのさ。
 > CONTEXT: Map483/events/24/pages/0/8/Dialogue < UNTRANSLATED
-
+「This is what I wanted to do.
 > END STRING
 
 > BEGIN STRING
 "独りの男"
 > CONTEXT: Map483/events/25/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Lonely Man"
 > END STRING
 
 > BEGIN STRING
 「うそっぱちさ。理想郷なんて。
 　だって彼女がいないもの。
 > CONTEXT: Map483/events/25/pages/0/1/Dialogue < UNTRANSLATED
-
+「It's a lie. A utopia.
+　I still don't have a girlfriend.
 > END STRING
 
 > BEGIN STRING
 「でも何でだろう、あれ？
 > CONTEXT: Map483/events/25/pages/0/3/Dialogue < UNTRANSLATED
-
+「But why?
 > END STRING
 
 > BEGIN STRING
 「そこに彼女がいるような……
 > CONTEXT: Map483/events/25/pages/0/4/Dialogue < UNTRANSLATED
-
+「It's like she's there...
 > END STRING

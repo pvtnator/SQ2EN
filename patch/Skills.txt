@@ -3177,7 +3177,7 @@ Fate Reversal
 > BEGIN STRING
 ソウルスナップ
 > CONTEXT: Skills/418/name/ < UNTRANSLATED
-
+Soul Snap
 > END STRING
 
 > BEGIN STRING
@@ -3255,25 +3255,25 @@ Summersolstice Magic
 > BEGIN STRING
 分身の術
 > CONTEXT: Skills/427/name/ < UNTRANSLATED
-
+Clone Technique
 > END STRING
 
 > BEGIN STRING
 霞扇子
 > CONTEXT: Skills/428/name/ < UNTRANSLATED
-
+Haze Fan
 > END STRING
 
 > BEGIN STRING
 百雷筒
 > CONTEXT: Skills/429/name/ < UNTRANSLATED
-
+Hundred Lightning Cannon
 > END STRING
 
 > BEGIN STRING
 悪夢
 > CONTEXT: Skills/430/name/ < UNTRANSLATED
-
+Nightmare
 > END STRING
 
 > BEGIN STRING
@@ -3400,8 +3400,8 @@ Queens Bondage
 
 > BEGIN STRING
 金剛の瞳
-> CONTEXT: Skills/450/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/450/name/
+Adamantine Eyes
 > END STRING
 
 > BEGIN STRING
@@ -3412,8 +3412,8 @@ Queens Bondage
 
 > BEGIN STRING
 柘榴の瞳
-> CONTEXT: Skills/451/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/451/name/
+Pomegranate Eyes
 > END STRING
 
 > BEGIN STRING
@@ -3461,8 +3461,8 @@ Sloth Blast
 
 > BEGIN STRING
 運命検閲
-> CONTEXT: Skills/458/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/458/name/
+Fate Censored
 > END STRING
 
 > BEGIN STRING

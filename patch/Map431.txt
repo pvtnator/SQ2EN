@@ -202,7 +202,7 @@ Left the books with Merja!
 　メルヤ・マイエル
 > CONTEXT: Map431/events/1/pages/0/175/Dialogue
 「Very well.
-　Merja Mayer
+　Merja Majer
 > END STRING
 
 > BEGIN STRING

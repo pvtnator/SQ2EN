@@ -2,7 +2,7 @@
 > BEGIN STRING
 「おう、何か要るかい？
 > CONTEXT: Map010/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+「Hey, you need anything?
 > END STRING
 
 > BEGIN STRING
@@ -31,14 +31,16 @@
 > CONTEXT: Commonevents/253/22/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Commonevents/253/32/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Commonevents/256/3/InlineScript/1:4 < UNTRANSLATED
-
+"Sitri/Sitri"
 > END STRING
 
 > BEGIN STRING
 「夢の頁は、幾重にも
 　めくれどめくれど、終わり無し…
 > CONTEXT: Map010/events/4/pages/0/52/Dialogue < UNTRANSLATED
-
+「The pages of a dream, 
+　no matter how many times they are 
+　turned over, there is no end to them...
 > END STRING
 
 > BEGIN STRING
@@ -46,7 +48,9 @@
 　我が主人公！盲目の
 　読み手と共に
 > CONTEXT: Map010/events/4/pages/0/54/Dialogue < UNTRANSLATED
-
+「Will you be happy? 
+　Oh, my hero! 
+　Together with the blind reader!
 > END STRING
 
 > BEGIN STRING
@@ -54,7 +58,9 @@
 　頁の裏なら、話はまた別……
 　ふふふふふふふ！
 > CONTEXT: Map010/events/4/pages/0/57/Dialogue < UNTRANSLATED
-
+「You turn the pages of a dream, 
+　but on the other side of the page 
+　it's a different story... Hehehehehe!
 > END STRING
 
 > BEGIN STRING
@@ -62,7 +68,9 @@
 　ここは我が部屋、ここのみは、
 　物語の外の場所。
 > CONTEXT: Map010/events/4/pages/0/60/Dialogue < UNTRANSLATED
-
+「Welcome!
+　This is my room,
+　this is the only place outside of the story.
 > END STRING
 
 > BEGIN STRING
@@ -70,21 +78,25 @@
 　そこに\\dしるし\\dがありさえすれば、
 　彼女は君の思いのまま……
 > CONTEXT: Map010/events/4/pages/0/63/Dialogue < UNTRANSLATED
-
+「Now, open the Night Picture Book. 
+　As long as there is a \\dmark\\d, 
+　she will be at your disposal...
 > END STRING
 
 > BEGIN STRING
 「ふふふふふ！
 　楽しんでいくがいい！
 > CONTEXT: Map010/events/4/pages/0/66/Dialogue < UNTRANSLATED
-
+「Hehehe!
+　Have fun!
 > END STRING
 
 > BEGIN STRING
 「ところが私としたことが、
 　すっかりお礼を忘れていました。
 > CONTEXT: Map010/events/18/pages/0/4/Dialogue < UNTRANSLATED
-
+「But what I did is, 
+　I completely forgot to thank you.
 > END STRING
 
 > BEGIN STRING
@@ -92,7 +104,9 @@
 　お礼にあなたのお名前を、
 　お好きに変えて進ぜましょう。
 > CONTEXT: Map010/events/18/pages/0/6/Dialogue < UNTRANSLATED
-
+「Sorry I'm late for it,
+　but as a token of my thanks,  
+　I'll change your name to whatever you like.
 > END STRING
 
 > BEGIN STRING
@@ -100,7 +114,8 @@
 　\\n[1]さん。
 > CONTEXT: Map010/events/18/pages/0/13/Dialogue < UNTRANSLATED
 > CONTEXT: Map010/events/18/pages/1/9/Dialogue < UNTRANSLATED
-
+「It suits you very well,
+　\\n[1].
 > END STRING
 
 > BEGIN STRING
@@ -108,7 +123,8 @@
 　あなたのお名前お好きな風に、
 　変えてごらんにいれましょう。
 > CONTEXT: Map010/events/18/pages/1/2/Dialogue < UNTRANSLATED
-
+「As thanks for that time,
+I'll change your name to whatever you like.
 > END STRING
 
 > BEGIN STRING
@@ -116,32 +132,33 @@
 > CONTEXT: Map010/events/27/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map010/events/27/pages/0/6/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map010/events/27/pages/0/16/InlineScript/1:4 < UNTRANSLATED
-
+"Back-home Griffon"
 > END STRING
 
 > BEGIN STRING
 「お帰りはこちらから。
 > CONTEXT: Map010/events/27/pages/0/1/Dialogue < UNTRANSLATED
-
+「Here's your way home.
 > END STRING
 
 > BEGIN STRING
 シトリーの部屋から出ますか？
 > CONTEXT: Map010/events/27/pages/0/3/Dialogue < UNTRANSLATED
-
+Leave Sitri's room?
 > END STRING
 
 > BEGIN STRING
 「んじゃな。またな。
 > CONTEXT: Map010/events/27/pages/0/7/Dialogue < UNTRANSLATED
-
+「Well then. See you later.
 > END STRING
 
 > BEGIN STRING
 「そうだよな。
 　まだ終わらんよな。
 > CONTEXT: Map010/events/27/pages/0/17/Dialogue < UNTRANSLATED
-
+「That's right. 
+　Not yet.
 > END STRING
 
 > BEGIN STRING

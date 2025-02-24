@@ -100,13 +100,13 @@ Melissa
 > BEGIN STRING
 〔インセンス〕　EP回復 / テンション低下
 > CONTEXT: Items/12/description/ < UNTRANSLATED
-
+[Incense] EP recovery / Tension reduction
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　EP回復 / 恍惚無効 / テンション低下
 > CONTEXT: Items/13/description/ < UNTRANSLATED
-
+[Incense] EP recovery / Nullify ecstasy / Lower tension
 > END STRING
 
 > BEGIN STRING
@@ -146,7 +146,7 @@ Chamomile
 > BEGIN STRING
 〔エッセンス〕　センシブ回復 / ナーバス回復
 > CONTEXT: Items/16/description/ < UNTRANSLATED
-
+[Essence] Sensitive / Nervous Recovery
 > END STRING
 
 > BEGIN STRING
@@ -238,7 +238,7 @@ Ehland Blend
 > BEGIN STRING
 〔ティー〕　EP全回復
 > CONTEXT: Items/27/description/ < UNTRANSLATED
-
+[Tea] Fully recovers EP
 > END STRING
 
 > BEGIN STRING
@@ -263,7 +263,7 @@ Sedatives
 〔ドラッグ〕 EP回復 / 副作用もあるかも…？
 > CONTEXT: Items/31/description/ < UNTRANSLATED
 > CONTEXT: Items/32/description/ < UNTRANSLATED
-
+[Drug] EP recovery / Might have side effects...?
 > END STRING
 
 > BEGIN STRING
@@ -436,7 +436,7 @@ Mind Purifying Fire
 > BEGIN STRING
 装備のネガティブ効果を全て消す炎
 > CONTEXT: Items/50/description/ < UNTRANSLATED
-
+Flame that removes all negative effects from equipment
 > END STRING
 
 > BEGIN STRING
@@ -854,13 +854,13 @@ Utopia Map
 > BEGIN STRING
 クヴァラットのしおり
 > CONTEXT: Items/111/name/ < UNTRANSLATED
-
+Kvalatte Bookmark
 > END STRING
 
 > BEGIN STRING
 〔しおり〕 理想郷クヴァラットのしおり
 > CONTEXT: Items/111/description/ < UNTRANSLATED
-
+[Bookmark] Bookmark of the Utopia of Kvalatte
 > END STRING
 
 > BEGIN STRING
@@ -993,14 +993,14 @@ Fairy Poetry History
 
 > BEGIN STRING
 夏の夜の夢
-> CONTEXT: Items/127/name/ < UNTRANSLATED
-
+> CONTEXT: Items/127/name/
+Midsummer Night's Dream
 > END STRING
 
 > BEGIN STRING
 〔史書〕 ある夏の夜のロマンスを妖精が綴った本
-> CONTEXT: Items/127/description/ < UNTRANSLATED
-
+> CONTEXT: Items/127/description/
+[History] Written by a fairy about a summer night romance
 > END STRING
 
 > BEGIN STRING
@@ -1132,14 +1132,14 @@ Flame Dragon Chronicles
 
 > BEGIN STRING
 宝竜史伝
-> CONTEXT: Items/139/name/ < UNTRANSLATED
-
+> CONTEXT: Items/139/name/
+Treasure Dragon Legend
 > END STRING
 
 > BEGIN STRING
 〔史書〕 額に宝石を持つ竜の伝説を綴った本
-> CONTEXT: Items/139/description/ < UNTRANSLATED
-
+> CONTEXT: Items/139/description/
+[History] Legend of a dragon with a jewel on its forehead
 > END STRING
 
 > BEGIN STRING

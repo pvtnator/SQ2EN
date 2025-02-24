@@ -410,33 +410,35 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 > BEGIN STRING
 \\a[\\v[105]]ローズニルの奇想曲が気分を軽快にする！
 > CONTEXT: Commonevents/35/120/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Rosenil's Caprice lightens the mood!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ローズニルの行進曲が気分を勇壮にする！
 \\k
 > CONTEXT: Commonevents/35/141/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Rosenil's March gives off a heroic feeling!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ローズニルの奏鳴曲が気分を落ち着かせる！
 \\k
 > CONTEXT: Commonevents/35/157/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Rosenil's sonata calms the mood!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ローズニルの狂詩曲がムードを盛り上げる！
 > CONTEXT: Commonevents/35/168/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Rosenil Rhapsody sets the mood!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ローズニルの幻想曲がムードを盛り上げる！
 > CONTEXT: Commonevents/35/176/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Rosnil's Fantasia livens up the mood!
 > END STRING
 
 > BEGIN STRING
@@ -728,14 +730,14 @@ The treasure chest was a mimic!
 \\a[\\v[105]]「逃がさないわよっ！
 > CONTEXT: Commonevents/50/26/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/50/130/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]「I won't let you get away!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「つ～かま～えたっ\\e[0]
 > CONTEXT: Commonevents/50/30/Dialogue
 > CONTEXT: Commonevents/50/166/Dialogue
-\\a[\\v[105]]「Caught you~\\e[0]
+\\a[\\v[105]]「Caught you～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -771,7 +773,7 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「やぁん、遊んでよぉ～っ
 > CONTEXT: Commonevents/50/63/Dialogue
-\\a[\\v[105]]「Hey, play with me~
+\\a[\\v[105]]「Hey, play with me～
 > END STRING
 
 > BEGIN STRING
@@ -819,7 +821,7 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「逃がさないよ……
 > CONTEXT: Commonevents/50/108/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]「I won't let you go...
 > END STRING
 
 > BEGIN STRING
@@ -984,7 +986,7 @@ The treasure chest was a mimic!
 \\w[\\v[104]]　もっともっと出してぇ～～っ\\w[\\v[105]]
 > CONTEXT: Commonevents/52/55/Dialogue
 \\a[\\v[105]]「Come on, come on,
-\\w[\\v[104]]　Give me more, more, please~~\\w[\\v[105]]
+\\w[\\v[104]]　Give me more, more, please～～\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
@@ -996,7 +998,7 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「え～っ、イっちゃったのぉ～？
 > CONTEXT: Commonevents/52/61/Dialogue
-\\a[\\v[105]]「Eh, did you cum~?
+\\a[\\v[105]]「Eh, did you cum～?
 > END STRING
 
 > BEGIN STRING
@@ -1190,7 +1192,8 @@ The treasure chest was a mimic!
 \\a[\\v[105]]「ハハハッ！
 　このまま枯らしてやろうっ！
 > CONTEXT: Commonevents/52/156/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]「Hahaha!
+　Let's have you dry out like this!
 > END STRING
 
 > BEGIN STRING
@@ -2924,7 +2927,7 @@ became a plaything!\\w[\\v[104]]
 > BEGIN STRING
 「遠慮しなくていいのにぃ～
 > CONTEXT: Commonevents/134/19/Dialogue
-「You don't have to be shy~
+「You don't have to be shy～
 > END STRING
 
 > BEGIN STRING
@@ -3272,13 +3275,13 @@ took off \\n[27]'s clothes off!
 > BEGIN STRING
 \\a[\\v[105]]「あン、おいしぃ～\\e[0]
 > CONTEXT: Commonevents/144/13/Dialogue
-\\a[\\v[105]]「Ah, delicious~\\e[0]
+\\a[\\v[105]]「Ah, delicious～\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「もっとぺろぺろさせてぇ～っ\\e[0]
 > CONTEXT: Commonevents/144/14/Dialogue
-\\a[\\v[105]]「Let me lick you more~\\e[0]
+\\a[\\v[105]]「Let me lick you more～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -3286,7 +3289,7 @@ took off \\n[27]'s clothes off!
 \\w[\\v[104]]　ボクのお口、そんなにイイかニャぁ～？
 > CONTEXT: Commonevents/144/18/Dialogue
 \\a[\\v[105]]「Meow...
-\\w[\\v[104]]　Does my mouth feel that good meow~?
+\\w[\\v[104]]　Does my mouth feel that good meow～?
 > END STRING
 
 > BEGIN STRING
@@ -3534,7 +3537,7 @@ took off \\n[27]'s clothes off!
 > CONTEXT: Commonevents/150/242/Dialogue
 > CONTEXT: Commonevents/150/372/Dialogue
 > CONTEXT: Commonevents/150/502/Dialogue
-「Question meow~~
+「Question meow～～
 　Answer within \\b10\\f seconds meow!
 > END STRING
 
@@ -3577,8 +3580,8 @@ took off \\n[27]'s clothes off!
 > CONTEXT: Commonevents/150/516/Dialogue
 > CONTEXT: Commonevents/150/535/Dialogue
 > CONTEXT: Commonevents/150/549/Dialogue
-「Boo~~~~!
-　Time's up~
+「Boo～～～!
+　Time's up～～～
 > END STRING
 
 > BEGIN STRING
@@ -3601,8 +3604,8 @@ took off \\n[27]'s clothes off!
 > CONTEXT: Commonevents/150/491/Dialogue
 > CONTEXT: Commonevents/150/524/Dialogue
 > CONTEXT: Commonevents/150/557/Dialogue
-「Boo~~~~~!
-　You lose~
+「Boo～～～!
+　You lose～
 > END STRING
 
 > BEGIN STRING
@@ -3623,7 +3626,7 @@ took off \\n[27]'s clothes off!
 > CONTEXT: Commonevents/150/76/Dialogue
 > CONTEXT: Commonevents/150/308/Dialogue
 > CONTEXT: Commonevents/150/438/Dialogue
-「Question meow~~
+「Question meow～～
 　Answer within \\b5\\f seconds meow!
 > END STRING
 
@@ -3804,7 +3807,7 @@ Frederica
 > BEGIN STRING
 「ニャ～～、アタリだニャ～っ\\e[0]
 > CONTEXT: Commonevents/150/572/Dialogue
-「Meow, that's correct~\\e[0]
+「Meow, that's correct～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -3826,7 +3829,7 @@ Frederica
 　食べちゃうニャぁ～～\\e[0]
 > CONTEXT: Commonevents/150/606/Dialogue
 「Boy who can't answer 
-　will be eaten~~\\e[0]
+　will be eaten～～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -3972,7 +3975,7 @@ Frederica
 > CONTEXT: Commonevents/153/43/Dialogue
 > CONTEXT: Commonevents/153/147/Dialogue
 > CONTEXT: Commonevents/153/340/Dialogue
-「Now, here's the question~! 
+「Now, here's the question～! 
 　Please answer within \\b10\\f seconds\\e[0]
 > END STRING
 
@@ -4013,8 +4016,8 @@ Frederica
 > CONTEXT: Commonevents/153/480/Dialogue
 > CONTEXT: Commonevents/153/499/Dialogue
 > CONTEXT: Commonevents/153/513/Dialogue
-「Boooo~~~!
-　Time's up~~!
+「Boooo～～～!
+　Time's up～～!
 > END STRING
 
 > BEGIN STRING
@@ -4036,8 +4039,8 @@ Frederica
 > CONTEXT: Commonevents/153/457/Dialogue
 > CONTEXT: Commonevents/153/488/Dialogue
 > CONTEXT: Commonevents/153/521/Dialogue
-「Booo~~~!
-　Wrong~~!
+「Booo～～～!
+　Wrong～～!
 > END STRING
 
 > BEGIN STRING
@@ -4061,7 +4064,7 @@ Frederica
 > CONTEXT: Commonevents/153/276/Dialogue
 > CONTEXT: Commonevents/153/404/Dialogue
 > CONTEXT: Commonevents/153/468/Dialogue
-「Now, here's the question~! 
+「Now, here's the question～! 
 　Please answer within \\b5\\f seconds\\e[0]
 > END STRING
 
@@ -4214,7 +4217,7 @@ Hachlobs Burns
 > BEGIN STRING
 「わぁ、アタリぃ～っ\\e[0]
 > CONTEXT: Commonevents/153/536/Dialogue
-「Wow, correct~\\e[0]
+「Wow, correct～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -4236,7 +4239,7 @@ Hachlobs Burns
 　食べちゃうぞぉ～～\\e[0]
 > CONTEXT: Commonevents/153/570/Dialogue
 「Anyone who can't answer 
-　will be eaten~~\\e[0]
+　will be eaten～～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -4381,14 +4384,15 @@ Hachlobs Burns
 > BEGIN STRING
 「ふふ……いいよ……
 > CONTEXT: Commonevents/170/58/Dialogue < UNTRANSLATED
-
+「Hehe...good...
 > END STRING
 
 > BEGIN STRING
 「一緒に堕ちよう。
 　甘い闇へ………
 > CONTEXT: Commonevents/170/59/Dialogue < UNTRANSLATED
-
+「Let's fall together 
+　into sweet darkness...
 > END STRING
 
 > BEGIN STRING
@@ -4477,7 +4481,7 @@ Hachlobs Burns
 > BEGIN STRING
 「やん、かわいぃ～\\e[0]
 > CONTEXT: Commonevents/170/148/Dialogue
-「Mmh, cute~\\e[0]
+「Mmh, cute～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -4535,27 +4539,29 @@ Hachlobs Burns
 > BEGIN STRING
 「なぁに？
 　アタシにイかされたいの？
-> CONTEXT: Commonevents/171/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/171/3/Dialogue
+「What?
+　Want me to make you cum?
 > END STRING
 
 > BEGIN STRING
 「アタシにイかされたいの？」
-> CONTEXT: Commonevents/171/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/171/6/Dialogue
+「Want me to make you cum?」
 > END STRING
 
 > BEGIN STRING
 「お望みどおりにシてアゲルっ\\e[0]
-> CONTEXT: Commonevents/171/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/171/10/Dialogue
+「Just as you wish\\e[0]
 > END STRING
 
 > BEGIN STRING
 「でもカラダは正直じゃない？
 　……ふふっ\\e[0]
-> CONTEXT: Commonevents/171/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/171/16/Dialogue
+「But isn't the body honest?
+...Hehehe\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -4815,7 +4821,7 @@ Hachlobs Burns
 　\\n[27]、よくわかんないや\\e[0]
 > CONTEXT: Commonevents/172/14/Dialogue
 > CONTEXT: Commonevents/173/14/Dialogue
-「Hmm~~?
+「Hmm～～?
 　\\n[27], you don't know\\e[0]
 > END STRING
 
@@ -4824,7 +4830,7 @@ Hachlobs Burns
 　そんなに気持ちよくしてもらいたいの？
 > CONTEXT: Commonevents/172/20/Dialogue
 > CONTEXT: Commonevents/173/20/Dialogue
-「Hmm~~?
+「Hmm～～?
 　Do you want to feel good that bad?
 > END STRING
 
@@ -4878,7 +4884,7 @@ Hachlobs Burns
 「ん～～～～、
 > CONTEXT: Commonevents/172/79/Dialogue
 > CONTEXT: Commonevents/173/79/Dialogue
-「Mmm~~~~,
+「Mmm～～～～,
 > END STRING
 
 > BEGIN STRING
@@ -4903,7 +4909,7 @@ Hachlobs Burns
 > CONTEXT: Commonevents/172/92/Dialogue
 > CONTEXT: Commonevents/173/92/Dialogue
 「What? You don't have anything! 
-　You're lying~~~
+　You're lying～～～
 > END STRING
 
 > BEGIN STRING
@@ -4937,7 +4943,7 @@ Hachlobs Burns
 「わぁい、ありがとぉ～～っ\\e[0]
 > CONTEXT: Commonevents/172/119/Dialogue
 > CONTEXT: Commonevents/173/119/Dialogue
-「Wow, thank you~~\\e[0]
+「Wow, thank you～～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -4945,15 +4951,15 @@ Hachlobs Burns
 　うそつき～～～！
 > CONTEXT: Commonevents/172/126/Dialogue
 > CONTEXT: Commonevents/173/126/Dialogue
-「Eh~ you said you'd give it to me!
-　You're lying~~~!
+「Eh～ you said you'd give it to me!
+　You're lying～～～!
 > END STRING
 
 > BEGIN STRING
 「え～、けちんぼ～～っ！
 > CONTEXT: Commonevents/172/135/Dialogue
 > CONTEXT: Commonevents/173/135/Dialogue
-「Eh~ cheapskate~~!
+「Eh～ cheapskate～～!
 > END STRING
 
 > BEGIN STRING
@@ -5287,7 +5293,7 @@ Donate an item
 「ニャ～？
 　なにゆってるかよくわかんないニャ\\e[0]
 > CONTEXT: Commonevents/175/15/Dialogue
-「Meow~? 
+「Meow～? 
 　What do you mean meow\\e[0]
 > END STRING
 
@@ -5295,7 +5301,7 @@ Donate an item
 「ニャ～～？
 　そんなに気持ちよくしてもらいたいニャぁ？
 > CONTEXT: Commonevents/175/28/Dialogue
-「Meow~~?
+「Meow～～?
 　Do you want to feel good that much?
 > END STRING
 
@@ -5340,13 +5346,13 @@ Donate an item
 > BEGIN STRING
 「よくわかんないニャ～
 > CONTEXT: Commonevents/175/68/Dialogue
-「I don't really get it, nya~
+「I don't really get it, nya～
 > END STRING
 
 > BEGIN STRING
 「ニャ～～？
 > CONTEXT: Commonevents/175/94/Dialogue
-「Meow~~?
+「Meow～～?
 > END STRING
 
 > BEGIN STRING
@@ -5386,13 +5392,13 @@ Donate an item
 > BEGIN STRING
 「ニャぁ～～～～\\e[0]
 > CONTEXT: Commonevents/175/121/Dialogue
-「Meow~~~~\\e[0]
+「Meow～～～～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ニャ～、まだ足りないニャ～～
 > CONTEXT: Commonevents/175/128/Dialogue
-「Meow, it's not enough~~
+「Meow, it's not enough～～
 > END STRING
 
 > BEGIN STRING
@@ -5436,7 +5442,7 @@ Donate an item
 　考えてあげるニャぁ～\\e[0]
 > CONTEXT: Commonevents/175/183/Dialogue
 「If you can answer my riddle, 
-　I'll think about it meow~\\e[0]
+　I'll think about it meow～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -7016,20 +7022,21 @@ Use more words
 > CONTEXT: Commonevents/198/57/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/198/116/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/198/224/Dialogue < UNTRANSLATED
-
+「Cocky!
 > END STRING
 
 > BEGIN STRING
 「それじゃ、あたしの命令
 　何でも聞くわね？
 > CONTEXT: Commonevents/198/64/Dialogue < UNTRANSLATED
-
+「Well then, will you obey 
+　any command I give you?
 > END STRING
 
 > BEGIN STRING
 「何でも聞くわね？」
 > CONTEXT: Commonevents/198/67/Dialogue < UNTRANSLATED
-
+「Will you obey any command?」
 > END STRING
 
 > BEGIN STRING
@@ -7049,13 +7056,13 @@ Use more words
 > BEGIN STRING
 「フフッ、感じちゃってるでしょ？
 > CONTEXT: Commonevents/198/79/Dialogue < UNTRANSLATED
-
+「Fufu, you can feel it, right?
 > END STRING
 
 > BEGIN STRING
 「感じちゃってるでしょ？」
 > CONTEXT: Commonevents/198/81/Dialogue < UNTRANSLATED
-
+「Fufu, you can feel it, right?」
 > END STRING
 
 > BEGIN STRING
@@ -7075,19 +7082,19 @@ Use more words
 > BEGIN STRING
 「ハダカになりなさい。
 > CONTEXT: Commonevents/198/102/Dialogue < UNTRANSLATED
-
+「Get naked.
 > END STRING
 
 > BEGIN STRING
 「ハダカになりなさい。」
 > CONTEXT: Commonevents/198/104/Dialogue < UNTRANSLATED
-
+「Get naked.」
 > END STRING
 
 > BEGIN STRING
 「フフッ、ホントに言うこと聞くのね\\e[0]
 > CONTEXT: Commonevents/198/110/Dialogue < UNTRANSLATED
-
+「Fufufu, you really do listen to what I say\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -7121,7 +7128,7 @@ Use more words
 > BEGIN STRING
 「ガオオォン！！
 > CONTEXT: Commonevents/200/19/Dialogue < UNTRANSLATED
-
+「Gwaaaah!!
 > END STRING
 
 > BEGIN STRING
@@ -7242,20 +7249,21 @@ slightly moved \\n[27]'s heart!
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]のリアリティが少し高まった！
 > CONTEXT: Commonevents/219/2/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]\\n[1]'s reality increased a little!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]スクーグスローの\\dうろ\\dに
 \\w[\\v[104]]アイゼクトの願いが吸い込まれる！
 > CONTEXT: Commonevents/230/1/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Ayxect's wish was sucked into 
+\\w[\\v[104]]the \\dhollow\\d of Skogsrå!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]アイゼクトの願いは消えてしまった！
 > CONTEXT: Commonevents/230/3/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Ayxect's wish vanished!
 > END STRING
 
 > BEGIN STRING
@@ -7562,7 +7570,7 @@ Nothing happened here...
 > BEGIN STRING
 何も起きなかった……
 > CONTEXT: Commonevents/304/8/Dialogue < UNTRANSLATED
-
+Nothing happened...
 > END STRING
 
 > BEGIN STRING
@@ -7589,7 +7597,8 @@ The succubi are all coming at once!
 詩人はどこかで、
 心が静まる曲を弾き始めた…
 > CONTEXT: Commonevents/304/41/Dialogue < UNTRANSLATED
-
+Somewhere, 
+the poet began to play a soothing tune...
 > END STRING
 
 > BEGIN STRING
@@ -7602,13 +7611,14 @@ It's now easier to recover EP!
 詩人はどこかで、
 心が昂ぶる曲を弾き始めた…
 > CONTEXT: Commonevents/304/52/Dialogue < UNTRANSLATED
-
+Somewhere, 
+the poet began to play an uplifting tune...
 > END STRING
 
 > BEGIN STRING
 テンションが上がりやすくなった！
 > CONTEXT: Commonevents/304/54/Dialogue < UNTRANSLATED
-
+It became easier to gain tension!
 > END STRING
 
 > BEGIN STRING
@@ -7919,7 +7929,7 @@ Increase which attribute?
 > CONTEXT: Commonevents/500/419/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Commonevents/500/512/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Commonevents/500/523/InlineScript/1:4 < UNTRANSLATED
-
+"Guildenstern's Voice/Guildenstern/9"
 > END STRING
 
 > BEGIN STRING
@@ -7998,7 +8008,7 @@ Increase which attribute?
 "オリビア/Olivia"
 > CONTEXT: Commonevents/500/549/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Commonevents/500/571/InlineScript/1:4 < UNTRANSLATED
-
+"Olivia/Olivia"
 > END STRING
 
 > BEGIN STRING

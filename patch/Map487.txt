@@ -5,7 +5,7 @@
 > CONTEXT: Map487/events/1/pages/0/12/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map487/events/1/pages/0/27/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map487/events/1/pages/0/32/InlineScript/1:4 < UNTRANSLATED
-
+"Question Mark Seller"
 > END STRING
 
 > BEGIN STRING
@@ -13,55 +13,60 @@
 　ならばどうして、君を歓迎しない
 　わけがあろうか？
 > CONTEXT: Map487/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+「Are you a guest? 
+　Then why shouldn't I welcome you?
 > END STRING
 
 > BEGIN STRING
 「なあ君、\\b100G\\f で
 　疑問符（？）を買わないか？
 > CONTEXT: Map487/events/1/pages/0/4/Dialogue < UNTRANSLATED
-
+「Hey, why not buy
+　question marks (?) for \\b100G\\f?
 > END STRING
 
 > BEGIN STRING
 \\b100G\\f で疑問符を買いますか？
 > CONTEXT: Map487/events/1/pages/0/7/Dialogue < UNTRANSLATED
-
+Buy question marks for \\b100G\\f?
 > END STRING
 
 > BEGIN STRING
 はい。
 > CONTEXT: Map487/events/1/pages/0/9/Choice/0 < UNTRANSLATED
 > CONTEXT: Map487/events/9/pages/0/7/Choice/0 < UNTRANSLATED
-
+Yes.
 > END STRING
 
 > BEGIN STRING
 いいえ。
 > CONTEXT: Map487/events/1/pages/0/9/Choice/1 < UNTRANSLATED
 > CONTEXT: Map487/events/9/pages/0/7/Choice/1 < UNTRANSLATED
-
+No.
 > END STRING
 
 > BEGIN STRING
 「君はもう十分疑問符を
 　持っているのではないか？
 > CONTEXT: Map487/events/1/pages/0/13/Dialogue < UNTRANSLATED
-
+「Don't you have enough 
+　question marks already?
 > END STRING
 
 > BEGIN STRING
 「いい買い物をしただろう？
 　また来ておくれよ？
 > CONTEXT: Map487/events/1/pages/0/28/Dialogue < UNTRANSLATED
-
+「You did a good job shopping, right? 
+　Will you come again?
 > END STRING
 
 > BEGIN STRING
 「お金が足りないのではないか？
 　感嘆符でも売ってきたらどうだ？
 > CONTEXT: Map487/events/1/pages/0/33/Dialogue < UNTRANSLATED
-
+「Maybe you don't have enough money?
+　How about you sell some exclamation marks?
 > END STRING
 
 > BEGIN STRING
@@ -71,46 +76,49 @@
 > CONTEXT: Map487/events/2/pages/0/23/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map487/events/2/pages/0/31/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map487/events/2/pages/0/45/InlineScript/1:4 < UNTRANSLATED
-
+"Code Broker"
 > END STRING
 
 > BEGIN STRING
 「こちらでは、感嘆符（！）と疑問符（？）を
 　買い取っています。
 > CONTEXT: Map487/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+「We're buying exclamation marks (!) 
+　and question marks (?) here.
 > END STRING
 
 > BEGIN STRING
 「売値はどちらも \\b100G\\f 。
 　どうなさいますか？
 > CONTEXT: Map487/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+「The selling price for both is \\b100G\\f.
+　What would you like to do?
 > END STRING
 
 > BEGIN STRING
 感嘆符を売る。
 > CONTEXT: Map487/events/2/pages/0/6/Choice/0 < UNTRANSLATED
-
+Sell exclamation marks.
 > END STRING
 
 > BEGIN STRING
 疑問符を売る。
 > CONTEXT: Map487/events/2/pages/0/6/Choice/1 < UNTRANSLATED
-
+Sell question marks.
 > END STRING
 
 > BEGIN STRING
 売らない。
 > CONTEXT: Map487/events/2/pages/0/6/Choice/2 < UNTRANSLATED
-
+Don't sell.
 > END STRING
 
 > BEGIN STRING
 「お客様はもう、これっぽっちも
 　感嘆符をお持ちでないようですよ。
 > CONTEXT: Map487/events/2/pages/0/10/Dialogue < UNTRANSLATED
-
+「Seems you no longer have 
+　any exclamation marks at all.
 > END STRING
 
 > BEGIN STRING
@@ -118,14 +126,16 @@
 　またご利用下さい。
 > CONTEXT: Map487/events/2/pages/0/24/Dialogue < UNTRANSLATED
 > CONTEXT: Map487/events/2/pages/0/46/Dialogue < UNTRANSLATED
-
+「Thank you. 
+　Please visit us again.
 > END STRING
 
 > BEGIN STRING
 「お客様はもう、これっぽっちも
 　疑問符をお持ちでないようですよ。
 > CONTEXT: Map487/events/2/pages/0/32/Dialogue < UNTRANSLATED
-
+「It seems you don't have 
+　any question marks at all.
 > END STRING
 
 > BEGIN STRING
@@ -139,68 +149,77 @@
 　こんがらがっちゃうわ。
 　あなたは大丈夫？
 > CONTEXT: Map487/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+「Oh man, I'm so fed up! 
+　I'm so tangled. 
+　Are you okay?
 > END STRING
 
 > BEGIN STRING
 「あなたは今、感嘆符も疑問符も
 　余計に持ってるみたいね。
 > CONTEXT: Map487/events/3/pages/0/6/Dialogue < UNTRANSLATED
-
+「Looks like you have extra exclamation marks 
+　and extra questions marks right now.
 > END STRING
 
 > BEGIN STRING
 「あなた、感嘆符も疑問符も
 　きれいさっぱりなくしちゃったみたいね。
 > CONTEXT: Map487/events/3/pages/0/14/Dialogue < UNTRANSLATED
-
+「Looks like you have no extra exclamation marks 
+　or extra questions marks right now.
 > END STRING
 
 > BEGIN STRING
 「あなた、疑問符をなくしちゃったみたいね。
 > CONTEXT: Map487/events/3/pages/0/23/Dialogue < UNTRANSLATED
-
+「You seem to have lost your question marks.
 > END STRING
 
 > BEGIN STRING
 「あなた、感嘆符をなくしちゃったみたいね。
 > CONTEXT: Map487/events/3/pages/0/33/Dialogue < UNTRANSLATED
-
+「You seem to have lost your exclamation marks.
 > END STRING
 
 > BEGIN STRING
 「あなたは今、感嘆符は余計に持ってるけど、
 　疑問符は全部なくしちゃったみたいね。
 > CONTEXT: Map487/events/3/pages/0/42/Dialogue < UNTRANSLATED
-
+「You now have extra exclamation marks, 
+　but it looks like you've lost 
+　all your question marks.
 > END STRING
 
 > BEGIN STRING
 「あなたは今、感嘆符を
 　余計に持ってるみたいね。
 > CONTEXT: Map487/events/3/pages/0/51/Dialogue < UNTRANSLATED
-
+「Looks like you have 
+　extra exclamation marks right now.
 > END STRING
 
 > BEGIN STRING
 「あなたは今、疑問符は余計に持ってるけど、
 　感嘆符は全部なくしちゃったみたいね。
 > CONTEXT: Map487/events/3/pages/0/61/Dialogue < UNTRANSLATED
-
+「You now have extra question marks, 
+　but you've lost all your exclamation marks.
 > END STRING
 
 > BEGIN STRING
 「あなたは今、疑問符を
 　余計に持ってるみたいね。
 > CONTEXT: Map487/events/3/pages/0/70/Dialogue < UNTRANSLATED
-
+「You seem to have extra question marks right now.
 > END STRING
 
 > BEGIN STRING
 「大丈夫みたいね。
 　あなたとても、きちんとしてるわ。
 > CONTEXT: Map487/events/3/pages/0/82/Dialogue < UNTRANSLATED
-
+「You seem to be okay. 
+　You're very well behaved.
 > END STRING
 
 > BEGIN STRING
@@ -209,13 +228,13 @@
 > CONTEXT: Map487/events/9/pages/0/10/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map487/events/9/pages/0/25/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map487/events/9/pages/0/30/InlineScript/1:4 < UNTRANSLATED
-
+"Exclamation Mark seller"
 > END STRING
 
 > BEGIN STRING
 「おうおうおう！
 > CONTEXT: Map487/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+「Ohohohoh!
 > END STRING
 
 > BEGIN STRING
@@ -223,32 +242,37 @@
 　お前に感嘆符（！）を売ってやろう！！
 　たったの \\b100G\\f だ！
 > CONTEXT: Map487/events/9/pages/0/2/Dialogue < UNTRANSLATED
-
+「Hey! Hey! Welcome!
+　I'll sell you exclamation marks (!)!!
+　For only \\b100G\\f!
 > END STRING
 
 > BEGIN STRING
 \\b100G\\f で感嘆符を買いますか？
 > CONTEXT: Map487/events/9/pages/0/6/Dialogue < UNTRANSLATED
-
+Buy exclamation marks for \\b100G\\f?
 > END STRING
 
 > BEGIN STRING
 「もう十分持ってるだろうよ！
 　この野郎！！
 > CONTEXT: Map487/events/9/pages/0/11/Dialogue < UNTRANSLATED
-
+「You've already had enough!
+　Dude!!
 > END STRING
 
 > BEGIN STRING
 「よおし！ほらよ！
 　また来いよ！！
 > CONTEXT: Map487/events/9/pages/0/26/Dialogue < UNTRANSLATED
-
+「All right! Here you go! 
+　Come again!!
 > END STRING
 
 > BEGIN STRING
 「何だ何だ！金が足りてねえぜ！
 　疑問符でも売ってからまた来な！！
 > CONTEXT: Map487/events/9/pages/0/31/Dialogue < UNTRANSLATED
-
+「What! Not enough money! 
+　Come back after selling some question marks!!
 > END STRING
