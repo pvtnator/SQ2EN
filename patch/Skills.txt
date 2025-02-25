@@ -1575,8 +1575,8 @@ Wild Swing/0/0/3
 
 > BEGIN STRING
 弛弓の術
-> CONTEXT: Skills/216/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/216/name/
+Loose Bow Technique
 > END STRING
 
 > BEGIN STRING
@@ -1989,8 +1989,8 @@ Sexy Wink
 
 > BEGIN STRING
 ぷるぷるする
-> CONTEXT: Skills/256/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/256/name/
+Jiggle
 > END STRING
 
 > BEGIN STRING
@@ -3097,9 +3097,9 @@ Bloodsuck
 
 > BEGIN STRING
 羽根でくすぐる
-> CONTEXT: Skills/407/name/ < UNTRANSLATED
-> CONTEXT: Skills/595/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/407/name/
+> CONTEXT: Skills/595/name/
+Feather Tickle
 > END STRING
 
 > BEGIN STRING
@@ -3358,14 +3358,14 @@ Love Madness
 
 > BEGIN STRING
 エストラス
-> CONTEXT: Skills/444/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/444/name/
+Estrus
 > END STRING
 
 > BEGIN STRING
 ファル・エストラス
-> CONTEXT: Skills/445/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/445/name/
+Far-Estrus
 > END STRING
 
 > BEGIN STRING
@@ -3500,8 +3500,8 @@ Fate Censored
 
 > BEGIN STRING
 エンジェルブレス
-> CONTEXT: Skills/463/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/463/name/
+Angel Breath
 > END STRING
 
 > BEGIN STRING
@@ -3512,15 +3512,15 @@ Fate Censored
 
 > BEGIN STRING
 セヴンヴェイルス
-> CONTEXT: Skills/464/name/ < UNTRANSLATED
-> CONTEXT: Skills/465/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/464/name/
+> CONTEXT: Skills/465/name/
+Seven Veils
 > END STRING
 
 > BEGIN STRING
 うなる
-> CONTEXT: Skills/466/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/466/name/
+Growl
 > END STRING
 
 > BEGIN STRING
@@ -3698,8 +3698,8 @@ Far-Rapture
 
 > BEGIN STRING
 ガスト
-> CONTEXT: Skills/589/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/589/name/
+Gust
 > END STRING
 
 > BEGIN STRING
@@ -3877,15 +3877,15 @@ Fascination
 
 > BEGIN STRING
 運命改ざん
-> CONTEXT: Skills/646/name/ < UNTRANSLATED
-> CONTEXT: Skills/647/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/646/name/
+> CONTEXT: Skills/647/name/
+Fate Tampering
 > END STRING
 
 > BEGIN STRING
 黒サフィ専用カウンター
-> CONTEXT: Skills/646/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/646/description/
+Black Thafi Counter
 > END STRING
 
 > BEGIN STRING
@@ -4007,8 +4007,8 @@ Fox arrival
 
 > BEGIN STRING
 ぜんぶちょうだい☆
-> CONTEXT: Skills/672/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/672/name/
+Give Everything☆
 > END STRING
 
 > BEGIN STRING

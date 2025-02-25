@@ -4848,8 +4848,8 @@
 
 > BEGIN STRING
 "誘引の香水"
-> CONTEXT: Scripts/RPG::State (message)/48:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/48:12
+"Attraction Perfume"
 > END STRING
 
 > BEGIN STRING
@@ -6397,8 +6397,8 @@
 
 > BEGIN STRING
 "ラグジャラス率+22%"
-> CONTEXT: Scripts/RPG::State (message)/137:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/137:12
+"Luxorious Rate +22%"
 > END STRING
 
 > BEGIN STRING
@@ -7860,7 +7860,7 @@
 "\#{myname}のEPが\\023 \#{(damage.abs).to_s} \\024回復した！\\n\\004[\\\\v[104]]"
 > CONTEXT: Scripts/Game_Battler(message)/124:14
 > CONTEXT: Scripts/Game_Battler(message)/235:18
-"\#{myname}'s EP recovered by\\023 \#{(damage.abs).to_s} \\024!\\024!\\n\\004[\\\\v[104]]"
+"\#{myname} recovered\\023 \#{(damage.abs).to_s} \\024EP!\\024!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -8037,7 +8037,7 @@
 "\#{myname}のEPが\\023 \#{(damage.abs).to_s} \\024回復した！"
 > CONTEXT: Scripts/Game_Battler(message)/129:14
 > CONTEXT: Scripts/Game_Battler(message)/241:18
-"\#{myname}'s EP recovered by\\023 \#{(damage.abs).to_s} \\024!"
+"\#{myname} recovered\\023 \#{(damage.abs).to_s} \\024EP!"
 > END STRING
 
 > BEGIN STRING
@@ -9674,7 +9674,7 @@
 > BEGIN STRING
 "\#{myname}のMPが\\023 \#{damage.to_s} \\024回復した！"
 > CONTEXT: Scripts/Game_Battler(message)/247:20
-"\#{myname} recovered \\023 \#{damage.to_s} \\024MP!"
+"\#{myname} recovered\\023 \#{damage.to_s} \\024MP!"
 > END STRING
 
 > BEGIN STRING
@@ -15023,25 +15023,25 @@
 
 > BEGIN STRING
 "悪魔"
-> CONTEXT: Scripts/Game_Enemy/207:22 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/639:27 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/648:27 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/207:22
+> CONTEXT: Scripts/Game_Battler 3-1/639:27
+> CONTEXT: Scripts/Game_Battler 3-1/648:27
+"Demon"
 > END STRING
 
 > BEGIN STRING
 "パートナー不可"
-> CONTEXT: Scripts/Game_Battler 3-1/97:22 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/97:22
+"No partners allowed"
 > END STRING
 
 > BEGIN STRING
 "妖精"
-> CONTEXT: Scripts/Game_Enemy/207:27 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/640:24 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/649:24 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/943:65 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/207:27
+> CONTEXT: Scripts/Game_Battler 3-1/640:24
+> CONTEXT: Scripts/Game_Battler 3-1/649:24
+> CONTEXT: Scripts/Game_Battler 3-1/943:65
+"Fairy"
 > END STRING
 
 > BEGIN STRING
@@ -15052,27 +15052,27 @@
 
 > BEGIN STRING
 "ケモノ"
-> CONTEXT: Scripts/Game_Enemy/207:32 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/641:24 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/650:24 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/950:65 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/207:32
+> CONTEXT: Scripts/Game_Battler 3-1/641:24
+> CONTEXT: Scripts/Game_Battler 3-1/650:24
+> CONTEXT: Scripts/Game_Battler 3-1/950:65
+"Beast"
 > END STRING
 
 > BEGIN STRING
 "これ以上アイテムを持てない"
-> CONTEXT: Scripts/Game_Battler 3-1/104:24 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Warehouse/162:37 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/104:24
+> CONTEXT: Scripts/Scene_Warehouse/162:37
+"Can't carry any more items"
 > END STRING
 
 > BEGIN STRING
 "トカゲ"
-> CONTEXT: Scripts/Game_Enemy/207:38 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/642:24 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/651:24 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/964:65 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/207:38
+> CONTEXT: Scripts/Game_Battler 3-1/642:24
+> CONTEXT: Scripts/Game_Battler 3-1/651:24
+> CONTEXT: Scripts/Game_Battler 3-1/964:65
+"Lizard"
 > END STRING
 
 > BEGIN STRING
@@ -15103,8 +15103,8 @@
 
 > BEGIN STRING
 "に強い"
-> CONTEXT: Scripts/Game_Enemy/209:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/209:24
+" advantage"
 > END STRING
 
 > BEGIN STRING
@@ -15115,8 +15115,8 @@
 
 > BEGIN STRING
 "に弱い"
-> CONTEXT: Scripts/Game_Enemy/211:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/211:24
+" weakness"
 > END STRING
 
 > BEGIN STRING
@@ -15127,14 +15127,14 @@
 
 > BEGIN STRING
 /(.*)に強い/
-> CONTEXT: Scripts/Game_Enemy/232:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/232:20
+/(.*) weakness/
 > END STRING
 
 > BEGIN STRING
 "インサートするものがない！"
-> CONTEXT: Scripts/Game_Battler 3-1/141:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/141:26
+"Nothing to insert to!"
 > END STRING
 
 > BEGIN STRING
@@ -15354,14 +15354,14 @@
 
 > BEGIN STRING
 "そのテクニックはこのバトル中にはもう使えない！"
-> CONTEXT: Scripts/Game_Battler 3-1/371:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/371:24
+"Can't use that technique again during this battle!"
 > END STRING
 
 > BEGIN STRING
 "そのテクニックを使うにはテンションが足りない！"
-> CONTEXT: Scripts/Game_Battler 3-1/378:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/378:26
+"Not enough tension to use that technique!"
 > END STRING
 
 > BEGIN STRING
@@ -15372,15 +15372,15 @@
 
 > BEGIN STRING
 "ガスト"
-> CONTEXT: Scripts/Game_Battler 3-1/426:22 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/260:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/426:22
+> CONTEXT: Scripts/RPG::Skill (message)/260:12
+"Gust"
 > END STRING
 
 > BEGIN STRING
 "もがき失敗率: \#{struggle_percent.to_s}"
-> CONTEXT: Scripts/Game_Battler 3-1/453:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/453:9
+"Struggle fail rate: \#{struggle_percent.to_s}"
 > END STRING
 
 > BEGIN STRING
@@ -15417,15 +15417,15 @@
 
 > BEGIN STRING
 "命中率："
-> CONTEXT: Scripts/Game_Battler 3-1/523:9 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/554:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/523:9
+> CONTEXT: Scripts/Game_Battler 3-1/554:9
+"Accuracy:"
 > END STRING
 
 > BEGIN STRING
 "基本攻撃値: \#{b_atk.to_s}"
-> CONTEXT: Scripts/Game_Battler 3-1/585:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/585:11
+"Base Attack: \#{b_atk.to_s}"
 > END STRING
 
 > BEGIN STRING
@@ -15486,8 +15486,8 @@
 
 > BEGIN STRING
 "EP回復量アップ"
-> CONTEXT: Scripts/Game_Battler 3-1/624:48 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/624:48
+"EP Recovery Up"
 > END STRING
 
 > BEGIN STRING
@@ -15605,8 +15605,8 @@
 
 > BEGIN STRING
 /ラグジャラス率\\+([0-9]+)\\%/
-> CONTEXT: Scripts/Game_Battler 3-1/687:38 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/687:38
+/Luxorious Rate \\+([0-9]+)\\%/
 > END STRING
 
 > BEGIN STRING
@@ -15677,14 +15677,14 @@
 
 > BEGIN STRING
 /^受ける快感-([0-9]+)(%|％)/
-> CONTEXT: Scripts/Game_Battler 3-1/742:38 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/742:38
+/^Received pleasure -([0-9]+)(%|％)/
 > END STRING
 
 > BEGIN STRING
 /^受ける快感+([0-9]+)(%|％)/
-> CONTEXT: Scripts/Game_Battler 3-1/745:38 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/745:38
+/^Received pleasure +([0-9]+)(%|％)/
 > END STRING
 
 > BEGIN STRING
@@ -15769,12 +15769,6 @@
 > END STRING
 
 > BEGIN STRING
-"\#{myname} wished \\"\#{skill_name}\\"!"
-> CONTEXT: None < UNUSED
-
-> END STRING
-
-> BEGIN STRING
 " 『一人じゃない』 と願った！\\\\w[\\\\v[104]]　"
 > CONTEXT: Scripts/RPG::Skill (message)/30:24
 " wished [Not Alone]!\\\\w[\\\\v[104]]　"
@@ -15788,14 +15782,14 @@
 
 > BEGIN STRING
 "しかし魔法は魔焦がしの炎に焼き消された！"
-> CONTEXT: Scripts/RPG::Skill (message)/38:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/38:21
+"But the magic was burned away by the Scorching Flames!"
 > END STRING
 
 > BEGIN STRING
 "しかし魔法は魔封じの壁に吸い込まれた！"
-> CONTEXT: Scripts/RPG::Skill (message)/42:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/42:21
+"But the magic was absorbed by the Magic Barrier!"
 > END STRING
 
 > BEGIN STRING
@@ -15848,8 +15842,8 @@
 
 > BEGIN STRING
 "凍てつくおたけびをあげた！"
-> CONTEXT: Scripts/RPG::Skill (message)/62:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/62:24
+" let out a frosty roar!"
 > END STRING
 
 > BEGIN STRING
@@ -15860,8 +15854,8 @@
 
 > BEGIN STRING
 "激しいおたけびをあげた！"
-> CONTEXT: Scripts/RPG::Skill (message)/65:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/65:24
+" let out a fierce roar!"
 > END STRING
 
 > BEGIN STRING
@@ -15907,26 +15901,26 @@
 
 > BEGIN STRING
 "\#{target}の手に指を重ね、\\n\\\\w[\\\\v[104]]そっと×印を描いた！"
-> CONTEXT: Scripts/RPG::Skill (message)/70:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/70:24
+" placed fingers on \#{target}'s hand \\n\\\\w[\\\\v[104]]and gently drew an X on it!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の足に指を重ね、\\n\\\\w[\\\\v[104]]そっと×印を描いた！"
-> CONTEXT: Scripts/RPG::Skill (message)/73:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/73:24
+" placed fingers on \#{target}'s foot \\n\\\\w[\\\\v[104]]and gently drew an X on it!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の口に指を重ね、\\n\\\\w[\\\\v[104]]そっと×印を描いた！"
-> CONTEXT: Scripts/RPG::Skill (message)/76:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/76:24
+" placed fingers on \#{target}'s mouth \\n\\\\w[\\\\v[104]]and gently drew an X on it!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}のペニスに指を重ね、\\n\\\\w[\\\\v[104]]そっと×印を描いた！"
-> CONTEXT: Scripts/RPG::Skill (message)/79:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/79:24
+" placed fingers on \#{target}'s penis \\n\\\\w[\\\\v[104]]and gently drew an X on it!"
 > END STRING
 
 > BEGIN STRING
@@ -16038,7 +16032,7 @@
 > CONTEXT: Scripts/RPG::Skill (message)/111:24
 > CONTEXT: Scripts/RPG::Skill (message)/566:24
 > CONTEXT: Scripts/RPG::Skill (message)/578:24
-" caressed \\n\#{target}'s vagina intensely!"
+" caressed \\n\#{target}'s vagina hard!"
 > END STRING
 
 > BEGIN STRING
@@ -16096,7 +16090,7 @@
 "\#{target}に\\n優しくキスをした！"
 > CONTEXT: Scripts/RPG::Skill (message)/114:24
 > CONTEXT: Scripts/RPG::Skill (message)/581:24
-" gave \#{target}\\na gentle kiss!"
+" gently kissed \#{target}!"
 > END STRING
 
 > BEGIN STRING
@@ -16121,8 +16115,8 @@
 
 > BEGIN STRING
 "さらに激しく\#{target}を攻めている！"
-> CONTEXT: Scripts/RPG::Skill (message)/120:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/120:24
+"attacked \#{target} even harder!"
 > END STRING
 
 > BEGIN STRING
@@ -16133,14 +16127,14 @@
 
 > BEGIN STRING
 "\#{target}のアソコと\\n\\\\w[\\\\v[104]]自分のアソコを擦りあわせた！"
-> CONTEXT: Scripts/RPG::Skill (message)/123:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/123:24
+" rubbed genitals together \\n\\\\w[\\\\v[104]]with \#{target}!"
 > END STRING
 
 > BEGIN STRING
 "快感から身を守っている！"
-> CONTEXT: Scripts/RPG::Skill (message)/130:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/130:24
+" is guarding against pleasure!"
 > END STRING
 
 > BEGIN STRING
@@ -16219,8 +16213,8 @@
 
 > BEGIN STRING
 "リベンジに心を奮わせた！"
-> CONTEXT: Scripts/RPG::Skill (message)/147:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/147:24
+" got fired up for revenge!"
 > END STRING
 
 > BEGIN STRING
@@ -16231,8 +16225,8 @@
 
 > BEGIN STRING
 "無防備に夢魔に身を晒している！"
-> CONTEXT: Scripts/RPG::Skill (message)/149:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/149:24
+" is defenseless and exposed to the succubus!"
 > END STRING
 
 > BEGIN STRING
@@ -16501,8 +16495,8 @@
 
 > BEGIN STRING
 "しかしこれ以上効果が無かった！"
-> CONTEXT: Scripts/RPG::Skill (message)/234:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/234:19
+"But it didn't work any better!"
 > END STRING
 
 > BEGIN STRING
@@ -16612,8 +16606,8 @@
 
 > BEGIN STRING
 "羽根でくすぐる"
-> CONTEXT: Scripts/RPG::Skill (message)/254:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/254:12
+"Feather Tickle"
 > END STRING
 
 > BEGIN STRING
@@ -16624,8 +16618,8 @@
 
 > BEGIN STRING
 "突風を起こし、\\n\\\\w[\\\\v[104]]\#{target}を吹き飛ばした！"
-> CONTEXT: Scripts/RPG::Skill (message)/261:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/261:24
+" created a gust,\\n\\\\w[\\\\v[104]]and blew \#{target} away!"
 > END STRING
 
 > BEGIN STRING
@@ -16693,8 +16687,8 @@
 
 > BEGIN STRING
 "ペンを手に取り、\\n"
-> CONTEXT: Scripts/RPG::Skill (message)/268:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/268:24
+" picked up a pen,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -16705,8 +16699,8 @@
 
 > BEGIN STRING
 "本に何か書き込もうとしている……\\\\w[\\\\v[105]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/269:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/269:24
+"and got ready to write to a book...\\\\w[\\\\v[105]]　"
 > END STRING
 
 > BEGIN STRING
@@ -16745,7 +16739,7 @@
 > BEGIN STRING
 "魔法の槍で\#{target}を突いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/274:24
-" stabbed \#{target} with the magic spear!"
+" poked \#{target} with the magic spear!"
 > END STRING
 
 > BEGIN STRING
@@ -16781,7 +16775,7 @@
 > BEGIN STRING
 "\#{target}を激しく突いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/277:24
-" hit the target hard!"
+" poked the target hard!"
 > END STRING
 
 > BEGIN STRING
@@ -17450,14 +17444,14 @@
 
 > BEGIN STRING
 "弛弓の術"
-> CONTEXT: Scripts/RPG::Skill (message)/379:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/379:12
+"Loose Bow Technique"
 > END STRING
 
 > BEGIN STRING
 "反り返り、激しく腰を振った！"
-> CONTEXT: Scripts/RPG::Skill (message)/380:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/380:24
+" arched her back and shook her hips hard!"
 > END STRING
 
 > BEGIN STRING
@@ -17516,21 +17510,21 @@
 
 > BEGIN STRING
 "エストラス"
-> CONTEXT: Scripts/RPG::Skill (message)/392:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/392:12
+"Estrus"
 > END STRING
 
 > BEGIN STRING
 "発情した！"
-> CONTEXT: Scripts/RPG::Skill (message)/393:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/395:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/393:24
+> CONTEXT: Scripts/RPG::Skill (message)/395:24
+" is in heat!"
 > END STRING
 
 > BEGIN STRING
 "ファル・エストラス"
-> CONTEXT: Scripts/RPG::Skill (message)/394:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/394:12
+"Far-Estrus"
 > END STRING
 
 > BEGIN STRING
@@ -17831,38 +17825,38 @@
 
 > BEGIN STRING
 "エンジェルブレス"
-> CONTEXT: Scripts/RPG::Skill (message)/430:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/430:12
+"Angel Breath"
 > END STRING
 
 > BEGIN STRING
 "調べるべきアイテムを持っていない"
-> CONTEXT: Scripts/Game_Party/491:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Party/491:26
+"No item to examine with"
 > END STRING
 
 > BEGIN STRING
 "\#{target}に祝福を与えた！"
-> CONTEXT: Scripts/RPG::Skill (message)/431:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/431:24
+" gave blessing to \#{target}!"
 > END STRING
 
 > BEGIN STRING
 "セヴンヴェイルス"
-> CONTEXT: Scripts/RPG::Skill (message)/432:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/432:12
+"Seven Veils"
 > END STRING
 
 > BEGIN STRING
 "強化すべきアイテムを持っていない"
-> CONTEXT: Scripts/Game_Party/510:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Party/510:26
+"No item to strengthen with"
 > END STRING
 
 > BEGIN STRING
 "七つのヴェールの舞を踊った！"
-> CONTEXT: Scripts/RPG::Skill (message)/433:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/433:24
+" Dance of the Seven Veils!"
 > END STRING
 
 > BEGIN STRING
@@ -17887,8 +17881,8 @@
 
 > BEGIN STRING
 "ぷるぷるする"
-> CONTEXT: Scripts/RPG::Skill (message)/435:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/435:12
+"Jiggle"
 > END STRING
 
 > BEGIN STRING
@@ -18021,7 +18015,7 @@
 > BEGIN STRING
 "ドラゴンは激しく炎を吐いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/448:18
-"The dragon breathed fire fiercly!"
+"The dragon breathed fire hard!"
 > END STRING
 
 > BEGIN STRING
@@ -18040,8 +18034,8 @@
 
 > BEGIN STRING
 "ぜんぶちょうだい☆"
-> CONTEXT: Scripts/RPG::Skill (message)/453:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/453:12
+"Give Everything☆"
 > END STRING
 
 > BEGIN STRING
@@ -18058,8 +18052,8 @@
 
 > BEGIN STRING
 "力ずくで\\n\#{target}を取り押さえた！"
-> CONTEXT: Scripts/RPG::Skill (message)/456:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/456:24
+" took down \\n\#{target} by force!"
 > END STRING
 
 > BEGIN STRING
@@ -18190,8 +18184,8 @@
 
 > BEGIN STRING
 "うなる"
-> CONTEXT: Scripts/RPG::Skill (message)/468:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/468:12
+"Growl"
 > END STRING
 
 > BEGIN STRING
@@ -18208,8 +18202,8 @@
 
 > BEGIN STRING
 "他の夢魔に嫉妬している……"
-> CONTEXT: Scripts/RPG::Skill (message)/472:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/472:24
+" is jealous of other succubi..."
 > END STRING
 
 > BEGIN STRING
@@ -18249,8 +18243,8 @@
 
 > BEGIN STRING
 "\#{target}と\\n静かにキスを交わした！"
-> CONTEXT: Scripts/RPG::Skill (message)/527:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/527:24
+" shared a quiet kiss with \#{target}!"
 > END STRING
 
 > BEGIN STRING
@@ -18261,8 +18255,8 @@
 
 > BEGIN STRING
 "\#{target}の\\n乳首を口で愛撫した！"
-> CONTEXT: Scripts/RPG::Skill (message)/534:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/534:26
+" caressed \#{target}'s nipples \\nby mouth!"
 > END STRING
 
 > BEGIN STRING
@@ -18294,7 +18288,7 @@
 > BEGIN STRING
 "\#{target}の\\n胸を激しく揉みしだいた！"
 > CONTEXT: Scripts/RPG::Skill (message)/537:26
-" squeezed \\n\#{target}'s breasts hard!"
+" massaged \\n\#{target}'s breasts hard!"
 > END STRING
 
 > BEGIN STRING
@@ -18312,7 +18306,7 @@
 > BEGIN STRING
 "\#{target}の\\nお尻を激しく揉みしだいた！"
 > CONTEXT: Scripts/RPG::Skill (message)/545:26
-" squeezed \\n\#{target}'s ass hard!"
+" massaged \\n\#{target}'s ass hard!"
 > END STRING
 
 > BEGIN STRING
@@ -18324,13 +18318,13 @@
 > BEGIN STRING
 "\#{target}の\\nアソコに指を這わせ、静かに愛撫した！"
 > CONTEXT: Scripts/RPG::Skill (message)/552:26
-" ran fingers over \#{target}'s\\n vagina and caressed gently!"
+" ran fingers over \#{target}'s\\n vagina and caressed quietly!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nアソコを指で激しく愛撫した！"
 > CONTEXT: Scripts/RPG::Skill (message)/553:26
-" fingered \\n\#{target}'s vagina vigorously!"
+" fingered \\n\#{target}'s vagina hard!"
 > END STRING
 
 > BEGIN STRING
@@ -18479,7 +18473,7 @@
 "激しく腰を振っている！"
 > CONTEXT: Scripts/RPG::Skill (message)/650:24
 > CONTEXT: Scripts/RPG::Skill (message)/652:24
-" is shaking hips vigorously!"
+" is shaking hips hard!"
 > END STRING
 
 > BEGIN STRING
@@ -19817,8 +19811,8 @@
 
 > BEGIN STRING
 "ニューゲーム（クリアデータ引継ぎ）"
-> CONTEXT: Scripts/Window_SaveFile/141:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/141:14
+"New Game (Clear Data Transfer)"
 > END STRING
 
 > BEGIN STRING
@@ -20869,7 +20863,7 @@
 "足で\#{target}のペニスを踏みつけ、\\n\\\\w[\\\\v[104]]激しくしごいてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1015:26
 > CONTEXT: Scripts/RPG::Skill (message)/1172:26
-" stepped on \#{target}'s penis \\n\\\\w[\\\\v[104]]and jerked it off intensely!"
+" stepped on \#{target}'s penis \\n\\\\w[\\\\v[104]]and jerked it off hard!"
 > END STRING
 
 > BEGIN STRING
@@ -20881,8 +20875,8 @@
 
 > BEGIN STRING
 "\#{target}のアソコに\\n\\\\w[\\\\v[104]]足の指を入れて愛撫しはじめた！"
-> CONTEXT: Scripts/RPG::Skill (message)/1020:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/1020:26
+" put toes in \#{target}'s vagina \\n\\\\w[\\\\v[104]]and started caressing!"
 > END STRING
 
 > BEGIN STRING
@@ -20893,8 +20887,8 @@
 
 > BEGIN STRING
 "\#{target}のアソコに\\n\\\\w[\\\\v[104]]自分のアソコを擦りつけてきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/1025:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/1025:26
+" rubbed genitals \\n\\\\w[\\\\v[104]]together with \#{target}!"
 > END STRING
 
 > BEGIN STRING
@@ -20905,8 +20899,8 @@
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]全身で愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/1030:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/1030:26
+" caressed \#{target}'s vagina \\n\\\\w[\\\\v[104]]with the entire body!"
 > END STRING
 
 > BEGIN STRING
@@ -20970,8 +20964,8 @@
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]軽く指で愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/1057:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/1057:26
+" lightly caressed \#{target}'s vagina \\n\\\\w[\\\\v[104]]with fingers!"
 > END STRING
 
 > BEGIN STRING
@@ -21019,9 +21013,9 @@
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]シッポで愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/1073:26 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/1078:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/1073:26
+> CONTEXT: Scripts/RPG::Skill (message)/1078:26
+" caressed \#{target}'s vagina \\n\\\\w[\\\\v[104]]by tail!"
 > END STRING
 
 > BEGIN STRING
@@ -21048,7 +21042,7 @@
 > CONTEXT: Scripts/RPG::Skill (message)/1084:24
 > CONTEXT: Scripts/RPG::Skill (message)/1088:24
 > CONTEXT: Scripts/RPG::Skill (message)/1181:24
-"Pussy is being shoved in the face!"
+"Vagina is being shoved in the face!"
 > END STRING
 
 > BEGIN STRING
@@ -21092,7 +21086,7 @@
 > BEGIN STRING
 "全身で\\n\#{target}を激しくをせめてきた！\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/1101:24
-" used her whole body \\nto fiercly attack \#{target}!\\n\\\\w[\\\\v[105]]"
+" used her whole body \\nto attack \#{target} hard!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -21109,9 +21103,9 @@
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]指で激しく愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/1106:26 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/1150:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/1106:26
+> CONTEXT: Scripts/RPG::Skill (message)/1150:26
+" caressed \#{target}'s vagina hard\\n\\\\w[\\\\v[104]]with fingers!"
 > END STRING
 
 > BEGIN STRING
@@ -21122,9 +21116,9 @@
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]舌で激しく愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/1111:26 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/1159:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/1111:26
+> CONTEXT: Scripts/RPG::Skill (message)/1159:26
+" caressed \#{target}'s vagina hard \\n\\\\w[\\\\v[104]]by tongue!"
 > END STRING
 
 > BEGIN STRING
@@ -21135,9 +21129,9 @@
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]胸で激しく愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/1116:26 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/1168:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/1116:26
+> CONTEXT: Scripts/RPG::Skill (message)/1168:26
+" caressed \#{target}'s vagina hard \\n\\\\w[\\\\v[104]]with breasts!"
 > END STRING
 
 > BEGIN STRING
@@ -21148,21 +21142,21 @@
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]足で激しく愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/1121:26 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/1177:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/1121:26
+> CONTEXT: Scripts/RPG::Skill (message)/1177:26
+" caressed \#{target}'s genitals hard \\n\\\\w[\\\\v[104]]with feet!"
 > END STRING
 
 > BEGIN STRING
 "さらに激しく\\nペニスをしごき続けている！"
 > CONTEXT: Scripts/RPG::Skill (message)/1124:24
-" continues stroking his penis \\neven harder!"
+" continues stroking the penis \\neven harder!"
 > END STRING
 
 > BEGIN STRING
 "さらに激しく\\nアソコを愛撫し続けている！"
-> CONTEXT: Scripts/RPG::Skill (message)/1126:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/1126:26
+" continues caressing the vagina \\neven harder!"
 > END STRING
 
 > BEGIN STRING
@@ -22372,20 +22366,20 @@
 
 > BEGIN STRING
 "！？"
-> CONTEXT: Scripts/Window_Message/225:29 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Message/225:29
+"!?"
 > END STRING
 
 > BEGIN STRING
 "？"
-> CONTEXT: Scripts/Window_Message/226:26 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Message/227:32 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Message/228:26 < UNTRANSLATED
-> CONTEXT: Scripts/Window_BattleHelp/110:25 < UNTRANSLATED
-> CONTEXT: Scripts/魔物図鑑/482:55 < UNTRANSLATED
-> CONTEXT: Scripts/魔物図鑑/490:52 < UNTRANSLATED
-> CONTEXT: Scripts/魔物図鑑/497:52 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Message/226:26
+> CONTEXT: Scripts/Window_Message/227:32
+> CONTEXT: Scripts/Window_Message/228:26
+> CONTEXT: Scripts/Window_BattleHelp/110:25
+> CONTEXT: Scripts/魔物図鑑/482:55
+> CONTEXT: Scripts/魔物図鑑/490:52
+> CONTEXT: Scripts/魔物図鑑/497:52
+"?"
 > END STRING
 
 > BEGIN STRING
@@ -22404,15 +22398,15 @@
 
 > BEGIN STRING
 /…\\n/
-> CONTEXT: Scripts/Window_Message/229:20 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Message/237:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Message/229:20
+> CONTEXT: Scripts/Window_Message/237:20
+/...\\n/
 > END STRING
 
 > BEGIN STRING
 "？\\n"
-> CONTEXT: Scripts/Window_Message/229:28 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Message/229:28
+"?\\n"
 > END STRING
 
 > BEGIN STRING
@@ -23189,8 +23183,8 @@
 
 > BEGIN STRING
 "売る"
-> CONTEXT: Scripts/Window_ShopCommand/17:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_ShopCommand/17:26
+"Sell"
 > END STRING
 
 > BEGIN STRING
@@ -23802,8 +23796,8 @@
 
 > BEGIN STRING
 "ムード変動："
-> CONTEXT: Scripts/Mood/142:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/Mood/142:7
+"Mood change:"
 > END STRING
 
 > BEGIN STRING
@@ -23854,14 +23848,14 @@
 
 > BEGIN STRING
 /香水/
-> CONTEXT: Scripts/歩数による各種処理/54:37 < UNTRANSLATED
-
+> CONTEXT: Scripts/歩数による各種処理/54:37
+/Perfume/
 > END STRING
 
 > BEGIN STRING
 "ナーバス"
-> CONTEXT: Scripts/歩数による各種処理/56:40 < UNTRANSLATED
-
+> CONTEXT: Scripts/歩数による各種処理/56:40
+"Nervous"
 > END STRING
 
 > BEGIN STRING
@@ -24233,8 +24227,8 @@
 
 > BEGIN STRING
 "快感以外に何も願えない…"
-> CONTEXT: Scripts/Scene_Battle 3/266:37 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 3/266:37
+"Can't wish for anything but pleasure..."
 > END STRING
 
 > BEGIN STRING
@@ -24252,8 +24246,8 @@
 
 > BEGIN STRING
 "逃げる気力も起きない…"
-> CONTEXT: Scripts/Scene_Battle 3/306:37 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 3/306:37
+"No energy to run away..."
 > END STRING
 
 > BEGIN STRING
@@ -24385,7 +24379,7 @@
 "\#{$game_actors[1].name}のEPが\\023 \#{n} \\024回復した！"
 > CONTEXT: Scripts/Scene_Battle 5/110:17
 > CONTEXT: Scripts/Scene_Battle 5/127:17
-"\#{$game_actors[1].name} recovered \\023 \#{n} \\024EP!"
+"\#{$game_actors[1].name} recovered\\023 \#{n} \\024EP!"
 > END STRING
 
 > BEGIN STRING
@@ -24415,7 +24409,7 @@
 > BEGIN STRING
 "\#{$game_actors[1].name}は\\023 \#{n} \\024の快感を受けた！"
 > CONTEXT: Scripts/Scene_Battle 5/133:17
-"\#{$game_actors[1].name} received \\023 \#{n} \\024 pleasure!"
+"\#{$game_actors[1].name} received\\023 \#{n} \\024pleasure!"
 > END STRING
 
 > BEGIN STRING
@@ -24451,8 +24445,8 @@
 
 > BEGIN STRING
 "システムエラー：有用でないスキルを使おうとしています"
-> CONTEXT: Scripts/Scene_Battle 5/265:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 5/265:13
+"System error: You are trying to use a non-useful skill"
 > END STRING
 
 > BEGIN STRING
@@ -24584,14 +24578,14 @@
 
 > BEGIN STRING
 /(.*)耐性([+-])([0-9]+)(%|％)/
-> CONTEXT: Scripts/防具付加効果関係/165:36 < UNTRANSLATED
-
+> CONTEXT: Scripts/防具付加効果関係/165:36
+/(.*)Resistance ([+-])([0-9]+)(%|％)/
 > END STRING
 
 > BEGIN STRING
 /\#{state_name}(耐性|無効)/
-> CONTEXT: Scripts/防具付加効果関係/169:37 < UNTRANSLATED
-
+> CONTEXT: Scripts/防具付加効果関係/169:37
+/\#{state_name} (Resistance|Immunity)/
 > END STRING
 
 > BEGIN STRING
@@ -24603,15 +24597,15 @@
 
 > BEGIN STRING
 "ネガティブ効果を取り除いた！"
-> CONTEXT: Scripts/防具付加効果関係/233:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/防具付加効果関係/233:7
+"Negative effect removed!"
 > END STRING
 
 > BEGIN STRING
 "全て"
-> CONTEXT: Scripts/防具付加効果関係/256:22 < UNTRANSLATED
-> CONTEXT: Scripts/属性防御／弱点詳細化/32:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/防具付加効果関係/256:22
+> CONTEXT: Scripts/属性防御／弱点詳細化/32:14
+"All"
 > END STRING
 
 > BEGIN STRING
@@ -24682,20 +24676,20 @@
 
 > BEGIN STRING
 "テンション上昇量アップ"
-> CONTEXT: Scripts/Scene_Battle 4/497:42 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 4/497:42
+"Tension increase up"
 > END STRING
 
 > BEGIN STRING
 "TP回復："
-> CONTEXT: Scripts/Scene_Battle 4/500:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 4/500:11
+"TP Recovery:"
 > END STRING
 
 > BEGIN STRING
 "このアイテムは合成できない"
-> CONTEXT: Scripts/Scene_Compound/164:35 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Compound/164:35
+"This item cannot be synthesized"
 > END STRING
 
 > BEGIN STRING
@@ -24736,14 +24730,14 @@
 
 > BEGIN STRING
 "これ以上倉庫にアイテムが入らない"
-> CONTEXT: Scripts/Scene_Warehouse/181:37 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Warehouse/181:37
+"No more items can be stored"
 > END STRING
 
 > BEGIN STRING
 "装備中のアイテムは預けられない"
-> CONTEXT: Scripts/Scene_Warehouse/188:39 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Warehouse/188:39
+"Equipped items cannot be deposited"
 > END STRING
 
 > BEGIN STRING
@@ -24787,8 +24781,8 @@
 
 > BEGIN STRING
 "だいじなものを閲覧します"
-> CONTEXT: Scripts/Window_ItemDecide/53:29 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_ItemDecide/53:29
+"Browse important items"
 > END STRING
 
 > BEGIN STRING
@@ -25211,98 +25205,98 @@
 
 > BEGIN STRING
 "\#{time.year}/\#{time.month}/\#{time.mday} : \#{map}にて"
-> CONTEXT: Scripts/敗北記録ウィンドウ/58:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/敗北記録ウィンドウ/58:12
+"\#{time.year}/\#{time.month}/\#{time.mday} : in \#{map}"
 > END STRING
 
 > BEGIN STRING
 "\#{enemy}に\#{skill}、\#{damage}の快感を受け昇天"
-> CONTEXT: Scripts/敗北記録ウィンドウ/61:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/敗北記録ウィンドウ/61:12
+"Ascended from \#{enemy}'s \#{skill}, with \#{damage} pleasure"
 > END STRING
 
 > BEGIN STRING
 "** 敗北の記録 **"
-> CONTEXT: Scripts/敗北記録ウィンドウ/147:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/敗北記録ウィンドウ/147:11
+"** Record of Defeat **"
 > END STRING
 
 > BEGIN STRING
 "睦月"
-> CONTEXT: Scripts/ネルトゥプ関係/30:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/30:13
+"January"
 > END STRING
 
 > BEGIN STRING
 "如月"
-> CONTEXT: Scripts/ネルトゥプ関係/32:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/32:13
+"February"
 > END STRING
 
 > BEGIN STRING
 "弥生"
-> CONTEXT: Scripts/ネルトゥプ関係/34:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/34:13
+"March"
 > END STRING
 
 > BEGIN STRING
 "卯月"
-> CONTEXT: Scripts/ネルトゥプ関係/36:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/36:13
+"April"
 > END STRING
 
 > BEGIN STRING
 "皐月"
-> CONTEXT: Scripts/ネルトゥプ関係/38:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/38:13
+"May"
 > END STRING
 
 > BEGIN STRING
 "水無月"
-> CONTEXT: Scripts/ネルトゥプ関係/40:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/40:13
+"June"
 > END STRING
 
 > BEGIN STRING
 "文月"
-> CONTEXT: Scripts/ネルトゥプ関係/42:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/42:13
+"July"
 > END STRING
 
 > BEGIN STRING
 "葉月"
-> CONTEXT: Scripts/ネルトゥプ関係/44:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/44:13
+"August"
 > END STRING
 
 > BEGIN STRING
 "長月"
-> CONTEXT: Scripts/ネルトゥプ関係/46:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/46:13
+"September"
 > END STRING
 
 > BEGIN STRING
 "神無月"
-> CONTEXT: Scripts/ネルトゥプ関係/48:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/48:13
+"October"
 > END STRING
 
 > BEGIN STRING
 "霜月"
-> CONTEXT: Scripts/ネルトゥプ関係/50:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/50:13
+"November"
 > END STRING
 
 > BEGIN STRING
 "師走"
-> CONTEXT: Scripts/ネルトゥプ関係/52:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/ネルトゥプ関係/52:13
+"December"
 > END STRING
 
 > BEGIN STRING
 "西暦\#{date.year}年 \#{month} \#{date.mday}日\#{date.hour}時\#{date.min}分"
 > CONTEXT: Scripts/ネルトゥプ関係/54:26
-"Year \#{date.year} Month \#{month} Day \#{date.mday}, \#{date.hour}:\#{date.min}"
+"Year \#{date.year}, \#{month}, Day \#{date.mday}, \#{date.hour}:\#{date.min}"
 > END STRING
 
 > BEGIN STRING
@@ -25441,28 +25435,28 @@
 
 > BEGIN STRING
 /画布/
-> CONTEXT: Scripts/Scene_Bookshelf/180:32 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Bookshelf/187:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Bookshelf/180:32
+> CONTEXT: Scripts/Scene_Bookshelf/187:20
+/Canvas/
 > END STRING
 
 > BEGIN STRING
 /楽曲/
-> CONTEXT: Scripts/Scene_Bookshelf/183:32 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Bookshelf/192:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Bookshelf/183:32
+> CONTEXT: Scripts/Scene_Bookshelf/192:20
+/Song/
 > END STRING
 
 > BEGIN STRING
 "画布は2冊以上入れられない"
 > CONTEXT: Scripts/Scene_Bookshelf/189:35
-"You put in more than 1 canvas"
+"Can't put in more than 1 canvas"
 > END STRING
 
 > BEGIN STRING
 "楽譜は2冊以上入れられない"
 > CONTEXT: Scripts/Scene_Bookshelf/194:35
-"You put in more than 1 music sheet"
+"Can't put in more than 1 song"
 > END STRING
 
 > BEGIN STRING
@@ -25473,8 +25467,8 @@
 
 > BEGIN STRING
 "** 勝利の記録 **"
-> CONTEXT: Scripts/記録/35:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/記録/35:11
+"** Winning Record **"
 > END STRING
 
 > BEGIN STRING
@@ -25682,29 +25676,29 @@
 
 > BEGIN STRING
 /(.*)に弱い/
-> CONTEXT: Scripts/属性防御／弱点詳細化/18:34 < UNTRANSLATED
-
+> CONTEXT: Scripts/属性防御／弱点詳細化/18:34
+/(.*)weakness/
 > END STRING
 
 > BEGIN STRING
 "手"
-> CONTEXT: Scripts/属性防御／弱点詳細化/22:14 < UNTRANSLATED
-> CONTEXT: Commonevents/82/2/InlineScript/2:8 < UNTRANSLATED
-
+> CONTEXT: Scripts/属性防御／弱点詳細化/22:14
+> CONTEXT: Commonevents/82/2/InlineScript/2:8
+"Hand"
 > END STRING
 
 > BEGIN STRING
 "口"
-> CONTEXT: Scripts/属性防御／弱点詳細化/24:14 < UNTRANSLATED
-> CONTEXT: Commonevents/82/2/InlineScript/3:8 < UNTRANSLATED
-
+> CONTEXT: Scripts/属性防御／弱点詳細化/24:14
+> CONTEXT: Commonevents/82/2/InlineScript/3:8
+"Mouth"
 > END STRING
 
 > BEGIN STRING
 "足"
-> CONTEXT: Scripts/属性防御／弱点詳細化/28:14 < UNTRANSLATED
-> CONTEXT: Commonevents/82/2/InlineScript/5:8 < UNTRANSLATED
-
+> CONTEXT: Scripts/属性防御／弱点詳細化/28:14
+> CONTEXT: Commonevents/82/2/InlineScript/5:8
+"Foot"
 > END STRING
 
 > BEGIN STRING

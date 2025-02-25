@@ -183,8 +183,8 @@ Sensitive
 
 > BEGIN STRING
 ナーバス
-> CONTEXT: States/30/name/ < UNTRANSLATED
-
+> CONTEXT: States/30/name/
+Nervous
 > END STRING
 
 > BEGIN STRING
@@ -948,14 +948,14 @@ Night Incense
 
 > BEGIN STRING
 視覚耐性+20%
-> CONTEXT: States/176/name/ < UNTRANSLATED
-
+> CONTEXT: States/176/name/
+Visual Resistance +20%
 > END STRING
 
 > BEGIN STRING
 魔力耐性+30%
-> CONTEXT: States/177/name/ < UNTRANSLATED
-
+> CONTEXT: States/177/name/
+Magic Resistance +30%
 > END STRING
 
 > BEGIN STRING
@@ -1530,8 +1530,8 @@ Solitude Perfume/100/100/100
 
 > BEGIN STRING
 誘引の香水/100/100/100
-> CONTEXT: States/288/name/ < UNTRANSLATED
-
+> CONTEXT: States/288/name/
+Attraction Perfume/100/100/100
 > END STRING
 
 > BEGIN STRING
@@ -1863,14 +1863,14 @@ Void of Wishes
 
 > BEGIN STRING
 EP回復量アップ
-> CONTEXT: States/412/name/ < UNTRANSLATED
-
+> CONTEXT: States/412/name/
+EP Recovery Up
 > END STRING
 
 > BEGIN STRING
 テンション上昇量アップ
-> CONTEXT: States/413/name/ < UNTRANSLATED
-
+> CONTEXT: States/413/name/
+Tension increase up
 > END STRING
 
 > BEGIN STRING
@@ -1923,8 +1923,8 @@ Command
 
 > BEGIN STRING
 ラグジャラス率+22%
-> CONTEXT: States/430/name/ < UNTRANSLATED
-
+> CONTEXT: States/430/name/
+Luxorious Rate +22%
 > END STRING
 
 > BEGIN STRING
@@ -2303,97 +2303,97 @@ Charm +20%/110/100/100
 > BEGIN STRING
 恍惚耐性+20%
 > CONTEXT: States/522/name/
-Ecstacy res. +20%
+Ecstacy Resistance +20%
 > END STRING
 
 > BEGIN STRING
 恍惚耐性+50%
 > CONTEXT: States/523/name/
-Ecstacy res. +50%
+Ecstacy Resistance +50%
 > END STRING
 
 > BEGIN STRING
 恍惚無効
 > CONTEXT: States/524/name/
-Ecstacy immunity
+Ecstacy Immunity
 > END STRING
 
 > BEGIN STRING
 バインド耐性+20%
 > CONTEXT: States/525/name/
-Bind res. +20%
+Bind Resistance +20%
 > END STRING
 
 > BEGIN STRING
 バインド耐性+50%
 > CONTEXT: States/526/name/
-Bind res. +50%
+Bind Resistance +50%
 > END STRING
 
 > BEGIN STRING
 バインド無効
 > CONTEXT: States/527/name/
-Bind immunity
+Bind Immunity
 > END STRING
 
 > BEGIN STRING
 パニック耐性+20%
 > CONTEXT: States/528/name/
-Panic res. +20%
+Panic Resistance +20%
 > END STRING
 
 > BEGIN STRING
 パニック耐性+50%
 > CONTEXT: States/529/name/
-Panic res. +50%
+Panic Resistance +50%
 > END STRING
 
 > BEGIN STRING
 パニック無効
 > CONTEXT: States/530/name/
-Panic immunity
+Panic Immunity
 > END STRING
 
 > BEGIN STRING
 センシブ耐性+20%
 > CONTEXT: States/531/name/
-Sensitive res. +20%
+Sensitive Resistance +20%
 > END STRING
 
 > BEGIN STRING
 センシブ耐性+50%
 > CONTEXT: States/532/name/
-Sensitive res. +50%
+Sensitive Resistance +50%
 > END STRING
 
 > BEGIN STRING
 センシブ無効
 > CONTEXT: States/533/name/
-Sensitive immunity
+Sensitive Immunity
 > END STRING
 
 > BEGIN STRING
 暴走耐性+20%
 > CONTEXT: States/534/name/
-Berserk res. +20%
+Berserk Resistance +20%
 > END STRING
 
 > BEGIN STRING
 暴走耐性+50%
 > CONTEXT: States/535/name/
-Berserk res. +50%
+Berserk Resistance +50%
 > END STRING
 
 > BEGIN STRING
 暴走無効
 > CONTEXT: States/536/name/
-Berserk immunity
+Berserk Immunity
 > END STRING
 
 > BEGIN STRING
 全耐性+20%
 > CONTEXT: States/541/name/
-All res. +20%
+All Resistance +20%
 > END STRING
 
 > BEGIN STRING
@@ -2555,19 +2555,19 @@ Always panic
 > BEGIN STRING
 ラグジャラス率+5%
 > CONTEXT: States/580/name/
-Luxurious Rate +5%
+Luxorious Rate +5%
 > END STRING
 
 > BEGIN STRING
 ラグジャラス率+7%
 > CONTEXT: States/581/name/
-Luxurious Rate +7%
+Luxorious Rate +7%
 > END STRING
 
 > BEGIN STRING
 ラグジャラス率+10%
 > CONTEXT: States/582/name/
-Luxurious Rate +10%
+Luxorious Rate +10%
 > END STRING
 
 > BEGIN STRING
@@ -2632,20 +2632,20 @@ All attributes +10%/110/100/110
 
 > BEGIN STRING
 稀に放心させる
-> CONTEXT: States/595/name/
-Occasional daze
+> CONTEXT: States/595/name/ < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 稀に敏感にする
-> CONTEXT: States/596/name/
-Occasional sensitivity
+> CONTEXT: States/596/name/ < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 稀に即いかせる
-> CONTEXT: States/597/name/
-Occasional ejaculation
+> CONTEXT: States/597/name/ < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

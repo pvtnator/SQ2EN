@@ -7,41 +7,44 @@ Left the books with Merja!
 
 > BEGIN STRING
 「う………
-> CONTEXT: Commonevents/7/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/7/17/Dialogue
+「Ugh.....
 > END STRING
 
 > BEGIN STRING
 「…ここ…は………？
-> CONTEXT: Commonevents/7/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/7/37/Dialogue
+「..This..is...?
 > END STRING
 
 > BEGIN STRING
 「…わしは…………
 　……………いつから………
 　……ぼくは…………
-> CONTEXT: Commonevents/7/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/7/38/Dialogue
+「..I......
+　......Since when.....
+　...I......
 > END STRING
 
 > BEGIN STRING
 「誰で……………………
 　………何で……………
-> CONTEXT: Commonevents/7/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/7/41/Dialogue
+「Who.........
+　....Why......
 > END STRING
 
 > BEGIN STRING
 「…あ……………
-> CONTEXT: Commonevents/7/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/7/47/Dialogue
+「..a......
 > END STRING
 
 > BEGIN STRING
 「サ…フィ…………
-> CONTEXT: Commonevents/7/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/7/92/Dialogue
+「Tha..fi.....
 > END STRING
 
 > BEGIN STRING
@@ -94,15 +97,15 @@ Money Settings
 
 > BEGIN STRING
 エンカウント回避ON/OFF
-> CONTEXT: Commonevents/21/9/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/9/Choice/2
+No Encounters ON/OFF
 > END STRING
 
 > BEGIN STRING
 他
-> CONTEXT: Commonevents/21/9/Choice/3 < UNTRANSLATED
-> CONTEXT: Commonevents/21/34/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/9/Choice/3
+> CONTEXT: Commonevents/21/34/Choice/3
+Other
 > END STRING
 
 > BEGIN STRING
@@ -119,8 +122,8 @@ ON
 
 > BEGIN STRING
 ゲームオーバー
-> CONTEXT: Commonevents/21/34/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/34/Choice/0
+Game Over
 > END STRING
 
 > BEGIN STRING
@@ -138,20 +141,20 @@ Daydreamer
 
 > BEGIN STRING
 現在の階層操作
-> CONTEXT: Commonevents/21/47/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/47/Choice/0
+Level Warp
 > END STRING
 
 > BEGIN STRING
 デバッグマップ
-> CONTEXT: Commonevents/21/47/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/47/Choice/1
+Debug Map
 > END STRING
 
 > BEGIN STRING
 装備合成
-> CONTEXT: Commonevents/21/47/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/47/Choice/2
+Equipment Synthesis
 > END STRING
 
 > BEGIN STRING
@@ -165,14 +168,15 @@ Go back
 > BEGIN STRING
 現在の階層：\\v[36]
 何階にいることにしますか？
-> CONTEXT: Commonevents/21/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/50/Dialogue
+Current floor: \\v[36]
+Go to which floor?
 > END STRING
 
 > BEGIN STRING
 この先で中断セーブしないで下さい
-> CONTEXT: Commonevents/21/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/62/Dialogue
+Do not save after this point
 > END STRING
 
 > BEGIN STRING
@@ -541,30 +545,34 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 > BEGIN STRING
 
 \\i[132]\\c[3]白の史書（妖精）\\c[0]のページが全て埋まった！
-> CONTEXT: Commonevents/36/77/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/77/Dialogue
 
+\\i[132]\\c[3]Blank Book (Fairy)\\c[0] is completely filled!
 > END STRING
 
 > BEGIN STRING
 
 \\i[132]\\c[3]白の史書（獣）\\c[0]のページが全て埋まった！
-> CONTEXT: Commonevents/36/97/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/97/Dialogue
 
+\\i[132]\\c[3]Blank Book (Beast)\\c[0] is completely filled!
 > END STRING
 
 > BEGIN STRING
 
 \\i[132]\\c[3]白の史書（少女）\\c[0]のページが全て埋まった！
-> CONTEXT: Commonevents/36/117/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/117/Dialogue
 
+\\i[132]\\c[3]Blank Book (Girl)\\c[0] is completely filled!
 > END STRING
 
 > BEGIN STRING
 
 \\i[132]\\c[3]白の史書（トカゲ）\\c[0]のページが全て埋まった
 ！
-> CONTEXT: Commonevents/36/137/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/137/Dialogue
 
+\\i[132]\\c[3]Blank Book (Lizard)\\c[0] is completely filled!
 > END STRING
 
 > BEGIN STRING
@@ -758,8 +766,8 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「逃がさないわよぉ\\e[0]
-> CONTEXT: Commonevents/50/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/52/Dialogue
+\\a[\\v[105]]「I won't let you get away\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -814,8 +822,8 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「だめよ………
-> CONTEXT: Commonevents/50/104/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/104/Dialogue
+\\a[\\v[105]]「Don't....
 > END STRING
 
 > BEGIN STRING
@@ -827,71 +835,75 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「あ、\\n[1]様、
 　そんなあっ！？
-> CONTEXT: Commonevents/50/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/112/Dialogue
+\\a[\\v[105]]「Ah, Mr. \\n[1],
+　What are you doing!?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ふふ……
 　つかまえた……\\e[0]
-> CONTEXT: Commonevents/50/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/117/Dialogue
+\\a[\\v[105]]「Hehe...
+　Got you...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「まってぇ～～\\e[0]
-> CONTEXT: Commonevents/50/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/122/Dialogue
+\\a[\\v[105]]「Wait～～\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「逃がさねえよッ！
-> CONTEXT: Commonevents/50/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/126/Dialogue
+\\a[\\v[105]]「I won't let you get away!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「な、なに逃げようとしてるのよっ！
-> CONTEXT: Commonevents/50/134/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/134/Dialogue
+\\a[\\v[105]]「W-what are trying to run for?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「つかまえたぁ～\\e[0]
-> CONTEXT: Commonevents/50/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/138/Dialogue
+\\a[\\v[105]]「Gotcha～\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「つかまえちゃった\\e[0]
-> CONTEXT: Commonevents/50/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/142/Dialogue
+\\a[\\v[105]]「Got you\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「つ～かまえ～た\\e[0]
-> CONTEXT: Commonevents/50/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/146/Dialogue
+\\a[\\v[105]]「I～got～you\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「アタシを前にして逃げるなんて…
 　何考えてんの！？
-> CONTEXT: Commonevents/50/150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/150/Dialogue
+\\a[\\v[105]]「Running away when I'm in front of you...
+　What are you thinking!?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ダメよ、運命から逃げちゃ\\e[0]
-> CONTEXT: Commonevents/50/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/155/Dialogue
+\\a[\\v[105]]「No, don't run away from your fate\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「こらー！
 　逃げちゃだめえ！
-> CONTEXT: Commonevents/50/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/159/Dialogue
+\\a[\\v[105]]「Hey!
+　Don't run away!
 > END STRING
 
 > BEGIN STRING
@@ -904,20 +916,20 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 「ガルルルルル！
-> CONTEXT: Commonevents/50/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/162/Dialogue
+「Grrrrrr!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「逃げないで…ください……
-> CONTEXT: Commonevents/50/171/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/171/Dialogue
+\\a[\\v[105]]「Please don't run away...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「逃げちゃだ～めっ\\e[0]
-> CONTEXT: Commonevents/50/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/175/Dialogue
+\\a[\\v[105]]「Don't run away～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1019,8 +1031,10 @@ The treasure chest was a mimic!
 \\a[\\v[105]]「でも私、
 　まだイってないわよ…？
 \\w[\\v[105]]　ふふっ\\e[0]
-> CONTEXT: Commonevents/52/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/69/Dialogue
+\\a[\\v[105]]「But,
+　I haven't orgasmed yet...?
+\\w[\\v[105]]　Heheh\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1069,8 +1083,9 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「さあ、
 　吸い尽くしてあげるわ…\\e[0]
-> CONTEXT: Commonevents/52/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/98/Dialogue
+\\a[\\v[105]]「Now,
+　I'll suck you dry...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1089,15 +1104,16 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「え…やだ……いっちゃった？
-> CONTEXT: Commonevents/52/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/109/Dialogue
+\\a[\\v[105]]「Oh my...you came?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あたしでいってくれたの…？
 \\w[\\v[104]]　……うれしい\\e[0]
-> CONTEXT: Commonevents/52/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/110/Dialogue
+\\a[\\v[105]]「You came for me...?
+\\w[\\v[104]]　...I'm happy\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1131,41 +1147,45 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「このまま……
 　天国までお連れしますねぇ\\e[0]
-> CONTEXT: Commonevents/52/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/127/Dialogue
+\\a[\\v[105]]「Just like this...
+　I'll take you to heaven\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ほほ………
 \\w[\\v[104]]　いのちの精、吸い尽くしてくれようぞ…
-> CONTEXT: Commonevents/52/132/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/132/Dialogue
+\\a[\\v[105]]「Hohoo...
+\\w[\\v[104]]　I'll suck out the life out of you...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あら、レディより先にいくなんて……
-> CONTEXT: Commonevents/52/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/137/Dialogue
+\\a[\\v[105]]「Oho, to think you'd cum before the lady...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「だめなひと……
 　おしおきが必要ね\\e[0]
-> CONTEXT: Commonevents/52/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/138/Dialogue
+\\a[\\v[105]]「You're no good...
+　You must be punished\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「はう……いっちゃった…？
-> CONTEXT: Commonevents/52/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/143/Dialogue
+\\a[\\v[105]]「Haah...you came..?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あたしでいったの…？
 \\w[\\v[104]]　ふわ……うれしい……\\e[0]
-> CONTEXT: Commonevents/52/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/144/Dialogue
+\\a[\\v[105]]「You came from me..?
+\\w[\\v[104]]　Wow...I'm happy...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1207,48 +1227,53 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「まだまだお仕置きが必要みたいね……
 \\w[\\v[105]]　ふふっ\\e[0]
-> CONTEXT: Commonevents/52/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/163/Dialogue
+\\a[\\v[105]]「Looks like you still need some punishment...
+\\w[\\v[105]]　Hehe\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「わぁい、おうまさんぱかぱか～っ☆
-> CONTEXT: Commonevents/52/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/168/Dialogue
+\\a[\\v[105]]「Wow, horsie went clip-clop～☆
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「今日から君が、
 \\w[\\v[104]]　\\n[28]の乗り物ねっ☆
-> CONTEXT: Commonevents/52/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/169/Dialogue
+\\a[\\v[105]]「From today,
+\\w[\\v[104]]　\\n[28] is my ride☆
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「くすくすくす……\\e[0]
-> CONTEXT: Commonevents/52/174/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/174/Dialogue
+\\a[\\v[105]]「Ksksks...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あはははっ、
 \\w[\\v[104]]　いっちゃったぁ？
-> CONTEXT: Commonevents/52/178/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/178/Dialogue
+\\a[\\v[105]]「Ahahaha,
+\\w[\\v[104]]　You came?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「でも食べ足りないよ……
 \\w[\\v[104]]　まだまだねっ！
-> CONTEXT: Commonevents/52/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/180/Dialogue
+\\a[\\v[105]]「But it's not enough...
+\\w[\\v[104]]　Still not enough!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「夜！ああ！権威は！記憶は！
 \\w[\\v[105]]　妖精のように白壁で踊り狂えっ！！
-> CONTEXT: Commonevents/52/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/185/Dialogue
+\\a[\\v[105]]「Night! Ah! Authority! Memory!
+\\w[\\v[105]]　Let's dance on the white walls like fairies!!
 > END STRING
 
 > BEGIN STRING
@@ -1269,17 +1294,18 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「あら、先にいっちゃったの？
-> CONTEXT: Commonevents/52/200/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/52/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/200/Dialogue
+> CONTEXT: Commonevents/52/206/Dialogue
+\\a[\\v[105]]「Oho, you came first?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「まだいけるでしょ？
 　今度は私もいかせてよ\\e[0]
-> CONTEXT: Commonevents/52/201/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/52/207/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/201/Dialogue
+> CONTEXT: Commonevents/52/207/Dialogue
+\\a[\\v[105]]「You can still go, right?
+　Let me cum too next time\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1300,14 +1326,14 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]「あはっ…きもちよかった？
-> CONTEXT: Commonevents/52/224/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/224/Dialogue
+\\a[\\v[105]]「Ahhh...did that feel good?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ほら、ずっとこうしていましょうよ…\\e[0]
-> CONTEXT: Commonevents/52/225/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/225/Dialogue
+\\a[\\v[105]]「Come on, let's keep at it...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1391,69 +1417,71 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「ああっ、\\n[1]様、
 　\\n[1]様ぁっ……
-> CONTEXT: Commonevents/52/271/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/271/Dialogue
+\\a[\\v[105]]「Ahh, Mr. \\n[1],
+　Mr. \\n[1]...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「だめっ、止まらなぁいっ！
-> CONTEXT: Commonevents/52/273/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/273/Dialogue
+\\a[\\v[105]]「No, don't stop!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あはっ\\e[0]
-> CONTEXT: Commonevents/52/277/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/277/Dialogue
+\\a[\\v[105]]「Aah\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「もうイっちゃったのぉ？
 \\w[\\v[105]]　……フフフッ\\e[0]
-> CONTEXT: Commonevents/52/281/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/281/Dialogue
+\\a[\\v[105]]「You already came?
+\\w[\\v[105]]　...Heheheh\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あはっ、こうなる運命よねぇ\\e[0]
-> CONTEXT: Commonevents/52/286/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/286/Dialogue
+\\a[\\v[105]]「Ahaha, seems this was fate\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「やったー！ボクたちの勝利！
-> CONTEXT: Commonevents/52/290/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/290/Dialogue
+\\a[\\v[105]]「Yeah! We've won!
 > END STRING
 
 > BEGIN STRING
 「ガオォンッ♪
-> CONTEXT: Commonevents/52/292/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/292/Dialogue
+「Awooo♪
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「わぁ！いっぱぁい♪
-> CONTEXT: Commonevents/52/296/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/296/Dialogue
+\\a[\\v[105]]「Wow! So much♪
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ね、もっともっとちょうだいっ！
-> CONTEXT: Commonevents/52/297/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/297/Dialogue
+\\a[\\v[105]]「Hey, give me more, more!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あら…いってしまわれましたの…？
-> CONTEXT: Commonevents/52/301/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/301/Dialogue
+\\a[\\v[105]]「Oh...you came...?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「でももっと…戯れていたい……
-> CONTEXT: Commonevents/52/302/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/302/Dialogue
+\\a[\\v[105]]「But...I want to play with you more...
 > END STRING
 
 > BEGIN STRING
@@ -1464,14 +1492,14 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 「はぅ～……\\e[0]
-> CONTEXT: Commonevents/52/386/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/386/Dialogue
+「Uu～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ステラ、おなかいっぱぁい……\\e[0]
-> CONTEXT: Commonevents/52/387/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/387/Dialogue
+「Stella, so full...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1497,109 +1525,116 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「予言するわ。
 \\w[\\v[104]]　あなたは \\b3\\f ターン後には……
-> CONTEXT: Commonevents/56/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/56/3/Dialogue
+\\a[\\v[105]]「I prophesize.
+\\w[\\v[104]]　After \\b3\\f turns...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「『あたしと恋に落ちている』！
 \\w[\\v[105]]　……あら\\e[0]
-> CONTEXT: Commonevents/56/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/56/6/Dialogue
+\\a[\\v[105]]「"Fall in love with me"!
+\\w[\\v[105]]　...Ooh\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「『EPが満タンになっている』！
 \\w[\\v[105]]　……ちょっとつまんないかしら。
-> CONTEXT: Commonevents/56/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/56/12/Dialogue
+\\a[\\v[105]]「"EP is full!"
+\\w[\\v[105]]　...That's a bit boring.
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「『今にもイきそうになっている』！
 \\w[\\v[105]]　……きっとそうなるわ\\e[0]
-> CONTEXT: Commonevents/56/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/56/18/Dialogue
+\\a[\\v[105]]「"Going to cum"!
+\\w[\\v[105]]　...I'm sure you will\\e[0]
 > END STRING
 
 > BEGIN STRING
 「そのキレイな石、ステラにちょうだいっ☆
-> CONTEXT: Commonevents/58/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/58/8/Dialogue
+「Give that beautiful stone to Stella☆
 > END STRING
 
 > BEGIN STRING
 「そのぬいぐるみ、ステラにちょうだいっ☆
-> CONTEXT: Commonevents/58/13/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/58/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/58/13/Dialogue
+> CONTEXT: Commonevents/58/18/Dialogue
+「Give that stuffed animal to Stella☆
 > END STRING
 
 > BEGIN STRING
 「そのキレイなモノ、ステラにちょうだいっ☆
-> CONTEXT: Commonevents/58/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/58/22/Dialogue
+「Give that beautiful thing to Stella☆
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]は
 \\c[3]\\i[\\v[2]]\\v[1]\\c[0]を奪われてしまった！
 \\k
-> CONTEXT: Commonevents/58/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/58/28/Dialogue
+\\a[\\v[105]]\\n[1] stole \\c[3]\\i[\\v[2]]\\v[1]\\c[0]!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ステラは\\c[3]\\i[\\v[2]]\\v[1]\\c[0]を装備した！
-> CONTEXT: Commonevents/58/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/58/34/Dialogue
+\\a[\\v[105]]Stella equipped \\c[3]\\i[\\v[2]]\\v[1]\\c[0]!
 > END STRING
 
 > BEGIN STRING
 「わーい\\e[0]
 　もらっちゃったぁ\\e[0]
-> CONTEXT: Commonevents/58/37/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/59/32/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/60/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/58/37/Dialogue
+> CONTEXT: Commonevents/59/32/Dialogue
+> CONTEXT: Commonevents/60/33/Dialogue
+「Wow\\e[0]
+　I'll take it\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あれぇ、何も装備してないのぉ？
-> CONTEXT: Commonevents/58/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/58/44/Dialogue
+「Oh, you're not equipped with anything?
 > END STRING
 
 > BEGIN STRING
 「ステラ、つまんなぁい……
-> CONTEXT: Commonevents/58/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/58/45/Dialogue
+「Stella, bored...
 > END STRING
 
 > BEGIN STRING
 「ステラ、
 　ワイルドなおにぃさんも好きだよぉ。
-> CONTEXT: Commonevents/59/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/59/6/Dialogue
+「Stella,
+　likes wild guys too.
 > END STRING
 
 > BEGIN STRING
 「だからナンだよ？
-> CONTEXT: Commonevents/59/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/59/9/Dialogue
+「So what?
 > END STRING
 
 > BEGIN STRING
 「おにぃさん、ステラにちょうだい☆
-> CONTEXT: Commonevents/59/11/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/60/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/59/11/Dialogue
+> CONTEXT: Commonevents/60/12/Dialogue
+「Big bro, give it to Stella☆
 > END STRING
 
 > BEGIN STRING
 「な…わっ！？
-> CONTEXT: Commonevents/59/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/59/13/Dialogue
+「Wh-what!?
 > END STRING
 
 > BEGIN STRING
@@ -1617,33 +1652,34 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]エルヴィンが奪われてしまった！
-> CONTEXT: Commonevents/59/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/59/29/Dialogue
+\\a[\\v[105]]Elvin has been taken away!
 > END STRING
 
 > BEGIN STRING
 「ステラ、
 　かっこいーおにぃさん大好きぃ\\e[0]
-> CONTEXT: Commonevents/60/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/60/6/Dialogue
+「Stella,
+　loves good-looking guys\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ふっ、光栄だね。
-> CONTEXT: Commonevents/60/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/60/9/Dialogue
+「Heh, what an honor.
 > END STRING
 
 > BEGIN STRING
 「そうだね、もう少し大きくなったら……
-> CONTEXT: Commonevents/60/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/60/10/Dialogue
+「Yeah, when I get a little older...
 > END STRING
 
 > BEGIN STRING
 「ん？
-> CONTEXT: Commonevents/60/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/60/14/Dialogue
+「Hm?
 > END STRING
 
 > BEGIN STRING
@@ -1654,53 +1690,56 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]ローズニルが奪われてしまった！
-> CONTEXT: Commonevents/60/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/60/30/Dialogue
+\\a[\\v[105]]Rosenil has been taken away!
 > END STRING
 
 > BEGIN STRING
 「おにぃさん、ステラにいっぱい
 　プレゼントありがとっ☆
-> CONTEXT: Commonevents/61/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/61/3/Dialogue
+「Big bro, thank you for 
+　all the presents for Stella!
 > END STRING
 
 > BEGIN STRING
 「ね、次は…………
-> CONTEXT: Commonevents/61/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/61/5/Dialogue
+「Okay, next.....
 > END STRING
 
 > BEGIN STRING
 「おにぃさんの全部を、
 　ステラにちょうだいっ\\e[0]
-> CONTEXT: Commonevents/61/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/61/6/Dialogue
+「Give your everything 
+　to Stella, big bro\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]をアイテムに変えた！
-> CONTEXT: Commonevents/64/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/64/95/Dialogue
+\\a[\\v[105]]\\n[27] has been turned into an item!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]には効かなかった！
-> CONTEXT: Commonevents/64/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/64/99/Dialogue
+\\a[\\v[105]]\\n[27] didn't work!
 > END STRING
 
 > BEGIN STRING
 好きなだけステータスを上げられます
 この3倍のリアリティを失います
-> CONTEXT: Commonevents/65/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/65/1/Dialogue
+Increase attributes as much as you want. 
+Lose 3 times this reality
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]の全ての能力が \\b\\v[1]\\f 上がった！
-> CONTEXT: Commonevents/65/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/65/11/Dialogue
+\\a[\\v[105]]\\n[1]All attributes of \\b\\v[1]\\f have increased!
 > END STRING
 
 > BEGIN STRING
@@ -1730,50 +1769,50 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 "ドラぷー"
-> CONTEXT: Commonevents/70/3/InlineScript/2:8 < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/3/InlineScript/2:8
+"Drapi"
 > END STRING
 
 > BEGIN STRING
 "ドラたん"
-> CONTEXT: Commonevents/70/3/InlineScript/3:8 < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/3/InlineScript/3:8
+"Dratan"
 > END STRING
 
 > BEGIN STRING
 "ドラ衛門"
-> CONTEXT: Commonevents/70/3/InlineScript/4:8 < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/3/InlineScript/4:8
+"Draemon"
 > END STRING
 
 > BEGIN STRING
 "リューちゃん"
-> CONTEXT: Commonevents/70/3/InlineScript/5:8 < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/3/InlineScript/5:8
+"Ryu-chan"
 > END STRING
 
 > BEGIN STRING
 "リューっぴ"
-> CONTEXT: Commonevents/70/3/InlineScript/6:8 < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/3/InlineScript/6:8
+"Ryu-pi"
 > END STRING
 
 > BEGIN STRING
 "リューくん"
-> CONTEXT: Commonevents/70/3/InlineScript/7:8 < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/3/InlineScript/7:8
+"Ryu-kun"
 > END STRING
 
 > BEGIN STRING
 "リューたん"
-> CONTEXT: Commonevents/70/3/InlineScript/8:8 < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/3/InlineScript/8:8
+"Ryu-tan"
 > END STRING
 
 > BEGIN STRING
 "ジョゼフィーヌ"
-> CONTEXT: Commonevents/70/3/InlineScript/9:8 < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/3/InlineScript/9:8
+"Josephina"
 > END STRING
 
 > BEGIN STRING
@@ -1807,14 +1846,15 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「よーし！
 \\w[\\v[104]]　どんどん攻めちゃうよーっ♪
-> CONTEXT: Commonevents/70/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/30/Dialogue
+\\a[\\v[105]]「All right!
+\\w[\\v[104]]　Let's keep attacking!♪
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ガオォンッ！
-> CONTEXT: Commonevents/70/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/33/Dialogue
+\\a[\\v[105]]「Gwaaaah!
 > END STRING
 
 > BEGIN STRING
@@ -1837,118 +1877,120 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 "優しく"
-> CONTEXT: Commonevents/72/0/InlineScript/1:6 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/1:6
+"gently"
 > END STRING
 
 > BEGIN STRING
 "激しく"
-> CONTEXT: Commonevents/72/0/InlineScript/1:12 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/1:12
+"hard"
 > END STRING
 
 > BEGIN STRING
 "静かに"
-> CONTEXT: Commonevents/72/0/InlineScript/1:18 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/1:18
+"quiet"
 > END STRING
 
 > BEGIN STRING
 "交わした"
-> CONTEXT: Commonevents/72/0/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/1:24
+"share"
 > END STRING
 
 > BEGIN STRING
 "熱い"
-> CONTEXT: Commonevents/72/0/InlineScript/1:31 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/1:31
+"passionate"
 > END STRING
 
 > BEGIN STRING
 "キス"
-> CONTEXT: Commonevents/72/0/InlineScript/2:7 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/2:7
+"kiss"
 > END STRING
 
 > BEGIN STRING
 "揉み"
-> CONTEXT: Commonevents/72/0/InlineScript/2:27 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/2:27
+"massage"
 > END STRING
 
 > BEGIN STRING
 "唱えた"
-> CONTEXT: Commonevents/72/0/InlineScript/3:7 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/3:7
+"cast"
 > END STRING
 
 > BEGIN STRING
 "愛撫"
 > CONTEXT: Commonevents/72/0/InlineScript/3:13
-"Caress"
+"caress"
 > END STRING
 
 > BEGIN STRING
 "願った"
-> CONTEXT: Commonevents/72/0/InlineScript/3:18 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/3:18
+"wish"
 > END STRING
 
 > BEGIN STRING
 "美しい"
-> CONTEXT: Commonevents/72/0/InlineScript/4:7 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/4:7
+"beautiful"
 > END STRING
 
 > BEGIN STRING
 "突いた"
-> CONTEXT: Commonevents/72/0/InlineScript/4:13 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/4:13
+"poke"
 > END STRING
 
 > BEGIN STRING
 "肌"
-> CONTEXT: Commonevents/72/0/InlineScript/4:19 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/4:19
+"skin"
 > END STRING
 
 > BEGIN STRING
 "調べた"
-> CONTEXT: Commonevents/72/0/InlineScript/4:23 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/4:23
+"analyze"
 > END STRING
 
 > BEGIN STRING
 "呼吸"
-> CONTEXT: Commonevents/72/0/InlineScript/4:29 < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/0/InlineScript/4:29
+"breath"
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]『\\v[1]』が禁止された！
 \\w[\\v[105]]『\\v[2]』が禁止された！
 \\w[\\v[105]]
-> CONTEXT: Commonevents/72/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/12/Dialogue
+\\a[\\v[105]]'\\v[1]' got banned!
+\\w[\\v[105]]'\\v[2]' got banned!
+\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 /アイゼクトの/
-> CONTEXT: Commonevents/73/4/InlineScript/2:11 < UNTRANSLATED
-
+> CONTEXT: Commonevents/73/4/InlineScript/2:11
+/Ayxect's/
 > END STRING
 
 > BEGIN STRING
 "\\\\c[2]サフィ\\\\c[0]の"
-> CONTEXT: Commonevents/73/4/InlineScript/2:22 < UNTRANSLATED
-
+> CONTEXT: Commonevents/73/4/InlineScript/2:22
+"\\\\c[2]Thafi's\\\\c[0]"
 > END STRING
 
 > BEGIN STRING
 /\\023 ([0-9]*) \\024回復/
-> CONTEXT: Commonevents/73/4/InlineScript/5:11 < UNTRANSLATED
-
+> CONTEXT: Commonevents/73/4/InlineScript/5:11
+/red\\023 ([0-9]*) \\024[E-T]{2}/
 > END STRING
 
 > BEGIN STRING
@@ -1965,9 +2007,10 @@ The treasure chest was a mimic!
 > BEGIN STRING
 サフィの運命改ざん！
 \\w[\\v[104]]\\v[1]
-> CONTEXT: Commonevents/73/22/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/81/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/73/22/Dialogue
+> CONTEXT: Commonevents/81/22/Dialogue
+Thafi Fate Tempering!
+\\w[\\v[104]]\\v[1]
 > END STRING
 
 > BEGIN STRING
@@ -2053,32 +2096,32 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 /サフィに/
-> CONTEXT: Commonevents/81/4/InlineScript/1:26 < UNTRANSLATED
-
+> CONTEXT: Commonevents/81/4/InlineScript/1:26
+/Thafi/
 > END STRING
 
 > BEGIN STRING
 "サフィが"
-> CONTEXT: Commonevents/81/4/InlineScript/1:35 < UNTRANSLATED
-
+> CONTEXT: Commonevents/81/4/InlineScript/1:35
+"\\\\c[2]Ayxect\\\\c[0]"
 > END STRING
 
 > BEGIN STRING
 /サフィが/
-> CONTEXT: Commonevents/81/4/InlineScript/3:11 < UNTRANSLATED
-
+> CONTEXT: Commonevents/81/4/InlineScript/3:11
+/(Ayxect)[' ]/
 > END STRING
 
 > BEGIN STRING
 "サフィ\\\\c[2]が\\\\c[0]"
-> CONTEXT: Commonevents/81/4/InlineScript/3:20 < UNTRANSLATED
-
+> CONTEXT: Commonevents/81/4/InlineScript/3:20
+"\\\\c[2]Thafi\\\\c[0]"
 > END STRING
 
 > BEGIN STRING
 /\\023 ([0-9]*) \\024の快感/
-> CONTEXT: Commonevents/81/4/InlineScript/7:11 < UNTRANSLATED
-
+> CONTEXT: Commonevents/81/4/InlineScript/7:11
+/\\023 ([0-9]*) \\024pleasure/
 > END STRING
 
 > BEGIN STRING
@@ -2101,8 +2144,8 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 デバッグ用 : 弱点突きでエラーが出ました
-> CONTEXT: Commonevents/82/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/82/45/Dialogue
+For debugging: Error when attacking a weak point
 > END STRING
 
 > BEGIN STRING
@@ -2145,26 +2188,26 @@ The treasure chest was a mimic!
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]も暴走した！
-> CONTEXT: Commonevents/88/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/88/1/Dialogue
+\\a[\\v[105]]\\n[1] also went out of control!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[28]は分身した！
-> CONTEXT: Commonevents/89/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/89/28/Dialogue
+\\a[\\v[105]]\\n[28] split into two!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「や…、そこダメ…ッ！
-> CONTEXT: Commonevents/94/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/15/Dialogue
+\\a[\\v[105]]「No...not there...!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「シッポはらめぇ～っ！
-> CONTEXT: Commonevents/94/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/19/Dialogue
+\\a[\\v[105]]「Please stop biting my tail!"
 > END STRING
 
 > BEGIN STRING
@@ -2176,109 +2219,118 @@ The treasure chest was a mimic!
 > BEGIN STRING
 \\a[\\v[105]]「あ…私にこんなこと……
 \\w[\\v[105]]　ああっ…！
-> CONTEXT: Commonevents/94/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/27/Dialogue
+\\a[\\v[105]]「Ah...doing this to me...
+\\w[\\v[105]]　Ahh...!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ニャ…ニャぁぁ～んっ
-> CONTEXT: Commonevents/94/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/32/Dialogue
+\\a[\\v[105]]「Meow...meow～
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「グ…・グルルルッ………
-> CONTEXT: Commonevents/94/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/36/Dialogue
+\\a[\\v[105]]「Gr...grrrrr....
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あ…だめよ、そこは……
 \\w[\\v[105]]　あぁあんっ！
-> CONTEXT: Commonevents/94/40/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/94/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/40/Dialogue
+> CONTEXT: Commonevents/94/45/Dialogue
+\\a[\\v[105]]「Ah...no, not there...
+\\w[\\v[105]]　Ahh!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ちょ、ちょっと、やめっ……
 \\w[\\v[105]]　あぁあんっ！
-> CONTEXT: Commonevents/94/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/50/Dialogue
+\\a[\\v[105]]「Hey, wait a second, stop...
+\\w[\\v[105]]　Ahh!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「や…だめぇ……っ
-> CONTEXT: Commonevents/94/55/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/94/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/55/Dialogue
+> CONTEXT: Commonevents/94/96/Dialogue
+\\a[\\v[105]]「No... no...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あ…、だ、だめ…………
 \\w[\\v[105]]　あぁんっ…！
-> CONTEXT: Commonevents/94/59/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/94/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/59/Dialogue
+> CONTEXT: Commonevents/94/100/Dialogue
+\\a[\\v[105]]「Ah..., no, no...
+\\w[\\v[105]]　Ahh...!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あ………
 \\w[\\v[104]]　かんじ…ちゃう……
-> CONTEXT: Commonevents/94/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/64/Dialogue
+\\a[\\v[105]]「Ah.....
+\\w[\\v[104]]　It feels... different...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「や……だめですぅ～～っ
-> CONTEXT: Commonevents/94/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/69/Dialogue
+\\a[\\v[105]]「No...that's not okay～～
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「こ、これ……やめ………
 \\w[\\v[105]]　ああぁっ………
-> CONTEXT: Commonevents/94/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/73/Dialogue
+\\a[\\v[105]]「T-this...stop...
+\\w[\\v[105]]　Aaaah.....
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「だ、だめですわ、そこは…
 \\w[\\v[104]]　わたくし…あぁあっ……！
-> CONTEXT: Commonevents/94/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/78/Dialogue
+\\a[\\v[105]]「N-no, that's not okay...
+\\w[\\v[104]]　I...aaahh...!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ひくっ…だ…だめぇっ………
-> CONTEXT: Commonevents/94/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/83/Dialogue
+\\a[\\v[105]]「Mph...n-no...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「や…だ、だめよ………
 \\w[\\v[105]]　あっ……
-> CONTEXT: Commonevents/94/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/87/Dialogue
+\\a[\\v[105]]「No...no, I can't...
+\\w[\\v[105]]　Ah...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あ、そこだめぇ……
-> CONTEXT: Commonevents/94/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/92/Dialogue
+\\a[\\v[105]]「Ah, not good...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「それはああ！月のような窪みにああ！
 \\w[\\v[104]]　あ……ああぁんっ！
-> CONTEXT: Commonevents/94/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/105/Dialogue
+\\a[\\v[105]]「Ah! A hollow like the moon!
+\\w[\\v[104]]　Ah...aaahhh!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あっ…ボク、そこだめっ……！
-> CONTEXT: Commonevents/94/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/94/110/Dialogue
+\\a[\\v[105]]「Ah...not there...!
 > END STRING
 
 > BEGIN STRING
@@ -2286,14 +2338,17 @@ The treasure chest was a mimic!
 \\w[\\v[104]]\\n[1]の技巧が \\b\\v[2]\\f 上がった！
 \\w[\\v[104]]\\n[1]の素早さが \\b\\v[3]\\f 上がった！
 \\w[\\v[104]]\\n[1]の魅力が \\b\\v[4]\\f 上がった！
-> CONTEXT: Commonevents/97/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/97/11/Dialogue
+\\a[\\v[105]]\\n[1]'s energy has increased \\b\\v[1]\\f!
+\\w[\\v[104]]\\n[1]'s skill has increased \\b\\v[2]\\f!
+\\w[\\v[104]]\\n[1]'s agility has increased \\b\\v[3]\\f!
+\\w[\\v[104]]\\n[1]'s charm has increased \\b\\v[4]\\f!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]しかし夢魔に願いをかき消された！
-> CONTEXT: Commonevents/98/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/98/3/Dialogue
+\\a[\\v[105]]But the wish was drowned out by the succubus!
 > END STRING
 
 > BEGIN STRING

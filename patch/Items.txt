@@ -453,14 +453,14 @@ Makes the opposite sex not notice you
 
 > BEGIN STRING
 誘引の香水
-> CONTEXT: Items/52/name/ < UNTRANSLATED
-
+> CONTEXT: Items/52/name/
+Attraction Perfume
 > END STRING
 
 > BEGIN STRING
 不思議な匂いで異性を引きつける香水
-> CONTEXT: Items/52/description/ < UNTRANSLATED
-
+> CONTEXT: Items/52/description/
+Attracts the opposite sex with mysterious scent
 > END STRING
 
 > BEGIN STRING
@@ -1849,7 +1849,7 @@ Canvas with a forest painting
 > BEGIN STRING
 洞窟の画布
 > CONTEXT: Items/212/name/
-Cave canvas
+Cave Canvas
 > END STRING
 
 > BEGIN STRING
