@@ -30,8 +30,8 @@ Cypress Wood
 
 > BEGIN STRING
 〔インセンス〕　EP回復 / ムードアップ
-> CONTEXT: Items/3/description/ < UNTRANSLATED
-
+> CONTEXT: Items/3/description/
+[Incense] EP Recovery / Mood Up
 > END STRING
 
 > BEGIN STRING
@@ -99,13 +99,13 @@ Melissa
 
 > BEGIN STRING
 〔インセンス〕　EP回復 / テンション低下
-> CONTEXT: Items/12/description/ < UNTRANSLATED
+> CONTEXT: Items/12/description/
 [Incense] EP recovery / Tension reduction
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　EP回復 / 恍惚無効 / テンション低下
-> CONTEXT: Items/13/description/ < UNTRANSLATED
+> CONTEXT: Items/13/description/
 [Incense] EP recovery / Nullify ecstasy / Lower tension
 > END STRING
 
@@ -145,7 +145,7 @@ Chamomile
 
 > BEGIN STRING
 〔エッセンス〕　センシブ回復 / ナーバス回復
-> CONTEXT: Items/16/description/ < UNTRANSLATED
+> CONTEXT: Items/16/description/
 [Essence] Sensitive / Nervous Recovery
 > END STRING
 
@@ -237,7 +237,7 @@ Ehland Blend
 
 > BEGIN STRING
 〔ティー〕　EP全回復
-> CONTEXT: Items/27/description/ < UNTRANSLATED
+> CONTEXT: Items/27/description/
 [Tea] Fully recovers EP
 > END STRING
 
@@ -261,8 +261,8 @@ Sedatives
 
 > BEGIN STRING
 〔ドラッグ〕 EP回復 / 副作用もあるかも…？
-> CONTEXT: Items/31/description/ < UNTRANSLATED
-> CONTEXT: Items/32/description/ < UNTRANSLATED
+> CONTEXT: Items/31/description/
+> CONTEXT: Items/32/description/
 [Drug] EP recovery / Might have side effects...?
 > END STRING
 
@@ -435,20 +435,20 @@ Mind Purifying Fire
 
 > BEGIN STRING
 装備のネガティブ効果を全て消す炎
-> CONTEXT: Items/50/description/ < UNTRANSLATED
+> CONTEXT: Items/50/description/
 Flame that removes all negative effects from equipment
 > END STRING
 
 > BEGIN STRING
 孤独の香水
-> CONTEXT: Items/51/name/ < UNTRANSLATED
-
+> CONTEXT: Items/51/name/
+Solitude Perfume
 > END STRING
 
 > BEGIN STRING
 不思議な匂いで異性に気づかれなくなる香水
-> CONTEXT: Items/51/description/ < UNTRANSLATED
-
+> CONTEXT: Items/51/description/
+Makes the opposite sex not notice you
 > END STRING
 
 > BEGIN STRING
@@ -853,13 +853,13 @@ Utopia Map
 
 > BEGIN STRING
 クヴァラットのしおり
-> CONTEXT: Items/111/name/ < UNTRANSLATED
+> CONTEXT: Items/111/name/
 Kvalatte Bookmark
 > END STRING
 
 > BEGIN STRING
 〔しおり〕 理想郷クヴァラットのしおり
-> CONTEXT: Items/111/description/ < UNTRANSLATED
+> CONTEXT: Items/111/description/
 [Bookmark] Bookmark of the Utopia of Kvalatte
 > END STRING
 
@@ -1800,178 +1800,178 @@ Thafi's Ribbon
 
 > BEGIN STRING
 サフィの似顔絵
-> CONTEXT: Items/207/name/ < UNTRANSLATED
-
+> CONTEXT: Items/207/name/
+Thafi's portrait
 > END STRING
 
 > BEGIN STRING
 〔キーアイテム〕 サフィにそっくりの似顔絵
-> CONTEXT: Items/207/description/ < UNTRANSLATED
-
+> CONTEXT: Items/207/description/
+[Key Item] A portrait that looks just like Thafi
 > END STRING
 
 > BEGIN STRING
 夜の森の画布
-> CONTEXT: Items/209/name/ < UNTRANSLATED
-
+> CONTEXT: Items/209/name/
+Night Forest Canvas
 > END STRING
 
 > BEGIN STRING
 夜の森の絵が描かれた画布
-> CONTEXT: Items/209/description/ < UNTRANSLATED
-
+> CONTEXT: Items/209/description/
+Canvas with a picture of a forest at night
 > END STRING
 
 > BEGIN STRING
 迷宮の画布
-> CONTEXT: Items/210/name/ < UNTRANSLATED
-
+> CONTEXT: Items/210/name/
+Labyrinth Canvas
 > END STRING
 
 > BEGIN STRING
 迷宮の絵が描かれた画布
-> CONTEXT: Items/210/description/ < UNTRANSLATED
-
+> CONTEXT: Items/210/description/
+A canvas depicting a labyrinth
 > END STRING
 
 > BEGIN STRING
 森の画布
-> CONTEXT: Items/211/name/ < UNTRANSLATED
-
+> CONTEXT: Items/211/name/
+Forest Canvas
 > END STRING
 
 > BEGIN STRING
 森の絵が描かれた画布
-> CONTEXT: Items/211/description/ < UNTRANSLATED
-
+> CONTEXT: Items/211/description/
+Canvas with a forest painting
 > END STRING
 
 > BEGIN STRING
 洞窟の画布
-> CONTEXT: Items/212/name/ < UNTRANSLATED
-
+> CONTEXT: Items/212/name/
+Cave canvas
 > END STRING
 
 > BEGIN STRING
 洞窟の絵が描かれた画布
-> CONTEXT: Items/212/description/ < UNTRANSLATED
-
+> CONTEXT: Items/212/description/
+A canvas with a drawing of a cave
 > END STRING
 
 > BEGIN STRING
 海底の画布
-> CONTEXT: Items/213/name/ < UNTRANSLATED
-
+> CONTEXT: Items/213/name/
+Undersea Canvas
 > END STRING
 
 > BEGIN STRING
 海底の絵が描かれた画布
-> CONTEXT: Items/213/description/ < UNTRANSLATED
-
+> CONTEXT: Items/213/description/
+Canvas with a picture of the ocean floor
 > END STRING
 
 > BEGIN STRING
 砂漠の画布
-> CONTEXT: Items/214/name/ < UNTRANSLATED
-
+> CONTEXT: Items/214/name/
+Desert Canvas
 > END STRING
 
 > BEGIN STRING
 砂漠の絵が描かれた画布
-> CONTEXT: Items/214/description/ < UNTRANSLATED
-
+> CONTEXT: Items/214/description/
+A canvas with a desert picture on it
 > END STRING
 
 > BEGIN STRING
 平原の画布
-> CONTEXT: Items/215/name/ < UNTRANSLATED
-
+> CONTEXT: Items/215/name/
+Plains Canvas
 > END STRING
 
 > BEGIN STRING
 平原の絵が描かれた画布
-> CONTEXT: Items/215/description/ < UNTRANSLATED
-
+> CONTEXT: Items/215/description/
+Canvas with a picture of the plains
 > END STRING
 
 > BEGIN STRING
 室内の画布
-> CONTEXT: Items/216/name/ < UNTRANSLATED
-
+> CONTEXT: Items/216/name/
+Indoor Canvas
 > END STRING
 
 > BEGIN STRING
 室内の絵が描かれた画布
-> CONTEXT: Items/216/description/ < UNTRANSLATED
-
+> CONTEXT: Items/216/description/
+Canvas with interior painting
 > END STRING
 
 > BEGIN STRING
 月夜の画布
-> CONTEXT: Items/217/name/ < UNTRANSLATED
-
+> CONTEXT: Items/217/name/
+Moonlit Canvas
 > END STRING
 
 > BEGIN STRING
 月夜の絵が描かれた画布
-> CONTEXT: Items/217/description/ < UNTRANSLATED
-
+> CONTEXT: Items/217/description/
+A canvas with a picture of a moonlit night
 > END STRING
 
 > BEGIN STRING
 花畑の画布
-> CONTEXT: Items/218/name/ < UNTRANSLATED
-
+> CONTEXT: Items/218/name/
+Flower Field Canvas
 > END STRING
 
 > BEGIN STRING
 花畑の絵が描かれた画布
-> CONTEXT: Items/218/description/ < UNTRANSLATED
-
+> CONTEXT: Items/218/description/
+A canvas with a picture of a flower field
 > END STRING
 
 > BEGIN STRING
 楽曲『ハーレムの一夜』
-> CONTEXT: Items/219/name/ < UNTRANSLATED
-
+> CONTEXT: Items/219/name/
+Song: "One night in a harem"
 > END STRING
 
 > BEGIN STRING
 曲の書かれた楽譜
-> CONTEXT: Items/219/description/ < UNTRANSLATED
-> CONTEXT: Items/220/description/ < UNTRANSLATED
-> CONTEXT: Items/221/description/ < UNTRANSLATED
-> CONTEXT: Items/222/description/ < UNTRANSLATED
-> CONTEXT: Items/223/description/ < UNTRANSLATED
-> CONTEXT: Items/230/description/ < UNTRANSLATED
-> CONTEXT: Items/231/description/ < UNTRANSLATED
-> CONTEXT: Items/232/description/ < UNTRANSLATED
-> CONTEXT: Items/233/description/ < UNTRANSLATED
-
+> CONTEXT: Items/219/description/
+> CONTEXT: Items/220/description/
+> CONTEXT: Items/221/description/
+> CONTEXT: Items/222/description/
+> CONTEXT: Items/223/description/
+> CONTEXT: Items/230/description/
+> CONTEXT: Items/231/description/
+> CONTEXT: Items/232/description/
+> CONTEXT: Items/233/description/
+A written musical score
 > END STRING
 
 > BEGIN STRING
 楽曲『妨害者』
-> CONTEXT: Items/220/name/ < UNTRANSLATED
-
+> CONTEXT: Items/220/name/
+Song: "Obstructer"
 > END STRING
 
 > BEGIN STRING
 楽曲『水底の誘惑者』
-> CONTEXT: Items/221/name/ < UNTRANSLATED
-
+> CONTEXT: Items/221/name/
+Song: "Dragger into the sea"
 > END STRING
 
 > BEGIN STRING
 楽曲『ぬくもりの欠片』
-> CONTEXT: Items/222/name/ < UNTRANSLATED
-
+> CONTEXT: Items/222/name/
+Song: "One-Time Warmth"
 > END STRING
 
 > BEGIN STRING
 楽曲『深淵にて』
-> CONTEXT: Items/223/name/ < UNTRANSLATED
-
+> CONTEXT: Items/223/name/
+Song: "At a bottom of the Abyss"
 > END STRING
 
 > BEGIN STRING
@@ -2382,8 +2382,8 @@ Mammon
 
 > BEGIN STRING
 クィーンメイブ
-> CONTEXT: Items/505/name/ < UNTRANSLATED
-
+> CONTEXT: Items/505/name/
+Queen Maeve
 > END STRING
 
 > BEGIN STRING

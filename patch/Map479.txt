@@ -435,84 +435,89 @@
 
 > BEGIN STRING
 「…そう………
-> CONTEXT: Map479/events/5/pages/0/247/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/247/Dialogue
+「..Yes....
 > END STRING
 
 > BEGIN STRING
 「\\r[夢,わたし]を選んでくれるのね、
 　アイゼクト。
-> CONTEXT: Map479/events/5/pages/0/248/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/248/Dialogue
+「You can choose \\r[Dream, m e ],
+　Ayxect.
 > END STRING
 
 > BEGIN STRING
 「わからぬ。
-> CONTEXT: Map479/events/5/pages/0/251/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/251/Dialogue
+「I don't know.
 > END STRING
 
 > BEGIN STRING
 「じゃが、確かにお前は
 　わしの夢じゃ。
-> CONTEXT: Map479/events/5/pages/0/252/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/252/Dialogue
+「But you are certainly my dream.
 > END STRING
 
 > BEGIN STRING
 「昔日の、未だ忘れ得ぬ夢。
 　逃れられぬ夢。
-> CONTEXT: Map479/events/5/pages/0/254/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/254/Dialogue
+「A dream from long ago 
+　that I still can't forget. 
+　A dream I can't escape.
 > END STRING
 
 > BEGIN STRING
 「ならば今立ち向かおう。
 　\\d確かにここにいるお前と\\d。
-> CONTEXT: Map479/events/5/pages/0/256/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/256/Dialogue
+「Then I'll face it now.
+\\dWith you, who are certainly here\\d.
 > END STRING
 
 > BEGIN STRING
 「…ふふ………
-> CONTEXT: Map479/events/5/pages/0/259/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/259/Dialogue
+「..Hehe....
 > END STRING
 
 > BEGIN STRING
 「何か可笑しいか？
 　サフィよ。
-> CONTEXT: Map479/events/5/pages/0/261/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/261/Dialogue
+「Is something wrong?
+　Thafi?
 > END STRING
 
 > BEGIN STRING
 「アイゼクト…………
-> CONTEXT: Map479/events/5/pages/0/264/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/264/Dialogue
+「Ayxect.....
 > END STRING
 
 > BEGIN STRING
 「…すき…………
-> CONTEXT: Map479/events/5/pages/0/265/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/265/Dialogue
+> CONTEXT: Commonevents/170/8/Dialogue
+「..love.....
 > END STRING
 
 > BEGIN STRING
 「…アイゼクト………
-> CONTEXT: Map479/events/5/pages/0/287/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/287/Dialogue
+「..Ayxect.....
 > END STRING
 
 > BEGIN STRING
 「こんどは、私が言う番ね……
-> CONTEXT: Map479/events/5/pages/0/288/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/288/Dialogue
+「Now it's my turn to speak...
 > END STRING
 
 > BEGIN STRING
 「行かない…で………
-> CONTEXT: Map479/events/5/pages/0/289/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/289/Dialogue
+「Don't go...
 > END STRING

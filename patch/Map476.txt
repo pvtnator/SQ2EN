@@ -1,85 +1,96 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「アイゼクト！
-> CONTEXT: Map476/events/5/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/13/Dialogue
+「Ayxect!
 > END STRING
 
 > BEGIN STRING
 「ねえ、今日はどこへ行こうかしら？
-> CONTEXT: Map476/events/5/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/32/Dialogue
+「Hey, where should we go today?
 > END STRING
 
 > BEGIN STRING
 「南の海岸に行ってみない？
 　今日はいい天気だから、
 　リスヴェグが見えるかも。
-> CONTEXT: Map476/events/5/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/33/Dialogue
+「Why don't we go to the south coast?
+　The weather is nice today,
+　maybe we can see Lisveg.
 > END STRING
 
 > BEGIN STRING
 「魔法の国よ。
 　それに、もしかしたらキアズマの
 　船が通るかも知れないわ。
-> CONTEXT: Map476/events/5/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/36/Dialogue
+「It's a magical land. 
+　And maybe a Kiasma ship 
+　will pass through.
 > END STRING
 
 > BEGIN STRING
 「とっても大きな船に、
 　珍しい服や香料をたくさん積んでるの。
 　ねえ、見れたら素敵よね。
-> CONTEXT: Map476/events/5/pages/0/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/39/Dialogue
+「It's a really big ship,
+　loaded with rare clothes and spices.
+　It'd be great to see it.
 > END STRING
 
 > BEGIN STRING
 「…それとも……
 　ずっとここにいる？
 　二人きりで……
-> CONTEXT: Map476/events/5/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/42/Dialogue
+「...Or...
+　Shall we stay here forever?
+　Just the two of us...
 > END STRING
 
 > BEGIN STRING
 「わたし、それでもいいわよ……
 　アイゼクト………
-> CONTEXT: Map476/events/5/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/45/Dialogue
+「I'm okay with that...
+　Ayxect...
 > END STRING
 
 > BEGIN STRING
 「…くくっ
-> CONTEXT: Map476/events/5/pages/0/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/50/Dialogue
+「..Haha
 > END STRING
 
 > BEGIN STRING
 「アイゼクト？
-> CONTEXT: Map476/events/5/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/52/Dialogue
+「Ayxect?
 > END STRING
 
 > BEGIN STRING
 「くく、ははははっ
-> CONTEXT: Map476/events/5/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/54/Dialogue
+「Haha, hahahahah
 > END STRING
 
 > BEGIN STRING
 「似合わんのぉ？
 　くくっ、お前のような淫婦が、
 　花畑で少女の真似事とは？
-> CONTEXT: Map476/events/5/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/55/Dialogue
+「Doesn't it not suit you?
+　Heh heh, why would a harlot like you
+　be pretending to be a girl in a flower field?
 > END STRING
 
 > BEGIN STRING
 「あら、まあ。
-> CONTEXT: Map476/events/5/pages/0/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/59/Dialogue
+「Oh, well.
 > END STRING
 
 > BEGIN STRING
@@ -132,192 +143,213 @@
 > BEGIN STRING
 「悪くない出迎えかと思ったんだけど、
 　お気に召さなかったかしら？
-> CONTEXT: Map476/events/5/pages/0/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/106/Dialogue
+「I thought it wasn't a bad welcome,
+　but maybe you didn't like it?
 > END STRING
 
 > BEGIN STRING
 「くだらんのう。
 　くだらん夢じゃ。
-> CONTEXT: Map476/events/5/pages/0/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/109/Dialogue
+「How silly.
+　It's just a silly dream.
 > END STRING
 
 > BEGIN STRING
 「さあ、今度こそ、
 　この夢覚めてもらおうか。
-> CONTEXT: Map476/events/5/pages/0/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/111/Dialogue
+「Now then, 
+　time to wake up from this dream.
 > END STRING
 
 > BEGIN STRING
 「何をそんなに苛ついてるの？
-> CONTEXT: Map476/events/5/pages/0/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/114/Dialogue
+「What are you so upset about?
 > END STRING
 
 > BEGIN STRING
 「苛ついてなどおらん。
-> CONTEXT: Map476/events/5/pages/0/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/116/Dialogue
+「I’m not upset.
 > END STRING
 
 > BEGIN STRING
 「そうかしら？
 　想い出のひとが本物じゃなくて、
 　がっかりしてるんじゃないの？
-> CONTEXT: Map476/events/5/pages/0/118/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/118/Dialogue
+「Really?
+　Aren't you disappointed that the 
+　person in your memories isn't real?
 > END STRING
 
 > BEGIN STRING
 「…ばかな。
 　夢の中で、本物も何もあるものか。
-> CONTEXT: Map476/events/5/pages/0/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/122/Dialogue
+「...How ridiculous.
+　In dreams, nothing is real.
 > END STRING
 
 > BEGIN STRING
 「この夢をつくりだしたのはお前じゃ。
 　お前が消え去れば、夢は覚める。
-> CONTEXT: Map476/events/5/pages/0/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/124/Dialogue
+「You are the one who created this dream. 
+　If you disappear, the dream will end.
 > END STRING
 
 > BEGIN STRING
 「夢は消え、現実が戻る。
 　それだけじゃ。
-> CONTEXT: Map476/events/5/pages/0/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/126/Dialogue
+「The dream fades and reality returns.
+　That's all.
 > END STRING
 
 > BEGIN STRING
 「うそよ。
-> CONTEXT: Map476/events/5/pages/0/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/129/Dialogue
+「False.
 > END STRING
 
 > BEGIN STRING
 「あなたはもう、戻れないわ。
 　知ってしまったから。
 　思い出してしまったから。
-> CONTEXT: Map476/events/5/pages/0/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/130/Dialogue
+「You can't go back now.
+　Because you know.
+　Because you remember.
 > END STRING
 
 > BEGIN STRING
 「自分の夢の、
 　一番奥に来てしまったから。
 　もう後戻りなんてできないわ。
-> CONTEXT: Map476/events/5/pages/0/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/133/Dialogue
+「You've reached the deepest part of the dream. 
+　There's no turning back now.
 > END STRING
 
 > BEGIN STRING
 「自分でも分かってるんでしょう？
 　…ねえ、アタシがあの子に
 　姿を変えたのはさっきだけよ。
-> CONTEXT: Map476/events/5/pages/0/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/136/Dialogue
+「You know that, right? 
+　...Hey, I only transformed into 
+　that girl a moment ago.
 > END STRING
 
 > BEGIN STRING
 「……黙れッ！
-> CONTEXT: Map476/events/5/pages/0/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/142/Dialogue
+「...Shut up!
 > END STRING
 
 > BEGIN STRING
 「ふふふふっ\\e[0]
-> CONTEXT: Map476/events/5/pages/0/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/144/Dialogue
+「Heheheh\\e[0]
 > END STRING
 
 > BEGIN STRING
 「そうね、お楽しみの前なのに、
 　アタシとしたことが
 　ちょっと野暮だったかしら？
-> CONTEXT: Map476/events/5/pages/0/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/155/Dialogue
+「Well, perhaps I was being a bit rude 
+　before the fun started.
 > END STRING
 
 > BEGIN STRING
 「さあ、今だけは何もかも。
 　忘れさせてあげる。
-> CONTEXT: Map476/events/5/pages/0/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/158/Dialogue
+「Now, all of this.
+　I'll make you forget everything.
 > END STRING
 
 > BEGIN STRING
 「…何故じゃ………
 　夢が…まだ…………
-> CONTEXT: Map476/events/5/pages/0/207/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/207/Dialogue
+「...Why...?
+　The dream is still...
 > END STRING
 
 > BEGIN STRING
 「覚めん………
 　何故…………
-> CONTEXT: Map476/events/5/pages/0/209/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/209/Dialogue
+「I can't wake up...
+　Why...?
 > END STRING
 
 > BEGIN STRING
 「…サ……
-> CONTEXT: Map476/events/5/pages/0/254/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/254/Dialogue
+「..Th...
 > END STRING
 
 > BEGIN STRING
 「サフィ！
-> CONTEXT: Map476/events/5/pages/0/274/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/274/Dialogue
+「Thafi!
 > END STRING
 
 > BEGIN STRING
 「どうして？
 　行かないでよ、サフィ！
-> CONTEXT: Map476/events/5/pages/0/275/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/275/Dialogue
+「What is it?
+　Don't go, Thafi!
 > END STRING
 
 > BEGIN STRING
 「ごめんなさい、
 　アイゼクト。
-> CONTEXT: Map476/events/5/pages/0/280/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/280/Dialogue
+「I'm sorry,
+　Ayxect.
 > END STRING
 
 > BEGIN STRING
 「でも私たち、幸せだったわよ。
 　想い出もたくさんできたわ。
-> CONTEXT: Map476/events/5/pages/0/282/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/282/Dialogue
+「But we were happy. 
+　We had a lot of memories.
 > END STRING
 
 > BEGIN STRING
 「そんな…僕たち……
-> CONTEXT: Map476/events/5/pages/0/285/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/285/Dialogue
+「That's...we...
 > END STRING
 
 > BEGIN STRING
 「まだ…何も………
-> CONTEXT: Map476/events/5/pages/0/286/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/286/Dialogue
+「Still...nothing...
 > END STRING
 
 > BEGIN STRING
 「もう、こうしてはいられないわ。
 　あなたも分かるでしょ？
-> CONTEXT: Map476/events/5/pages/0/288/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/288/Dialogue
+「I can't go on like this anymore. 
+　You understand that, right?
 > END STRING
 
 > BEGIN STRING
 「……サフィ…………
-> CONTEXT: Map476/events/5/pages/0/291/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/291/Dialogue
+「...Thafi.....
 > END STRING
 
 > BEGIN STRING
@@ -330,6 +362,6 @@
 
 > BEGIN STRING
 「……アイゼクト？
-> CONTEXT: Map476/events/5/pages/0/294/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map476/events/5/pages/0/294/Dialogue
+「...Ayxect?
 > END STRING

@@ -1,73 +1,80 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「アイゼクト。
-> CONTEXT: Map001/events/5/pages/0/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/124/Dialogue
+「Ayxect.
 > END STRING
 
 > BEGIN STRING
 「やあね、寝てたの？
-> CONTEXT: Map001/events/5/pages/0/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/139/Dialogue
+「Hey, were you sleeping?
 > END STRING
 
 > BEGIN STRING
 「………うん、
 　そうみたいだ。
-> CONTEXT: Map001/events/5/pages/0/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/141/Dialogue
+「...Yeah,
+　seems so.
 > END STRING
 
 > BEGIN STRING
 「今日は森に
 　つれて行ってくれる約束でしょ。
-> CONTEXT: Map001/events/5/pages/0/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/144/Dialogue
+「You promised to take me 
+　to the forest today.
 > END STRING
 
 > BEGIN STRING
 「あなたのひみつの花畑。
 　楽しみにしてたんだから。
-> CONTEXT: Map001/events/5/pages/0/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/146/Dialogue
+「Your secret flower garden.
+　I was looking forward to it.
 > END STRING
 
 > BEGIN STRING
 「あっ、そうだった、
 　急がなきゃ。
-> CONTEXT: Map001/events/5/pages/0/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/149/Dialogue
+「Ah, that's right, 
+　we have to hurry.
 > END STRING
 
 > BEGIN STRING
 「暗くなる前に。
-> CONTEXT: Map001/events/5/pages/0/151/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/151/Dialogue
+「Before it gets dark.
 > END STRING
 
 > BEGIN STRING
 「大丈夫よ。
 　時間はたっぷりあるわ。
-> CONTEXT: Map001/events/5/pages/0/153/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/153/Dialogue
+「It's okay. 
+　There's plenty of time.
 > END STRING
 
 > BEGIN STRING
 「あなたが寝惚けてなければね。
 　さ、行きましょ。
-> CONTEXT: Map001/events/5/pages/0/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/155/Dialogue
+「Unless you fall asleep.
+　Let's go.
 > END STRING
 
 > BEGIN STRING
 「エスト！メルヤ！
 　おまえたちもおいで！
-> CONTEXT: Map001/events/5/pages/0/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/201/Dialogue
+「Est! Merja!
+　Come along too!
 > END STRING
 
 > BEGIN STRING
 「いい夢、ありがとう\\e[0]
-> CONTEXT: Map001/events/5/pages/0/297/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/5/pages/0/297/Dialogue
+「Nice dream, thanks\\e[0]
 > END STRING

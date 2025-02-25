@@ -1,17 +1,17 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "サフィの声/Thafi/09"
-> CONTEXT: Map477/events/1/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map475/events/14/pages/0/3/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map475/events/14/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map475/events/14/pages/0/15/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map475/events/14/pages/0/21/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map477/events/1/pages/0/2/InlineScript/1:4
+> CONTEXT: Map475/events/14/pages/0/3/InlineScript/1:4
+> CONTEXT: Map475/events/14/pages/0/9/InlineScript/1:4
+> CONTEXT: Map475/events/14/pages/0/15/InlineScript/1:4
+> CONTEXT: Map475/events/14/pages/0/21/InlineScript/1:4
+"Thafi's Voice/Thafi/09"
 > END STRING
 
 > BEGIN STRING
 「…イ…ゼク……ト……
-> CONTEXT: Map477/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map475/events/14/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map477/events/1/pages/0/3/Dialogue
+> CONTEXT: Map475/events/14/pages/0/22/Dialogue
+「...Y..xec...t...
 > END STRING

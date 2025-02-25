@@ -602,15 +602,16 @@ EV_エスト
 
 > BEGIN STRING
 「\\dあなたはもう\\d、\\d夢の中\\d
-> CONTEXT: Troops/18/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/18/pages/0/1/Dialogue
+「\\dYou are\\d \\din a dream\\d
 > END STRING
 
 > BEGIN STRING
 「\\d今までも\\d、\\dそして\\d、
 　\\dこれからもずっと\\d
-> CONTEXT: Troops/18/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/18/pages/0/2/Dialogue
+「\\dUp until now\\d, \\dand\\d,
+　\\dfrom now on too\\d
 > END STRING
 
 > BEGIN STRING
@@ -622,14 +623,15 @@ EV_サフィ
 > BEGIN STRING
 「分かってしまった。
 　これは夢。
-> CONTEXT: Troops/19/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/19/pages/0/3/Dialogue
+「I understand.
+　This is a dream.
 > END STRING
 
 > BEGIN STRING
 「君はここにいる。
-> CONTEXT: Troops/19/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/19/pages/0/5/Dialogue
+「You are here.
 > END STRING
 
 > BEGIN STRING

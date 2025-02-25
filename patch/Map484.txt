@@ -1,23 +1,23 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "店番グリフォン"
-> CONTEXT: Map484/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map484/events/9/pages/0/10/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map010/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map010/events/3/pages/0/15/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map484/events/9/pages/0/0/InlineScript/1:4
+> CONTEXT: Map484/events/9/pages/0/10/InlineScript/1:4
+> CONTEXT: Map010/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map010/events/3/pages/0/15/InlineScript/1:4
 "Storekeeper Griffon"
 > END STRING
 
 > BEGIN STRING
 「おう、いらっしゃい。
-> CONTEXT: Map484/events/9/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map484/events/9/pages/0/1/Dialogue
 「Oh, welcome.
 > END STRING
 
 > BEGIN STRING
 「ここはなんにも無い店だ。
 　でも人気だぜ。みんな。
-> CONTEXT: Map484/events/9/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map484/events/9/pages/0/2/Dialogue
 「This is just an empty shop. 
 　But it's popular. Everyone.
 > END STRING

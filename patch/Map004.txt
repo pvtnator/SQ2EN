@@ -7,12 +7,12 @@
 
 > BEGIN STRING
 「……………ト…………
-> CONTEXT: Map004/events/2/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/2/pages/0/4/Dialogue
+「......t.....
 > END STRING
 
 > BEGIN STRING
 「アイ…ゼク……ト…………
-> CONTEXT: Map004/events/2/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/2/pages/0/5/Dialogue
+「Ay..xec..t.....
 > END STRING

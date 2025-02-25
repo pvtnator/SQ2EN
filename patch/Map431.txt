@@ -80,14 +80,14 @@ SQT_Dungeon_RoyalLib
 「この本は…わしの本じゃな。
 　本物の……
 > CONTEXT: Map431/events/1/pages/0/90/Dialogue
-「This book...is my book.
-　It's real...
+「These books...are my books.
+　They're real...
 > END STRING
 
 > BEGIN STRING
 「あの夢魔めが持ってきたのか…
 > CONTEXT: Map431/events/1/pages/0/95/Dialogue
-「Did that succubus bring it...?
+「Did that succubus bring them...?
 > END STRING
 
 > BEGIN STRING
@@ -99,7 +99,7 @@ SQT_Dungeon_RoyalLib
 > BEGIN STRING
 「あたしがお預かりしますよぉ。
 > CONTEXT: Map431/events/1/pages/0/101/Dialogue
-「I'll take care of it.
+「I'll take care of them.
 > END STRING
 
 > BEGIN STRING

@@ -1,23 +1,24 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "指輪の魔術士"
-> CONTEXT: Map485/events/8/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map485/events/13/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map485/events/8/pages/0/1/InlineScript/1:4
+> CONTEXT: Map485/events/13/pages/0/1/InlineScript/1:4
+"The Magician of the Ring"
 > END STRING
 
 > BEGIN STRING
 「\\i[299]\\c[4]虚構の指輪\\c[0]をここに………
-> CONTEXT: Map485/events/8/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/8/pages/0/2/Dialogue
+「\\i[299]\\c[4]Fictional Ring\\c[0] here....
 > END STRING
 
 > BEGIN STRING
 「さればあなたに、
 　勇者の記憶を分け与えましょう。
-> CONTEXT: Map485/events/8/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map485/events/13/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/8/pages/0/3/Dialogue
+> CONTEXT: Map485/events/13/pages/0/3/Dialogue
+「If so, I will impart to you 
+　the memories of the hero.
 > END STRING
 
 > BEGIN STRING
@@ -54,72 +55,77 @@
 
 > BEGIN STRING
 \\i[299]\\c[4]虚構の指輪\\c[0]を見せますか？
-> CONTEXT: Map485/events/8/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/8/pages/0/7/Dialogue
+Show \\i[299]\\c[4]Fictional Ring\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「\\i[299]\\c[4]幻想の指輪\\c[0]をここに………
-> CONTEXT: Map485/events/13/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/13/pages/0/2/Dialogue
+「\\i[299]\\c[4]Ring of Illusion\\c[0] here...
 > END STRING
 
 > BEGIN STRING
 \\i[299]\\c[4]幻想の指輪\\c[0]を見せますか？
-> CONTEXT: Map485/events/13/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/13/pages/0/7/Dialogue
+Show \\i[299]\\c[4]Ring of Illusion\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「やあ！
 　僕の言葉が聞こえるんだね？
-> CONTEXT: Map485/events/15/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/15/pages/0/6/Dialogue
+「Hey! 
+　Can you hear me?
 > END STRING
 
 > BEGIN STRING
 「それじゃあ君は知ってる人だ！
 　君の勇者を知ってる人だ！
-> CONTEXT: Map485/events/15/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/15/pages/0/8/Dialogue
+「Then you are someone who knows!
+　Someone who knows your hero!
 > END STRING
 
 > BEGIN STRING
 「どうだい、ここで
 　勇者の助けが借りられたら、
 　それは素敵じゃないかな？
-> CONTEXT: Map485/events/15/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/15/pages/0/10/Dialogue
+「How about it? Wouldn't it be nice 
+　if we could get some help from a hero here?
 > END STRING
 
 > BEGIN STRING
 「それは素敵じゃないかな？」
-> CONTEXT: Map485/events/15/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/15/pages/0/14/Dialogue
+「Wouldn't it be nice?」
 > END STRING
 
 > BEGIN STRING
 「ならば、ここは理想郷！
-> CONTEXT: Map485/events/15/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/15/pages/0/18/Dialogue
+「Then this is utopia!
 > END STRING
 
 > BEGIN STRING
 「願ってごらん！
 　叶わない願いなんてないんだよ！
-> CONTEXT: Map485/events/15/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/15/pages/0/19/Dialogue
+「Make a wish! 
+　There is no wish that cannot come true!
 > END STRING
 
 > BEGIN STRING
 
 ラルスを呼べるようになった！
-> CONTEXT: Map485/events/15/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/15/pages/0/37/Dialogue
 
+Lars can now be summoned!
 > END STRING
 
 > BEGIN STRING
 「ひねくれなくたっていいのに！
-> CONTEXT: Map485/events/15/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/15/pages/0/45/Dialogue
+「You don't have to be so perverse!
 > END STRING

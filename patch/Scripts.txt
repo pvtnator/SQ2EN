@@ -3879,9 +3879,9 @@
 
 > BEGIN STRING
 "「ふっ…覚悟ッ！"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/81:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/57:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/59:14 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/81:14
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/57:14
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/59:14
 "「Hmph... prepare yourself!"
 > END STRING
 
@@ -4254,21 +4254,21 @@
 
 > BEGIN STRING
 "　ふふふふっ"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/125:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/199:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/125:14
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/199:12
+"　Heeheheh"
 > END STRING
 
 > BEGIN STRING
 "「あはっ………、\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/127:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/127:14
+"「Ahh.....\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "　ほら、もっと気持ちよくなりましょ……\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/128:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/128:14
+"　Come on, let's feel even better...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -4734,8 +4734,8 @@
 
 > BEGIN STRING
 "孤独の香水"
-> CONTEXT: Scripts/RPG::State (message)/37:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/37:12
+"Solitude Perfume"
 > END STRING
 
 > BEGIN STRING
@@ -5086,13 +5086,13 @@
 
 > BEGIN STRING
 "キスと"
-> CONTEXT: Scripts/RPG::State (message)/67:25 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::State (message)/67:25
 "Kiss,"
 > END STRING
 
 > BEGIN STRING
 "胸と"
-> CONTEXT: Scripts/RPG::State (message)/68:25 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::State (message)/68:25
 "Chest,"
 > END STRING
 
@@ -5104,7 +5104,7 @@
 
 > BEGIN STRING
 "お尻と"
-> CONTEXT: Scripts/RPG::State (message)/69:25 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::State (message)/69:25
 "Butt,"
 > END STRING
 
@@ -5116,7 +5116,7 @@
 
 > BEGIN STRING
 "アソコと"
-> CONTEXT: Scripts/RPG::State (message)/70:25 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::State (message)/70:25
 "Vagina,"
 > END STRING
 
@@ -5146,7 +5146,7 @@
 
 > BEGIN STRING
 "とDELETE_HERE"
-> CONTEXT: Scripts/RPG::State (message)/72:27 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::State (message)/72:27
 ",DELETE_HERE"
 > END STRING
 
@@ -5389,7 +5389,7 @@
 
 > BEGIN STRING
 "\#{myname}は色欲に包まれた！"
-> CONTEXT: Scripts/RPG::State (message)/85:17 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::State (message)/85:17
 "\#{myname} is consumed with lust!"
 > END STRING
 
@@ -5530,7 +5530,7 @@
 
 > BEGIN STRING
 "「いれたいのぉ～？\\n\\004[\\\\v[105]]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/56:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/56:12
 "「You want to put it in?\\n\\004[\\\\v[105]]"
 > END STRING
 
@@ -5568,7 +5568,7 @@
 
 > BEGIN STRING
 "　ふふっ、じらしちゃおっかなぁ～～♪"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/57:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/57:12
 "　Hehe, maybe I'll tease you～～♪"
 > END STRING
 
@@ -5944,17 +5944,17 @@
 
 > BEGIN STRING
 "「ちょうだあい～っ"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/23:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/26:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/23:14
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/26:14
+"「Give it to me～"
 > END STRING
 
 > BEGIN STRING
 "「ふふ………\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/78:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/80:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/85:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/78:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/80:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/85:12
+"「Hehe...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -7604,8 +7604,8 @@
 
 > BEGIN STRING
 "\#{self.name.split(/\\//)[0]}全てのステータスが下がった！"
-> CONTEXT: Scripts/Game_Battler(message)/78:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/78:16
+"\#{self.name.split(/\\//)[0]}'s all attributes went down!"
 > END STRING
 
 > BEGIN STRING
@@ -7665,8 +7665,8 @@
 
 > BEGIN STRING
 "「\\\\n[1]……ああっ、\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/127:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/127:16
+"「\\\\n[1]...aah,\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -7677,8 +7677,8 @@
 
 > BEGIN STRING
 "　きて……っ\\n\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/128:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/128:16
+"　Coming...\\n\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
@@ -7812,8 +7812,8 @@
 
 > BEGIN STRING
 "「トドメさしてあげる…\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/95:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/95:14
+"「I'll finish you off...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -9292,7 +9292,7 @@
 
 > BEGIN STRING
 "「え……いきそうなの……？\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/184:16 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/184:16
 "「Eh...you're cumming...?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
@@ -9305,7 +9305,7 @@
 
 > BEGIN STRING
 "　………もう…？"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/185:16 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/185:16
 "　...Already..?"
 > END STRING
 
@@ -10085,8 +10085,8 @@
 
 > BEGIN STRING
 "「くっ！"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/222:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/231:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/222:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/231:12
 "「Damn!"
 > END STRING
 
@@ -10667,7 +10667,7 @@
 
 > BEGIN STRING
 "「ハハハッ！\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/230:16 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/230:16
 "「Hahaha!\\n\\\\w[\\\\v[104]]"
 > END STRING
 
@@ -10736,7 +10736,7 @@
 
 > BEGIN STRING
 "「いかせてあげる～ぅ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/233:16 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/233:16
 "「I'll let you cum～\\\\e[0]"
 > END STRING
 
@@ -10761,13 +10761,13 @@
 
 > BEGIN STRING
 "「ふふっ、いかせてあげるわっ！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/235:16 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/235:16
 "「Hehe, I'll let you cum!"
 > END STRING
 
 > BEGIN STRING
 "「ふっ、他愛も無い……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/230:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/230:12
 "「Hmph, nothing special..."
 > END STRING
 
@@ -10867,8 +10867,8 @@
 
 > BEGIN STRING
 "「ああ…アイゼクト……ッ！"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/268:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/268:12
+"「Aah...Ayxect...!"
 > END STRING
 
 > BEGIN STRING
@@ -10927,8 +10927,8 @@
 
 > BEGIN STRING
 "「\\\\n[1]……もっと…………\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/247:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/247:16
+"「\\\\n[1]...more.....\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -10939,14 +10939,14 @@
 
 > BEGIN STRING
 "「…はぁっ、はぁっ………"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/243:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/243:12
+"「..Haah, haah...."
 > END STRING
 
 > BEGIN STRING
 "　あたしで気持ちよくなって……。"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/248:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/248:16
+"　I'll make you feel good..."
 > END STRING
 
 > BEGIN STRING
@@ -11093,8 +11093,8 @@
 
 > BEGIN STRING
 "　アタシ、あなたのいく顔みたいわぁ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/255:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/255:16
+"　Your face when you're about to cum\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -11521,8 +11521,8 @@
 
 > BEGIN STRING
 "「ダメよ、いまさら……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/286:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/286:12
+"「No good, at this point..."
 > END STRING
 
 > BEGIN STRING
@@ -14972,8 +14972,8 @@
 
 > BEGIN STRING
 "クィーンメイブ"
-> CONTEXT: Scripts/Game_Enemy/185:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/185:10
+"Queen Maeve"
 > END STRING
 
 > BEGIN STRING
@@ -17426,25 +17426,25 @@
 
 > BEGIN STRING
 "分身の術"
-> CONTEXT: Scripts/RPG::Skill (message)/374:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/374:12
 "Clone Technique"
 > END STRING
 
 > BEGIN STRING
 "\#{skill_name}を使った！"
-> CONTEXT: Scripts/RPG::Skill (message)/375:24 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/375:24
 " used \#{skill_name}!"
 > END STRING
 
 > BEGIN STRING
 "霞扇子"
-> CONTEXT: Scripts/RPG::Skill (message)/376:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/376:12
 "Haze Fan"
 > END STRING
 
 > BEGIN STRING
 "毒の粉を吹き付けた！"
-> CONTEXT: Scripts/RPG::Skill (message)/377:24 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/377:24
 " sprayed poison powder!"
 > END STRING
 
@@ -17462,25 +17462,25 @@
 
 > BEGIN STRING
 "百雷筒"
-> CONTEXT: Scripts/RPG::Skill (message)/381:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/381:12
 "Hundred Lightning Cannon"
 > END STRING
 
 > BEGIN STRING
 "激しい音で\\n\\\\w[\\\\v[104]]\\\\n[1]を撹乱した！"
-> CONTEXT: Scripts/RPG::Skill (message)/382:24 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/382:24
 "The loud noises disturbed \\\\n[1]!"
 > END STRING
 
 > BEGIN STRING
 "悪夢"
-> CONTEXT: Scripts/RPG::Skill (message)/384:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/384:12
 "Nightmare"
 > END STRING
 
 > BEGIN STRING
 "悪夢をつくりだした！"
-> CONTEXT: Scripts/RPG::Skill (message)/385:24 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/385:24
 " created a nightmare!"
 > END STRING
 
@@ -19045,8 +19045,8 @@
 
 > BEGIN STRING
 "あ"
-> CONTEXT: Scripts/Window_NameInput/10:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/10:5
+"A"
 > END STRING
 
 > BEGIN STRING
@@ -19057,26 +19057,26 @@
 
 > BEGIN STRING
 "い"
-> CONTEXT: Scripts/Window_NameInput/10:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/10:9
+"B"
 > END STRING
 
 > BEGIN STRING
 "う"
-> CONTEXT: Scripts/Window_NameInput/10:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/10:13
+"C"
 > END STRING
 
 > BEGIN STRING
 "え"
-> CONTEXT: Scripts/Window_NameInput/10:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/10:17
+"D"
 > END STRING
 
 > BEGIN STRING
 "お"
-> CONTEXT: Scripts/Window_NameInput/10:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/10:21
+"E"
 > END STRING
 
 > BEGIN STRING
@@ -19087,32 +19087,32 @@
 
 > BEGIN STRING
 "か"
-> CONTEXT: Scripts/Window_NameInput/11:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/11:5
+"F"
 > END STRING
 
 > BEGIN STRING
 "き"
-> CONTEXT: Scripts/Window_NameInput/11:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/11:9
+"G"
 > END STRING
 
 > BEGIN STRING
 "く"
-> CONTEXT: Scripts/Window_NameInput/11:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/11:13
+"H"
 > END STRING
 
 > BEGIN STRING
 "け"
-> CONTEXT: Scripts/Window_NameInput/11:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/11:17
+"I"
 > END STRING
 
 > BEGIN STRING
 "こ"
-> CONTEXT: Scripts/Window_NameInput/11:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/11:21
+"J"
 > END STRING
 
 > BEGIN STRING
@@ -19130,8 +19130,8 @@
 
 > BEGIN STRING
 "さ"
-> CONTEXT: Scripts/Window_NameInput/12:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/12:5
+"K"
 > END STRING
 
 > BEGIN STRING
@@ -19142,8 +19142,8 @@
 
 > BEGIN STRING
 "し"
-> CONTEXT: Scripts/Window_NameInput/12:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/12:9
+"L"
 > END STRING
 
 > BEGIN STRING
@@ -19155,8 +19155,8 @@
 
 > BEGIN STRING
 "す"
-> CONTEXT: Scripts/Window_NameInput/12:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/12:13
+"M"
 > END STRING
 
 > BEGIN STRING
@@ -19167,8 +19167,8 @@
 
 > BEGIN STRING
 "せ"
-> CONTEXT: Scripts/Window_NameInput/12:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/12:17
+"N"
 > END STRING
 
 > BEGIN STRING
@@ -19179,8 +19179,8 @@
 
 > BEGIN STRING
 "そ"
-> CONTEXT: Scripts/Window_NameInput/12:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/12:21
+"O"
 > END STRING
 
 > BEGIN STRING
@@ -19191,20 +19191,20 @@
 
 > BEGIN STRING
 "た"
-> CONTEXT: Scripts/Window_NameInput/13:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/13:5
+"P"
 > END STRING
 
 > BEGIN STRING
 "ち"
-> CONTEXT: Scripts/Window_NameInput/13:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/13:9
+"Q"
 > END STRING
 
 > BEGIN STRING
 "つ"
-> CONTEXT: Scripts/Window_NameInput/13:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/13:13
+"R"
 > END STRING
 
 > BEGIN STRING
@@ -19215,14 +19215,14 @@
 
 > BEGIN STRING
 "て"
-> CONTEXT: Scripts/Window_NameInput/13:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/13:17
+"S"
 > END STRING
 
 > BEGIN STRING
 "と"
-> CONTEXT: Scripts/Window_NameInput/13:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/13:21
+"T"
 > END STRING
 
 > BEGIN STRING
@@ -19233,8 +19233,8 @@
 
 > BEGIN STRING
 "な"
-> CONTEXT: Scripts/Window_NameInput/14:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/14:5
+"U"
 > END STRING
 
 > BEGIN STRING
@@ -19245,26 +19245,26 @@
 
 > BEGIN STRING
 "に"
-> CONTEXT: Scripts/Window_NameInput/14:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/14:9
+"V"
 > END STRING
 
 > BEGIN STRING
 "ぬ"
-> CONTEXT: Scripts/Window_NameInput/14:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/14:13
+"W"
 > END STRING
 
 > BEGIN STRING
 "ね"
-> CONTEXT: Scripts/Window_NameInput/14:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/14:17
+"X"
 > END STRING
 
 > BEGIN STRING
 "の"
-> CONTEXT: Scripts/Window_NameInput/14:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/14:21
+"Y"
 > END STRING
 
 > BEGIN STRING
@@ -19275,8 +19275,8 @@
 
 > BEGIN STRING
 "は"
-> CONTEXT: Scripts/Window_NameInput/15:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/15:5
+"Z"
 > END STRING
 
 > BEGIN STRING
@@ -19451,8 +19451,8 @@
 
 > BEGIN STRING
 "夢の原形"
-> CONTEXT: Scripts/Window_SaveFile/117:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/117:14
+"Prime Dream"
 > END STRING
 
 > BEGIN STRING
@@ -19745,8 +19745,8 @@
 
 > BEGIN STRING
 "理想郷クヴァラット"
-> CONTEXT: Scripts/Window_SaveFile/137:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/137:14
+"Utopia Kvalatte"
 > END STRING
 
 > BEGIN STRING
@@ -19973,8 +19973,8 @@
 
 > BEGIN STRING
 "ア"
-> CONTEXT: Scripts/Window_NameInput/28:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/28:5
+"a"
 > END STRING
 
 > BEGIN STRING
@@ -19985,26 +19985,26 @@
 
 > BEGIN STRING
 "イ"
-> CONTEXT: Scripts/Window_NameInput/28:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/28:9
+"b"
 > END STRING
 
 > BEGIN STRING
 "ウ"
-> CONTEXT: Scripts/Window_NameInput/28:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/28:13
+"c"
 > END STRING
 
 > BEGIN STRING
 "エ"
-> CONTEXT: Scripts/Window_NameInput/28:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/28:17
+"d"
 > END STRING
 
 > BEGIN STRING
 "オ"
-> CONTEXT: Scripts/Window_NameInput/28:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/28:21
+"e"
 > END STRING
 
 > BEGIN STRING
@@ -20015,26 +20015,26 @@
 
 > BEGIN STRING
 "カ"
-> CONTEXT: Scripts/Window_NameInput/29:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/29:5
+"f"
 > END STRING
 
 > BEGIN STRING
 "キ"
-> CONTEXT: Scripts/Window_NameInput/29:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/29:9
+"g"
 > END STRING
 
 > BEGIN STRING
 "ク"
-> CONTEXT: Scripts/Window_NameInput/29:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/29:13
+"h"
 > END STRING
 
 > BEGIN STRING
 "ケ"
-> CONTEXT: Scripts/Window_NameInput/29:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/29:17
+"i"
 > END STRING
 
 > BEGIN STRING
@@ -20045,20 +20045,20 @@
 
 > BEGIN STRING
 "コ"
-> CONTEXT: Scripts/Window_NameInput/29:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/29:21
+"j"
 > END STRING
 
 > BEGIN STRING
 "サ"
-> CONTEXT: Scripts/Window_NameInput/30:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/30:5
+"k"
 > END STRING
 
 > BEGIN STRING
 "シ"
-> CONTEXT: Scripts/Window_NameInput/30:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/30:9
+"l"
 > END STRING
 
 > BEGIN STRING
@@ -20069,26 +20069,26 @@
 
 > BEGIN STRING
 "ス"
-> CONTEXT: Scripts/Window_NameInput/30:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/30:13
+"m"
 > END STRING
 
 > BEGIN STRING
 "セ"
-> CONTEXT: Scripts/Window_NameInput/30:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/30:17
+"n"
 > END STRING
 
 > BEGIN STRING
 "ソ"
-> CONTEXT: Scripts/Window_NameInput/30:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/30:21
+"o"
 > END STRING
 
 > BEGIN STRING
 "タ"
-> CONTEXT: Scripts/Window_NameInput/31:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/31:5
+"p"
 > END STRING
 
 > BEGIN STRING
@@ -20099,62 +20099,62 @@
 
 > BEGIN STRING
 "チ"
-> CONTEXT: Scripts/Window_NameInput/31:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/31:9
+"q"
 > END STRING
 
 > BEGIN STRING
 "ツ"
-> CONTEXT: Scripts/Window_NameInput/31:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/31:13
+"r"
 > END STRING
 
 > BEGIN STRING
 "テ"
-> CONTEXT: Scripts/Window_NameInput/31:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/31:17
+"s"
 > END STRING
 
 > BEGIN STRING
 "ト"
-> CONTEXT: Scripts/Window_NameInput/31:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/31:21
+"t"
 > END STRING
 
 > BEGIN STRING
 "ナ"
-> CONTEXT: Scripts/Window_NameInput/32:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/32:5
+"u"
 > END STRING
 
 > BEGIN STRING
 "ニ"
-> CONTEXT: Scripts/Window_NameInput/32:9 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/32:9
+"v"
 > END STRING
 
 > BEGIN STRING
 "ヌ"
-> CONTEXT: Scripts/Window_NameInput/32:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/32:13
+"w"
 > END STRING
 
 > BEGIN STRING
 "ネ"
-> CONTEXT: Scripts/Window_NameInput/32:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/32:17
+"x"
 > END STRING
 
 > BEGIN STRING
 "ノ"
-> CONTEXT: Scripts/Window_NameInput/32:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/32:21
+"y"
 > END STRING
 
 > BEGIN STRING
 "ハ"
-> CONTEXT: Scripts/Window_NameInput/33:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/33:5
+"z"
 > END STRING
 
 > BEGIN STRING
@@ -20561,8 +20561,8 @@
 
 > BEGIN STRING
 "ゥ"
-> CONTEXT: Scripts/Window_NameInput/44:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/44:13
+"'"
 > END STRING
 
 > BEGIN STRING
@@ -20573,8 +20573,8 @@
 
 > BEGIN STRING
 "ェ"
-> CONTEXT: Scripts/Window_NameInput/44:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/44:17
+" "
 > END STRING
 
 > BEGIN STRING
@@ -20592,8 +20592,8 @@
 
 > BEGIN STRING
 "ォ"
-> CONTEXT: Scripts/Window_NameInput/44:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/44:21
+"-"
 > END STRING
 
 > BEGIN STRING
@@ -20633,8 +20633,8 @@
 
 > BEGIN STRING
 "ヴ"
-> CONTEXT: Scripts/Window_NameInput/45:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_NameInput/45:13
+"."
 > END STRING
 
 > BEGIN STRING
@@ -24203,8 +24203,8 @@
 
 > BEGIN STRING
 "これ以上何も願えない…"
-> CONTEXT: Scripts/Scene_Battle 3/252:37 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 3/252:37
+"Can't wish anymore..."
 > END STRING
 
 > BEGIN STRING
@@ -26235,8 +26235,8 @@
 
 > BEGIN STRING
 "アイゼクトの記憶に存在する少女。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/142:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/142:12
+"A girl who exists in Ayxect's memories."
 > END STRING
 
 > BEGIN STRING
@@ -26283,26 +26283,26 @@
 
 > BEGIN STRING
 "アイゼクトの夢にあらわれたサキュバス。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/154:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/154:12
+"A succubus who appeared in Ayxect's dream."
 > END STRING
 
 > BEGIN STRING
 "性格は好色で気紛れ、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/155:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/155:12
+"Has a lustful and fickle personality,"
 > END STRING
 
 > BEGIN STRING
 "人を誘惑することを何より好む。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/156:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/156:12
+"and loves nothing more than to seduce people."
 > END STRING
 
 > BEGIN STRING
 "夢魔そのものとも言える存在。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/157:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/157:12
+"Could be called the very existence of Succubus."
 > END STRING
 
 > BEGIN STRING
@@ -26496,7 +26496,7 @@
 > BEGIN STRING
 "ブラム・ストーカーの『ドラキュラ』が"
 > CONTEXT: Scripts/☆図鑑用詳細データ/182:12
-"Bram Stoker's 'Dracula'"
+"Bram Stoker's 'Dracula' is the most famous,"
 > END STRING
 
 > BEGIN STRING
@@ -26507,14 +26507,14 @@
 
 > BEGIN STRING
 "有名だが、それ以前の伝説・伝承・文学では"
-> CONTEXT: Scripts/☆図鑑用詳細データ/183:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/183:12
+"but in earlier legends, folklore and literature,"
 > END STRING
 
 > BEGIN STRING
 "おおむね女性として描かれている。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/184:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/184:12
+"Dracula is generally depicted as a woman."
 > END STRING
 
 > BEGIN STRING
@@ -26828,62 +26828,62 @@
 
 > BEGIN STRING
 "神の言葉を伝える天使。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/246:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/246:12
+"An angel who conveys the word of God."
 > END STRING
 
 > BEGIN STRING
 "キリスト教では四大天使の一人に数えられ、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/247:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/247:12
+"In Christianity, she is counted as one of the"
 > END STRING
 
 > BEGIN STRING
 "また天使の中で唯一女性として描かれる。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/248:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/248:12
+"four archangels, and the only female angel."
 > END STRING
 
 > BEGIN STRING
 "東の方角、青の色、そして水を司るともされる。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/249:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/249:12
+"Also said to be associated with east, blue, and water."
 > END STRING
 
 > BEGIN STRING
 "ルシファー、ルキフェル。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/252:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/252:12
+"As the most beloved archangel of God,"
 > END STRING
 
 > BEGIN STRING
 "神に最も愛され、神の右側に座ることを許された"
-> CONTEXT: Scripts/☆図鑑用詳細データ/253:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/253:12
+"she was allowed to sit at His right hand,"
 > END STRING
 
 > BEGIN STRING
 "大天使であったが、自分が相応しいのは神の玉座"
-> CONTEXT: Scripts/☆図鑑用詳細データ/254:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/254:12
+"but was cast into hell because for arrogance"
 > END STRING
 
 > BEGIN STRING
 "であると考えた傲慢によって地獄へ落とされた。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/255:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/255:12
+"for thinking of being worthy of God's throne."
 > END STRING
 
 > BEGIN STRING
 "ミルトンの「失楽園」では地獄に万魔殿を築き、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/256:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/256:12
+"In Milton's 'Paradise Lost', the protagonist builds"
 > END STRING
 
 > BEGIN STRING
 "自らの意思で神に立ち向かう。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/257:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/257:12
+"a temple in hell and rebels against God of own volition."
 > END STRING
 
 > BEGIN STRING
@@ -26924,44 +26924,44 @@
 
 > BEGIN STRING
 "リヴァイアサン。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/268:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/268:12
+"A giant sea monster that appears in the Old Testament."
 > END STRING
 
 > BEGIN STRING
 "旧約聖書に登場する巨大な海の魔物。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/269:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/269:12
+"So aggressive that they are prevented from breeding."
 > END STRING
 
 > BEGIN STRING
 "あまりに凶暴なため、繁殖することがないよう"
-> CONTEXT: Scripts/☆図鑑用詳細データ/270:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/270:12
+"All males have been killed and only females remain."
 > END STRING
 
 > BEGIN STRING
 "雄を全て殺され雌しか存在しない。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/271:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/271:12
+"The demon that corresponds to jealousy"
 > END STRING
 
 > BEGIN STRING
 "七つの大罪のうち嫉妬に対応する悪魔。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/272:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/272:12
+"among the seven deadly sins."
 > END STRING
 
 > BEGIN STRING
 "アダムを女性の姿で、イブを男性の姿で誘惑した"
-> CONTEXT: Scripts/☆図鑑用詳細データ/273:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/273:12
+"Said to have been a hermaphrodite dragon who"
 > END STRING
 
 > BEGIN STRING
 "両性具有のドラゴンとも言われる。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/274:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/274:12
+"seduced Adam in female form and Eve in male form."
 > END STRING
 
 > BEGIN STRING

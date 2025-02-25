@@ -1524,8 +1524,8 @@ Mor-Rogin
 
 > BEGIN STRING
 孤独の香水/100/100/100
-> CONTEXT: States/287/name/ < UNTRANSLATED
-
+> CONTEXT: States/287/name/
+Solitude Perfume/100/100/100
 > END STRING
 
 > BEGIN STRING

@@ -7,18 +7,18 @@ SQT_Dungeon_PrimeDream
 
 > BEGIN STRING
 「…………………ト……
-> CONTEXT: Map475/events/14/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map475/events/14/pages/0/4/Dialogue
+「.......t...
 > END STRING
 
 > BEGIN STRING
 「………ク………ト……
-> CONTEXT: Map475/events/14/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map475/events/14/pages/0/10/Dialogue
+「...c....t...
 > END STRING
 
 > BEGIN STRING
 「……ゼ…ク……ト……
-> CONTEXT: Map475/events/14/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map475/events/14/pages/0/16/Dialogue
+「...xe..c..t...
 > END STRING

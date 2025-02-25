@@ -1,43 +1,43 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「おう、何か要るかい？
-> CONTEXT: Map010/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/0/1/Dialogue
 「Hey, you need anything?
 > END STRING
 
 > BEGIN STRING
 "シトリー/Sitri"
-> CONTEXT: Map010/events/4/pages/0/51/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/80/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/92/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/113/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/125/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/146/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/158/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/179/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/191/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/212/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/224/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/245/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/252/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/280/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/298/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/306/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/323/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/341/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/362/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/383/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/392/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/253/22/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/253/32/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/256/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/0/51/InlineScript/1:4
+> CONTEXT: Commonevents/251/80/InlineScript/1:4
+> CONTEXT: Commonevents/251/92/InlineScript/1:4
+> CONTEXT: Commonevents/251/113/InlineScript/1:4
+> CONTEXT: Commonevents/251/125/InlineScript/1:4
+> CONTEXT: Commonevents/251/146/InlineScript/1:4
+> CONTEXT: Commonevents/251/158/InlineScript/1:4
+> CONTEXT: Commonevents/251/179/InlineScript/1:4
+> CONTEXT: Commonevents/251/191/InlineScript/1:4
+> CONTEXT: Commonevents/251/212/InlineScript/1:4
+> CONTEXT: Commonevents/251/224/InlineScript/1:4
+> CONTEXT: Commonevents/251/245/InlineScript/1:4
+> CONTEXT: Commonevents/251/252/InlineScript/1:4
+> CONTEXT: Commonevents/251/280/InlineScript/1:4
+> CONTEXT: Commonevents/251/298/InlineScript/1:4
+> CONTEXT: Commonevents/251/306/InlineScript/1:4
+> CONTEXT: Commonevents/251/323/InlineScript/1:4
+> CONTEXT: Commonevents/251/341/InlineScript/1:4
+> CONTEXT: Commonevents/251/362/InlineScript/1:4
+> CONTEXT: Commonevents/251/383/InlineScript/1:4
+> CONTEXT: Commonevents/251/392/InlineScript/1:4
+> CONTEXT: Commonevents/253/22/InlineScript/1:4
+> CONTEXT: Commonevents/253/32/InlineScript/1:4
+> CONTEXT: Commonevents/256/3/InlineScript/1:4
 "Sitri/Sitri"
 > END STRING
 
 > BEGIN STRING
 「夢の頁は、幾重にも
 　めくれどめくれど、終わり無し…
-> CONTEXT: Map010/events/4/pages/0/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/0/52/Dialogue
 「The pages of a dream, 
 　no matter how many times they are 
 　turned over, there is no end to them...
@@ -47,7 +47,7 @@
 「幸福なるか？おお、
 　我が主人公！盲目の
 　読み手と共に
-> CONTEXT: Map010/events/4/pages/0/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/0/54/Dialogue
 「Will you be happy? 
 　Oh, my hero! 
 　Together with the blind reader!
@@ -57,7 +57,7 @@
 「夢をめくる、だがしかし
 　頁の裏なら、話はまた別……
 　ふふふふふふふ！
-> CONTEXT: Map010/events/4/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/0/57/Dialogue
 「You turn the pages of a dream, 
 　but on the other side of the page 
 　it's a different story... Hehehehehe!
@@ -67,7 +67,7 @@
 「ようこそ！
 　ここは我が部屋、ここのみは、
 　物語の外の場所。
-> CONTEXT: Map010/events/4/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/0/60/Dialogue
 「Welcome!
 　This is my room,
 　this is the only place outside of the story.
@@ -77,7 +77,7 @@
 「さあ、\\c[4]夜の絵本\\c[0]を開くといい。
 　そこに\\dしるし\\dがありさえすれば、
 　彼女は君の思いのまま……
-> CONTEXT: Map010/events/4/pages/0/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/0/63/Dialogue
 「Now, open the Night Picture Book. 
 　As long as there is a \\dmark\\d, 
 　she will be at your disposal...
@@ -86,7 +86,7 @@
 > BEGIN STRING
 「ふふふふふ！
 　楽しんでいくがいい！
-> CONTEXT: Map010/events/4/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/0/66/Dialogue
 「Hehehe!
 　Have fun!
 > END STRING
@@ -94,7 +94,7 @@
 > BEGIN STRING
 「ところが私としたことが、
 　すっかりお礼を忘れていました。
-> CONTEXT: Map010/events/18/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/18/pages/0/4/Dialogue
 「But what I did is, 
 　I completely forgot to thank you.
 > END STRING
@@ -103,7 +103,7 @@
 「遅れましたが名喰い鳥、
 　お礼にあなたのお名前を、
 　お好きに変えて進ぜましょう。
-> CONTEXT: Map010/events/18/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/18/pages/0/6/Dialogue
 「Sorry I'm late for it,
 　but as a token of my thanks,  
 　I'll change your name to whatever you like.
@@ -112,8 +112,8 @@
 > BEGIN STRING
 「とてもお似合いですよ、
 　\\n[1]さん。
-> CONTEXT: Map010/events/18/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/18/pages/1/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/18/pages/0/13/Dialogue
+> CONTEXT: Map010/events/18/pages/1/9/Dialogue
 「It suits you very well,
 　\\n[1].
 > END STRING
@@ -122,41 +122,41 @@
 「あの時のお礼に名喰い鳥、
 　あなたのお名前お好きな風に、
 　変えてごらんにいれましょう。
-> CONTEXT: Map010/events/18/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/18/pages/1/2/Dialogue
 「As thanks for that time,
 I'll change your name to whatever you like.
 > END STRING
 
 > BEGIN STRING
 "お帰りグリフォン"
-> CONTEXT: Map010/events/27/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map010/events/27/pages/0/6/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map010/events/27/pages/0/16/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map010/events/27/pages/0/0/InlineScript/1:4
+> CONTEXT: Map010/events/27/pages/0/6/InlineScript/1:4
+> CONTEXT: Map010/events/27/pages/0/16/InlineScript/1:4
 "Back-home Griffon"
 > END STRING
 
 > BEGIN STRING
 「お帰りはこちらから。
-> CONTEXT: Map010/events/27/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/27/pages/0/1/Dialogue
 「Here's your way home.
 > END STRING
 
 > BEGIN STRING
 シトリーの部屋から出ますか？
-> CONTEXT: Map010/events/27/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/27/pages/0/3/Dialogue
 Leave Sitri's room?
 > END STRING
 
 > BEGIN STRING
 「んじゃな。またな。
-> CONTEXT: Map010/events/27/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/27/pages/0/7/Dialogue
 「Well then. See you later.
 > END STRING
 
 > BEGIN STRING
 「そうだよな。
 　まだ終わらんよな。
-> CONTEXT: Map010/events/27/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/27/pages/0/17/Dialogue
 「That's right. 
 　Not yet.
 > END STRING

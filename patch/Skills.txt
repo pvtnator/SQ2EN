@@ -3176,7 +3176,7 @@ Fate Reversal
 
 > BEGIN STRING
 ソウルスナップ
-> CONTEXT: Skills/418/name/ < UNTRANSLATED
+> CONTEXT: Skills/418/name/
 Soul Snap
 > END STRING
 
@@ -3254,25 +3254,25 @@ Summersolstice Magic
 
 > BEGIN STRING
 分身の術
-> CONTEXT: Skills/427/name/ < UNTRANSLATED
+> CONTEXT: Skills/427/name/
 Clone Technique
 > END STRING
 
 > BEGIN STRING
 霞扇子
-> CONTEXT: Skills/428/name/ < UNTRANSLATED
+> CONTEXT: Skills/428/name/
 Haze Fan
 > END STRING
 
 > BEGIN STRING
 百雷筒
-> CONTEXT: Skills/429/name/ < UNTRANSLATED
+> CONTEXT: Skills/429/name/
 Hundred Lightning Cannon
 > END STRING
 
 > BEGIN STRING
 悪夢
-> CONTEXT: Skills/430/name/ < UNTRANSLATED
+> CONTEXT: Skills/430/name/
 Nightmare
 > END STRING
 
