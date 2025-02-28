@@ -2195,7 +2195,7 @@ For debugging: Error when attacking a weak point
 > BEGIN STRING
 \\a[\\v[105]]\\n[28]は分身した！
 > CONTEXT: Commonevents/89/28/Dialogue
-\\a[\\v[105]]\\n[28] split into two!
+\\a[\\v[105]]\\n[28] created clones!
 > END STRING
 
 > BEGIN STRING
@@ -4487,20 +4487,20 @@ Hachlobs Burns
 
 > BEGIN STRING
 「ガキのくせに言うじゃない……
-> CONTEXT: Commonevents/170/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/85/Dialogue
+「You're just a brat...
 > END STRING
 
 > BEGIN STRING
 「ロッコ、おかしくなっちゃぅ～っ\\e[0]
-> CONTEXT: Commonevents/170/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/91/Dialogue
+「Rocco, going crazy～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「おませさん～っ\\e[0]
-> CONTEXT: Commonevents/170/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/97/Dialogue
+「Precious boy～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -4872,15 +4872,15 @@ Hachlobs Burns
 
 > BEGIN STRING
 「あ…ああんっ……
-> CONTEXT: Commonevents/172/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/173/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/180/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/183/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/186/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/191/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/194/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/195/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/172/3/Dialogue
+> CONTEXT: Commonevents/173/3/Dialogue
+> CONTEXT: Commonevents/180/3/Dialogue
+> CONTEXT: Commonevents/183/3/Dialogue
+> CONTEXT: Commonevents/186/3/Dialogue
+> CONTEXT: Commonevents/191/3/Dialogue
+> CONTEXT: Commonevents/194/3/Dialogue
+> CONTEXT: Commonevents/195/3/Dialogue
+「A..aaahh...
 > END STRING
 
 > BEGIN STRING
@@ -5783,7 +5783,7 @@ is looking with cold eyes!
 　こちらを見ている！
 > CONTEXT: Commonevents/180/17/Dialogue
 \\a[\\v[105]]\\n[27] is looking with a 
-　puzzled face!
+puzzled face!
 > END STRING
 
 > BEGIN STRING
@@ -5959,7 +5959,7 @@ But there's nothing to give!
 > BEGIN STRING
 「そ……そんなぁっ\\e[0]
 > CONTEXT: Commonevents/180/222/Dialogue
-"T-this...\\e[0]
+「T-this...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -6779,52 +6779,52 @@ Use more words
 
 > BEGIN STRING
 「…よくわかんないっ！
-> CONTEXT: Commonevents/194/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/14/Dialogue
+「...I don’t get it!
 > END STRING
 
 > BEGIN STRING
 「そんなに僕と一緒にいたい？
-> CONTEXT: Commonevents/194/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/19/Dialogue
+「Do you really want to be with me that much?
 > END STRING
 
 > BEGIN STRING
 「そんなに僕と一緒にいたい？」
-> CONTEXT: Commonevents/194/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/21/Dialogue
+「Do you really want to be with me that much?」
 > END STRING
 
 > BEGIN STRING
 「それじゃ、一緒にいこうっ\\e[0]
-> CONTEXT: Commonevents/194/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/26/Dialogue
+「Well then, let's do it together\\e[0]
 > END STRING
 
 > BEGIN STRING
 「どこまでもついて来てくれるかな？
-> CONTEXT: Commonevents/194/35/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/194/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/35/Dialogue
+> CONTEXT: Commonevents/194/37/Dialogue
+「Will you follow me wherever I go?
 > END STRING
 
 > BEGIN STRING
 「それじゃ、不思議の国へレッツ・ゴー！
-> CONTEXT: Commonevents/194/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/42/Dialogue
+「Well then, let's go to Wonderland!
 > END STRING
 
 > BEGIN STRING
 「つかまえてごらん！
-> CONTEXT: Commonevents/194/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/48/Dialogue
+「Try and catch me!
 > END STRING
 
 > BEGIN STRING
 「残念っ！
-> CONTEXT: Commonevents/194/60/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/194/132/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/194/60/Dialogue
+> CONTEXT: Commonevents/194/132/Dialogue
+「Too bad!
 > END STRING
 
 > BEGIN STRING
@@ -6997,14 +6997,15 @@ Use more words
 > BEGIN STRING
 「えぇ……
 　\\n[27]うれしぃ～っ\\e[0]
-> CONTEXT: Commonevents/195/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/138/Dialogue
+「Eeeh...
+　\\n[27] is so happy\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あ…ああんっ……\\e[0]
-> CONTEXT: Commonevents/197/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/197/3/Dialogue
+「A..aaahh...\\e[0]
 > END STRING
 
 > BEGIN STRING

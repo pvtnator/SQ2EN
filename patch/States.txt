@@ -646,40 +646,40 @@ Twice
 
 > BEGIN STRING
 テンション+5/100/100/105
-> CONTEXT: States/119/name/ < UNTRANSLATED
-> CONTEXT: States/547/name/ < UNTRANSLATED
-
+> CONTEXT: States/119/name/
+> CONTEXT: States/547/name/
+Tension +5/100/100/105
 > END STRING
 
 > BEGIN STRING
 テンション+10/100/100/110
-> CONTEXT: States/120/name/ < UNTRANSLATED
-> CONTEXT: States/548/name/ < UNTRANSLATED
-
+> CONTEXT: States/120/name/
+> CONTEXT: States/548/name/
+Tension +10/100/100/110
 > END STRING
 
 > BEGIN STRING
 テンション+20/100/100/120
-> CONTEXT: States/121/name/ < UNTRANSLATED
-
+> CONTEXT: States/121/name/
+Tension +20/100/100/120
 > END STRING
 
 > BEGIN STRING
 テンション+30/100/100/130
-> CONTEXT: States/122/name/ < UNTRANSLATED
-
+> CONTEXT: States/122/name/
+Tension +30/100/100/130
 > END STRING
 
 > BEGIN STRING
 テンション-10/100/100/90
-> CONTEXT: States/123/name/ < UNTRANSLATED
-
+> CONTEXT: States/123/name/
+Tension -10/100/100/90
 > END STRING
 
 > BEGIN STRING
 テンション-20/100/100/80
-> CONTEXT: States/124/name/ < UNTRANSLATED
-
+> CONTEXT: States/124/name/
+Tension -20/100/100/80
 > END STRING
 
 > BEGIN STRING

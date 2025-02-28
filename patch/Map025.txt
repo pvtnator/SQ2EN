@@ -31,18 +31,20 @@
 > BEGIN STRING
 「お待ちになって！
 　お帰りの前！
-> CONTEXT: Map025/events/1/pages/0/38/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/1/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/1/pages/0/38/Dialogue
+> CONTEXT: Map016/events/1/pages/0/38/Dialogue
+「Please wait!
+　Before you go back!
 > END STRING
 
 > BEGIN STRING
 「六冊の史書！
 　今こそ歴史を！！
-> CONTEXT: Map025/events/1/pages/0/40/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/1/pages/0/40/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/9/pages/0/303/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/1/pages/0/40/Dialogue
+> CONTEXT: Map016/events/1/pages/0/40/Dialogue
+> CONTEXT: Map015/events/9/pages/0/303/Dialogue
+「Six history books!
+　History now!!
 > END STRING
 
 > BEGIN STRING

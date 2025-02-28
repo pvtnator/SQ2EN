@@ -69,8 +69,8 @@ Melissa
 
 > BEGIN STRING
 〔インセンス〕　テンションアップ / ムードアップ
-> CONTEXT: Items/7/description/ < UNTRANSLATED
-
+> CONTEXT: Items/7/description/
+[Incense] Tension Up / Mood Up
 > END STRING
 
 > BEGIN STRING
@@ -1454,28 +1454,28 @@ Great Neltup History
 
 > BEGIN STRING
 ドルヌス史Ⅰ
-> CONTEXT: Items/173/name/ < UNTRANSLATED
-
+> CONTEXT: Items/173/name/
+Dornus History 1
 > END STRING
 
 > BEGIN STRING
 〔史書〕 魔物の国ドルヌスの歴史を記した本
-> CONTEXT: Items/173/description/ < UNTRANSLATED
-> CONTEXT: Items/174/description/ < UNTRANSLATED
-> CONTEXT: Items/175/description/ < UNTRANSLATED
-
+> CONTEXT: Items/173/description/
+> CONTEXT: Items/174/description/
+> CONTEXT: Items/175/description/
+[History] The history of monster nation Dornus
 > END STRING
 
 > BEGIN STRING
 ドルヌス史Ⅱ
-> CONTEXT: Items/174/name/ < UNTRANSLATED
-
+> CONTEXT: Items/174/name/
+Dornus History 2
 > END STRING
 
 > BEGIN STRING
 ドルヌス史Ⅲ
-> CONTEXT: Items/175/name/ < UNTRANSLATED
-
+> CONTEXT: Items/175/name/
+Dornus History 3
 > END STRING
 
 > BEGIN STRING
@@ -1645,7 +1645,7 @@ Magic Structure Analysis
 > BEGIN STRING
 夢分析入門
 > CONTEXT: Items/191/name/
-Introduction to Dream Analysis
+Dream Analysis Introduction
 > END STRING
 
 > BEGIN STRING

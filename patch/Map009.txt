@@ -50,5 +50,5 @@
 \\i[55]\\c[3]カースドアイアン\\c[0] をみつけた！
 > CONTEXT: Map009/events/6/pages/0/3/Dialogue
 > CONTEXT: Map009/events/6/pages/0/20/Dialogue
-\\i[55]\\c[3]カースドアイアン\\c[0] found!
+\\i[55]\\c[3]Cursed Iron\\c[0] found!
 > END STRING

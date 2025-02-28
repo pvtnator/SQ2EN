@@ -510,7 +510,7 @@ EV_メルヤ
 > CONTEXT: Troops/9/pages/0/16/Dialogue
 「Or am I...
 　doing something
-　even more \\naughty\\?
+　even more \\dnaughty\\d?
 > END STRING
 
 > BEGIN STRING

@@ -1581,8 +1581,8 @@ Loose Bow Technique
 
 > BEGIN STRING
 トリプルスウィング/0/0/3
-> CONTEXT: Skills/217/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/217/name/
+Triple Swing/0/0/3
 > END STRING
 
 > BEGIN STRING
@@ -2655,8 +2655,8 @@ Wondertrip
 
 > BEGIN STRING
 ラプチャパウダー
-> CONTEXT: Skills/350/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/350/name/
+Rapture Powder
 > END STRING
 
 > BEGIN STRING
@@ -3294,20 +3294,20 @@ Nya～h
 
 > BEGIN STRING
 トリプルバーク/0/0/to437
-> CONTEXT: Skills/436/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/436/name/
+Triple Bark/0/0/to437
 > END STRING
 
 > BEGIN STRING
 トリプルバーク/0/0/to438
-> CONTEXT: Skills/437/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/437/name/
+Triple Bark/0/0/to438
 > END STRING
 
 > BEGIN STRING
 トリプルバーク
-> CONTEXT: Skills/438/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/438/name/
+Triple Bark
 > END STRING
 
 > BEGIN STRING
@@ -4091,8 +4091,8 @@ Kasu Ether
 
 > BEGIN STRING
 ミニマム解除 / クラムジ解除
-> CONTEXT: Skills/687/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/687/description/
+Mini / Clumsy Recovery
 > END STRING
 
 > BEGIN STRING
@@ -4103,8 +4103,8 @@ Mine Ether
 
 > BEGIN STRING
 放心解除 / 暴走解除 / パニック解除
-> CONTEXT: Skills/688/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/688/description/
+Daze / Berserk / Panic Recovery
 > END STRING
 
 > BEGIN STRING
@@ -4133,20 +4133,20 @@ Unbind
 
 > BEGIN STRING
 全てのバッドステートを解除する
-> CONTEXT: Skills/691/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/691/description/
+Remove all bad states
 > END STRING
 
 > BEGIN STRING
 トワイス/10/0/0/1
-> CONTEXT: Skills/693/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/693/name/
+Twice/10/0/0/1
 > END STRING
 
 > BEGIN STRING
 たまに2回行動するようになる
-> CONTEXT: Skills/693/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/693/description/
+Occasionally act twice
 > END STRING
 
 > BEGIN STRING
@@ -4157,14 +4157,14 @@ Increase tension gain
 
 > BEGIN STRING
 服を脱がせる・インサート成功率アップ
-> CONTEXT: Skills/695/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/695/description/
+Undress and insert success rate up
 > END STRING
 
 > BEGIN STRING
 快感を受ける度にテンションアップ
-> CONTEXT: Skills/696/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/696/description/
+Tension rises on receiving pleasure
 > END STRING
 
 > BEGIN STRING
@@ -4187,8 +4187,8 @@ Greed/0/0/0/3
 
 > BEGIN STRING
 バトル後ゴールド入手 / 精神力ダウン
-> CONTEXT: Skills/698/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/698/description/
+Gold after battle / Spirit Down
 > END STRING
 
 > BEGIN STRING
@@ -4218,32 +4218,32 @@ Far-Dorumba
 
 > BEGIN STRING
 相手全員の気をそらす
-> CONTEXT: Skills/704/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/704/description/
+Distract all opponents
 > END STRING
 
 > BEGIN STRING
 ラプチャ/7
-> CONTEXT: Skills/705/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/705/name/
+Rapture/7
 > END STRING
 
 > BEGIN STRING
 相手一人を恍惚状態にする
-> CONTEXT: Skills/705/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/705/description/
+Inflict ecstasy
 > END STRING
 
 > BEGIN STRING
 ファル・ラプチャ/7
-> CONTEXT: Skills/706/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/706/name/
+Far-Rapture/7
 > END STRING
 
 > BEGIN STRING
 相手全員を恍惚状態にする
-> CONTEXT: Skills/706/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/706/description/
+Inflict ecstasy on all opponents
 > END STRING
 
 > BEGIN STRING
@@ -4338,14 +4338,14 @@ Trick/5/0/0
 
 > BEGIN STRING
 ターンを終わらせる
-> CONTEXT: Skills/716/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/716/description/
+End the turn
 > END STRING
 
 > BEGIN STRING
 宝箱に化けて夢魔に気づかれなくなる
-> CONTEXT: Skills/717/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/717/description/
+Disguise as treasure, avoid detection
 > END STRING
 
 > BEGIN STRING

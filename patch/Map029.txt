@@ -1,111 +1,117 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「あ…う………
-> CONTEXT: Map029/events/20/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/1/Dialogue
+「Aa..uh....
 > END STRING
 
 > BEGIN STRING
 「あは……
 　おいし……\\e[0]
-> CONTEXT: Map029/events/21/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/21/pages/0/1/Dialogue
+「Ah...
+　Delicious...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「はぁ…はぁ……
-> CONTEXT: Map029/events/22/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/22/pages/0/1/Dialogue
+「Haah...haah...
 > END STRING
 
 > BEGIN STRING
 「……なに見てるのよ？
-> CONTEXT: Map029/events/23/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/28/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/29/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/23/pages/0/1/Dialogue
+> CONTEXT: Map029/events/28/pages/0/1/Dialogue
+> CONTEXT: Map029/events/29/pages/0/1/Dialogue
+「...What are you looking at?
 > END STRING
 
 > BEGIN STRING
 「ね、待ちなさいよ。
-> CONTEXT: Map029/events/27/pages/0/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/27/pages/0/15/Dialogue
+> CONTEXT: Map029/events/30/pages/0/15/Dialogue
+> CONTEXT: Map029/events/31/pages/0/15/Dialogue
+「Hey, wait up.
 > END STRING
 
 > BEGIN STRING
 「あなた、さっきからこのあたり
 　うろついてるみたいだけど……
-> CONTEXT: Map029/events/27/pages/0/47/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/47/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/27/pages/0/47/Dialogue
+> CONTEXT: Map029/events/30/pages/0/47/Dialogue
+> CONTEXT: Map029/events/31/pages/0/47/Dialogue
+「You seem to have been 
+　wandering around here 
+　for a while now...
 > END STRING
 
 > BEGIN STRING
 「やっぱり、ドルヌスの
 　スパイなんじゃなぁい？
-> CONTEXT: Map029/events/27/pages/0/49/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/49/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/27/pages/0/49/Dialogue
+> CONTEXT: Map029/events/30/pages/0/49/Dialogue
+> CONTEXT: Map029/events/31/pages/0/49/Dialogue
+「So you're a spy for Dornus, 
+　aren't you?
 > END STRING
 
 > BEGIN STRING
 「……見当違いも甚だしいのう。
-> CONTEXT: Map029/events/27/pages/0/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/27/pages/0/52/Dialogue
+> CONTEXT: Map029/events/30/pages/0/52/Dialogue
+> CONTEXT: Map029/events/31/pages/0/52/Dialogue
+「...That is completely wrong.
 > END STRING
 
 > BEGIN STRING
 「と言うか、わしはそんなに
 　魔物に見えるのか……
-> CONTEXT: Map029/events/27/pages/0/53/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/53/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/27/pages/0/53/Dialogue
+> CONTEXT: Map029/events/30/pages/0/53/Dialogue
+> CONTEXT: Map029/events/31/pages/0/53/Dialogue
+「Or rather, do I look 
+　that much like a monster...?
 > END STRING
 
 > BEGIN STRING
 「フフッ、攻め込む前から
 　こんなに戦えるなんて。
-> CONTEXT: Map029/events/27/pages/0/100/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/100/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/27/pages/0/100/Dialogue
+> CONTEXT: Map029/events/30/pages/0/100/Dialogue
+> CONTEXT: Map029/events/31/pages/0/100/Dialogue
+「Heheh, to have this kind of a battle
+　even before the attack.
 > END STRING
 
 > BEGIN STRING
 「ツイてるわねぇ、あたしたち\\e[0]
-> CONTEXT: Map029/events/27/pages/0/111/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/111/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/27/pages/0/111/Dialogue
+> CONTEXT: Map029/events/30/pages/0/111/Dialogue
+> CONTEXT: Map029/events/31/pages/0/111/Dialogue
+「We're so lucky\\e[0]
 > END STRING
 
 > BEGIN STRING
 「やあん、やられちゃったぁ………
-> CONTEXT: Map029/events/27/pages/0/126/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/126/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/27/pages/0/126/Dialogue
+> CONTEXT: Map029/events/30/pages/0/126/Dialogue
+> CONTEXT: Map029/events/31/pages/0/126/Dialogue
+「Aah, we've been defeated...
 > END STRING
 
 > BEGIN STRING
 「でもキミみたいなカワイイ敵になら…
-> CONTEXT: Map029/events/27/pages/0/130/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/130/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/27/pages/0/130/Dialogue
+> CONTEXT: Map029/events/30/pages/0/130/Dialogue
+> CONTEXT: Map029/events/31/pages/0/130/Dialogue
+「But against a cute enemy like you...
 > END STRING
 
 > BEGIN STRING
 「やられても…いいかも\\e[0]
-> CONTEXT: Map029/events/27/pages/0/134/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/30/pages/0/134/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/31/pages/0/134/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/27/pages/0/134/Dialogue
+> CONTEXT: Map029/events/30/pages/0/134/Dialogue
+> CONTEXT: Map029/events/31/pages/0/134/Dialogue
+「It's okay...even if I get beaten\\e[0]
 > END STRING

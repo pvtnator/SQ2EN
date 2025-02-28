@@ -471,9 +471,9 @@
 
 > BEGIN STRING
 「ふっふ。
-> CONTEXT: Map013/events/8/pages/2/155/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/1/pages/0/657/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/8/pages/2/155/Dialogue
+> CONTEXT: Map023/events/1/pages/0/657/Dialogue
+「Pfft.
 > END STRING
 
 > BEGIN STRING
