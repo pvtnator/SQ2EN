@@ -2238,8 +2238,8 @@
 
 > BEGIN STRING
 "ウゥクェア"
-> CONTEXT: Scripts/初期設定/51:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/初期設定/51:10
+"Ukuea"
 > END STRING
 
 > BEGIN STRING
@@ -7586,8 +7586,8 @@
 
 > BEGIN STRING
 "獅子王戦記"
-> CONTEXT: Scripts/RPG::Item(detail)/156:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/156:12
+"Lion King Chronicles"
 > END STRING
 
 > BEGIN STRING
@@ -7623,8 +7623,8 @@
 
 > BEGIN STRING
 "〔史書〕 王国暦137年　著:戦史家モルドゥム\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/157:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/157:15
+"[History] Kingdom Year 137, Author: War Historian Moldum\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7635,8 +7635,8 @@
 
 > BEGIN STRING
 "『その黄金の獅子の問いは難問であった。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/158:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/158:15
+"'The Golden Lion's question was a difficult one.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7671,8 +7671,8 @@
 
 > BEGIN STRING
 "　今君と私を倒錯の創作が交錯するッ！！"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/142:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/142:12
+"　You and I will intersect in a perverse creation!!"
 > END STRING
 
 > BEGIN STRING
@@ -7689,8 +7689,8 @@
 
 > BEGIN STRING
 "　そして彼女は、答えられなかった哀れな犠牲者を\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/159:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/159:15
+" Then she killed the poor victims,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7701,14 +7701,14 @@
 
 > BEGIN STRING
 "　次々と………"
-> CONTEXT: Scripts/RPG::Item(detail)/160:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/160:15
+" one after another, who could not answer..."
 > END STRING
 
 > BEGIN STRING
 "「だめよ…まだ……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/137:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/137:12
+"「No, not yet..."
 > END STRING
 
 > BEGIN STRING

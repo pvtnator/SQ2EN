@@ -1053,14 +1053,14 @@ Demon Cat Kingdom History
 
 > BEGIN STRING
 獅子王戦記
-> CONTEXT: Items/132/name/ < UNTRANSLATED
-
+> CONTEXT: Items/132/name/
+Lion King Chronicles
 > END STRING
 
 > BEGIN STRING
 〔史書〕 砂漠の王と獅子の怪物の戦いを綴った本
-> CONTEXT: Items/132/description/ < UNTRANSLATED
-
+> CONTEXT: Items/132/description/
+[History] Battle between the desert king and the lion monster
 > END STRING
 
 > BEGIN STRING
