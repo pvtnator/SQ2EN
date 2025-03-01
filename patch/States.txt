@@ -1924,7 +1924,7 @@ Command
 > BEGIN STRING
 ラグジャラス率+22%
 > CONTEXT: States/430/name/
-Luxorious Rate +22%
+Luxurious Rate +22%
 > END STRING
 
 > BEGIN STRING
@@ -2555,19 +2555,19 @@ Always panic
 > BEGIN STRING
 ラグジャラス率+5%
 > CONTEXT: States/580/name/
-Luxorious Rate +5%
+Luxurious Rate +5%
 > END STRING
 
 > BEGIN STRING
 ラグジャラス率+7%
 > CONTEXT: States/581/name/
-Luxorious Rate +7%
+Luxurious Rate +7%
 > END STRING
 
 > BEGIN STRING
 ラグジャラス率+10%
 > CONTEXT: States/582/name/
-Luxorious Rate +10%
+Luxurious Rate +10%
 > END STRING
 
 > BEGIN STRING
@@ -2632,20 +2632,20 @@ All attributes +10%/110/100/110
 
 > BEGIN STRING
 稀に放心させる
-> CONTEXT: States/595/name/ < UNTRANSLATED
-
+> CONTEXT: States/595/name/
+Occasional daze
 > END STRING
 
 > BEGIN STRING
 稀に敏感にする
-> CONTEXT: States/596/name/ < UNTRANSLATED
-
+> CONTEXT: States/596/name/
+Occasional sensitivity
 > END STRING
 
 > BEGIN STRING
 稀に即いかせる
-> CONTEXT: States/597/name/ < UNTRANSLATED
-
+> CONTEXT: States/597/name/
+Rare instant climax
 > END STRING
 
 > BEGIN STRING

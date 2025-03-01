@@ -401,7 +401,7 @@ Please choose a song
 　ネルトゥプ島の覇権を巡って
 　魔物の国ドルヌスと戦う……
 > CONTEXT: Map426/events/13/pages/0/28/Dialogue
-「The Knights of Ramiel, led by King Serbel, 
+「The Knights of Lamiel, led by King Serbel, 
 　fighting against the demon nation of Dornus 
 　for dominance over the island of Neltup...
 > END STRING

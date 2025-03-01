@@ -174,32 +174,38 @@ SQ_Town02
 「見てくれ、
 　この店もここまで大きくできたよ。
 　君のおかげだ。
-> CONTEXT: Map470/events/12/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/12/pages/0/2/Dialogue
+「Look,
+　this store has grown to this size, 
+　thanks to you.
 > END STRING
 
 > BEGIN STRING
 「そうだ……
 　…君にひとつ、謝らなければならない。
 　隠していたことがあるんだ。
-> CONTEXT: Map470/events/12/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/12/pages/0/5/Dialogue
+「Now...
+　...There's one thing I need to apologize for.
+　There's something I've been hiding from you.
 > END STRING
 
 > BEGIN STRING
 「その……、
 　私は実は、大工ではなくて、
 　にわとりなんだ。
-> CONTEXT: Map470/events/12/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/12/pages/0/8/Dialogue
+「Well...
+　Actually, I'm not a carpenter,
+　I'm a chicken.
 > END STRING
 
 > BEGIN STRING
 「こんなにわとりを、
 　信じてくれてありがとう。
-> CONTEXT: Map470/events/12/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map470/events/12/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/12/pages/0/11/Dialogue
+> CONTEXT: Map470/events/12/pages/1/1/Dialogue
+「Thank you for believing in me so much.
 > END STRING
 
 > BEGIN STRING
@@ -249,23 +255,27 @@ SQ_Town02
 「なンだかこのお店、
 　いつのマにか大きくなッてるんだけどさ、
 　\\n[1]さンのおかげじゃない？
-> CONTEXT: Map470/events/13/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/13/pages/0/18/Dialogue
+「This establishment has grown a lot over time,
+　but isn't it all thanks to you, \\n[1]?
 > END STRING
 
 > BEGIN STRING
 「あア、きッとそうだね。
 　間違いないネ。
 　よし、これあげる。
-> CONTEXT: Map470/events/13/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/13/pages/0/21/Dialogue
+「Oh, that's definitely it.
+　No doubt about it.
+　Okay, I'll give this to you.
 > END STRING
 
 > BEGIN STRING
 「古いけど良イものだよ。
 　役に立ててネ。
-> CONTEXT: Map470/events/13/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/13/pages/0/37/Dialogue
+「It's old but good. 
+　I hope it's useful.
 > END STRING
 
 > BEGIN STRING
@@ -278,89 +288,95 @@ SQ_Town02
 > BEGIN STRING
 「あ…あれ？
 　お城の\\n[1]老じゃないですか！
-> CONTEXT: Map470/events/14/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/14/pages/0/1/Dialogue
+「E-eh?
+　Isn't it the old \\n[1] from the castle!
 > END STRING
 
 > BEGIN STRING
 「このお店にいらしてたんですね。
 　知らなかった……
-> CONTEXT: Map470/events/14/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/14/pages/0/3/Dialogue
+「So you've been to this establishment.
+　I didn't know...
 > END STRING
 
 > BEGIN STRING
 「あ、ご、
 　ご注文は何にいたしましょう？
-> CONTEXT: Map470/events/14/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/14/pages/0/5/Dialogue
+「Ah, right, 
+　what would you like to order?
 > END STRING
 
 > BEGIN STRING
 "放浪画家"
-> CONTEXT: Map470/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/15/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/15/pages/0/26/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/15/pages/0/30/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/15/pages/0/40/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map470/events/15/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map470/events/15/pages/0/0/InlineScript/1:4
+> CONTEXT: Map470/events/15/pages/0/9/InlineScript/1:4
+> CONTEXT: Map470/events/15/pages/0/26/InlineScript/1:4
+> CONTEXT: Map470/events/15/pages/0/30/InlineScript/1:4
+> CONTEXT: Map470/events/15/pages/0/40/InlineScript/1:4
+> CONTEXT: Map470/events/15/pages/1/0/InlineScript/1:4
+"Wandering Artist"
 > END STRING
 
 > BEGIN STRING
 「む……ふむ、
 　これはまた、見目麗しい少年だ。
-> CONTEXT: Map470/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/15/pages/0/1/Dialogue
+「Hmm...hmm,
+　a very handsome boy.
 > END STRING
 
 > BEGIN STRING
 「どうだい、よければ
 　私が似顔絵を描いてあげようか。
-> CONTEXT: Map470/events/15/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/15/pages/0/3/Dialogue
+「How about it, if you like, 
+　I'll draw a portrait of you.
 > END STRING
 
 > BEGIN STRING
 似顔絵を描いてあげようか
-> CONTEXT: Map470/events/15/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/15/pages/0/6/Dialogue
+Have portrait drawn?
 > END STRING
 
 > BEGIN STRING
 「では少し待ってなさい。
-> CONTEXT: Map470/events/15/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/15/pages/0/10/Dialogue
+「Then wait a moment.
 > END STRING
 
 > BEGIN STRING
 「よし、できた。
-> CONTEXT: Map470/events/15/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/15/pages/0/27/Dialogue
+「Okay, done.
 > END STRING
 
 > BEGIN STRING
 「……これはわしではない。
-> CONTEXT: Map470/events/15/pages/0/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/15/pages/0/29/Dialogue
+「...This isn’t me.
 > END STRING
 
 > BEGIN STRING
 「何を言ってるんだい、そっくりだよ。
-> CONTEXT: Map470/events/15/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/15/pages/0/31/Dialogue
+「What are you talking about, 
+　you're just like that.
 > END STRING
 
 > BEGIN STRING
 「そうか、残念だ。
-> CONTEXT: Map470/events/15/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/15/pages/0/41/Dialogue
+「Huh, unfortunate.
 > END STRING
 
 > BEGIN STRING
 「似顔絵は気に入ったかい？
-> CONTEXT: Map470/events/15/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/15/pages/1/1/Dialogue
+「Did you like the portrait?
 > END STRING
 
 > BEGIN STRING
@@ -630,24 +646,29 @@ Got the stolen \\b\\v[201]G\\f back!
 「ついに我らが勇者、ラルスが
 　戦士エルヴィン、魔術士オリビアと共に
 　魔王城へ乗り込んだらしい。
-> CONTEXT: Map470/events/28/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/28/pages/0/1/Dialogue
+「Our hero, Lars, has finally entered 
+　the Demon Lord's castle together with the 
+　warrior Elvin and the magician Olivia.
 > END STRING
 
 > BEGIN STRING
 「噂では賢王マグナス様も密かに
 　近衛兵を率いて援護に向かわれたと聞くし、
 　魔王はこれで倒されたも同然であろう。
-> CONTEXT: Map470/events/28/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/28/pages/0/4/Dialogue
+「I heard rumors that Wise King Magnus secretly 
+　led his royal guards to provide reinforcements, 
+　so the Demon Lord could be defeated.
 > END STRING
 
 > BEGIN STRING
 「これでやっとグルッペンにも
 　平和が戻ってくるというものだ。
 　はっは、いやめでたい。
-> CONTEXT: Map470/events/28/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/28/pages/0/7/Dialogue
+「Now peace will finally return to Gruppen. 
+　Haha, how nice.
 > END STRING
 
 > BEGIN STRING

@@ -642,41 +642,43 @@ EV_黒サフィ
 
 > BEGIN STRING
 「悪夢をみせているのはあたし。
-> CONTEXT: Troops/20/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/20/pages/0/1/Dialogue
+「I'm the one giving you nightmares.
 > END STRING
 
 > BEGIN STRING
 「あたしがいなくなれば、
 　なにもかも元に戻る。
-> CONTEXT: Troops/20/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/20/pages/0/2/Dialogue
+「Once I'm gone,
+　everything will go back to normal.
 > END STRING
 
 > BEGIN STRING
 「それがあなたの現実？
-> CONTEXT: Troops/20/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/20/pages/0/4/Dialogue
+「Is that your reality?
 > END STRING
 
 > BEGIN STRING
 「そう、なら、
 　そうしてごらんなさい。
-> CONTEXT: Troops/20/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/20/pages/0/8/Dialogue
+「Well, then, 
+　please try that.
 > END STRING
 
 > BEGIN STRING
 「何でもあなたの思い通りよ。
 　だって、あたしは、
-> CONTEXT: Troops/20/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/20/pages/0/10/Dialogue
+「You can do whatever you want. Because...
 > END STRING
 
 > BEGIN STRING
 「あなたの、恋人。
-> CONTEXT: Troops/20/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/20/pages/0/12/Dialogue
+「...I'm your lover.
 > END STRING
 
 > BEGIN STRING

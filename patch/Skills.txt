@@ -1061,7 +1061,7 @@ Cross-blade
 > BEGIN STRING
 十字を切り、特定の相手を弱体化する
 > CONTEXT: Skills/152/description/
-Draw the cross to weaken an opponent
+Draw a cross to weaken opponents
 > END STRING
 
 > BEGIN STRING
@@ -2868,8 +2868,8 @@ Frost Ring
 
 > BEGIN STRING
 お尻
-> CONTEXT: Skills/380/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/380/name/
+ass
 > END STRING
 
 > BEGIN STRING
@@ -3467,11 +3467,11 @@ Fate Censored
 
 > BEGIN STRING
 身体添削
-> CONTEXT: Skills/459/name/ < UNTRANSLATED
-> CONTEXT: Skills/460/name/ < UNTRANSLATED
-> CONTEXT: Skills/461/name/ < UNTRANSLATED
-> CONTEXT: Skills/462/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/459/name/
+> CONTEXT: Skills/460/name/
+> CONTEXT: Skills/461/name/
+> CONTEXT: Skills/462/name/
+Body Correction
 > END STRING
 
 > BEGIN STRING
@@ -4019,8 +4019,8 @@ Give Everything☆
 
 > BEGIN STRING
 ステラにちょうだい
-> CONTEXT: Skills/673/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/673/name/
+Give to Stella
 > END STRING
 
 > BEGIN STRING
@@ -4350,14 +4350,14 @@ Disguise as treasure, avoid detection
 
 > BEGIN STRING
 ベオク
-> CONTEXT: Skills/718/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/718/name/
+Beok
 > END STRING
 
 > BEGIN STRING
 アイテムを一つ作り出す
-> CONTEXT: Skills/718/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/718/description/
+Create an item
 > END STRING
 
 > BEGIN STRING

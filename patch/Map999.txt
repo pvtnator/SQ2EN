@@ -406,8 +406,8 @@ Don't give
 　私にどうか、いただけませんか。
 > CONTEXT: Map999/events/30/pages/1/3/Dialogue
 > CONTEXT: Map473/events/30/pages/1/3/Dialogue
-「Could I have the name of your tool?
-　Could I have that cute, lovely \\dname\\d?
+「Could I have the names of your tools?
+　Could I have those cute, lovely \\dnames\\d?
 > END STRING
 
 > BEGIN STRING
@@ -418,7 +418,7 @@ Don't give
 > CONTEXT: Map473/events/30/pages/1/7/Dialogue
 「No. 
 　I don't even know 
-　what I can eat anymore.
+　what you can eat anymore.
 > END STRING
 
 > BEGIN STRING
@@ -435,8 +435,8 @@ Don't give
 　またあげなきゃいけないのかしら。
 > CONTEXT: Map999/events/30/pages/1/17/Dialogue
 > CONTEXT: Map473/events/30/pages/1/17/Dialogue
-「I'm in trouble.
-　I wonder if I have to give it again.
+「Troublesome.
+　Do I have to give names again?
 > END STRING
 
 > BEGIN STRING
@@ -459,9 +459,11 @@ Don't give
 「あなたの行動の、名前をいただけませんか。
 　あやしい秘密のその\\dおなまえ\\d、
 　私にどうか、いただけませんか。
-> CONTEXT: Map999/events/30/pages/2/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map473/events/30/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map999/events/30/pages/2/3/Dialogue
+> CONTEXT: Map473/events/30/pages/2/3/Dialogue
+「Could you give me the names of your actions?
+　Could you please give me the \\dnames\\d
+　of your alluring secrets?
 > END STRING
 
 > BEGIN STRING
@@ -470,9 +472,9 @@ Don't give
 　何をしちゃうかも分からないわ。
 > CONTEXT: Map999/events/30/pages/2/7/Dialogue
 > CONTEXT: Map473/events/30/pages/2/7/Dialogue
-「No. Then I don't know 
-　what they'll do to me, 
-　or what I'll do.
+「No. Then I wouldn't know 
+　what they do to me, 
+　or what I do.
 > END STRING
 
 > BEGIN STRING
@@ -489,8 +491,8 @@ Don't give
 　私はこのまま、死んでしまうでしょう。
 > CONTEXT: Map999/events/30/pages/2/13/Dialogue
 > CONTEXT: Map473/events/30/pages/2/13/Dialogue
-「If you don't give me a name 
-　for this action, I'll just die.
+「If you don't give me names
+　of your actions, I'll just die.
 > END STRING
 
 > BEGIN STRING
@@ -498,8 +500,8 @@ Don't give
 　でも見捨てるのもかわいそうだわ。
 > CONTEXT: Map999/events/30/pages/2/19/Dialogue
 > CONTEXT: Map473/events/30/pages/2/19/Dialogue
-「This person may actually be a terrible fraud.
-　But I also feel bad for abandoning.
+「Maybe they're a \\dterrible\\d fraud.
+　But I'd also feel bad for abandoning.
 > END STRING
 
 > BEGIN STRING

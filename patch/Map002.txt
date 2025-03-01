@@ -1,150 +1,162 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「アイゼクト様ぁ！
-> CONTEXT: Map002/events/2/pages/0/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/86/Dialogue
+「Mr. Ayxect!
 > END STRING
 
 > BEGIN STRING
 「なんじゃ、騒々しい。
-> CONTEXT: Map002/events/2/pages/0/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/125/Dialogue
+「What, noisy.
 > END STRING
 
 > BEGIN STRING
 「あ！ 賢王様がお呼びですよぉ。
-> CONTEXT: Map002/events/2/pages/0/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/129/Dialogue
+「Ah! The Wise King is calling for you.
 > END STRING
 
 > BEGIN STRING
 「今勇者様がご帰還されたので、
 　夢魔についての報告を
 　まとめて欲しいそうです。
-> CONTEXT: Map002/events/2/pages/0/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/130/Dialogue
+「Now that the hero has returned, 
+　he would like us to compile a report 
+　on the succubi.
 > END STRING
 
 > BEGIN STRING
 「やれやれ、
 　おちおち夢も見てられんのう。
-> CONTEXT: Map002/events/2/pages/0/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/145/Dialogue
+「Oh dear,
+　I can't even dream peacefully now.
 > END STRING
 
 > BEGIN STRING
 「アイゼクト様、
 　さっきいい夢見てたじゃ
 　ないですかぁ\\e[0]
-> CONTEXT: Map002/events/2/pages/0/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/148/Dialogue
+「Mr. Ayxect,
+　you had a nice dream 
+　just now, didn't you?\\e[0]
 > END STRING
 
 > BEGIN STRING
 「何のことじゃ？
-> CONTEXT: Map002/events/2/pages/0/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/159/Dialogue
+「What are you saying?
 > END STRING
 
 > BEGIN STRING
 「え、決まってるじゃないですかぁ！
-> CONTEXT: Map002/events/2/pages/0/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/161/Dialogue
+「Eh, isn't it clear!
 > END STRING
 
 > BEGIN STRING
 「アイゼクト様がここで居眠りしてたの、
 　ついさっきじゃないですかぁ。
-> CONTEXT: Map002/events/2/pages/0/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/162/Dialogue
+「You were dozing off here 
+　just a while ago.
 > END STRING
 
 > BEGIN STRING
 「…ふ……そうじゃったな。
-> CONTEXT: Map002/events/2/pages/0/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/165/Dialogue
+「...huh...that's right.
 > END STRING
 
 > BEGIN STRING
 「あら？
 　この本……
-> CONTEXT: Map002/events/2/pages/0/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/184/Dialogue
+「Huh?
+　This book...
 > END STRING
 
 > BEGIN STRING
 「うむ？
-> CONTEXT: Map002/events/2/pages/0/189/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/189/Dialogue
+「Hmm?
 > END STRING
 
 > BEGIN STRING
 「いえ、こんな本ありましたっけ？
-> CONTEXT: Map002/events/2/pages/0/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/191/Dialogue
+「No, was there such a book?
 > END STRING
 
 > BEGIN STRING
 「ずいぶん古い………
 　日記帳ですね。
-> CONTEXT: Map002/events/2/pages/0/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/192/Dialogue
+「It's quite old...
+　It's a diary.
 > END STRING
 
 > BEGIN STRING
 「アイゼクト様のですか？
-> CONTEXT: Map002/events/2/pages/0/196/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/196/Dialogue
+「Is it Mr. Ayxect's?
 > END STRING
 
 > BEGIN STRING
 「いや、わしのではない。
-> CONTEXT: Map002/events/2/pages/0/198/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/198/Dialogue
+「No, not mine.
 > END STRING
 
 > BEGIN STRING
 「…いや……………
-> CONTEXT: Map002/events/2/pages/0/199/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/199/Dialogue
+「..No.....
 > END STRING
 
 > BEGIN STRING
 「……思い出せん。
 　わしのではない。
-> CONTEXT: Map002/events/2/pages/0/200/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/200/Dialogue
+「...I can't remember.
+　It's not mine.
 > END STRING
 
 > BEGIN STRING
 「処分いたしましょうか？
-> CONTEXT: Map002/events/2/pages/0/203/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/203/Dialogue
+「Shall I dispose of it?
 > END STRING
 
 > BEGIN STRING
 「じゃが、大事な物じゃ。
 　わしが保管する。
-> CONTEXT: Map002/events/2/pages/0/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/206/Dialogue
+「But it's an important item.
+　I'll keep it.
 > END STRING
 
 > BEGIN STRING
 「はぁい、わかりました～。
-> CONTEXT: Map002/events/2/pages/0/209/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/209/Dialogue
+「Yees, I understand～.
 > END STRING
 
 > BEGIN STRING
 「整理はもういいぞ。
 　後でわしがやる。
-> CONTEXT: Map002/events/2/pages/0/211/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/211/Dialogue
+「Enough with the tidying up now. 
+　I'll do it later.
 > END STRING
 
 > BEGIN STRING
 「さらばじゃ。
 　わが短き夢よ。
-> CONTEXT: Map002/events/2/pages/0/274/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/274/Dialogue
+「Farewell, 
+　my short dream.
 > END STRING

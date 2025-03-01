@@ -243,15 +243,16 @@
 
 > BEGIN STRING
 「……もう、満足じゃろう。
-> CONTEXT: Map479/events/5/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/24/Dialogue
+「...I'm content now.
 > END STRING
 
 > BEGIN STRING
 「お前はそこにおるか？
 　わしの声が聞こえるか、\\dサフィ\\d。
-> CONTEXT: Map479/events/5/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/25/Dialogue
+「Are you there? 
+　Can you hear me, \\dThafi\\d?
 > END STRING
 
 > BEGIN STRING
@@ -268,16 +269,18 @@
 
 > BEGIN STRING
 「強いのね、おじいちゃん。
-> CONTEXT: Map479/events/5/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/73/Dialogue
+「You're strong, Grandpa.
 > END STRING
 
 > BEGIN STRING
 「\\dぜんぶ知っているのね\\d。
 　\\d知っているのに\\d、
 　\\d私の名前を呼べるのね\\d。
-> CONTEXT: Map479/events/5/pages/0/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/74/Dialogue
+「\\dYou know everything\\d.
+\\dEven though you know\\d,
+\\dyou can still call me by my name\\d.
 > END STRING
 
 > BEGIN STRING
@@ -307,8 +310,9 @@
 > BEGIN STRING
 「交換日記を書いたのは、
 　ぜんぶ君だ。
-> CONTEXT: Map479/events/5/pages/0/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/94/Dialogue
+「You are the one who wrote 
+　the Exchange Diary.
 > END STRING
 
 > BEGIN STRING
@@ -337,74 +341,80 @@
 > BEGIN STRING
 「リボンは、あなたが買って、
 　あなたが身に着けたの。
-> CONTEXT: Map479/events/5/pages/0/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/126/Dialogue
+「You bought the ribbon,
+　you wore it.
 > END STRING
 
 > BEGIN STRING
 「似顔絵を描いたのも君。
 　どう？似ていた？
-> CONTEXT: Map479/events/5/pages/0/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/131/Dialogue
+「You were the one who drew the portrait.
+　What do you think? Did it look like me?
 > END STRING
 
 > BEGIN STRING
 「どう？
 　思い出した？
-> CONTEXT: Map479/events/5/pages/0/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/136/Dialogue
+「Well?
+　Do you remember?
 > END STRING
 
 > BEGIN STRING
 「僕の記憶、
 　僕の思い出、
-> CONTEXT: Map479/events/5/pages/0/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/139/Dialogue
+「My memories,
+　my recollections,
 > END STRING
 
 > BEGIN STRING
 「あたしの現実、
-> CONTEXT: Map479/events/5/pages/0/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/142/Dialogue
+「my reality,
 > END STRING
 
 > BEGIN STRING
 「ぜんぶうそだよ。
-> CONTEXT: Map479/events/5/pages/0/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/144/Dialogue
+「it's all a lie.
 > END STRING
 
 > BEGIN STRING
 「これもうそかも？
-> CONTEXT: Map479/events/5/pages/0/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/148/Dialogue
+「Maybe this is a lie too?
 > END STRING
 
 > BEGIN STRING
 「そうかもね？
 　僕も、君も、彼女も。
-> CONTEXT: Map479/events/5/pages/0/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/152/Dialogue
+「Maybe so?
+　Me, you, and her too.
 > END STRING
 
 > BEGIN STRING
 「ほんとうのことなんて、
 　どこにもないのよ。
-> CONTEXT: Map479/events/5/pages/0/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/182/Dialogue
+「There's no truth anywhere.
 > END STRING
 
 > BEGIN STRING
 「さあ、それでどうするの？
 　おじいちゃん。
-> CONTEXT: Map479/events/5/pages/0/187/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/187/Dialogue
+「So, what are you going to do then, 
+　Grandpa?
 > END STRING
 
 > BEGIN STRING
 「……黙れ。
-> CONTEXT: Map479/events/5/pages/0/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/190/Dialogue
+「...Shut up.
 > END STRING
 
 > BEGIN STRING
@@ -415,22 +425,24 @@
 
 > BEGIN STRING
 「黙れ、夢魔よ。
-> CONTEXT: Map479/events/5/pages/0/194/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/194/Dialogue
+「Shut up, succubus.
 > END STRING
 
 > BEGIN STRING
 「くす………
 　そう…………
-> CONTEXT: Map479/events/5/pages/0/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/197/Dialogue
+「Ksh....
+　Yes.....
 > END STRING
 
 > BEGIN STRING
 「やっと認めてくれるのね。
 　あたしの存在。
-> CONTEXT: Map479/events/5/pages/0/199/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map479/events/5/pages/0/199/Dialogue
+「So you're finally acknowledging 
+　my existence.
 > END STRING
 
 > BEGIN STRING

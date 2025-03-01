@@ -33,7 +33,7 @@
 　ラミエルの姫に仕える兵だ。
 > CONTEXT: Map028/events/9/pages/0/1/Dialogue
 「All present here are soldiers 
-　who serve Princess Ramiel.
+　who serve Princess Lamiel.
 > END STRING
 
 > BEGIN STRING

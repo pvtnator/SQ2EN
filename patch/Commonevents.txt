@@ -2512,7 +2512,7 @@ For debugging: Error when attacking a weak point
 > BEGIN STRING
 \\a[\\v[105]]「わ！かっこいーおにぃさん\\e[0]
 > CONTEXT: Commonevents/101/99/Dialogue
-\\a[\\v[105]]「Wow! What a cool girl\\e[0]
+\\a[\\v[105]]「Wow! What a cool guy\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -2534,13 +2534,13 @@ For debugging: Error when attacking a weak point
 > BEGIN STRING
 \\a[\\v[105]]「どきな！ガキッ！
 > CONTEXT: Commonevents/101/130/Dialogue
-\\a[\\v[105]]「Outta my way! Brat!"
+\\a[\\v[105]]「Outta my way! Brat!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ステラ、おにーさんより年上だよぉ？
 > CONTEXT: Commonevents/101/132/Dialogue
-\\a[\\v[105]]「Stella, are you older than me?
+\\a[\\v[105]]「Stella, older than big bro?
 > END STRING
 
 > BEGIN STRING
@@ -4405,21 +4405,21 @@ Hachlobs Burns
 
 > BEGIN STRING
 「ふふふふふっ……\\e[0]
-> CONTEXT: Commonevents/170/14/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/14/Dialogue
+> CONTEXT: Commonevents/170/52/Dialogue
+「Hehehehe...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「\\n[1]…すきよ……\\e[0]
-> CONTEXT: Commonevents/170/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/20/Dialogue
+「\\n[1]...love...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あぁんっ……\\e[0]
-> CONTEXT: Commonevents/170/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/26/Dialogue
+「Aaah...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -6727,54 +6727,65 @@ Use more words
 > BEGIN STRING
 「ああ死ねるとも！
 　今君のためなら！！！
-> CONTEXT: Commonevents/193/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/193/19/Dialogue
+「Yes, I would die!
+　If it's for you now!!!
 > END STRING
 
 > BEGIN STRING
 「しーはしあわせよ～～～さあ！
 　毒よ魔法よ愛の言葉よ！幼女闇にまぎれて
 　わ～た～し～を～こ～ろ～し～て～～
-> CONTEXT: Commonevents/193/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/193/27/Dialogue
+「Let's do it～～Come! Poison, magic, words of love!
+　A little girl, hiding in the darkness
+　K～i～l～l～m～e～～
 > END STRING
 
 > BEGIN STRING
 「君はその言葉で
 　ギロチン台を磨いていることに
 　気がついているのか？
-> CONTEXT: Commonevents/193/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/193/38/Dialogue
+「Do you realize that 
+　with your words,
+　you are polishing the guillotine?
 > END STRING
 
 > BEGIN STRING
 「気がついているのか？」
-> CONTEXT: Commonevents/193/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/193/42/Dialogue
+「Do you realize?」
 > END STRING
 
 > BEGIN STRING
 「ならば百の南瓜が歌う広場に
 　僕と君のを並べに行こう！
 　さかさまに！！
-> CONTEXT: Commonevents/193/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/193/46/Dialogue
+「Then let's go and line up yours and mine 
+　in the square where a hundred pumpkins sing! 
+　Upside down!!
 > END STRING
 
 > BEGIN STRING
 「ラーラララララー
 　ラーラララララー　ラララララーラ
 　ラーラララーーー♪
-> CONTEXT: Commonevents/193/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/193/49/Dialogue
+「La-lalalala-
+　La-lalalala- lalalala-la
+　la-lalalaーーー♪
 > END STRING
 
 > BEGIN STRING
 「ウソさそんなこれっぽちも！
 　君にあげよう潤滑油！
 　脱着させてよリアリティ！
-> CONTEXT: Commonevents/193/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/193/58/Dialogue
+「You're kidding me!
+　I'll give you some lube!
+　Let me take it off, reality!
 > END STRING
 
 > BEGIN STRING
@@ -7010,38 +7021,38 @@ Use more words
 
 > BEGIN STRING
 「ぷるぷるしたいのぉ？
-> CONTEXT: Commonevents/197/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/197/13/Dialogue
+「Wanna jiggle?
 > END STRING
 
 > BEGIN STRING
 「ぷるぷるしたいのぉ？」
-> CONTEXT: Commonevents/197/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/197/15/Dialogue
+「Wanna jiggle?」
 > END STRING
 
 > BEGIN STRING
 「じゃ、しちゃうよぉ～っ\\e[0]
-> CONTEXT: Commonevents/197/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/197/19/Dialogue
+「Then, let's do it～\\e[0]
 > END STRING
 
 > BEGIN STRING
 「でもしちゃうぅっ\\e[0]
-> CONTEXT: Commonevents/197/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/197/32/Dialogue
+「But I'm going to do it\\e[0]
 > END STRING
 
 > BEGIN STRING
 「つまんなーい
-> CONTEXT: Commonevents/197/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/197/43/Dialogue
+「Boring
 > END STRING
 
 > BEGIN STRING
 「ぷるぷるぷる～～っ\\e[0]
-> CONTEXT: Commonevents/197/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/197/56/Dialogue
+「Jiggle jiggle～～\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -7068,21 +7079,23 @@ Use more words
 > BEGIN STRING
 「ふぅん、アタシの魅力に
 　めろめろなのね？
-> CONTEXT: Commonevents/198/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/198/36/Dialogue
+「Hmm, you're fascinated
+　by my charms, right?
 > END STRING
 
 > BEGIN STRING
 「めろめろなのね？」
-> CONTEXT: Commonevents/198/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/198/39/Dialogue
+「You're fascinated, right?」
 > END STRING
 
 > BEGIN STRING
 「無理もないけどね…
 　フフフフッ\\e[0]
-> CONTEXT: Commonevents/198/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/198/44/Dialogue
+「That's understandable though...
+　Hahahaha\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -7109,16 +7122,16 @@ Use more words
 
 > BEGIN STRING
 「そうね、じゃあ……
-> CONTEXT: Commonevents/198/74/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/198/101/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/198/178/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/198/74/Dialogue
+> CONTEXT: Commonevents/198/101/Dialogue
+> CONTEXT: Commonevents/198/178/Dialogue
+「Right, then...
 > END STRING
 
 > BEGIN STRING
 「そのまま動かないで……
-> CONTEXT: Commonevents/198/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/198/75/Dialogue
+「Don't move like that...
 > END STRING
 
 > BEGIN STRING
@@ -7201,8 +7214,8 @@ Use more words
 
 > BEGIN STRING
 \\a[\\v[105]]ドラゴンに追い払われてしまった！
-> CONTEXT: Commonevents/200/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/200/21/Dialogue
+\\a[\\v[105]]Got driven away by the dragon!
 > END STRING
 
 > BEGIN STRING

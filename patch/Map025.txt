@@ -96,15 +96,18 @@
 「断片的じゃが残った歴史は、
 　きちりと踏まえて書かんとのぉ……
 　ここの\\dつじつま\\dはどうつけるか……
-> CONTEXT: Map025/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/3/pages/0/1/Dialogue
+「Although it is fragmentary, the remaining history
+　must be written thoroughly and accurately...
+　How do I make this \\dcoherent\\d...
 > END STRING
 
 > BEGIN STRING
 「夢魔…これは欠かせぬのじゃろうか……
 　しかしドルヌスの品格が…ぶつぶつ……
-> CONTEXT: Map025/events/3/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/3/pages/0/4/Dialogue
+「Succubus...I guess this is essential...
+　But Dornus' dignity...*grumble grumble*...
 > END STRING
 
 > BEGIN STRING
@@ -165,26 +168,30 @@
 「うんうん、さすがは我が兵士。
 　元の歴史でもなかなか
 　活躍してるじゃないか。
-> CONTEXT: Map025/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/7/pages/0/1/Dialogue
+「Yes, yes, as expected of our soldiers.
+　They were quite active 
+　in the original history as well.
 > END STRING
 
 > BEGIN STRING
 「おや、勇猛で美しいドルヌスの女傑？
 　これはいらないな、雑魚にして
 　我が姫の引き立て役に……
-> CONTEXT: Map025/events/7/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/7/pages/0/4/Dialogue
+「Oh, a brave and beautiful female hero of Dornus?
+　No need for this, she's just a small fry
+　to highlight our princess...
 > END STRING
 
 > BEGIN STRING
 「こりゃ、セルベル！！
-> CONTEXT: Map025/events/7/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/7/pages/0/8/Dialogue
+「Hey, Zelbell!!
 > END STRING
 
 > BEGIN STRING
 「おっといけない、ばれてしまった。
-> CONTEXT: Map025/events/7/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/7/pages/0/10/Dialogue
+「Whoops, I got caught.
 > END STRING

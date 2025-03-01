@@ -2526,7 +2526,7 @@
 > BEGIN STRING
 "稀に即いかせる"
 > CONTEXT: Scripts/RPG::Skill/86:52
-"Occasional ejaculation"
+"Rare instant climax"
 > END STRING
 
 > BEGIN STRING
@@ -4120,12 +4120,12 @@
 
 > BEGIN STRING
 "「あんっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/104:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/145:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/168:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/174:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/239:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/104:14
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/145:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/168:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/174:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/239:12
+"「Ahh\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -4240,16 +4240,16 @@
 
 > BEGIN STRING
 "「ふふっ、素敵なカラダでしょ…？\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/123:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/197:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/123:14
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/197:12
+"「Hehe, nice body, right...?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "　あなたが一番欲しいカラダよ……\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/124:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/198:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/124:14
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/198:12
+"　The body you want the most...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -4377,7 +4377,7 @@
 > BEGIN STRING
 "ネルトゥプ島の歴史が綴られているとされる本。"
 > CONTEXT: Scripts/RPG::Item(detail)/21:15
-"fairyland Ramiel and the demon nation Dornus."
+"Fairy-Tale Kingdom Lamiel and the Demon Nation Dornus."
 > END STRING
 
 > BEGIN STRING
@@ -4563,7 +4563,7 @@
 > BEGIN STRING
 "表紙にラミエルの紋章と少女が描かれた白紙の本"
 > CONTEXT: Scripts/RPG::Item(detail)/32:15
-"Ramiel's crest and a girl are on the cover"
+"Lamiel's crest and a girl are on the cover"
 > END STRING
 
 > BEGIN STRING
@@ -4587,13 +4587,13 @@
 > BEGIN STRING
 "表紙にラミエルの紋章とトカゲが描かれた白紙の本"
 > CONTEXT: Scripts/RPG::Item(detail)/38:15
-"Ramiel's crest and a lizard are on the cover."
+"Lamiel's crest and a lizard are on the cover."
 > END STRING
 
 > BEGIN STRING
 "ラミエル史Ⅰ"
 > CONTEXT: Scripts/RPG::Item(detail)/39:12
-"Ramiel's History 1"
+"Lamiel's History 1"
 > END STRING
 
 > BEGIN STRING
@@ -4623,7 +4623,7 @@
 > BEGIN STRING
 "ラミエル史Ⅱ"
 > CONTEXT: Scripts/RPG::Item(detail)/44:12
-"Ramiel's History 2"
+"Lamiel's History 2"
 > END STRING
 
 > BEGIN STRING
@@ -4659,7 +4659,7 @@
 > BEGIN STRING
 "ラミエル史Ⅲ"
 > CONTEXT: Scripts/RPG::Item(detail)/49:12
-"Ramiel's History 3"
+"Lamiel's History 3"
 > END STRING
 
 > BEGIN STRING
@@ -4754,7 +4754,7 @@
 > BEGIN STRING
 "　ジジイになっても、まだ若々しく戦うだろう。\\n"
 > CONTEXT: Scripts/RPG::Item(detail)/55:15
-" even when Ramiel's young men have become old men.\\n"
+" even when Lamiel's young men have become old men.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6398,7 +6398,7 @@
 > BEGIN STRING
 "ラグジャラス率+22%"
 > CONTEXT: Scripts/RPG::State (message)/137:12
-"Luxorious Rate +22%"
+"Luxurious Rate +22%"
 > END STRING
 
 > BEGIN STRING
@@ -6416,14 +6416,14 @@
 
 > BEGIN STRING
 "　ああんっ！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/87:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/87:16
+"　Aaahh!"
 > END STRING
 
 > BEGIN STRING
 "「いれちゃいますよぉ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/46:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/46:14
+"「I'll put it in\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -6434,14 +6434,14 @@
 
 > BEGIN STRING
 "\#{myname}のラグジャラスヒット率が上がった！"
-> CONTEXT: Scripts/RPG::State (message)/138:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/138:17
+"\#{myname}'s Luxurious Hit rate increased!"
 > END STRING
 
 > BEGIN STRING
 "「あん……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/97:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/97:12
+"「Ah..."
 > END STRING
 
 > BEGIN STRING
@@ -7834,14 +7834,14 @@
 
 > BEGIN STRING
 "「や…だめぇっ………"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/144:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/144:12
+"「No...no..."
 > END STRING
 
 > BEGIN STRING
 "「百七の幸せとそのあたりにもう一つ！"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/71:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/71:14
+"「107 happinesses and 1 more around there!"
 > END STRING
 
 > BEGIN STRING
@@ -8201,8 +8201,8 @@
 
 > BEGIN STRING
 "「ステラ、おなかすいてきちゃったぁ…\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/110:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/110:14
+"「Stella, feeling hungry...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -8439,10 +8439,10 @@
 
 > BEGIN STRING
 "\#{myname}には効果が無かった！"
-> CONTEXT: Scripts/RPG::State (message)/271:21 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(message)/239:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/517:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/271:21
+> CONTEXT: Scripts/Game_Battler(message)/239:18
+> CONTEXT: Scripts/RPG::State (message)/517:17
+"\#{myname} was unaffected!"
 > END STRING
 
 > BEGIN STRING
@@ -8453,8 +8453,8 @@
 
 > BEGIN STRING
 "「ステラ、きもちいぃ～……\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/153:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/153:16
+"「Stella, feels good～...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -8978,8 +8978,8 @@
 
 > BEGIN STRING
 "「はだかんぼになろっ♪"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/113:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/113:14
+"「Get naked♪"
 > END STRING
 
 > BEGIN STRING
@@ -9045,9 +9045,9 @@
 
 > BEGIN STRING
 "「焦らしちゃおうかしら\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/201:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/222:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/201:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/222:12
+"「I should tease you a little\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -9907,8 +9907,8 @@
 
 > BEGIN STRING
 "「あんっ"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/229:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/229:12
+"「Ahh"
 > END STRING
 
 > BEGIN STRING
@@ -9926,15 +9926,15 @@
 
 > BEGIN STRING
 "「う……ふえぇぇ～～んっ"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/215:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/225:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/215:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/225:12
+"「Uh...fueeeeh～～"
 > END STRING
 
 > BEGIN STRING
 "　ふえぇ～～～ん"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/202:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/202:16
+"　Fueeh～～～"
 > END STRING
 
 > BEGIN STRING
@@ -9982,8 +9982,8 @@
 
 > BEGIN STRING
 "「えへっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/232:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/232:12
+"「Eheh\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -10963,8 +10963,8 @@
 
 > BEGIN STRING
 "「…おお……………"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/246:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/246:12
+"「..Oh......"
 > END STRING
 
 > BEGIN STRING
@@ -11423,8 +11423,8 @@
 
 > BEGIN STRING
 "「いっていいよぉ？\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/275:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/275:16
+"「Cumming?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -12365,8 +12365,9 @@
 > CONTEXT: Scripts/RPG::Skill (message)/955:30
 > CONTEXT: Scripts/RPG::Skill (message)/1334:23
 > CONTEXT: Scripts/属性防御／弱点詳細化/30:14
-> CONTEXT: Commonevents/72/0/InlineScript/2:16
 "Vagina"
+> CONTEXT: Commonevents/72/0/InlineScript/2:16
+"vagina"
 > END STRING
 
 > BEGIN STRING
@@ -14809,9 +14810,9 @@
 
 > BEGIN STRING
 "ベオク"
-> CONTEXT: Scripts/Game_Battler 3-1/23:23 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler 3-1/103:49 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/23:23
+> CONTEXT: Scripts/Game_Battler 3-1/103:49
+"Beok"
 > END STRING
 
 > BEGIN STRING
@@ -14869,8 +14870,8 @@
 
 > BEGIN STRING
 "テンションが低すぎて使えない！"
-> CONTEXT: Scripts/Game_Battler 3-1/50:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/50:26
+"Tension is too low!"
 > END STRING
 
 > BEGIN STRING
@@ -14929,8 +14930,8 @@
 
 > BEGIN STRING
 "この相手には使えない！"
-> CONTEXT: Scripts/Game_Battler 3-1/65:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/65:26
+"Can't use against this opponent!"
 > END STRING
 
 > BEGIN STRING
@@ -15134,7 +15135,7 @@
 > BEGIN STRING
 "インサートするものがない！"
 > CONTEXT: Scripts/Game_Battler 3-1/141:26
-"Nothing to insert to!"
+"Nothing to insert!"
 > END STRING
 
 > BEGIN STRING
@@ -15606,7 +15607,7 @@
 > BEGIN STRING
 /ラグジャラス率\\+([0-9]+)\\%/
 > CONTEXT: Scripts/Game_Battler 3-1/687:38
-/Luxorious Rate \\+([0-9]+)\\%/
+/Luxurious Rate \\+([0-9]+)\\%/
 > END STRING
 
 > BEGIN STRING
@@ -18028,8 +18029,8 @@
 
 > BEGIN STRING
 "ステラにちょうだい"
-> CONTEXT: Scripts/RPG::Skill (message)/449:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/449:12
+"Give to Stella"
 > END STRING
 
 > BEGIN STRING
@@ -18300,7 +18301,7 @@
 > BEGIN STRING
 "\#{target}の\\nお尻を優しく揉んだ！"
 > CONTEXT: Scripts/RPG::Skill (message)/544:26
-" gently massaged \\n\#{target}'s butt!"
+" gently massaged \\n\#{target}'s ass!"
 > END STRING
 
 > BEGIN STRING
@@ -19849,7 +19850,7 @@
 "お伽の城、ラミエル"
 > CONTEXT: Scripts/Window_SaveFile/143:14
 > CONTEXT: Scripts/Bookshelf/50:14
-"Fairyland Castle, Ramiel"
+"Fairy-Tale Kingdom Castle, Lamiel"
 > END STRING
 
 > BEGIN STRING
@@ -20971,7 +20972,7 @@
 > BEGIN STRING
 "\#{target}のお尻を愛撫してきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1060:24
-" caressed \#{target}'s butt!"
+" caressed \#{target}'s ass!"
 > END STRING
 
 > BEGIN STRING
@@ -21537,7 +21538,7 @@
 "お尻"
 > CONTEXT: Scripts/RPG::Skill (message)/1334:18
 > CONTEXT: Commonevents/72/0/InlineScript/2:22
-"butt"
+"ass"
 > END STRING
 
 > BEGIN STRING
@@ -26165,13 +26166,13 @@
 > BEGIN STRING
 "Dragoon. 竜騎兵。\\n"
 > CONTEXT: Scripts/☆図鑑用詳細データ/130:7
-"A dragon knight from the fairyland\\n"
+"A dragon knight from the Fairy-Tale Kingdom\\n"
 > END STRING
 
 > BEGIN STRING
 "ドラゴンを自在に駆る、お伽の国ラミエルの竜騎士。\\n"
 > CONTEXT: Scripts/☆図鑑用詳細データ/131:7
-"Ramiel who rides dragons with ease.\\n"
+"Lamiel who rides dragons with ease.\\n"
 > END STRING
 
 > BEGIN STRING

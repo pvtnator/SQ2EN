@@ -77,7 +77,7 @@ Ayxect's name came back!
 アイテムの名前を返してもらった！
 > CONTEXT: Map481/events/2/pages/0/7/Dialogue
 
-Item name was returned!
+Item names returned!
 > END STRING
 
 > BEGIN STRING
@@ -113,7 +113,7 @@ Let me give back the name of the action.
 行動の名前を返してもらった！
 > CONTEXT: Map481/events/3/pages/0/7/Dialogue
 
-Action name returned!
+Action names returned!
 > END STRING
 
 > BEGIN STRING
@@ -121,7 +121,7 @@ Action name returned!
 リベンジを覚えた！
 > CONTEXT: Map481/events/3/pages/0/16/Dialogue
 
-Learned revenge!
+Learned Revenge!
 > END STRING
 
 > BEGIN STRING

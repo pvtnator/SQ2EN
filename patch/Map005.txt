@@ -9,14 +9,14 @@
 
 > BEGIN STRING
 「アイゼクト様ぁ～～
-> CONTEXT: Map005/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/3/Dialogue
+「Mr. Ayxeect～～
 > END STRING
 
 > BEGIN STRING
 「あら、また寝てる。
-> CONTEXT: Map005/events/2/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/4/Dialogue
+「Oh, sleeping again.
 > END STRING
 
 > BEGIN STRING
@@ -30,81 +30,89 @@
 
 > BEGIN STRING
 「起きておる。
-> CONTEXT: Map005/events/2/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/6/Dialogue
+「I'm awake.
 > END STRING
 
 > BEGIN STRING
 「わ！
 　びっくりしたぁ
-> CONTEXT: Map005/events/2/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/8/Dialogue
+「Whoa!
+　Oh my gosh
 > END STRING
 
 > BEGIN STRING
 「起きてるなら、
 　目開けてて下さいよぉ。
-> CONTEXT: Map005/events/2/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/10/Dialogue
+「If you're awake, 
+　please open your eyes.
 > END STRING
 
 > BEGIN STRING
 「もう、アイゼクトったら。
 　先に行っちゃうわよ？
-> CONTEXT: Map005/events/2/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/15/Dialogue
+「Well, Ayxect. 
+　I'll go first.
 > END STRING
 
 > BEGIN STRING
 「ほら。
 　………まだ目を開けないの？
-> CONTEXT: Map005/events/2/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/17/Dialogue
+「Look.
+　....You still won't open your eyes?
 > END STRING
 
 > BEGIN STRING
 「……誰じゃ？
 　わしの目の前にいるのは。
-> CONTEXT: Map005/events/2/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/20/Dialogue
+「...Who is it?
+　The person in front of me.
 > END STRING
 
 > BEGIN STRING
 「もう、何言ってるんですかぁ？
-> CONTEXT: Map005/events/2/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/23/Dialogue
+「Hey, what are you talking about?
 > END STRING
 
 > BEGIN STRING
 「やだわ。
 　寝ぼけてるの？
-> CONTEXT: Map005/events/2/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/25/Dialogue
+「Oh no.
+　Are you still half asleep?
 > END STRING
 
 > BEGIN STRING
 「……誰じゃ。
-> CONTEXT: Map005/events/2/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/28/Dialogue
+「...Who is that?
 > END STRING
 
 > BEGIN STRING
 「わかるはずないじゃない。
 　あなたが目を開けなきゃ。
-> CONTEXT: Map005/events/2/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/30/Dialogue
+「There's no way you could understand.
+　You have to open your eyes.
 > END STRING
 
 > BEGIN STRING
 「でもあなたは持っているはずね、
 　その意志を。
-> CONTEXT: Map005/events/2/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/32/Dialogue
+「But you must have the will.
 > END STRING
 
 > BEGIN STRING
 「さあ。
 　決めるのは、あなたよ。
-> CONTEXT: Map005/events/2/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/2/pages/0/34/Dialogue
+「Well then.
+　The decision is yours.
 > END STRING

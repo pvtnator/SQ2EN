@@ -23,7 +23,7 @@
 　いっぱい遊ぶんだ！
 > CONTEXT: Map027/events/14/pages/0/2/Dialogue
 「I'm going to have lots of fun 
-　with the Ramiel people too!
+　with the Lamiel people too!
 > END STRING
 
 > BEGIN STRING
@@ -31,7 +31,7 @@
 　陣を張っているところだ。
 > CONTEXT: Map027/events/19/pages/0/1/Dialogue
 「We are currently setting up camp 
-　to attack Ramiel.
+　to attack Lamiel.
 > END STRING
 
 > BEGIN STRING

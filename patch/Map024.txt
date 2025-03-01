@@ -2,7 +2,7 @@
 > BEGIN STRING
 "ラミエルの民"
 > CONTEXT: Map024/events/2/pages/0/0/InlineScript/1:4
-"Ramiel Citizen"
+"Lamiel Citizen"
 > END STRING
 
 > BEGIN STRING

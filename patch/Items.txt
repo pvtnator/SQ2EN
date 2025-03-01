@@ -908,7 +908,7 @@ Blank Book (Girl)
 > BEGIN STRING
 〔史書〕 表紙にラミエルの紋章と少女が描かれた白紙の本
 > CONTEXT: Items/118/description/
-[History] Ramiel's crest and a girl are on the cover
+[History] Lamiel's crest and a girl are on the cover
 > END STRING
 
 > BEGIN STRING
@@ -920,7 +920,7 @@ Blank Book (Lizard)
 > BEGIN STRING
 〔史書〕 表紙にラミエルの紋章とトカゲが描かれた白紙の本
 > CONTEXT: Items/119/description/
-[History] Ramiel's crest and a lizard are on the cover.
+[History] Lamiel's crest and a lizard are on the cover.
 > END STRING
 
 > BEGIN STRING
@@ -1481,7 +1481,7 @@ Dornus History 3
 > BEGIN STRING
 ラミエル史Ⅰ
 > CONTEXT: Items/176/name/
-Ramiel's History 1
+Lamiel's History 1
 > END STRING
 
 > BEGIN STRING
@@ -1489,19 +1489,19 @@ Ramiel's History 1
 > CONTEXT: Items/176/description/
 > CONTEXT: Items/177/description/
 > CONTEXT: Items/178/description/
-[History] A book that records the history of the Ramiel Kingdom.
+[History] A book that records the history of the Lamiel Kingdom.
 > END STRING
 
 > BEGIN STRING
 ラミエル史Ⅱ
 > CONTEXT: Items/177/name/
-Ramiel's History 2
+Lamiel's History 2
 > END STRING
 
 > BEGIN STRING
 ラミエル史Ⅲ
 > CONTEXT: Items/178/name/
-Ramiel's History 3
+Lamiel's History 3
 > END STRING
 
 > BEGIN STRING
@@ -1983,7 +1983,7 @@ Stuffed Princess Toy
 > BEGIN STRING
 〔キーアイテム〕 ラミエルの姫に見立てられたぬいぐるみ
 > CONTEXT: Items/225/description/
-[Key Item] A stuffed toy modeled after Ramiel's Princess
+[Key Item] A stuffed toy modeled after Lamiel's Princess
 > END STRING
 
 > BEGIN STRING
@@ -2012,26 +2012,26 @@ Unicorn's Horn
 
 > BEGIN STRING
 楽曲『水=源』
-> CONTEXT: Items/230/name/ < UNTRANSLATED
-
+> CONTEXT: Items/230/name/
+Song: "sou-[fountain]-rce"
 > END STRING
 
 > BEGIN STRING
 楽曲『霧の森』
-> CONTEXT: Items/231/name/ < UNTRANSLATED
-
+> CONTEXT: Items/231/name/
+Song: "Misty Forest"
 > END STRING
 
 > BEGIN STRING
 楽曲『不安のカベ』
-> CONTEXT: Items/232/name/ < UNTRANSLATED
-
+> CONTEXT: Items/232/name/
+Song: "Wall of Insecurity"
 > END STRING
 
 > BEGIN STRING
 楽曲『い・た・ず・ら！』
-> CONTEXT: Items/233/name/ < UNTRANSLATED
-
+> CONTEXT: Items/233/name/
+Song: "Mischief!"
 > END STRING
 
 > BEGIN STRING
