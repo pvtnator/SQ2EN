@@ -345,8 +345,8 @@ Exchange a passionate kiss
 バスト
 > CONTEXT: Skills/62/name/
 > CONTEXT: Commonevents/99/43/Label
-> CONTEXT: Commonevents/114/26/Label
 > CONTEXT: Commonevents/117/36/Label
+> CONTEXT: Commonevents/114/29/Label
 Bust
 > END STRING
 
@@ -360,8 +360,8 @@ Attack the chest
 ヒップ
 > CONTEXT: Skills/63/name/
 > CONTEXT: Commonevents/99/54/Label
-> CONTEXT: Commonevents/114/37/Label
 > CONTEXT: Commonevents/117/54/Label
+> CONTEXT: Commonevents/114/40/Label
 Hip
 > END STRING
 
@@ -375,8 +375,8 @@ Attack the hip
 ヴァッジ
 > CONTEXT: Skills/64/name/
 > CONTEXT: Commonevents/99/65/Label
-> CONTEXT: Commonevents/114/48/Label
 > CONTEXT: Commonevents/117/72/Label
+> CONTEXT: Commonevents/114/51/Label
 Vagina
 > END STRING
 

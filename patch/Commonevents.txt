@@ -1884,7 +1884,7 @@ Lose 3 times this reality
 > BEGIN STRING
 "激しく"
 > CONTEXT: Commonevents/72/0/InlineScript/1:12
-"hard"
+"fierce"
 > END STRING
 
 > BEGIN STRING

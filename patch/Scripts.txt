@@ -10981,8 +10981,8 @@
 
 > BEGIN STRING
 "「いってしまうの？\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/250:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/250:16
+"「Cumming?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -10993,8 +10993,8 @@
 
 > BEGIN STRING
 "　そうね、それが一番幸福ね。\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/251:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/251:16
+"　Yes, it's the happiest thing.\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -15897,31 +15897,31 @@
 > CONTEXT: Scripts/RPG::Skill (message)/68:24
 > CONTEXT: Scripts/RPG::Skill (message)/980:26
 > CONTEXT: Scripts/RPG::Skill (message)/1156:26
-" took \#{target}'s penis in mouth\\n\\\\w[\\\\v[104]]and started sucking it hard!"
+" took \#{target}'s penis in mouth\\n\\\\w[\\\\v[104]]and started sucking it fiercely!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の手に指を重ね、\\n\\\\w[\\\\v[104]]そっと×印を描いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/70:24
-" placed fingers on \#{target}'s hand \\n\\\\w[\\\\v[104]]and gently drew an X on it!"
+" placed fingers on \#{target}'s hand \\n\\\\w[\\\\v[104]]and softly drew an X on it!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の足に指を重ね、\\n\\\\w[\\\\v[104]]そっと×印を描いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/73:24
-" placed fingers on \#{target}'s foot \\n\\\\w[\\\\v[104]]and gently drew an X on it!"
+" placed fingers on \#{target}'s foot \\n\\\\w[\\\\v[104]]and softly drew an X on it!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の口に指を重ね、\\n\\\\w[\\\\v[104]]そっと×印を描いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/76:24
-" placed fingers on \#{target}'s mouth \\n\\\\w[\\\\v[104]]and gently drew an X on it!"
+" placed fingers on \#{target}'s mouth \\n\\\\w[\\\\v[104]]and softly drew an X on it!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}のペニスに指を重ね、\\n\\\\w[\\\\v[104]]そっと×印を描いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/79:24
-" placed fingers on \#{target}'s penis \\n\\\\w[\\\\v[104]]and gently drew an X on it!"
+" placed fingers on \#{target}'s penis \\n\\\\w[\\\\v[104]]and softly drew an X on it!"
 > END STRING
 
 > BEGIN STRING
@@ -15998,7 +15998,7 @@
 "\#{target}の\\n胸を激しく攻めた！"
 > CONTEXT: Scripts/RPG::Skill (message)/93:24
 > CONTEXT: Scripts/RPG::Skill (message)/560:24
-" attacked \\n\#{target}'s chest hard!"
+" attacked \\n\#{target}'s chest fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -16011,7 +16011,7 @@
 "\#{target}の\\nお尻を激しく攻めた！"
 > CONTEXT: Scripts/RPG::Skill (message)/96:24
 > CONTEXT: Scripts/RPG::Skill (message)/563:24
-" attacked \\n\#{target}'s ass hard!"
+" attacked \\n\#{target}'s ass fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -16033,7 +16033,7 @@
 > CONTEXT: Scripts/RPG::Skill (message)/111:24
 > CONTEXT: Scripts/RPG::Skill (message)/566:24
 > CONTEXT: Scripts/RPG::Skill (message)/578:24
-" caressed \\n\#{target}'s vagina hard!"
+" caressed \\n\#{target}'s vagina fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -16059,7 +16059,7 @@
 "\#{target}の\\n胸を激しく揉んだ！"
 > CONTEXT: Scripts/RPG::Skill (message)/105:24
 > CONTEXT: Scripts/RPG::Skill (message)/572:24
-" squeezed \\n\#{target}'s breasts hard!"
+" squeezed \\n\#{target}'s breasts fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -16078,7 +16078,7 @@
 "\#{target}の\\nお尻を激しく揉んだ！"
 > CONTEXT: Scripts/RPG::Skill (message)/108:24
 > CONTEXT: Scripts/RPG::Skill (message)/575:24
-" rubbed \\n\#{target}'s ass hard!"
+" rubbed \\n\#{target}'s ass fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -16117,7 +16117,7 @@
 > BEGIN STRING
 "さらに激しく\#{target}を攻めている！"
 > CONTEXT: Scripts/RPG::Skill (message)/120:24
-"attacked \#{target} even harder!"
+"attacked \#{target} even more fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -16330,7 +16330,7 @@
 "\#{myname}は激しく炎を燃やした！"
 > CONTEXT: Scripts/RPG::Skill (message)/175:18
 > CONTEXT: Scripts/RPG::Skill (message)/748:18
-"\#{myname} burned hard!"
+"\#{myname} burned fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -16521,7 +16521,7 @@
 > BEGIN STRING
 "エスプラーナは\#{target}をわしづかみにし、\\n\\\\w[\\\\v[104]]"
 > CONTEXT: Scripts/RPG::Skill (message)/239:18
-"Esplana grabbed and too \#{target}\\n\\\\w[\\\\v[104]]"
+"Esplana grabbed and took \#{target}\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -16776,7 +16776,7 @@
 > BEGIN STRING
 "\#{target}を激しく突いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/277:24
-" poked the target hard!"
+" poked \#{target} fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -17452,7 +17452,7 @@
 > BEGIN STRING
 "反り返り、激しく腰を振った！"
 > CONTEXT: Scripts/RPG::Skill (message)/380:24
-" arched her back and shook her hips hard!"
+" arched her back and shook her hips fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -18016,7 +18016,7 @@
 > BEGIN STRING
 "ドラゴンは激しく炎を吐いた！"
 > CONTEXT: Scripts/RPG::Skill (message)/448:18
-"The dragon breathed fire hard!"
+"The dragon breathed fire fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -18289,7 +18289,7 @@
 > BEGIN STRING
 "\#{target}の\\n胸を激しく揉みしだいた！"
 > CONTEXT: Scripts/RPG::Skill (message)/537:26
-" massaged \\n\#{target}'s breasts hard!"
+" massaged \\n\#{target}'s breasts fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -18307,7 +18307,7 @@
 > BEGIN STRING
 "\#{target}の\\nお尻を激しく揉みしだいた！"
 > CONTEXT: Scripts/RPG::Skill (message)/545:26
-" massaged \\n\#{target}'s ass hard!"
+" massaged \\n\#{target}'s ass fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -18325,7 +18325,7 @@
 > BEGIN STRING
 "\#{target}の\\nアソコを指で激しく愛撫した！"
 > CONTEXT: Scripts/RPG::Skill (message)/553:26
-" fingered \\n\#{target}'s vagina hard!"
+" fingered \\n\#{target}'s vagina fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -18474,7 +18474,7 @@
 "激しく腰を振っている！"
 > CONTEXT: Scripts/RPG::Skill (message)/650:24
 > CONTEXT: Scripts/RPG::Skill (message)/652:24
-" is shaking hips hard!"
+" is shaking hips fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -20533,7 +20533,7 @@
 > BEGIN STRING
 "服の上から\\n\\\\w[\\\\v[104]]そっと\#{target}のペニスをさすってきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/947:26
-" gently stroked \\n\\\\w[\\\\v[104]]\#{target}'s penis through clothes!"
+" softly stroked \\n\\\\w[\\\\v[104]]\#{target}'s penis through clothes!"
 > END STRING
 
 > BEGIN STRING
@@ -20623,7 +20623,7 @@
 "\#{target}のペニスを掴み、\\n\\\\w[\\\\v[104]]激しくしごいてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/959:26
 > CONTEXT: Scripts/RPG::Skill (message)/1145:26
-" grabbed \#{target}'s penis \\n\\\\w[\\\\v[104]]and started jerking him off hard!"
+" grabbed \#{target}'s penis \\n\\\\w[\\\\v[104]]and started jerking him off fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -20836,7 +20836,7 @@
 "\#{target}のペニスを胸ではさみ、\\n\\\\w[\\\\v[104]]激しくしごいてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1001:26
 > CONTEXT: Scripts/RPG::Skill (message)/1163:26
-" squeezed \#{target}'s penis between breasts \\n\\\\w[\\\\v[104]]and stroked it hard!"
+" squeezed \#{target}'s penis between breasts \\n\\\\w[\\\\v[104]]and stroked it fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -20864,14 +20864,14 @@
 "足で\#{target}のペニスを踏みつけ、\\n\\\\w[\\\\v[104]]激しくしごいてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1015:26
 > CONTEXT: Scripts/RPG::Skill (message)/1172:26
-" stepped on \#{target}'s penis \\n\\\\w[\\\\v[104]]and jerked it off hard!"
+" stepped on \#{target}'s penis \\n\\\\w[\\\\v[104]]and jerked it off fiercely!"
 > END STRING
 
 > BEGIN STRING
 "両足で\#{target}のペニスを挟み、\\n\\\\w[\\\\v[104]]激しくしごいてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1017:26
 > CONTEXT: Scripts/RPG::Skill (message)/1174:26
-" grabbed \#{target}'s penis between legs \\n\\\\w[\\\\v[104]]and started stroking it hard!"
+" grabbed \#{target}'s penis between legs \\n\\\\w[\\\\v[104]]and started stroking it fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -20908,7 +20908,7 @@
 "\#{target}に激しくキスしてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1035:26
 > CONTEXT: Scripts/RPG::Skill (message)/1041:26
-" kissed \#{target} hard!"
+" kissed \#{target} fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -20935,14 +20935,14 @@
 > BEGIN STRING
 "\#{target}の耳たぶに舌を這わせ、\\n\\\\w[\\\\v[104]]そっと息を吹きかけてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1047:24
-" ran tongue over \#{target}'s earlobe \\n\\\\w[\\\\v[104]]and gently blew on it!"
+" ran tongue over \#{target}'s earlobe \\n\\\\w[\\\\v[104]]and softly blew on it!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の指を咥え、\\n\\\\w[\\\\v[104]]丁寧にしゃぶってきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1048:24
 > CONTEXT: Scripts/RPG::Skill (message)/1053:24
-" took \#{target}'s finger in her mouth \\n\\\\w[\\\\v[104]]and sucked it gently!"
+" took \#{target}'s finger in her mouth \\n\\\\w[\\\\v[104]]and sucked it courteously!"
 > END STRING
 
 > BEGIN STRING
@@ -21028,7 +21028,7 @@
 > BEGIN STRING
 "\#{target}の首筋に\\nそっと息を吹きかけてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1081:24
-" gently blew \\non the back of \#{target}'s neck!"
+" softly blew \\non the back of \#{target}'s neck!"
 > END STRING
 
 > BEGIN STRING
@@ -21087,7 +21087,7 @@
 > BEGIN STRING
 "全身で\\n\#{target}を激しくをせめてきた！\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/1101:24
-" used her whole body \\nto attack \#{target} hard!\\n\\\\w[\\\\v[105]]"
+" used her whole body \\nto attack \#{target} fiercely!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -21099,65 +21099,65 @@
 > BEGIN STRING
 "\#{target}のペニスを掴み、\\n激しくしごいてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1104:24
-" grabbed \#{target}'s penis \\nand started jerking him off hard!"
+" grabbed \#{target}'s penis \\nand started jerking him off fiercely!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]指で激しく愛撫してきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1106:26
 > CONTEXT: Scripts/RPG::Skill (message)/1150:26
-" caressed \#{target}'s vagina hard\\n\\\\w[\\\\v[104]]with fingers!"
+" caressed \#{target}'s vagina fiercely\\n\\\\w[\\\\v[104]]with fingers!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}のペニスを口でくわえ、\\n激しくしごいてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1109:24
-" took \#{target}'s penis in mouth\\nand stroked it hard!"
+" took \#{target}'s penis in mouth\\nand stroked it fiercely!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]舌で激しく愛撫してきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1111:26
 > CONTEXT: Scripts/RPG::Skill (message)/1159:26
-" caressed \#{target}'s vagina hard \\n\\\\w[\\\\v[104]]by tongue!"
+" caressed \#{target}'s vagina fiercely \\n\\\\w[\\\\v[104]]by tongue!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}のペニスを胸ではさみ、\\n激しくしごいてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1114:24
-" squeezed \#{target}'s penis between breasts \\nand stroked it hard!"
+" squeezed \#{target}'s penis between breasts \\nand stroked it fiercely!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]胸で激しく愛撫してきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1116:26
 > CONTEXT: Scripts/RPG::Skill (message)/1168:26
-" caressed \#{target}'s vagina hard \\n\\\\w[\\\\v[104]]with breasts!"
+" caressed \#{target}'s vagina fiercely \\n\\\\w[\\\\v[104]]with breasts!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}のペニスを足で踏みつけ、\\n激しくしごいてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1119:24
-" stepped on \#{target}'s penis \\nand jerked it off hard!"
+" stepped on \#{target}'s penis \\nand jerked it off fiercely!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}のアソコを\\n\\\\w[\\\\v[104]]足で激しく愛撫してきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/1121:26
 > CONTEXT: Scripts/RPG::Skill (message)/1177:26
-" caressed \#{target}'s genitals hard \\n\\\\w[\\\\v[104]]with feet!"
+" caressed \#{target}'s genitals fiercely \\n\\\\w[\\\\v[104]]with feet!"
 > END STRING
 
 > BEGIN STRING
 "さらに激しく\\nペニスをしごき続けている！"
 > CONTEXT: Scripts/RPG::Skill (message)/1124:24
-" continues stroking the penis \\neven harder!"
+" continues stroking the penis \\neven more fiercely!"
 > END STRING
 
 > BEGIN STRING
 "さらに激しく\\nアソコを愛撫し続けている！"
 > CONTEXT: Scripts/RPG::Skill (message)/1126:26
-" continues caressing the vagina \\neven harder!"
+" continues caressing the vagina \\neven more fiercely!"
 > END STRING
 
 > BEGIN STRING
@@ -21205,7 +21205,7 @@
 > BEGIN STRING
 "口づけし、そっと牙を立てた！\\\\w[\\\\v[104]]　"
 > CONTEXT: Scripts/RPG::Skill (message)/1139:24
-"and kissed while gently bearing fangs!\\\\w[\\\\v[104]] "
+"and kissed while softly bearing fangs!\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
@@ -25936,99 +25936,99 @@
 
 > BEGIN STRING
 "ネルトゥプ島にあらわれた夢魔。エストの妹。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/70:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/70:7
+"Appeared on Neltup. Est's sister.\\n"
 > END STRING
 
 > BEGIN STRING
 "性格はワガママな子供そのものであり、欲しいものはどんなものでも"
-> CONTEXT: Scripts/☆図鑑用詳細データ/71:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/71:7
+"Acts like a spoiled child and always \\ngets whatever she wants.\\n"
 > END STRING
 
 > BEGIN STRING
 "必ず手に入れる。\\nネルトゥプにあった二つの国、お伽の国ラミエルと"
-> CONTEXT: Scripts/☆図鑑用詳細データ/72:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/72:7
+"Stripped away the existance of the two nations\\n"
 > END STRING
 
 > BEGIN STRING
 "魔物の国ドルヌスはその存在を時間ごと奪われ、結果全ての『歴史』を"
-> CONTEXT: Scripts/☆図鑑用詳細データ/73:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/73:7
+"in Neltup, Lamiel and Dornus, and so,\\n"
 > END STRING
 
 > BEGIN STRING
 "失ってしまった。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/74:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/74:7
+"all of their 'history' was lost."
 > END STRING
 
 > BEGIN STRING
 "ヨーロッパ伝承\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/78:14 < UNTRANSLATED
-> CONTEXT: Scripts/☆図鑑用詳細データ/88:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/78:14
+> CONTEXT: Scripts/☆図鑑用詳細データ/88:14
+"European Legend\\n"
 > END STRING
 
 > BEGIN STRING
 "ヨーロッパ各地で見られる、人に悪さを働く小さな妖精。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/79:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/79:7
+"A small fairy found all over Europe,\\ncausing trouble to people. "
 > END STRING
 
 > BEGIN STRING
 "洞窟や鉱山の地下など、暗がりに好んで棲む。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/80:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/80:7
+"Likes living in dark places\\nsuch as caves and underground mines.\\n"
 > END STRING
 
 > BEGIN STRING
 "人間に対して敵対的であり、他の妖精と比べ悪質なイタズラをしばしば働く。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/81:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/81:7
+"Hostile towards humans and often play \\nmalicious pranks on them than other fairies.\\n"
 > END STRING
 
 > BEGIN STRING
 "人の家に住み着くこともあり、その際牛乳容れに木っ端を投げ込む。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/82:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/82:7
+"Sometimes take up residence in people's houses,\\nthrowing pieces of wood into their milk jugs.\\n"
 > END STRING
 
 > BEGIN STRING
 "すぐに片付ければ他の家に行くが、さもなければ毎日ゴブリンのイタズラを"
-> CONTEXT: Scripts/☆図鑑用詳細データ/83:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/83:7
+"If you clean it right away, she'll go to another house,\\n"
 > END STRING
 
 > BEGIN STRING
 "受けることになる。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/84:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/84:7
+"but otherwise you'll be pranked by goblins every day."
 > END STRING
 
 > BEGIN STRING
 "額に美しい一本の角を持つ、白馬の姿をした幻獣。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/89:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/89:7
+"A mythical beast in the shape of a white horse\\nwith a beautiful horn on her forehead.\\n"
 > END STRING
 
 > BEGIN STRING
 "その名も「一本の角」を意味する。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/90:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/90:7
+"The name means 'one horn'. "
 > END STRING
 
 > BEGIN STRING
 "優美な外見に反し性格はどう猛だが、処女にだけは心を許すと伝えられている。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/91:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/91:7
+"Although her graceful \\nappearance contradicts her ferocious personality,\\nshe is said to only open up to virgins.\\n"
 > END STRING
 
 > BEGIN STRING
 "その角には限りない薬効があり、蛇毒や夜の毒気を払う。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/92:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/92:7
+"Her horn has endless medicinal properties, \\nand can ward off snake venom and nighttime poison."
 > END STRING
 
 > BEGIN STRING
@@ -26075,92 +26075,92 @@
 
 > BEGIN STRING
 "Soldier. 兵士、兵卒。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/107:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/107:7
+""
 > END STRING
 
 > BEGIN STRING
 "お伽の国ラミエルの女兵士。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/108:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/108:7
+"Female soldier from the fairy tale land of Lamiel.\\n"
 > END STRING
 
 > BEGIN STRING
 "以前はドルヌスとの戦いに明け暮れる毎日であったため、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/109:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/109:7
+"Before, her days were spent fighting Dornus, \\nso even as a succubus,\\n"
 > END STRING
 
 > BEGIN STRING
 "夢魔になっても性の技巧は決して高くない。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/110:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/110:7
+"her sexual skills were never that high.\\n"
 > END STRING
 
 > BEGIN STRING
 "しかし強気な性格と高いプライドもそのままであり、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/111:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/111:7
+"But her aggressive personality and pride remain the same,\\n"
 > END STRING
 
 > BEGIN STRING
 "なかなか扱いにくい。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/112:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/112:7
+"making her quite difficult to handle.\\n"
 > END STRING
 
 > BEGIN STRING
 "なぜ夢魔になってしまったのだろうか。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/113:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/113:7
+"Why did she become a succubus?"
 > END STRING
 
 > BEGIN STRING
 "Prophetess. 女予言者、女預言者。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/118:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/118:7
+""
 > END STRING
 
 > BEGIN STRING
 "お伽の国ラミエルの予言士。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/119:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/119:7
+"Prophetess of the fairy tale land Lamiel.\\n"
 > END STRING
 
 > BEGIN STRING
 "今日のラッキーカラーから国の行く末まで占い、予言する。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/120:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/120:7
+"Tells fortunes from lucky colors to the country's future.\\n"
 > END STRING
 
 > BEGIN STRING
 "未来を直接知るのではなく、逆に人の運命を無意識のうちに"
-> CONTEXT: Scripts/☆図鑑用詳細データ/121:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/121:7
+"Rather than knowing the future, excels at subconsciously\\n"
 > END STRING
 
 > BEGIN STRING
 "自分の予言に従わせることを得意とする。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/122:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/122:7
+"making people's fates conform to her predictions.\\n"
 > END STRING
 
 > BEGIN STRING
 "自分自身がより無意識に近づいたことで、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/123:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/123:7
+"That ability becomes stronger "
 > END STRING
 
 > BEGIN STRING
 "その能力が一層強まった。\\n"
-> CONTEXT: Scripts/☆図鑑用詳細データ/124:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/124:7
+"when closer to unconciousness.\\n"
 > END STRING
 
 > BEGIN STRING
 "夢魔になり何をするつもりだったのだろうか。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/125:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/125:7
+"What was her plan becoming a succubus?"
 > END STRING
 
 > BEGIN STRING
@@ -26196,7 +26196,7 @@
 > BEGIN STRING
 "その戦闘能力は群を抜き、ラミエルの新兵たちの憧れになっている。\\n"
 > CONTEXT: Scripts/☆図鑑用詳細データ/135:7
-"Envied by new recruits due to her outstanding combat abilities.\\n"
+"Envied by new recruits \\ndue to her outstanding combat abilities.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -26582,44 +26582,44 @@
 
 > BEGIN STRING
 "冥府の入り口を守る番犬。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/197:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/197:12
+"A guard dog of the underworld entrance."
 > END STRING
 
 > BEGIN STRING
 "その尾は蛇、胴体は獅子であり、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/198:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/198:12
+"Has the tail of a snake, body of a lion,"
 > END STRING
 
 > BEGIN STRING
 "首は三つ（一説では五十とも）ついている。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/199:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/199:12
+"and three heads (some say fifty)."
 > END STRING
 
 > BEGIN STRING
 "巨人テュポーンと蛇神エキドナの子。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/200:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/200:12
+"Child of the giant Typhon and serpent god Echidna."
 > END STRING
 
 > BEGIN STRING
 "実は甘いものを好むとされ、古代ギリシャでは"
-> CONTEXT: Scripts/☆図鑑用詳細データ/201:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/201:12
+"Said to have a sweet tooth, and in ancient Greece,"
 > END STRING
 
 > BEGIN STRING
 "死者の埋葬の際、ケルベロス避けとして"
-> CONTEXT: Scripts/☆図鑑用詳細データ/202:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/202:12
+"when the dead were buried, a cake of poppy and honey"
 > END STRING
 
 > BEGIN STRING
 "芥子と蜂蜜のケーキを棺に入れていた。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/203:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/203:12
+"was placed in the coffin to ward off Cerberus."
 > END STRING
 
 > BEGIN STRING
@@ -26650,38 +26650,38 @@
 
 > BEGIN STRING
 "「帽子屋」、「眠り鼠」と共に"
-> CONTEXT: Scripts/☆図鑑用詳細データ/211:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/211:12
+"The March Hare was having a tea party"
 > END STRING
 
 > BEGIN STRING
 "ティーパーティーを開いていた「三月兎」。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/212:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/212:12
+"with the Mad Hatter and the Sleeping Mouse."
 > END STRING
 
 > BEGIN STRING
 "いつまでも時計がお茶の時間であるゆえに"
-> CONTEXT: Scripts/☆図鑑用詳細データ/213:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/213:12
+"Just like the tea party that never ends"
 > END STRING
 
 > BEGIN STRING
 "終わらないティーパーティーと同様、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/214:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/214:12
+"because the clock never stops telling her"
 > END STRING
 
 > BEGIN STRING
 "彼女もいつまでも「三月の兎のように」"
-> CONTEXT: Scripts/☆図鑑用詳細データ/215:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/215:12
+"it's tea time, she will forever be mad"
 > END STRING
 
 > BEGIN STRING
 "気が狂っているのだろう。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/216:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/216:12
+"like the March Hare."
 > END STRING
 
 > BEGIN STRING
@@ -26696,80 +26696,80 @@
 
 > BEGIN STRING
 "鎌倉時代から江戸時代にかけて"
-> CONTEXT: Scripts/☆図鑑用詳細データ/219:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/219:12
+"Those who were said to have carried out"
 > END STRING
 
 > BEGIN STRING
 "諜報・暗殺などの活動を行ったとされる"
-> CONTEXT: Scripts/☆図鑑用詳細データ/220:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/220:12
+"espionages and assassinations from the Kamakura period"
 > END STRING
 
 > BEGIN STRING
 "集団をニンジャと呼び、女性のニンジャを"
-> CONTEXT: Scripts/☆図鑑用詳細データ/221:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/221:12
+"to the Edo period are called ninjas,"
 > END STRING
 
 > BEGIN STRING
 "クノイチと呼ぶ。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/222:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/222:12
+"and female ninja are called kunoichi."
 > END STRING
 
 > BEGIN STRING
 "忍術、護身術に加え、男性へは女性の武器を"
-> CONTEXT: Scripts/☆図鑑用詳細データ/223:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/223:12
+"In addition to ninjutsu and self-defense techniques,"
 > END STRING
 
 > BEGIN STRING
 "活用して相対したと言われている。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/224:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/224:12
+"it is said they used weapons to confront men."
 > END STRING
 
 > BEGIN STRING
 "初芽局。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/227:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/227:12
+"Hatsume no Tsubone."
 > END STRING
 
 > BEGIN STRING
 "江戸時代、徳川家康が政敵石田光成に"
-> CONTEXT: Scripts/☆図鑑用詳細データ/228:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/228:12
+"Kunoichi sent by Tokugawa Ieyasu to his political enemy,"
 > END STRING
 
 > BEGIN STRING
 "送り込んだクノイチ。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/229:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/229:12
+"Ishida Mitsunari during the Edo period."
 > END STRING
 
 > BEGIN STRING
 "しかしそのまま石田光成に寝返ったと"
-> CONTEXT: Scripts/☆図鑑用詳細データ/230:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/230:12
+"However she's said to have switched sides"
 > END STRING
 
 > BEGIN STRING
 "されている。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/231:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/231:12
+"to support Mitsunari Ishida."
 > END STRING
 
 > BEGIN STRING
 "一味違うミミック。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/234:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/234:12
+"A slightly different mimic."
 > END STRING
 
 > BEGIN STRING
 "違いが分かる人には分かるらしい。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/235:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/235:12
+"Those who know the difference can tell the difference."
 > END STRING
 
 > BEGIN STRING
@@ -27938,44 +27938,44 @@
 
 > BEGIN STRING
 "家の守護妖精の一種。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/480:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/480:12
+"Home guarding fairy."
 > END STRING
 
 > BEGIN STRING
 "家の者の死が近づくと"
-> CONTEXT: Scripts/☆図鑑用詳細データ/481:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/481:12
+"When a family member's death approaches"
 > END STRING
 
 > BEGIN STRING
 "泣きまわってそれを知らせる。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/482:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/482:12
+"she cries to let them know."
 > END STRING
 
 > BEGIN STRING
 "その家系の亡霊、特に若くして死んだ"
-> CONTEXT: Scripts/☆図鑑用詳細データ/483:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/483:12
+"Said to be a ghost from that family,"
 > END STRING
 
 > BEGIN STRING
 "美しい乙女であるとされる。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/484:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/484:12
+"a beautiful maiden who died young."
 > END STRING
 
 > BEGIN STRING
 "泣きはらして真っ赤な目と、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/485:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/485:12
+"Has red eyes from crying,"
 > END STRING
 
 > BEGIN STRING
 "流れるような長髪を持つ。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/486:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/486:12
+"and long, flowing hair."
 > END STRING
 
 > BEGIN STRING
@@ -28673,26 +28673,26 @@
 
 > BEGIN STRING
 "最初の犠牲者を探して夢をさまよっている。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/628:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/628:12
+"Wanders dreams in search of her first victim."
 > END STRING
 
 > BEGIN STRING
 "女性が夢魔に犯された場合、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/631:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/631:12
+"A woman violated by a succubus"
 > END STRING
 
 > BEGIN STRING
 "その女性も夢魔になってしまう。"
-> CONTEXT: Scripts/☆図鑑用詳細データ/632:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/632:12
+"becomes a succubus herself."
 > END STRING
 
 > BEGIN STRING
 "彼女はまだ夢魔になって間もなく、"
-> CONTEXT: Scripts/☆図鑑用詳細データ/633:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆図鑑用詳細データ/633:12
+"Due to only just becoming a succubus,"
 > END STRING
 
 > BEGIN STRING
