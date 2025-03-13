@@ -1,6 +1,6 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 SuccubusQuest短編
-> CONTEXT: GameINI/Title < UNTRANSLATED
-
+> CONTEXT: GameINI/Title
+Succubus Quest - Short Story
 > END STRING
