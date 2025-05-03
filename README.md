@@ -1,5 +1,5 @@
 # Succubus and the Blank Book translation project.
-Partially edited MTL, partially manual translation using a combination of many tools and basic understanding of Japanese, and a lot of cross-checking for names and references.
+Line by line translation using a combination of various MTL tools, basic understanding of Japanese, and a lot of cross-checking for names and references.
 Feel free to report issues and provide feedback either here in the Issues section, the F95/ULMF thread or wherever you see me.
 
 ### Original work by SQDT. The official game is required to apply this patch.
