@@ -24592,6 +24592,7 @@
 > BEGIN STRING
 "\\\\m[\#{self.id}]\\\\c[3]\#{self_name}\\\\c[0] から\\n"
 > CONTEXT: Scripts/防具付加効果関係/232:14
+"Negative effect(s) removed!"
 > CONTEXT: Scripts/防具付加効果関係/265:14
 "\\\\c[\#{fcolor}]\#{state_name}\\\\c[0] was removed\\n"
 > END STRING
@@ -24599,7 +24600,7 @@
 > BEGIN STRING
 "ネガティブ効果を取り除いた！"
 > CONTEXT: Scripts/防具付加効果関係/233:7
-"Negative effect removed!"
+"from \\\\m[\#{self.id}]\\\\c[3]\#{self_name}\\\\c[0]!"
 > END STRING
 
 > BEGIN STRING
